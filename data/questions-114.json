@@ -3,7 +3,7 @@
     "id": 1,
     "type": "single",
     "passage": null,
-    "question": "Look at the picture. A is flying over the houses.",
+    "question": "Look at the picture. A ____ is flying over the houses.",
     "options": {
       "A": "bird",
       "B": "butterfly",
@@ -16,7 +16,7 @@
     "id": 2,
     "type": "single",
     "passage": null,
-    "question": "When I was a teenager, I was very . But now, it’s easier for me to talk to people.",
+    "question": "When I was a teenager, I was very ____ .  But now, it’s easier for me to talk to people.",
     "options": {
       "A": "happy",
       "B": "lazy",
@@ -29,7 +29,7 @@
     "id": 3,
     "type": "single",
     "passage": null,
-    "question": "Lena doesn’t want to go with John because she is afraid of water.",
+    "question": "Lena doesn’t want to go ____ with John because she is afraid of water.",
     "options": {
       "A": "dancing",
       "B": "hiking",
@@ -42,7 +42,7 @@
     "id": 4,
     "type": "single",
     "passage": null,
-    "question": "Cindy enjoys her dad read stories to her before bed.",
+    "question": "Cindy enjoys ____ her dad read stories to her before bed.",
     "options": {
       "A": "to listen to",
       "B": "listening to",
@@ -55,7 +55,7 @@
     "id": 5,
     "type": "single",
     "passage": null,
-    "question": "Dad is busy cooking in the kitchen. Dinner will be in ten minutes.",
+    "question": "Dad is busy cooking in the kitchen.  Dinner will be ____ in ten minutes.",
     "options": {
       "A": "free",
       "B": "full",
@@ -68,7 +68,7 @@
     "id": 6,
     "type": "single",
     "passage": null,
-    "question": "There are so many new in the office. It’ll take me some time to remember who is who.",
+    "question": "There are so many new ____ in the office.  It’ll take me some time to remember who is who.",
     "options": {
       "A": "faces",
       "B": "ideas",
@@ -81,7 +81,7 @@
     "id": 7,
     "type": "single",
     "passage": null,
-    "question": "I feel like a . I was looking for my keys for hours but they have been in my pocket the whole time.",
+    "question": "I feel like a ____ .  I was looking for my keys for hours but they have been in my pocket the whole time.",
     "options": {
       "A": "fool",
       "B": "ghost",
@@ -94,7 +94,7 @@
     "id": 8,
     "type": "single",
     "passage": null,
-    "question": "Mr. and Mrs. Wu have three daughters. Two are in high school, and is in elementary school.",
+    "question": "Mr. and Mrs. Wu have three daughters.  Two are in high school, and ____ is in elementary school.",
     "options": {
       "A": "each",
       "B": "the other",
@@ -107,7 +107,7 @@
     "id": 9,
     "type": "single",
     "passage": null,
-    "question": "It is hard for trees to along this beach because of the strong winds from the sea.",
+    "question": "It is hard for trees to ____ along this beach because of the strong winds from the sea.",
     "options": {
       "A": "blow",
       "B": "build",
@@ -120,7 +120,7 @@
     "id": 10,
     "type": "single",
     "passage": null,
-    "question": "Christmas and I want to visit my aunt abroad. Do you have any plans yet?",
+    "question": "Christmas ____ and I want to visit my aunt abroad.  Do you have any plans yet?",
     "options": {
       "A": "came",
       "B": "comes",
@@ -133,7 +133,7 @@
     "id": 11,
     "type": "single",
     "passage": null,
-    "question": "Jo won’t be happy if you’re late for his party tonight, so sure that you arrive on time.",
+    "question": "Jo won’t be happy if you’re late for his party tonight, so ____ sure that you arrive on time.",
     "options": {
       "A": "make",
       "B": "makes",
@@ -146,7 +146,7 @@
     "id": 12,
     "type": "single",
     "passage": null,
-    "question": "You may have a long drive because of the terrible . There are usually a lot of cars and buses during this time.",
+    "question": "You may have a long drive because of the terrible ____ .  There are usually a lot of cars and buses during this time.",
     "options": {
       "A": "experience",
       "B": "machine",
@@ -159,7 +159,7 @@
     "id": 13,
     "type": "single",
     "passage": null,
-    "question": "In the future, there will be greater basketball players than Stephen Curry, but now we believe he is the best!",
+    "question": "In the future, there will ____ be greater basketball players than Stephen Curry, but now we believe he is the best!",
     "options": {
       "A": "again",
       "B": "already",
@@ -172,7 +172,7 @@
     "id": 14,
     "type": "single",
     "passage": null,
-    "question": "I guess the rainwater has come in from the kitchen. See? of the windows are closed except the one in the kitchen.",
+    "question": "I guess the rainwater has come in from the kitchen.  See? ____ of the windows are closed except the one in the kitchen.",
     "options": {
       "A": "All",
       "B": "Both",
@@ -198,7 +198,7 @@
     "id": 16,
     "type": "single",
     "passage": null,
-    "question": "There are online videos that teach you exercises you can do at home. They’ll you a trip to the gym, and some money too.",
+    "question": "There are online videos that teach you exercises you can do at home.  They’ll ____ you a trip to the gym, and some money too.",
     "options": {
       "A": "cost",
       "B": "give",
@@ -211,7 +211,7 @@
     "id": 17,
     "type": "single",
     "passage": null,
-    "question": "Jane’s parents are always happy to see their grandchildren, but mine less so when I visit them with my kids.",
+    "question": "Jane’s parents are always happy to see their grandchildren, but mine ____ less so when I visit them with my kids.",
     "options": {
       "A": "is",
       "B": "are",
@@ -224,7 +224,7 @@
     "id": 18,
     "type": "single",
     "passage": null,
-    "question": "Before she about it, you should tell Daphne you broke her favorite cup.",
+    "question": "Before she ____ about it, you should tell Daphne you broke her favorite cup.",
     "options": {
       "A": "asks",
       "B": "asked",
