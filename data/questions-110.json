@@ -1,0 +1,527 @@
+[
+  {
+    "id": 1,
+    "type": "single",
+    "passage": null,
+    "question": "In the picture, the boy is the old man.",
+    "options": {
+      "A": "smiling at",
+      "B": "dancing with",
+      "C": "cheering for",
+      "D": "bowing to"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 2,
+    "type": "single",
+    "passage": null,
+    "question": "Listen! The baby in the bedroom. Why don’t you go in and take a look?",
+    "options": {
+      "A": "cried",
+      "B": "cries",
+      "C": "is crying",
+      "D": "will cry"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 3,
+    "type": "single",
+    "passage": null,
+    "question": "Jill is that the city park is closed for the music festival because now she can’t jog there.",
+    "options": {
+      "A": "excited",
+      "B": "proud",
+      "C": "scared",
+      "D": "unhappy"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 4,
+    "type": "single",
+    "passage": null,
+    "question": "Steven wants to be a , because he loves to watch people enjoy the food he prepares.",
+    "options": {
+      "A": "cook",
+      "B": "doctor",
+      "C": "driver",
+      "D": "farmer"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 5,
+    "type": "single",
+    "passage": null,
+    "question": "Paul misses his parents a lot. He them since he came to work in Taiwan a year ago.",
+    "options": {
+      "A": "didn’t see",
+      "B": "doesn’t see",
+      "C": "hasn’t seen",
+      "D": "won’t see"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "type": "single",
+    "passage": null,
+    "question": "Our teacher Ms. Wu seldom laughs, but when she , everyone in the same building can hear her.",
+    "options": {
+      "A": "can",
+      "B": "does",
+      "C": "has",
+      "D": "will"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "type": "single",
+    "passage": null,
+    "question": "My sister is coming to my home today. She with me for a week.",
+    "options": {
+      "A": "stays",
+      "B": "stayed",
+      "C": "has stayed",
+      "D": "will stay"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 8,
+    "type": "single",
+    "passage": null,
+    "question": "Edward had worked as a computer engineer for ten years. This helped him a lot when he started his own computer shop.",
+    "options": {
+      "A": "chance",
+      "B": "experience",
+      "C": "hobby",
+      "D": "knowledge"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "type": "single",
+    "passage": null,
+    "question": "If you’re interested in our business plan, this number and ask for Ms. Lee. She’ll answer your questions.",
+    "options": {
+      "A": "calling",
+      "B": "call",
+      "C": "and call",
+      "D": "to call"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "type": "single",
+    "passage": null,
+    "question": "Jimmy would not get up for breakfast, his dad had already tried to pull him from his bed several times.",
+    "options": {
+      "A": "although",
+      "B": "because",
+      "C": "if",
+      "D": "until"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 11,
+    "type": "single",
+    "passage": null,
+    "question": "Duncan spent all his money trying to the bookstore his mom left him. Sadly, the business never got better, and he had to close it in the end.",
+    "options": {
+      "A": "build",
+      "B": "buy",
+      "C": "save",
+      "D": "start"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 12,
+    "type": "single",
+    "passage": null,
+    "question": "Fiona loves listening to her children sing songs at school.",
+    "options": {
+      "A": "are learned",
+      "B": "that learned",
+      "C": "they learned",
+      "D": "that they are learned"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "type": "single",
+    "passage": null,
+    "question": "Beverly eats lots of snacks meals. That’s why she is often too full to eat anything at mealtimes.",
+    "options": {
+      "A": "after",
+      "B": "between",
+      "C": "during",
+      "D": "from"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "type": "single",
+    "passage": null,
+    "question": "Nora: Can I check your drawer for some tools we can use? Matt: Sure. Take a look. See if you can find in there.",
+    "options": {
+      "A": "any",
+      "B": "it",
+      "C": "others",
+      "D": "those"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 15,
+    "type": "passage",
+    "passage": "We’ve prepared many wonderful surprises for you at e-BeautiMed, BeautiMed’s\n    online store!\n\n    Surprise 1      Join “BeautiMed Friend” online for free and get 2000\n                    BeautiMed points!\n\n    Surprise 2      Already a “BeautiMed Friend” ? Come collect your free\n                    gift by entering your “BeautiMed Friend” card number at\n                    e-BeautiMed before 8/31.\n\n    Surprise 3      Get 500 BeautiMed points by shopping at e-BeautiMed and\n                    you’ll get 500 more points if you spend more than $1,000.\n\n    Surprise 4      Shop at e-BeautiMed during 7/1-8/31 and you may win $5,000\n                    or free movie tickets!\n\n    Surprise 5      Invite a friend to join “BeautiMed Friend” and you both can\n                    get 1000 points each!\n\n                                                                     enter 輸入",
+    "question": "What is this ad for?",
+    "options": {
+      "A": "Teaching people how to use their BeautiMed points.",
+      "B": "Telling people they can shop at BeautiMed on the Internet now.",
+      "C": "Inviting people to share their shopping experience at e-BeautiMed.",
+      "D": "Letting people know what is on sale at e-BeautiMed from 7/1 to 8/31."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "type": "passage",
+    "passage": "We’ve prepared many wonderful surprises for you at e-BeautiMed, BeautiMed’s\n    online store!\n\n    Surprise 1      Join “BeautiMed Friend” online for free and get 2000\n                    BeautiMed points!\n\n    Surprise 2      Already a “BeautiMed Friend” ? Come collect your free\n                    gift by entering your “BeautiMed Friend” card number at\n                    e-BeautiMed before 8/31.\n\n    Surprise 3      Get 500 BeautiMed points by shopping at e-BeautiMed and\n                    you’ll get 500 more points if you spend more than $1,000.\n\n    Surprise 4      Shop at e-BeautiMed during 7/1-8/31 and you may win $5,000\n                    or free movie tickets!\n\n    Surprise 5      Invite a friend to join “BeautiMed Friend” and you both can\n                    get 1000 points each!\n\n                                                                     enter 輸入",
+    "question": "What will NOT get you BeautiMed points?",
+    "options": {
+      "A": "Shopping at e-BeautiMed.",
+      "B": "Joining “BeautiMed Friend” online.",
+      "C": "Inviting a friend to join “BeautiMed Friend.”",
+      "D": "Entering the “BeautiMed Friend” card number."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 17,
+    "type": "passage",
+    "passage": "Joey: Lynn, have you tried Caldron? I’ve heard that restaurant is good.\n Lynn: I have. I went there once for Tom’s party.\n Joey: And?\n Lynn: Well, I never thought I would have to cook for myself when eating out.\n Joey: But it’s fun to cook your own food.\n Lynn: I don’t see any fun in that. Besides, I want nice food.\n Joey: So you didn’t like the food there?\n Lynn: Everything tasted the same. I mean, they were all cooked in the same boiling\n       pot. How could they taste different? I just kept throwing strange things into\n       the pot. I didn’t even know what half the things were made of.\n Joey: Don’t worry. Everything should be safe to eat after a hot bath in the pot.\n       And you didn’t get sick after that, right? Besides, you tried something\n       different there. Still a good experience, I think?\n Lynn: I don’t think we share the same idea of good experiences.",
+    "question": "Lynn took some photos at Tom’s party. Which is most likely one of them?",
+    "options": {
+      "B": " likely 可能"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "type": "passage",
+    "passage": "Joey: Lynn, have you tried Caldron? I’ve heard that restaurant is good.\n Lynn: I have. I went there once for Tom’s party.\n Joey: And?\n Lynn: Well, I never thought I would have to cook for myself when eating out.\n Joey: But it’s fun to cook your own food.\n Lynn: I don’t see any fun in that. Besides, I want nice food.\n Joey: So you didn’t like the food there?\n Lynn: Everything tasted the same. I mean, they were all cooked in the same boiling\n       pot. How could they taste different? I just kept throwing strange things into\n       the pot. I didn’t even know what half the things were made of.\n Joey: Don’t worry. Everything should be safe to eat after a hot bath in the pot.\n       And you didn’t get sick after that, right? Besides, you tried something\n       different there. Still a good experience, I think?\n Lynn: I don’t think we share the same idea of good experiences.",
+    "question": "What can we learn about Lynn from the dialogue?",
+    "options": {
+      "A": "She does not cook.",
+      "B": "She likes to try new food.",
+      "C": "She did not enjoy the food at Caldron.",
+      "D": "She changed Joey’s idea about Caldron."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 19,
+    "type": "passage",
+    "passage": "Below is a page from Katie’s diary.\n     Dear Diary,                                       June 7, 2011\n           I was very sad to hear what happened to Woollie yesterday.\n     Woollie was my favorite sheep. I have a storybook about Woollie.\n     It says when Woollie was four, he ran away from Mr. Armstrong’s\n     farm, and it took Mr. Armstrong six years to find Woollie. But\n     Woollie had grown so much fleece that he didn’t even look like a\n     sheep. Mr. Armstrong decided to cut his fleece on TV so everyone\n     could see. Daddy said this happened on the day I was born.\n     Woollie’s fleece weighed 27 kg, and could make clothes for 20 large\n     men. I asked Daddy if his favorite vest was made from Woollie’s\n     fleece. Daddy said no, because Woollie’s fleece was sold to collect\n     money for sick kids. In the storybook, Woollie was taken to see\n     Ms. Stella Clark, the leader of our city then. They even had tea\n     together. Daddy said Woollie did meet Ms. Clark, but he wasn’t\n     sure if they had tea. Daddy said Woollie was put down because he\n     was too sick and there was no way to help him. I cried. I hope\n     Woollie will be happy up there in the sky.\n\n                                                        fleece 羊毛 weigh 重達",
+    "question": "What do we know about Woollie from Katie’s diary?",
+    "options": {
+      "A": "Woollie was older than Katie.",
+      "B": "Woollie was taken to visit sick kids.",
+      "C": "Woollie was sick when he ran away.",
+      "D": "Woollie looked strange without his fleece."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 20,
+    "type": "passage",
+    "passage": "Below is a page from Katie’s diary.\n     Dear Diary,                                       June 7, 2011\n           I was very sad to hear what happened to Woollie yesterday.\n     Woollie was my favorite sheep. I have a storybook about Woollie.\n     It says when Woollie was four, he ran away from Mr. Armstrong’s\n     farm, and it took Mr. Armstrong six years to find Woollie. But\n     Woollie had grown so much fleece that he didn’t even look like a\n     sheep. Mr. Armstrong decided to cut his fleece on TV so everyone\n     could see. Daddy said this happened on the day I was born.\n     Woollie’s fleece weighed 27 kg, and could make clothes for 20 large\n     men. I asked Daddy if his favorite vest was made from Woollie’s\n     fleece. Daddy said no, because Woollie’s fleece was sold to collect\n     money for sick kids. In the storybook, Woollie was taken to see\n     Ms. Stella Clark, the leader of our city then. They even had tea\n     together. Daddy said Woollie did meet Ms. Clark, but he wasn’t\n     sure if they had tea. Daddy said Woollie was put down because he\n     was too sick and there was no way to help him. I cried. I hope\n     Woollie will be happy up there in the sky.\n\n                                                        fleece 羊毛 weigh 重達",
+    "question": "Which picture of Woollie and Ms. Clark did Katie talk about in her diary?",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 21,
+    "type": "passage",
+    "passage": "Below is a page from Katie’s diary.\n     Dear Diary,                                       June 7, 2011\n           I was very sad to hear what happened to Woollie yesterday.\n     Woollie was my favorite sheep. I have a storybook about Woollie.\n     It says when Woollie was four, he ran away from Mr. Armstrong’s\n     farm, and it took Mr. Armstrong six years to find Woollie. But\n     Woollie had grown so much fleece that he didn’t even look like a\n     sheep. Mr. Armstrong decided to cut his fleece on TV so everyone\n     could see. Daddy said this happened on the day I was born.\n     Woollie’s fleece weighed 27 kg, and could make clothes for 20 large\n     men. I asked Daddy if his favorite vest was made from Woollie’s\n     fleece. Daddy said no, because Woollie’s fleece was sold to collect\n     money for sick kids. In the storybook, Woollie was taken to see\n     Ms. Stella Clark, the leader of our city then. They even had tea\n     together. Daddy said Woollie did meet Ms. Clark, but he wasn’t\n     sure if they had tea. Daddy said Woollie was put down because he\n     was too sick and there was no way to help him. I cried. I hope\n     Woollie will be happy up there in the sky.\n\n                                                        fleece 羊毛 weigh 重達",
+    "question": "What happened when Woollie was put down?",
+    "options": {
+      "A": "He was sold.",
+      "B": "He couldn’t be found.",
+      "C": "He died.",
+      "D": "He became famous."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 22,
+    "type": "passage",
+    "passage": "Here’s The Piano Lesson, one of Henri\n  Matisse’s most famous paintings. The boy in\n  the picture is the painter’s son, Pierre. In the\n  picture, Pierre looks quite serious. Why? Well,\n  look at the yellow candle on the red piano. It’s\n  almost burned down. So maybe Pierre has\n  already practiced for hours. And Matisse uses a\n  lot of gray, not a very fun color, right? It shows\n  how the poor kid feels, don’t you think?\n        On the top right corner, you can see a woman\n  sitting straight on a seat. Is she Pierre’s piano\n  teacher? Or his mother? Well, if you’re a\n  Matisse fan, you’ll know this is in fact another\n  painting by him, Woman on a High Stool. Interesting, right? Matisse likes to do that\n  a lot.  In fact, there’s another work by Matisse in the picture.  Did you find it?  Right!  \n  The sculpture on the bottom left corner!\n        Matisse painted this picture in 1916. Pierre was already 16 then, but the artist\n                               painted his son much younger than he really was. Pierre\n                               had gone away to be a soldier, and Matisse didn’t know\n                               whether he would come back. Maybe this is a worried\n                               father’s way to remember the good old days.\n\n                                                                       sculpture 雕像",
+    "question": "What can we learn about The Piano Lesson from the reading?",
+    "options": {
+      "A": "Matisse painted it when his son was away from home.",
+      "B": "The woman who sits on a seat behind the boy is his mother.",
+      "C": "Matisse uses yellow and red to show that his son was happy.",
+      "D": "The candle on the piano shows that the piano lesson has just begun."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 23,
+    "type": "passage",
+    "passage": "Here’s The Piano Lesson, one of Henri\n  Matisse’s most famous paintings. The boy in\n  the picture is the painter’s son, Pierre. In the\n  picture, Pierre looks quite serious. Why? Well,\n  look at the yellow candle on the red piano. It’s\n  almost burned down. So maybe Pierre has\n  already practiced for hours. And Matisse uses a\n  lot of gray, not a very fun color, right? It shows\n  how the poor kid feels, don’t you think?\n        On the top right corner, you can see a woman\n  sitting straight on a seat. Is she Pierre’s piano\n  teacher? Or his mother? Well, if you’re a\n  Matisse fan, you’ll know this is in fact another\n  painting by him, Woman on a High Stool. Interesting, right? Matisse likes to do that\n  a lot.  In fact, there’s another work by Matisse in the picture.  Did you find it?  Right!  \n  The sculpture on the bottom left corner!\n        Matisse painted this picture in 1916. Pierre was already 16 then, but the artist\n                               painted his son much younger than he really was. Pierre\n                               had gone away to be a soldier, and Matisse didn’t know\n                               whether he would come back. Maybe this is a worried\n                               father’s way to remember the good old days.\n\n                                                                       sculpture 雕像",
+    "question": "What does do that mean in the reading?",
+    "options": {
+      "A": "Put his family in his paintings.",
+      "B": "Paint to remember the good old days.",
+      "C": "Use a lot of fun colors in his art works.",
+      "D": "Put his earlier art work in a new painting."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 24,
+    "type": "passage",
+    "passage": "Here’s The Piano Lesson, one of Henri\n  Matisse’s most famous paintings. The boy in\n  the picture is the painter’s son, Pierre. In the\n  picture, Pierre looks quite serious. Why? Well,\n  look at the yellow candle on the red piano. It’s\n  almost burned down. So maybe Pierre has\n  already practiced for hours. And Matisse uses a\n  lot of gray, not a very fun color, right? It shows\n  how the poor kid feels, don’t you think?\n        On the top right corner, you can see a woman\n  sitting straight on a seat. Is she Pierre’s piano\n  teacher? Or his mother? Well, if you’re a\n  Matisse fan, you’ll know this is in fact another\n  painting by him, Woman on a High Stool. Interesting, right? Matisse likes to do that\n  a lot.  In fact, there’s another work by Matisse in the picture.  Did you find it?  Right!  \n  The sculpture on the bottom left corner!\n        Matisse painted this picture in 1916. Pierre was already 16 then, but the artist\n                               painted his son much younger than he really was. Pierre\n                               had gone away to be a soldier, and Matisse didn’t know\n                               whether he would come back. Maybe this is a worried\n                               father’s way to remember the good old days.\n\n                                                                       sculpture 雕像",
+    "question": "What is NOT used in the reading to refer to Henri Matisse?  refer to 指稱",
+    "options": {
+      "A": "The artist.",
+      "B": "The painter.",
+      "C": "The poor kid.",
+      "D": "A worried father."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 25,
+    "type": "passage",
+    "passage": "On Teachers’ Day, we thank our teachers for their hard work. We also celebrate\n this day to remember Confucius, the great Chinese teacher from 2,500 years ago.\n Well, that’s everything we’re taught about Teachers’ Day. But, the first Teachers’\n Day was not on Confucius’s birthday, and it was not about thanking our teachers.\n      In 1930, Mr. Tai Shuang-qiu and other teachers celebrated the first Teachers’\n Day in Nanjing. But there was nothing to celebrate. Teachers were paid very little\n and not respected. These teachers took this chance to shout out their problems. They\n had Teachers’ Day on June 6 because the date was easy to remember and near the\n end of the school year. This action by Mr. Tai and the other teachers was welcomed\n and followed by teachers from other cities. In 1939, the government made Teachers’\n Day a national holiday. However, it was on August 27, the day when Confucius’s\n birthday was celebrated. Not everyone hailed this decision: Teachers’ Day was never\n about Confucius, and Confucius couldn’t speak for all the teachers either.\n      One funny thing was that the government was wrong about the date of\n Confucius’s birthday. In 1952, people found out he was in fact born on September\n 28. That was when we started to celebrate Teachers’ Day on Confucius’s real\n birthday.\n\n                                                  respect 尊敬 government 政府",
+    "question": "What idea is talked about in the reading?",
+    "options": {
+      "A": "How Teachers’ Day is celebrated now.",
+      "B": "Why Teachers’ Day was celebrated at first.",
+      "C": "Why Confucius was seen as a great teacher.",
+      "D": "How teachers today feel about Teachers’ Day."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 26,
+    "type": "passage",
+    "passage": "On Teachers’ Day, we thank our teachers for their hard work. We also celebrate\n this day to remember Confucius, the great Chinese teacher from 2,500 years ago.\n Well, that’s everything we’re taught about Teachers’ Day. But, the first Teachers’\n Day was not on Confucius’s birthday, and it was not about thanking our teachers.\n      In 1930, Mr. Tai Shuang-qiu and other teachers celebrated the first Teachers’\n Day in Nanjing. But there was nothing to celebrate. Teachers were paid very little\n and not respected. These teachers took this chance to shout out their problems. They\n had Teachers’ Day on June 6 because the date was easy to remember and near the\n end of the school year. This action by Mr. Tai and the other teachers was welcomed\n and followed by teachers from other cities. In 1939, the government made Teachers’\n Day a national holiday. However, it was on August 27, the day when Confucius’s\n birthday was celebrated. Not everyone hailed this decision: Teachers’ Day was never\n about Confucius, and Confucius couldn’t speak for all the teachers either.\n      One funny thing was that the government was wrong about the date of\n Confucius’s birthday. In 1952, people found out he was in fact born on September\n 28. That was when we started to celebrate Teachers’ Day on Confucius’s real\n birthday.\n\n                                                  respect 尊敬 government 政府",
+    "question": "Which is true about Teachers’ Day from the reading?",
+    "options": {
+      "A": "It used to be celebrated on different dates.",
+      "B": "It was started by students for their teachers.",
+      "C": "It has been celebrated in Nanjing for over 2,500 years.",
+      "D": "Teachers decided to celebrate it on Confucius’s birthday."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 27,
+    "type": "passage",
+    "passage": "On Teachers’ Day, we thank our teachers for their hard work. We also celebrate\n this day to remember Confucius, the great Chinese teacher from 2,500 years ago.\n Well, that’s everything we’re taught about Teachers’ Day. But, the first Teachers’\n Day was not on Confucius’s birthday, and it was not about thanking our teachers.\n      In 1930, Mr. Tai Shuang-qiu and other teachers celebrated the first Teachers’\n Day in Nanjing. But there was nothing to celebrate. Teachers were paid very little\n and not respected. These teachers took this chance to shout out their problems. They\n had Teachers’ Day on June 6 because the date was easy to remember and near the\n end of the school year. This action by Mr. Tai and the other teachers was welcomed\n and followed by teachers from other cities. In 1939, the government made Teachers’\n Day a national holiday. However, it was on August 27, the day when Confucius’s\n birthday was celebrated. Not everyone hailed this decision: Teachers’ Day was never\n about Confucius, and Confucius couldn’t speak for all the teachers either.\n      One funny thing was that the government was wrong about the date of\n Confucius’s birthday. In 1952, people found out he was in fact born on September\n 28. That was when we started to celebrate Teachers’ Day on Confucius’s real\n birthday.\n\n                                                  respect 尊敬 government 政府",
+    "question": "What does “not everyone hailed this decision” mean in the reading?",
+    "options": {
+      "A": "Not everyone cared about the decision.",
+      "B": "Not everyone welcomed the decision.",
+      "C": "Not everyone heard about the decision.",
+      "D": "Not everyone remembered the decision."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "type": "passage",
+    "passage": "On Teachers’ Day, we thank our teachers for their hard work. We also celebrate\n this day to remember Confucius, the great Chinese teacher from 2,500 years ago.\n Well, that’s everything we’re taught about Teachers’ Day. But, the first Teachers’\n Day was not on Confucius’s birthday, and it was not about thanking our teachers.\n      In 1930, Mr. Tai Shuang-qiu and other teachers celebrated the first Teachers’\n Day in Nanjing. But there was nothing to celebrate. Teachers were paid very little\n and not respected. These teachers took this chance to shout out their problems. They\n had Teachers’ Day on June 6 because the date was easy to remember and near the\n end of the school year. This action by Mr. Tai and the other teachers was welcomed\n and followed by teachers from other cities. In 1939, the government made Teachers’\n Day a national holiday. However, it was on August 27, the day when Confucius’s\n birthday was celebrated. Not everyone hailed this decision: Teachers’ Day was never\n about Confucius, and Confucius couldn’t speak for all the teachers either.\n      One funny thing was that the government was wrong about the date of\n Confucius’s birthday. In 1952, people found out he was in fact born on September\n 28. That was when we started to celebrate Teachers’ Day on Confucius’s real\n birthday.\n\n                                                  respect 尊敬 government 政府",
+    "question": "What does the writer try to do with this reading?",
+    "options": {
+      "A": "To talk about a problem that no one notices.",
+      "B": "To share a fun experience that was not common.",
+      "C": "To tell a piece of history that few people know about.",
+      "D": "To give an example of an idea that is hard to understand."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 29,
+    "type": "passage",
+    "passage": "Dear Traveler,\n     You have bought an NFR ticket online for a train that runs between White\n  Water City and Cloud City.\n     We are sorry to tell you that, because of the typhoon last month, the Sand\n  Town – Spring Town line will be closed between August 14 and 28 2016. During\n  this time, some trains will change lines and will not stop at a few stations.\n  There will be free buses to take travelers to these stations. Please check below\n  for the changes. Visit http://www.nfr.gov/ for more information.\n    We wish you a nice summer.\n\n  Lena Muller\n  National Formosa Railway\n\n  1. Trains that run between Green City and Cloud\n     City will take the Smoke Town – Spring Town\n     line, and will stop at every station. Below are\n     the trains that will change lines.                               White Water City\n\n           Train   New Line (from 8/14 to 8/28)\n   Going RL101 White Water City \u001f Cloud City\n   South RL102 White Water City \u001f Spring Town                         Green City\n           RL103 Green City \u001f Cloud City               Sand Town\n   Going RL201 Spring Town \u001f Green City                Gray Village        Smoke Town\n\n   North RL202 Cloud City \u001f Green City\n                                                        Black Town          Hill Town\n  2. The free buses for the Sand Town – Spring\n     Town line will wait at Green City (going south)                        Spring Town\n     and Spring Town (going north) stations. No\n                                                              Cloud City\n     stop at Gray Village.\n\n                                                                        line 路線\n\n                                         8",
+    "question": "Why does National Formosa Railway write this letter?",
+    "options": {
+      "A": "There is a train ticket sale.",
+      "B": "A train line will be closed in July.",
+      "C": "It will open a new train line in August.",
+      "D": "Some of its trains will run on different lines."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 30,
+    "type": "passage",
+    "passage": "Dear Traveler,\n     You have bought an NFR ticket online for a train that runs between White\n  Water City and Cloud City.\n     We are sorry to tell you that, because of the typhoon last month, the Sand\n  Town – Spring Town line will be closed between August 14 and 28 2016. During\n  this time, some trains will change lines and will not stop at a few stations.\n  There will be free buses to take travelers to these stations. Please check below\n  for the changes. Visit http://www.nfr.gov/ for more information.\n    We wish you a nice summer.\n\n  Lena Muller\n  National Formosa Railway\n\n  1. Trains that run between Green City and Cloud\n     City will take the Smoke Town – Spring Town\n     line, and will stop at every station. Below are\n     the trains that will change lines.                               White Water City\n\n           Train   New Line (from 8/14 to 8/28)\n   Going RL101 White Water City \u001f Cloud City\n   South RL102 White Water City \u001f Spring Town                         Green City\n           RL103 Green City \u001f Cloud City               Sand Town\n   Going RL201 Spring Town \u001f Green City                Gray Village        Smoke Town\n\n   North RL202 Cloud City \u001f Green City\n                                                        Black Town          Hill Town\n  2. The free buses for the Sand Town – Spring\n     Town line will wait at Green City (going south)                        Spring Town\n     and Spring Town (going north) stations. No\n                                                              Cloud City\n     stop at Gray Village.\n\n                                                                        line 路線\n\n                                         8",
+    "question": "What is true about NFR’s trains between August 14 and 28 2016?",
+    "options": {
+      "A": "No trains will stop at Spring Town.",
+      "B": "Trains that change lines will all stop at Cloud City.",
+      "C": "People can take the free buses to any station on the Sand Town - Spring Town line.",
+      "D": "People can go to Hill Town on any train that runs between Green City and Cloud City."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 31,
+    "type": "passage",
+    "passage": "Dear Traveler,\n     You have bought an NFR ticket online for a train that runs between White\n  Water City and Cloud City.\n     We are sorry to tell you that, because of the typhoon last month, the Sand\n  Town – Spring Town line will be closed between August 14 and 28 2016. During\n  this time, some trains will change lines and will not stop at a few stations.\n  There will be free buses to take travelers to these stations. Please check below\n  for the changes. Visit http://www.nfr.gov/ for more information.\n    We wish you a nice summer.\n\n  Lena Muller\n  National Formosa Railway\n\n  1. Trains that run between Green City and Cloud\n     City will take the Smoke Town – Spring Town\n     line, and will stop at every station. Below are\n     the trains that will change lines.                               White Water City\n\n           Train   New Line (from 8/14 to 8/28)\n   Going RL101 White Water City \u001f Cloud City\n   South RL102 White Water City \u001f Spring Town                         Green City\n           RL103 Green City \u001f Cloud City               Sand Town\n   Going RL201 Spring Town \u001f Green City                Gray Village        Smoke Town\n\n   North RL202 Cloud City \u001f Green City\n                                                        Black Town          Hill Town\n  2. The free buses for the Sand Town – Spring\n     Town line will wait at Green City (going south)                        Spring Town\n     and Spring Town (going north) stations. No\n                                                              Cloud City\n     stop at Gray Village.\n\n                                                                        line 路線\n\n                                         8",
+    "question": "James lives in Smoke Town. He wants to go to Black Town on August 19. How can he get there?",
+    "options": {
+      "A": "Take Train RL202 to Green City, get off there, and take the free bus.",
+      "B": "Take Train RL103 to Green City, get off there, and take the free bus.",
+      "C": "Take Train RL102 to Spring Town, get off there, and take Train RL201.",
+      "D": "Take Train RL101 to Cloud City, get off there, and take the free bus."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 32,
+    "type": "passage",
+    "passage": "SYRIA\n                                                                                Darayya\n\n       In Darayya, a city in Syria, there’s a library, and it has 15,000 books on almost\n every subject you can think of. However, it is different from any libraries you know:\n It is a secret underground library, and only people in Darayya know where it is.\n       Over the years, war has shaken Darayya badly. Every day, houses are bombed\n and people are killed. Stores are closed one after another, and so are schools. To\n help the kids in Darayya with their learning, Anas Ahmad, a 19-year-old student, and\n his friends decided to build a library. They built the library under the ground to keep\n it safe from bombing. But it is dangerous to collect books for the library. Often,\n Ahmad and his friends look for books in houses that were bombed. They need to be\n careful because they may be killed in another bombing.\n       You may ask, “In a place like Darayya, would people be interested in books?”\n “Just like the body needs food, the mind needs books,” says one library user. In the\n library, people enjoy their time of reading and forget about the terrible world above,\n so their life doesn’t seem so hard. Through reading, they are able to dream of a\n better life after war.\n                                                 war 戰爭 bomb 轟炸 seem 彷彿",
+    "question": "Below are the ideas that are talked about in the reading. a. The problems Darayya has. b. How Darayya’s library was started. c. What makes Darayya’s library special. d. How Darayya’s library helps people there. In what order does the writer put his ideas in the reading?  order 順序",
+    "options": {
+      "A": "c b a d.",
+      "B": "b a d c.",
+      "C": "a c b d.",
+      "D": "c a b d."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 33,
+    "type": "passage",
+    "passage": "SYRIA\n                                                                                Darayya\n\n       In Darayya, a city in Syria, there’s a library, and it has 15,000 books on almost\n every subject you can think of. However, it is different from any libraries you know:\n It is a secret underground library, and only people in Darayya know where it is.\n       Over the years, war has shaken Darayya badly. Every day, houses are bombed\n and people are killed. Stores are closed one after another, and so are schools. To\n help the kids in Darayya with their learning, Anas Ahmad, a 19-year-old student, and\n his friends decided to build a library. They built the library under the ground to keep\n it safe from bombing. But it is dangerous to collect books for the library. Often,\n Ahmad and his friends look for books in houses that were bombed. They need to be\n careful because they may be killed in another bombing.\n       You may ask, “In a place like Darayya, would people be interested in books?”\n “Just like the body needs food, the mind needs books,” says one library user. In the\n library, people enjoy their time of reading and forget about the terrible world above,\n so their life doesn’t seem so hard. Through reading, they are able to dream of a\n better life after war.\n                                                 war 戰爭 bomb 轟炸 seem 彷彿",
+    "question": "Why do people in Darayya go to the library even during the war?",
+    "options": {
+      "A": "They can get free food.",
+      "B": "They find joy and hope in reading.",
+      "C": "They want to learn how to win the war.",
+      "D": "Their school teachers give lessons there."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 34,
+    "type": "passage",
+    "passage": "SYRIA\n                                                                                Darayya\n\n       In Darayya, a city in Syria, there’s a library, and it has 15,000 books on almost\n every subject you can think of. However, it is different from any libraries you know:\n It is a secret underground library, and only people in Darayya know where it is.\n       Over the years, war has shaken Darayya badly. Every day, houses are bombed\n and people are killed. Stores are closed one after another, and so are schools. To\n help the kids in Darayya with their learning, Anas Ahmad, a 19-year-old student, and\n his friends decided to build a library. They built the library under the ground to keep\n it safe from bombing. But it is dangerous to collect books for the library. Often,\n Ahmad and his friends look for books in houses that were bombed. They need to be\n careful because they may be killed in another bombing.\n       You may ask, “In a place like Darayya, would people be interested in books?”\n “Just like the body needs food, the mind needs books,” says one library user. In the\n library, people enjoy their time of reading and forget about the terrible world above,\n so their life doesn’t seem so hard. Through reading, they are able to dream of a\n better life after war.\n                                                 war 戰爭 bomb 轟炸 seem 彷彿",
+    "question": "What do we know about Darayya’s library?",
+    "options": {
+      "A": "It was built during the war.",
+      "B": "It has been bombed many times.",
+      "C": "It was built to remember people who died in the war.",
+      "D": "Most of its books are collected from outside of Darayya."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 35,
+    "type": "passage",
+    "passage": "From:      Mia Loren <mloren@qmail.com>\n   To:        Dave Doddo <dd1225@qmail.com>\n   Date:      Tue, Oct 24, 2017 at 10:01 AM\n   Subject:   Daniel’s 5th Birthday Party – This Saturday!\n\n   Hello Dave,\n\n   We’re happy to invite you and your family to Daniel’s fifth birthday\n   party this Saturday.\n\n   We know we told you that the party would be in   35  . However,\n   we just moved to Carlton City last month, so the party won’t be in\n   Pattersons Town. It’ll be at Mosman Garden right next to Victor Zoo,\n   just across from our new apartment. Please don’t go to Northbank\n   Park next to our old house.\n\n   The weather report said that it may be rainy this weekend, but   36  .\n   If it rains, we’ll move the party inside our home. However, if we’re\n     37   and it is fine, we’ll still have the party at the garden.\n\n   Again, we’re all very happy and excited to welcome you to join us for\n   some fun this weekend!\n\n   Best,\n   Mia, Sam & Daniel",
+    "question": "",
+    "options": {
+      "A": "Victor Zoo",
+      "B": "Carlton City",
+      "C": "Mosman Garden",
+      "D": "Northbank Park"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 36,
+    "type": "passage",
+    "passage": "From:      Mia Loren <mloren@qmail.com>\n   To:        Dave Doddo <dd1225@qmail.com>\n   Date:      Tue, Oct 24, 2017 at 10:01 AM\n   Subject:   Daniel’s 5th Birthday Party – This Saturday!\n\n   Hello Dave,\n\n   We’re happy to invite you and your family to Daniel’s fifth birthday\n   party this Saturday.\n\n   We know we told you that the party would be in   35  . However,\n   we just moved to Carlton City last month, so the party won’t be in\n   Pattersons Town. It’ll be at Mosman Garden right next to Victor Zoo,\n   just across from our new apartment. Please don’t go to Northbank\n   Park next to our old house.\n\n   The weather report said that it may be rainy this weekend, but   36  .\n   If it rains, we’ll move the party inside our home. However, if we’re\n     37   and it is fine, we’ll still have the party at the garden.\n\n   Again, we’re all very happy and excited to welcome you to join us for\n   some fun this weekend!\n\n   Best,\n   Mia, Sam & Daniel",
+    "question": "",
+    "options": {
+      "A": "we have a plan if this happens",
+      "B": "we could just wait for the rain to stop",
+      "C": "we should be fine if the rain isn’t too heavy",
+      "D": "we will let you know if we’ll still have the party"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 37,
+    "type": "passage",
+    "passage": "From:      Mia Loren <mloren@qmail.com>\n   To:        Dave Doddo <dd1225@qmail.com>\n   Date:      Tue, Oct 24, 2017 at 10:01 AM\n   Subject:   Daniel’s 5th Birthday Party – This Saturday!\n\n   Hello Dave,\n\n   We’re happy to invite you and your family to Daniel’s fifth birthday\n   party this Saturday.\n\n   We know we told you that the party would be in   35  . However,\n   we just moved to Carlton City last month, so the party won’t be in\n   Pattersons Town. It’ll be at Mosman Garden right next to Victor Zoo,\n   just across from our new apartment. Please don’t go to Northbank\n   Park next to our old house.\n\n   The weather report said that it may be rainy this weekend, but   36  .\n   If it rains, we’ll move the party inside our home. However, if we’re\n     37   and it is fine, we’ll still have the party at the garden.\n\n   Again, we’re all very happy and excited to welcome you to join us for\n   some fun this weekend!\n\n   Best,\n   Mia, Sam & Daniel",
+    "question": "",
+    "options": {
+      "A": "crazy",
+      "B": "good",
+      "C": "lucky",
+      "D": "strong"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 38,
+    "type": "passage",
+    "passage": "Usually I wouldn’t cross the park at this time\n                                of night. But walking around the park would take\n                                more time, and it was raining so hard that I couldn’t\n                                even see clearly what was right before me. So I\n                                entered the park. And that was the first stupid thing\n                                I did tonight.\n               Soon after I walked into the park, I saw a man under a tree up\n          ahead. My heart fell. The stories I’d heard about the park   38   into\n          my head at this moment. Anyone with a clear mind would just turn back.\n          But me? No. I did   39   stupid thing: I decided to hurry past him.\n               Just when I was passing the man, he raised his head and gave me the\n          strangest smile ever. I got scared and started running. “Hey!” the man\n          shouted from behind. “Wait!” He was running after me!\n               I ran like crazy. I had hoped the trees would keep some rain off.\n          And they   40  . But they also made the park look even darker. I\n          couldn’t see what was ahead of me. Then, I ran into something. It was\n          the man!\n               “Don’t kill me!” I cried.\n               “What? I   41   to give back your bag! You dropped it,” the man\n          gave me my bag.\n               Now, I felt saying that to the man was the stupidest thing I did\n          tonight.\n\n                                                                      ahead 在前面",
+    "question": "",
+    "options": {
+      "A": "are all coming",
+      "B": "have all come",
+      "C": "were all coming",
+      "D": "would all come"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 39,
+    "type": "passage",
+    "passage": "Usually I wouldn’t cross the park at this time\n                                of night. But walking around the park would take\n                                more time, and it was raining so hard that I couldn’t\n                                even see clearly what was right before me. So I\n                                entered the park. And that was the first stupid thing\n                                I did tonight.\n               Soon after I walked into the park, I saw a man under a tree up\n          ahead. My heart fell. The stories I’d heard about the park   38   into\n          my head at this moment. Anyone with a clear mind would just turn back.\n          But me? No. I did   39   stupid thing: I decided to hurry past him.\n               Just when I was passing the man, he raised his head and gave me the\n          strangest smile ever. I got scared and started running. “Hey!” the man\n          shouted from behind. “Wait!” He was running after me!\n               I ran like crazy. I had hoped the trees would keep some rain off.\n          And they   40  . But they also made the park look even darker. I\n          couldn’t see what was ahead of me. Then, I ran into something. It was\n          the man!\n               “Don’t kill me!” I cried.\n               “What? I   41   to give back your bag! You dropped it,” the man\n          gave me my bag.\n               Now, I felt saying that to the man was the stupidest thing I did\n          tonight.\n\n                                                                      ahead 在前面",
+    "question": "",
+    "options": {
+      "A": "another",
+      "B": "one",
+      "C": "the last",
+      "D": "the other"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 40,
+    "type": "passage",
+    "passage": "Usually I wouldn’t cross the park at this time\n                                of night. But walking around the park would take\n                                more time, and it was raining so hard that I couldn’t\n                                even see clearly what was right before me. So I\n                                entered the park. And that was the first stupid thing\n                                I did tonight.\n               Soon after I walked into the park, I saw a man under a tree up\n          ahead. My heart fell. The stories I’d heard about the park   38   into\n          my head at this moment. Anyone with a clear mind would just turn back.\n          But me? No. I did   39   stupid thing: I decided to hurry past him.\n               Just when I was passing the man, he raised his head and gave me the\n          strangest smile ever. I got scared and started running. “Hey!” the man\n          shouted from behind. “Wait!” He was running after me!\n               I ran like crazy. I had hoped the trees would keep some rain off.\n          And they   40  . But they also made the park look even darker. I\n          couldn’t see what was ahead of me. Then, I ran into something. It was\n          the man!\n               “Don’t kill me!” I cried.\n               “What? I   41   to give back your bag! You dropped it,” the man\n          gave me my bag.\n               Now, I felt saying that to the man was the stupidest thing I did\n          tonight.\n\n                                                                      ahead 在前面",
+    "question": "",
+    "options": {
+      "A": "have",
+      "B": "did",
+      "C": "had",
+      "D": "would"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 41,
+    "type": "passage",
+    "passage": "Usually I wouldn’t cross the park at this time\n                                of night. But walking around the park would take\n                                more time, and it was raining so hard that I couldn’t\n                                even see clearly what was right before me. So I\n                                entered the park. And that was the first stupid thing\n                                I did tonight.\n               Soon after I walked into the park, I saw a man under a tree up\n          ahead. My heart fell. The stories I’d heard about the park   38   into\n          my head at this moment. Anyone with a clear mind would just turn back.\n          But me? No. I did   39   stupid thing: I decided to hurry past him.\n               Just when I was passing the man, he raised his head and gave me the\n          strangest smile ever. I got scared and started running. “Hey!” the man\n          shouted from behind. “Wait!” He was running after me!\n               I ran like crazy. I had hoped the trees would keep some rain off.\n          And they   40  . But they also made the park look even darker. I\n          couldn’t see what was ahead of me. Then, I ran into something. It was\n          the man!\n               “Don’t kill me!” I cried.\n               “What? I   41   to give back your bag! You dropped it,” the man\n          gave me my bag.\n               Now, I felt saying that to the man was the stupidest thing I did\n          tonight.\n\n                                                                      ahead 在前面",
+    "question": "",
+    "options": {
+      "A": "was trying",
+      "B": "try",
+      "C": "would try",
+      "D": "will try"
+    },
+    "answer": "A"
+  }
+]

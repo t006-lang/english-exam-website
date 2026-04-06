@@ -1,0 +1,1080 @@
+/* ============================================================
+   會考英語練習 - Global Styles
+   ============================================================ */
+
+:root {
+  --primary: #1a6fc4;
+  --primary-dark: #1558a0;
+  --primary-light: #e8f2fc;
+  --success: #2e9e5b;
+  --success-light: #e6f7ed;
+  --danger: #d9534f;
+  --danger-light: #fdecea;
+  --warning: #f0a500;
+  --text: #1a1a2e;
+  --text-secondary: #555577;
+  --border: #d0dae8;
+  --bg: #f4f7fb;
+  --white: #ffffff;
+  --shadow: 0 2px 12px rgba(26,111,196,0.10);
+  --radius: 12px;
+  --radius-sm: 8px;
+  --font: 'Segoe UI', 'PingFang TC', 'Microsoft JhengHei', system-ui, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font);
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+/* ============================================================
+   Layout
+   ============================================================ */
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+/* ============================================================
+   Header / Navbar
+   ============================================================ */
+
+.site-header {
+  background: var(--primary);
+  color: white;
+  padding: 0 16px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+.header-inner {
+  max-width: 800px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 56px;
+}
+
+.site-title {
+  font-size: 1.2rem;
+  font-weight: 700;
+  text-decoration: none;
+  color: white;
+  letter-spacing: 0.02em;
+}
+
+.nav-links {
+  display: flex;
+  gap: 4px;
+}
+
+.nav-link {
+  color: rgba(255,255,255,0.85);
+  text-decoration: none;
+  padding: 6px 12px;
+  border-radius: var(--radius-sm);
+  font-size: 0.9rem;
+  transition: background 0.15s, color 0.15s;
+}
+
+.nav-link:hover,
+.nav-link.active {
+  background: rgba(255,255,255,0.2);
+  color: white;
+}
+
+/* ============================================================
+   Hero / Home Page
+   ============================================================ */
+
+.hero {
+  text-align: center;
+  padding: 48px 16px 32px;
+}
+
+.hero-title {
+  font-size: 2rem;
+  font-weight: 800;
+  color: var(--primary);
+  margin-bottom: 8px;
+}
+
+.hero-subtitle {
+  color: var(--text-secondary);
+  font-size: 1rem;
+  margin-bottom: 36px;
+}
+
+.big-buttons {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 40px;
+}
+
+.big-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 160px;
+  height: 160px;
+  background: var(--white);
+  border: 2px solid var(--border);
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: all 0.2s;
+  text-decoration: none;
+  color: var(--text);
+  box-shadow: var(--shadow);
+}
+
+.big-btn:hover {
+  border-color: var(--primary);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(26,111,196,0.18);
+}
+
+.big-btn.active {
+  border-color: var(--primary);
+  background: var(--primary-light);
+}
+
+.big-btn-icon {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+  line-height: 1;
+}
+
+.big-btn-label {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.big-btn-sub {
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  margin-top: 4px;
+}
+
+/* Year selection grid */
+.year-grid {
+  display: none;
+  background: var(--white);
+  border-radius: var(--radius);
+  padding: 24px;
+  box-shadow: var(--shadow);
+  margin-top: 8px;
+}
+
+.year-grid.visible {
+  display: block;
+  animation: fadeIn 0.2s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.year-grid-title {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  margin-bottom: 16px;
+  text-align: left;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.year-buttons {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+}
+
+.year-btn {
+  background: var(--bg);
+  border: 2px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 14px 8px;
+  text-align: center;
+  cursor: pointer;
+  text-decoration: none;
+  color: var(--text);
+  transition: all 0.15s;
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.year-btn:hover {
+  background: var(--primary-light);
+  border-color: var(--primary);
+  color: var(--primary);
+}
+
+.year-btn-sub {
+  display: block;
+  font-size: 0.7rem;
+  font-weight: 400;
+  color: var(--text-secondary);
+  margin-top: 2px;
+}
+
+/* Stats section */
+.stats-row {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 32px;
+}
+
+.stat-card {
+  background: var(--white);
+  border-radius: var(--radius-sm);
+  padding: 14px 20px;
+  text-align: center;
+  box-shadow: var(--shadow);
+  min-width: 120px;
+}
+
+.stat-number {
+  font-size: 1.6rem;
+  font-weight: 800;
+  color: var(--primary);
+}
+
+.stat-label {
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  margin-top: 2px;
+}
+
+/* ============================================================
+   Card Component
+   ============================================================ */
+
+.card {
+  background: var(--white);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 24px;
+  margin-bottom: 16px;
+}
+
+/* ============================================================
+   Exam Page
+   ============================================================ */
+
+.exam-header {
+  background: var(--white);
+  border-bottom: 1px solid var(--border);
+  padding: 12px 16px;
+}
+
+.exam-header-inner {
+  max-width: 800px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.exam-title {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--primary);
+}
+
+.exam-counter {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+.progress-bar-container {
+  width: 100%;
+  height: 4px;
+  background: var(--border);
+  border-radius: 2px;
+  margin-top: 8px;
+}
+
+.progress-bar {
+  height: 100%;
+  background: var(--primary);
+  border-radius: 2px;
+  transition: width 0.3s ease;
+}
+
+.exam-main {
+  padding: 16px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Passage block */
+.passage-block {
+  background: #f8fbff;
+  border-left: 4px solid var(--primary);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  padding: 16px;
+  margin-bottom: 20px;
+  font-size: 0.95rem;
+  line-height: 1.8;
+  white-space: pre-wrap;
+  color: var(--text);
+}
+
+.passage-label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--primary);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 8px;
+}
+
+/* Question block */
+.question-block {
+  margin-bottom: 20px;
+}
+
+.question-number {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 6px;
+}
+
+.question-text {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  margin-bottom: 16px;
+  color: var(--text);
+}
+
+/* Options */
+.options-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.option-btn {
+  width: 100%;
+  background: var(--white);
+  border: 2px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 14px 16px;
+  text-align: left;
+  cursor: pointer;
+  font-size: 0.95rem;
+  color: var(--text);
+  transition: all 0.15s;
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  line-height: 1.5;
+  font-family: var(--font);
+}
+
+.option-btn:hover:not(:disabled) {
+  background: var(--primary-light);
+  border-color: var(--primary);
+}
+
+.option-letter {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  min-width: 28px;
+  border-radius: 50%;
+  background: var(--bg);
+  font-weight: 700;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  border: 1.5px solid var(--border);
+  transition: all 0.15s;
+}
+
+.option-btn.correct {
+  background: var(--success-light);
+  border-color: var(--success);
+}
+
+.option-btn.correct .option-letter {
+  background: var(--success);
+  color: white;
+  border-color: var(--success);
+}
+
+.option-btn.wrong {
+  background: var(--danger-light);
+  border-color: var(--danger);
+}
+
+.option-btn.wrong .option-letter {
+  background: var(--danger);
+  color: white;
+  border-color: var(--danger);
+}
+
+.option-btn:disabled {
+  cursor: default;
+}
+
+/* Answer feedback */
+.answer-feedback {
+  display: none;
+  padding: 12px 16px;
+  border-radius: var(--radius-sm);
+  font-size: 0.9rem;
+  margin-top: 12px;
+  font-weight: 600;
+}
+
+.answer-feedback.correct {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--success-light);
+  color: var(--success);
+}
+
+.answer-feedback.wrong {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--danger-light);
+  color: var(--danger);
+}
+
+/* Navigation */
+.nav-buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+  padding-bottom: 80px;
+}
+
+.nav-btn {
+  flex: 1;
+  padding: 14px;
+  border: 2px solid var(--border);
+  background: var(--white);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  font-size: 0.95rem;
+  font-weight: 600;
+  font-family: var(--font);
+  color: var(--text);
+  transition: all 0.15s;
+}
+
+.nav-btn:hover {
+  background: var(--bg);
+}
+
+.nav-btn.primary {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: white;
+}
+
+.nav-btn.primary:hover {
+  background: var(--primary-dark);
+}
+
+.nav-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+/* Score summary */
+.score-summary {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.score-circle {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  background: var(--primary-light);
+  border: 6px solid var(--primary);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 24px;
+}
+
+.score-number {
+  font-size: 2.2rem;
+  font-weight: 800;
+  color: var(--primary);
+  line-height: 1;
+}
+
+.score-total {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  margin-top: 4px;
+}
+
+.score-grade {
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.score-desc {
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+  margin-bottom: 28px;
+}
+
+.score-actions {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.btn {
+  padding: 12px 24px;
+  border-radius: var(--radius-sm);
+  border: 2px solid transparent;
+  cursor: pointer;
+  font-size: 0.95rem;
+  font-weight: 600;
+  font-family: var(--font);
+  transition: all 0.15s;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.btn-primary {
+  background: var(--primary);
+  color: white;
+  border-color: var(--primary);
+}
+
+.btn-primary:hover {
+  background: var(--primary-dark);
+  border-color: var(--primary-dark);
+}
+
+.btn-outline {
+  background: transparent;
+  color: var(--primary);
+  border-color: var(--primary);
+}
+
+.btn-outline:hover {
+  background: var(--primary-light);
+}
+
+/* Year selector panel */
+.year-selector-panel {
+  background: var(--white);
+  border-bottom: 1px solid var(--border);
+  padding: 12px 16px;
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.year-tab {
+  flex-shrink: 0;
+  padding: 6px 14px;
+  border-radius: 20px;
+  border: 1.5px solid var(--border);
+  background: transparent;
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 600;
+  font-family: var(--font);
+  color: var(--text-secondary);
+  transition: all 0.15s;
+}
+
+.year-tab:hover {
+  border-color: var(--primary);
+  color: var(--primary);
+}
+
+.year-tab.active {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: white;
+}
+
+/* ============================================================
+   Vocabulary Page
+   ============================================================ */
+
+.vocab-header {
+  background: var(--white);
+  border-bottom: 1px solid var(--border);
+  padding: 0 16px;
+}
+
+.vocab-header-inner {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.tab-nav {
+  display: flex;
+  gap: 0;
+}
+
+.tab-btn {
+  padding: 14px 20px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  font-size: 0.95rem;
+  font-weight: 600;
+  font-family: var(--font);
+  color: var(--text-secondary);
+  border-bottom: 3px solid transparent;
+  transition: all 0.15s;
+}
+
+.tab-btn:hover {
+  color: var(--primary);
+}
+
+.tab-btn.active {
+  color: var(--primary);
+  border-bottom-color: var(--primary);
+}
+
+.vocab-main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 16px;
+}
+
+/* Filter bar */
+.filter-bar {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.filter-btn {
+  padding: 6px 14px;
+  border-radius: 20px;
+  border: 1.5px solid var(--border);
+  background: transparent;
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 600;
+  font-family: var(--font);
+  color: var(--text-secondary);
+  transition: all 0.15s;
+}
+
+.filter-btn:hover {
+  border-color: var(--primary);
+  color: var(--primary);
+}
+
+.filter-btn.active {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: white;
+}
+
+.filter-count {
+  margin-left: auto;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+/* Flashcard */
+.flashcard-container {
+  perspective: 1000px;
+  margin: 0 auto 20px;
+}
+
+.flashcard {
+  position: relative;
+  width: 100%;
+  min-height: 260px;
+  cursor: pointer;
+  transition: transform 0.5s;
+  transform-style: preserve-3d;
+}
+
+.flashcard.flipped {
+  transform: rotateY(180deg);
+}
+
+.card-face {
+  position: absolute;
+  width: 100%;
+  min-height: 260px;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  border-radius: var(--radius);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 32px 24px;
+  box-shadow: var(--shadow);
+  text-align: center;
+}
+
+.card-front {
+  background: var(--primary);
+  color: white;
+}
+
+.card-back {
+  background: var(--white);
+  transform: rotateY(180deg);
+}
+
+.card-word {
+  font-size: 2.2rem;
+  font-weight: 800;
+  margin-bottom: 8px;
+}
+
+.card-pos {
+  font-size: 0.9rem;
+  opacity: 0.75;
+  margin-bottom: 12px;
+  font-style: italic;
+}
+
+.card-hint {
+  font-size: 0.85rem;
+  opacity: 0.7;
+  margin-top: 16px;
+}
+
+.card-chinese {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: var(--primary);
+  margin-bottom: 8px;
+}
+
+.card-pos-back {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  font-style: italic;
+  margin-bottom: 8px;
+}
+
+.card-word-small {
+  font-size: 1.1rem;
+  color: var(--text-secondary);
+}
+
+/* Flashcard nav */
+.flashcard-nav {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.flashcard-nav .nav-btn {
+  flex: 0;
+  padding: 12px 20px;
+  white-space: nowrap;
+}
+
+.fc-counter {
+  flex: 1;
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+/* Learned button */
+.learned-btn {
+  width: 100%;
+  padding: 14px;
+  border-radius: var(--radius-sm);
+  border: 2px solid var(--success);
+  background: transparent;
+  color: var(--success);
+  cursor: pointer;
+  font-size: 0.95rem;
+  font-weight: 600;
+  font-family: var(--font);
+  transition: all 0.15s;
+  margin-top: 4px;
+}
+
+.learned-btn.learned {
+  background: var(--success);
+  color: white;
+}
+
+.learned-btn:hover {
+  background: var(--success-light);
+}
+
+.learned-btn.learned:hover {
+  background: #228b4e;
+}
+
+/* Quiz */
+.quiz-word-display {
+  background: var(--primary);
+  color: white;
+  border-radius: var(--radius);
+  padding: 40px 24px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.quiz-word {
+  font-size: 2rem;
+  font-weight: 800;
+  margin-bottom: 6px;
+}
+
+.quiz-pos {
+  font-size: 0.9rem;
+  opacity: 0.75;
+  font-style: italic;
+}
+
+.quiz-options {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+
+.quiz-option-btn {
+  padding: 16px 12px;
+  border: 2px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--white);
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: var(--font);
+  color: var(--text);
+  transition: all 0.15s;
+  text-align: center;
+}
+
+.quiz-option-btn:hover:not(:disabled) {
+  background: var(--primary-light);
+  border-color: var(--primary);
+}
+
+.quiz-option-btn.correct {
+  background: var(--success-light);
+  border-color: var(--success);
+  color: var(--success);
+}
+
+.quiz-option-btn.wrong {
+  background: var(--danger-light);
+  border-color: var(--danger);
+  color: var(--danger);
+}
+
+/* Quiz stats */
+.quiz-stats {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+
+.quiz-stat {
+  background: var(--white);
+  border-radius: var(--radius-sm);
+  padding: 8px 16px;
+  text-align: center;
+  box-shadow: var(--shadow);
+  min-width: 80px;
+}
+
+.quiz-stat-num {
+  font-size: 1.3rem;
+  font-weight: 800;
+  color: var(--primary);
+}
+
+.quiz-stat-label {
+  font-size: 0.7rem;
+  color: var(--text-secondary);
+}
+
+/* ============================================================
+   Utility
+   ============================================================ */
+
+.hidden {
+  display: none !important;
+}
+
+.text-center { text-align: center; }
+.mt-8 { margin-top: 8px; }
+.mt-16 { margin-top: 16px; }
+.mt-24 { margin-top: 24px; }
+
+.section-title {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 12px;
+}
+
+/* Loading state */
+.loading {
+  text-align: center;
+  padding: 60px 20px;
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+}
+
+.loading-spinner {
+  display: inline-block;
+  width: 36px;
+  height: 36px;
+  border: 3px solid var(--border);
+  border-top-color: var(--primary);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+  margin-bottom: 12px;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* Empty state */
+.empty-state {
+  text-align: center;
+  padding: 60px 20px;
+  color: var(--text-secondary);
+}
+
+.empty-icon {
+  font-size: 3rem;
+  margin-bottom: 12px;
+  display: block;
+}
+
+/* Badge */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+
+.badge-single {
+  background: #e8f2fc;
+  color: var(--primary);
+}
+
+.badge-passage {
+  background: #fff3e0;
+  color: #e67e00;
+}
+
+/* Year history table */
+.history-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+.history-table th,
+.history-table td {
+  padding: 10px 12px;
+  text-align: left;
+  border-bottom: 1px solid var(--border);
+}
+
+.history-table th {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  background: var(--bg);
+}
+
+.history-table tr:hover {
+  background: var(--bg);
+}
+
+/* ============================================================
+   Responsive
+   ============================================================ */
+
+@media (max-width: 480px) {
+  .hero-title { font-size: 1.6rem; }
+  .big-btn { width: 140px; height: 140px; }
+  .big-btn-icon { font-size: 2rem; }
+  .year-buttons { grid-template-columns: repeat(4, 1fr); gap: 8px; }
+  .year-btn { padding: 10px 4px; font-size: 0.85rem; }
+  .quiz-options { grid-template-columns: 1fr 1fr; }
+  .card-word { font-size: 1.8rem; }
+  .card-chinese { font-size: 1.5rem; }
+}
+
+@media (max-width: 360px) {
+  .year-buttons { grid-template-columns: repeat(2, 1fr); }
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--bg); }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #b0bec8; }

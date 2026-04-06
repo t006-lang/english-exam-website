@@ -1,0 +1,535 @@
+[
+  {
+    "id": 1,
+    "type": "single",
+    "passage": null,
+    "question": "Look at the picture. The mother duck is the baby ducks across the street.",
+    "options": {
+      "A": "carrying",
+      "B": "leading",
+      "C": "pushing",
+      "D": "watching"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "type": "single",
+    "passage": null,
+    "question": "Ms. Liu usually gives us a lot of homework, she didn’t give us any today.",
+    "options": {
+      "A": "but",
+      "B": "if",
+      "C": "or",
+      "D": "so"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 3,
+    "type": "single",
+    "passage": null,
+    "question": "Playing games on the cellphone popular with high school students.",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "being",
+      "D": "to be"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 4,
+    "type": "single",
+    "passage": null,
+    "question": "There more than twenty clubs in our school. Which one would you like to join?",
+    "options": {
+      "A": "has",
+      "B": "have",
+      "C": "is",
+      "D": "are"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 5,
+    "type": "single",
+    "passage": null,
+    "question": "Diane had a bad cold last week. She is still too to go mountain climbing with you.",
+    "options": {
+      "A": "busy",
+      "B": "short",
+      "C": "weak",
+      "D": "young"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "type": "single",
+    "passage": null,
+    "question": "The book under Mary’s desk is , but I don’t know why it is there.",
+    "options": {
+      "A": "us",
+      "B": "me",
+      "C": "my",
+      "D": "mine"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 7,
+    "type": "single",
+    "passage": null,
+    "question": "Last night a garbage truck hit a tree and turned over. Now the street is with lots of garbage.",
+    "options": {
+      "A": "dark",
+      "B": "dirty",
+      "C": "heavy",
+      "D": "poor"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "type": "single",
+    "passage": null,
+    "question": "It almost killed Kevin to take care of his baby sister for one afternoon. He wondered how his mom could do every day.",
+    "options": {
+      "A": "her",
+      "B": "it",
+      "C": "one",
+      "D": "them"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "type": "single",
+    "passage": null,
+    "question": "Joyce tells her brother everything. She never anything from him.",
+    "options": {
+      "A": "covers",
+      "B": "believes",
+      "C": "hides",
+      "D": "takes"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 10,
+    "type": "single",
+    "passage": null,
+    "question": "Ben always uses his birthday as a(n) to ask Dad to buy him something expensive.",
+    "options": {
+      "A": "action",
+      "B": "excuse",
+      "C": "prize",
+      "D": "rule"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 11,
+    "type": "single",
+    "passage": null,
+    "question": "that last piece of pie? If not, can I have it? I didn’t eat much this morning.",
+    "options": {
+      "A": "Had you eaten",
+      "B": "Were you eating",
+      "C": "Do you eat",
+      "D": "Are you going to eat"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 12,
+    "type": "single",
+    "passage": null,
+    "question": "Everyone in the class enjoys playing chess Bill; he thinks the game is boring.",
+    "options": {
+      "A": "except",
+      "B": "for",
+      "C": "like",
+      "D": "of"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 13,
+    "type": "single",
+    "passage": null,
+    "question": "In my school days, I to English radio programs every day. That was how I learned English at that time.",
+    "options": {
+      "A": "listen",
+      "B": "have listened",
+      "C": "used to listen",
+      "D": "was listening"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 14,
+    "type": "single",
+    "passage": null,
+    "question": "Tom’s voice when he talks about his neighbors. He speaks faster, his face becomes redder and you can almost see fire in his eyes.",
+    "options": {
+      "A": "appears",
+      "B": "drops",
+      "C": "grows",
+      "D": "rises"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 15,
+    "type": "single",
+    "passage": null,
+    "question": "other waiters in the restaurant have worked here longer than Clark; only Lois and Lana started working here before him.",
+    "options": {
+      "A": "All",
+      "B": "Most",
+      "C": "Some",
+      "D": "Few"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 16,
+    "type": "passage",
+    "passage": "Making goulash",
+    "question": "What are “Daddy and me” doing in the poem?",
+    "options": {
+      "A": "Eating.",
+      "B": "Singing.",
+      "C": "Dancing.",
+      "D": "Cooking."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 17,
+    "type": "passage",
+    "passage": "Making goulash",
+    "question": "What can we most likely know about the I see what he means. speaker?",
+    "options": {
+      "A": "He seldom understands his father.",
+      "B": "He enjoys his time with his father.",
+      "C": "He often makes goulash for his father.",
+      "D": "He wants to be as famous as his father."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "type": "passage",
+    "passage": "City Sight Bus\n          www.citysightbus.org\n                                         &HQWUDO\u00036WDWLRQ\n                                                             )DUPHUV熎\u0003%ULGJH\n                                                                                    4XHHQ\u0003\n                                                                                  0DUJXHULWH熎V\u0003\n                                                                                     3DUN\n                                                                    (DVW\u0010(QG\u0003\n                                    :HVWVLGH\u0003&KXUFK                  7HPSOH\n                           6WDUOLJKW\u0003\n                            *DUGHQ                                                .LQJ\u0003+HQU\\熎V\u0003&DVWOH\n\n                                            *UDQG\u0003&DVWOH\u0003\n                        *UHDW\u0003$JH\u0003         RI\u0003.LQJ\u0003&KDUOHV\n                         7KHDWHU\n                                                                       /RYHUVĬ\u0003         .LQJ\u0003+HQU\\熎V\u0003\n                                                                       %ULGJH              *DUGHQ\n\n                                 &LW\\\u00036TXDUH\n\n                                                  .LQJ\u0003-DPHV熎\u0003&DVWOH\n\n          OPENING HOURS\n            High Season (April to September): 9:00 – 18:00 every day\n            Low Season (October to March): 9:00 – 17:00 every day\n          TICKET PRICES\n            Line A (                    ): $20 each person\n            Line B (                    ): $18 each person\n          THINGS YOU SHOULD KNOW\n            Buses for both lines leave every hour from Central Station.\n            Line A takes one hour; Line B takes 50 minutes.\n            If you are taking your pet with you, please buy a seat for it at half price.\n            Save 10% if you buy tickets on the Internet.\n            Save 10% if you buy tickets for both lines.\n            Go to www.citysightbus.org for more information.",
+    "question": "Which is true about City Sight Bus tickets?",
+    "options": {
+      "A": "It costs less to buy tickets on the Internet.",
+      "B": "People must pay the full ticket price for a pet.",
+      "C": "Tickets are more expensive in the high season.",
+      "D": "People save 10% if they buy two tickets for the same line."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 19,
+    "type": "passage",
+    "passage": "City Sight Bus\n          www.citysightbus.org\n                                         &HQWUDO\u00036WDWLRQ\n                                                             )DUPHUV熎\u0003%ULGJH\n                                                                                    4XHHQ\u0003\n                                                                                  0DUJXHULWH熎V\u0003\n                                                                                     3DUN\n                                                                    (DVW\u0010(QG\u0003\n                                    :HVWVLGH\u0003&KXUFK                  7HPSOH\n                           6WDUOLJKW\u0003\n                            *DUGHQ                                                .LQJ\u0003+HQU\\熎V\u0003&DVWOH\n\n                                            *UDQG\u0003&DVWOH\u0003\n                        *UHDW\u0003$JH\u0003         RI\u0003.LQJ\u0003&KDUOHV\n                         7KHDWHU\n                                                                       /RYHUVĬ\u0003         .LQJ\u0003+HQU\\熎V\u0003\n                                                                       %ULGJH              *DUGHQ\n\n                                 &LW\\\u00036TXDUH\n\n                                                  .LQJ\u0003-DPHV熎\u0003&DVWOH\n\n          OPENING HOURS\n            High Season (April to September): 9:00 – 18:00 every day\n            Low Season (October to March): 9:00 – 17:00 every day\n          TICKET PRICES\n            Line A (                    ): $20 each person\n            Line B (                    ): $18 each person\n          THINGS YOU SHOULD KNOW\n            Buses for both lines leave every hour from Central Station.\n            Line A takes one hour; Line B takes 50 minutes.\n            If you are taking your pet with you, please buy a seat for it at half price.\n            Save 10% if you buy tickets on the Internet.\n            Save 10% if you buy tickets for both lines.\n            Go to www.citysightbus.org for more information.",
+    "question": "Which is true about the bus lines?",
+    "options": {
+      "A": "Line B takes more time.",
+      "B": "Both lines cross Farmers’ Bridge.",
+      "C": "Both lines leave from Central Station.",
+      "D": "There are more gardens to see on Line A."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 20,
+    "type": "passage",
+    "passage": "Sarah: You’re VERY popular today. I’ve had seventeen calls asking for you.\n Mike: Finally! After all these years of kicking and running, I’ve got my own fans!\n        So what did they want? My photos? Do I need to sign my name? Are they\n        starting a fan club for me?\n Sarah: Well, let me ask you this: What day was yesterday?\n Mike: Friday… Why?\n Sarah: Did you forget something?\n Mike: Did I forget… OH, NO! I didn’t pick up my soccer team’s sport shirts from\n        the shop! And we’re having this big game tomorrow!\n Sarah: Yeah. And from what I’ve heard, it’s your team’s most important game this season.\n Mike: OK. I have to go fix this now.\n Sarah: Too late. They’ve tried. It’s not open on the weekend. And if you want to\n        know, they are Johnny, Ricky, Archie, Freddie…\n Mike: I know, I know, everyone on my team. Oh, I’m a dead man now.\n Sarah: Yeah, that was what they said on the phone, seventeen times.",
+    "question": "Why were there seventeen calls asking for Mike?",
+    "options": {
+      "A": "His team was angry at him.",
+      "B": "He is a popular soccer player.",
+      "C": "He did not show up for the game on Friday.",
+      "D": "His name did not appear on the list of players."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "type": "passage",
+    "passage": "Sarah: You’re VERY popular today. I’ve had seventeen calls asking for you.\n Mike: Finally! After all these years of kicking and running, I’ve got my own fans!\n        So what did they want? My photos? Do I need to sign my name? Are they\n        starting a fan club for me?\n Sarah: Well, let me ask you this: What day was yesterday?\n Mike: Friday… Why?\n Sarah: Did you forget something?\n Mike: Did I forget… OH, NO! I didn’t pick up my soccer team’s sport shirts from\n        the shop! And we’re having this big game tomorrow!\n Sarah: Yeah. And from what I’ve heard, it’s your team’s most important game this season.\n Mike: OK. I have to go fix this now.\n Sarah: Too late. They’ve tried. It’s not open on the weekend. And if you want to\n        know, they are Johnny, Ricky, Archie, Freddie…\n Mike: I know, I know, everyone on my team. Oh, I’m a dead man now.\n Sarah: Yeah, that was what they said on the phone, seventeen times.",
+    "question": "What does It mean in the dialogue?",
+    "options": {
+      "A": "The shop.",
+      "B": "The fan club.",
+      "C": "The soccer game.",
+      "D": "The soccer season."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 22,
+    "type": "passage",
+    "passage": "Sarah: You’re VERY popular today. I’ve had seventeen calls asking for you.\n Mike: Finally! After all these years of kicking and running, I’ve got my own fans!\n        So what did they want? My photos? Do I need to sign my name? Are they\n        starting a fan club for me?\n Sarah: Well, let me ask you this: What day was yesterday?\n Mike: Friday… Why?\n Sarah: Did you forget something?\n Mike: Did I forget… OH, NO! I didn’t pick up my soccer team’s sport shirts from\n        the shop! And we’re having this big game tomorrow!\n Sarah: Yeah. And from what I’ve heard, it’s your team’s most important game this season.\n Mike: OK. I have to go fix this now.\n Sarah: Too late. They’ve tried. It’s not open on the weekend. And if you want to\n        know, they are Johnny, Ricky, Archie, Freddie…\n Mike: I know, I know, everyone on my team. Oh, I’m a dead man now.\n Sarah: Yeah, that was what they said on the phone, seventeen times.",
+    "question": "What can we learn about Mike?",
+    "options": {
+      "A": "He is nice to people from his fan club.",
+      "B": "He plays soccer with Johnny and Ricky.",
+      "C": "He found a way to fix the trouble he made.",
+      "D": "He decided not to go to the game on Sunday."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "type": "passage",
+    "passage": "'(&\n                                                                                  \u0015\u0013\u0014\u0019\n\n               Animals have their special ways to deal with hard times in nature.\n          The superb fairy-wren, one kind of bright-blue bird in Australia, is one\n          example. This year, a ten-year study showed that this small bird has\n          eggs of different sizes in different kinds of weather. When the weather\n          is hot and dry, there is less food for young superb fairy-wrens, and they\n          die easily. So the mother bird will make larger eggs to help her babies\n          grow stronger inside before they break out of the eggs into the “hungry”\n          world.\n               However, not all mother birds are able to do this trick. Only those\n                     with at least one male child can. When the weather is “good,”\n                         the mother will make smaller eggs, and her sons will bring\n                      food back for their baby brothers and sisters from the eggs.\n                   With her sons’ help, the mother can save more energy to make\n               larger eggs when the weather is bad. Isn’t this amazing?\n\n                                                         male 雄性 energy 能量",
+    "question": "Which is the best title for this reading?",
+    "options": {
+      "A": "Australia: The Best Place for Birds.  title 標題",
+      "B": "Mother Bird Fights Weather Changes.",
+      "C": "Larger Mother Birds Have Larger Eggs.",
+      "D": "Family Love: Brothers & Sisters Work Together."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 24,
+    "type": "passage",
+    "passage": "'(&\n                                                                                  \u0015\u0013\u0014\u0019\n\n               Animals have their special ways to deal with hard times in nature.\n          The superb fairy-wren, one kind of bright-blue bird in Australia, is one\n          example. This year, a ten-year study showed that this small bird has\n          eggs of different sizes in different kinds of weather. When the weather\n          is hot and dry, there is less food for young superb fairy-wrens, and they\n          die easily. So the mother bird will make larger eggs to help her babies\n          grow stronger inside before they break out of the eggs into the “hungry”\n          world.\n               However, not all mother birds are able to do this trick. Only those\n                     with at least one male child can. When the weather is “good,”\n                         the mother will make smaller eggs, and her sons will bring\n                      food back for their baby brothers and sisters from the eggs.\n                   With her sons’ help, the mother can save more energy to make\n               larger eggs when the weather is bad. Isn’t this amazing?\n\n                                                         male 雄性 energy 能量",
+    "question": "What does this trick mean in the reading?",
+    "options": {
+      "A": "Having eggs of different sizes.",
+      "B": "Growing stronger inside the egg.",
+      "C": "Saving food for weaker baby birds.",
+      "D": "Helping baby birds break out of the eggs."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 25,
+    "type": "passage",
+    "passage": "'(&\n                                                                                  \u0015\u0013\u0014\u0019\n\n               Animals have their special ways to deal with hard times in nature.\n          The superb fairy-wren, one kind of bright-blue bird in Australia, is one\n          example. This year, a ten-year study showed that this small bird has\n          eggs of different sizes in different kinds of weather. When the weather\n          is hot and dry, there is less food for young superb fairy-wrens, and they\n          die easily. So the mother bird will make larger eggs to help her babies\n          grow stronger inside before they break out of the eggs into the “hungry”\n          world.\n               However, not all mother birds are able to do this trick. Only those\n                     with at least one male child can. When the weather is “good,”\n                         the mother will make smaller eggs, and her sons will bring\n                      food back for their baby brothers and sisters from the eggs.\n                   With her sons’ help, the mother can save more energy to make\n               larger eggs when the weather is bad. Isn’t this amazing?\n\n                                                         male 雄性 energy 能量",
+    "question": "What can we learn about superb fairy-wrens from the reading?",
+    "options": {
+      "A": "Male birds can usually live for ten years.",
+      "B": "Baby birds grow well in hot, dry weather.",
+      "C": "Young male birds share the job of feeding the baby birds.",
+      "D": "Mother birds make smaller eggs when there is less food outside."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 26,
+    "type": "passage",
+    "passage": "Here are two pieces of news that Annie collected for her report.\n\n        Papier-mâché is works of art that are made of paper.\n   In Taiwan, it is known as zhizha and is usually burned as\n   a gift for dead people. Taiwan’s papier-mâché is dying\n   because it is not much needed now. However, this dying\n   art won a Frenchman’s heart when he visited the island.\n   He then invited one of the papier-mâché shops, Hsin\n   Hsin Paper Offering Store, to show their beautiful works\n   in France. The shop owner’s son also used papier-\n   mâché in a way that no one ever thought of—making a\n   movie with it.\n\n        Stan Lai is very important in Taiwan’s theater. He brought changes to Chinese\n   theater art of the old days to make it closer to our life experiences and easier to\n                       understand. One of his most famous works is That Evening,\n                       We Performed Crosstalk (1985). It was such a smash hit that\n                       people became interested again in xiangsheng, a show of funny\n                       talk between two actors. This art used to be a hobby that only\n                       a few people shared, but Lai has opened a bigger market for it.\n                       Now it has fans across all ages.\n\n                                                                        work 作品",
+    "question": "What idea is talked about in both pieces of news?",
+    "options": {
+      "A": "More young people need to join in making art.",
+      "B": "People’s ways of enjoying art change with time.",
+      "C": "Bringing important art works to Taiwan from abroad.",
+      "D": "Giving new life to old arts that were almost forgotten."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 27,
+    "type": "passage",
+    "passage": "Here are two pieces of news that Annie collected for her report.\n\n        Papier-mâché is works of art that are made of paper.\n   In Taiwan, it is known as zhizha and is usually burned as\n   a gift for dead people. Taiwan’s papier-mâché is dying\n   because it is not much needed now. However, this dying\n   art won a Frenchman’s heart when he visited the island.\n   He then invited one of the papier-mâché shops, Hsin\n   Hsin Paper Offering Store, to show their beautiful works\n   in France. The shop owner’s son also used papier-\n   mâché in a way that no one ever thought of—making a\n   movie with it.\n\n        Stan Lai is very important in Taiwan’s theater. He brought changes to Chinese\n   theater art of the old days to make it closer to our life experiences and easier to\n                       understand. One of his most famous works is That Evening,\n                       We Performed Crosstalk (1985). It was such a smash hit that\n                       people became interested again in xiangsheng, a show of funny\n                       talk between two actors. This art used to be a hobby that only\n                       a few people shared, but Lai has opened a bigger market for it.\n                       Now it has fans across all ages.\n\n                                                                        work 作品",
+    "question": "What does it mean when something is a smash hit?",
+    "options": {
+      "A": "It is old.",
+      "B": "It is successful.",
+      "C": "It is foreign.",
+      "D": "It is useful."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "type": "passage",
+    "passage": "Here are two pieces of news that Annie collected for her report.\n\n        Papier-mâché is works of art that are made of paper.\n   In Taiwan, it is known as zhizha and is usually burned as\n   a gift for dead people. Taiwan’s papier-mâché is dying\n   because it is not much needed now. However, this dying\n   art won a Frenchman’s heart when he visited the island.\n   He then invited one of the papier-mâché shops, Hsin\n   Hsin Paper Offering Store, to show their beautiful works\n   in France. The shop owner’s son also used papier-\n   mâché in a way that no one ever thought of—making a\n   movie with it.\n\n        Stan Lai is very important in Taiwan’s theater. He brought changes to Chinese\n   theater art of the old days to make it closer to our life experiences and easier to\n                       understand. One of his most famous works is That Evening,\n                       We Performed Crosstalk (1985). It was such a smash hit that\n                       people became interested again in xiangsheng, a show of funny\n                       talk between two actors. This art used to be a hobby that only\n                       a few people shared, but Lai has opened a bigger market for it.\n                       Now it has fans across all ages.\n\n                                                                        work 作品",
+    "question": "What do we know from the news?",
+    "options": {
+      "A": "Lai has taught xiangsheng in many schools.",
+      "B": "Lai often puts his own life stories into his art works.",
+      "C": "The owner of Hsin Hsin Paper Offering Store is a Frenchman.",
+      "D": "People do not burn papier-mâché for dead people as often as before."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 29,
+    "type": "passage",
+    "passage": "VOF News                                                   16/01/2015\n\n      For many people, having a cup of coffee right out of\n  bed is the best way to start a day. But a report from Asap\n  Science says otherwise. It says the worst time for coffee is\n  soon after we get up. When we wake up, our bodies start\n  to make cortisol. Cortisol helps us to think clearly and be\n  quick to understand and act. The cortisol levels rise after we wake up\n  and climb to the highest in about an hour. So there are two problems\n  when we drink coffee during this time: (1) our bodies will make less\n  cortisol, and (2) the cortisol will make coffee less useful. And that’s why\n  some of us drink more and more coffee.\n      Then, when’s the best time to have coffee? When the cortisol levels\n  are going down, the report says. Cortisol levels are usually highest\n  between 8 a.m. and 9 a.m., between noon and 1 p.m., and between 5:30\n  p.m. and 6:30 p.m. So if you want to have coffee, enjoy it after these\n  times, and this popular drink will help you the most.\n\n                                             cortisol 皮質醇 level 數值；濃度",
+    "question": "Which idea is talked about in the news?",
+    "options": {
+      "A": "How often we should drink coffee.",
+      "B": "What happens when we have too much coffee.",
+      "C": "How to help the body make the cortisol we need.",
+      "D": "What happens when we have coffee at the wrong time."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 30,
+    "type": "passage",
+    "passage": "VOF News                                                   16/01/2015\n\n      For many people, having a cup of coffee right out of\n  bed is the best way to start a day. But a report from Asap\n  Science says otherwise. It says the worst time for coffee is\n  soon after we get up. When we wake up, our bodies start\n  to make cortisol. Cortisol helps us to think clearly and be\n  quick to understand and act. The cortisol levels rise after we wake up\n  and climb to the highest in about an hour. So there are two problems\n  when we drink coffee during this time: (1) our bodies will make less\n  cortisol, and (2) the cortisol will make coffee less useful. And that’s why\n  some of us drink more and more coffee.\n      Then, when’s the best time to have coffee? When the cortisol levels\n  are going down, the report says. Cortisol levels are usually highest\n  between 8 a.m. and 9 a.m., between noon and 1 p.m., and between 5:30\n  p.m. and 6:30 p.m. So if you want to have coffee, enjoy it after these\n  times, and this popular drink will help you the most.\n\n                                             cortisol 皮質醇 level 數值；濃度",
+    "question": "What does it mean when someone thinks otherwise about something?",
+    "options": {
+      "A": "They are serious about it.",
+      "B": "They have no idea about it.",
+      "C": "They think differently about it.",
+      "D": "They do not think it is a problem."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 31,
+    "type": "passage",
+    "passage": "VOF News                                                   16/01/2015\n\n      For many people, having a cup of coffee right out of\n  bed is the best way to start a day. But a report from Asap\n  Science says otherwise. It says the worst time for coffee is\n  soon after we get up. When we wake up, our bodies start\n  to make cortisol. Cortisol helps us to think clearly and be\n  quick to understand and act. The cortisol levels rise after we wake up\n  and climb to the highest in about an hour. So there are two problems\n  when we drink coffee during this time: (1) our bodies will make less\n  cortisol, and (2) the cortisol will make coffee less useful. And that’s why\n  some of us drink more and more coffee.\n      Then, when’s the best time to have coffee? When the cortisol levels\n  are going down, the report says. Cortisol levels are usually highest\n  between 8 a.m. and 9 a.m., between noon and 1 p.m., and between 5:30\n  p.m. and 6:30 p.m. So if you want to have coffee, enjoy it after these\n  times, and this popular drink will help you the most.\n\n                                             cortisol 皮質醇 level 數值；濃度",
+    "question": "The picture below shows how the cortisol levels rise and fall during the day. From the news, which is a good time for coffee?",
+    "options": {
+      "A": "A. C",
+      "B": "B.",
+      "C": "C. B",
+      "D": "D. 15"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 32,
+    "type": "passage",
+    "passage": "VOF News                                                   16/01/2015\n\n      For many people, having a cup of coffee right out of\n  bed is the best way to start a day. But a report from Asap\n  Science says otherwise. It says the worst time for coffee is\n  soon after we get up. When we wake up, our bodies start\n  to make cortisol. Cortisol helps us to think clearly and be\n  quick to understand and act. The cortisol levels rise after we wake up\n  and climb to the highest in about an hour. So there are two problems\n  when we drink coffee during this time: (1) our bodies will make less\n  cortisol, and (2) the cortisol will make coffee less useful. And that’s why\n  some of us drink more and more coffee.\n      Then, when’s the best time to have coffee? When the cortisol levels\n  are going down, the report says. Cortisol levels are usually highest\n  between 8 a.m. and 9 a.m., between noon and 1 p.m., and between 5:30\n  p.m. and 6:30 p.m. So if you want to have coffee, enjoy it after these\n  times, and this popular drink will help you the most.\n\n                                             cortisol 皮質醇 level 數值；濃度",
+    "question": "Four people read the news and wrote what they thought about it. Mike Jan 16 8:26 pm The best time to drink coffee is when you want to drink coffee. Sarah Jan 16 8:43 pm I usually wake up AFTER I drink coffee! Charlie Jan 16 8:59 pm The worst time to drink coffee is when you're DEAD. Lisa Jan 16 9:18 pm If you need someone to tell you when to drink coffee, well, that’s just sad. What did they think about the news?",
+    "options": {
+      "A": "They wanted to try what it said.",
+      "B": "They were sad about what it said.",
+      "C": "They did not agree with what it said.",
+      "D": "They were not surprised at what it said."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 33,
+    "type": "passage",
+    "passage": "Below is part of a new shopping center’s market report.\n\n   Our busiest time is weekend afternoons, between 1:30 p.m. and 3:30 p.m.\n   About half the business of the week is done then. So it would be better if\n   we move Weekend’s Best Buy from Saturday evening to Saturday afternoon\n   when there may be more shoppers during the sale. We should also think\n   about having more free buses during the weekend, as 75% of the shoppers\n   who were interviewed said two buses an hour are just not enough.\n\n   Weekend evenings are second busiest, though it is not as good as last season.\n   An interesting fact is that business is better on weekday evenings, usually\n   one hour before closing, than on weekend mornings. Most of the shoppers\n   then are people who live near or working parents who do their last-minute\n                 shopping. They together make up almost 60% of the business\n                 on weekday evenings. It might bring in more business if we\n                 open half an hour longer during weekdays, until 10:30 p.m.\n\n                                                   as 由於 make up 構成；組成",
+    "question": "What does the report NOT suggest?",
+    "options": {
+      "A": "Having more free buses for shoppers.",
+      "B": "Changing the opening hours on weekdays.",
+      "C": "Making plans to help weekday morning business.",
+      "D": "Changing the time of the special sale on weekends."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 34,
+    "type": "passage",
+    "passage": "Below is part of a new shopping center’s market report.\n\n   Our busiest time is weekend afternoons, between 1:30 p.m. and 3:30 p.m.\n   About half the business of the week is done then. So it would be better if\n   we move Weekend’s Best Buy from Saturday evening to Saturday afternoon\n   when there may be more shoppers during the sale. We should also think\n   about having more free buses during the weekend, as 75% of the shoppers\n   who were interviewed said two buses an hour are just not enough.\n\n   Weekend evenings are second busiest, though it is not as good as last season.\n   An interesting fact is that business is better on weekday evenings, usually\n   one hour before closing, than on weekend mornings. Most of the shoppers\n   then are people who live near or working parents who do their last-minute\n                 shopping. They together make up almost 60% of the business\n                 on weekday evenings. It might bring in more business if we\n                 open half an hour longer during weekdays, until 10:30 p.m.\n\n                                                   as 由於 make up 構成；組成",
+    "question": "What does the report say about the shopping center?",
+    "options": {
+      "A": "Its business on weekdays is not as good as last season.",
+      "B": "It has a special sale one hour before closing every day.",
+      "C": "Most of the shoppers take the free buses to the shopping center.",
+      "D": "A large part of its shoppers on weekday evenings are working parents."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 35,
+    "type": "passage",
+    "passage": "Below is part of a new shopping center’s market report.\n\n   Our busiest time is weekend afternoons, between 1:30 p.m. and 3:30 p.m.\n   About half the business of the week is done then. So it would be better if\n   we move Weekend’s Best Buy from Saturday evening to Saturday afternoon\n   when there may be more shoppers during the sale. We should also think\n   about having more free buses during the weekend, as 75% of the shoppers\n   who were interviewed said two buses an hour are just not enough.\n\n   Weekend evenings are second busiest, though it is not as good as last season.\n   An interesting fact is that business is better on weekday evenings, usually\n   one hour before closing, than on weekend mornings. Most of the shoppers\n   then are people who live near or working parents who do their last-minute\n                 shopping. They together make up almost 60% of the business\n                 on weekday evenings. It might bring in more business if we\n                 open half an hour longer during weekdays, until 10:30 p.m.\n\n                                                   as 由於 make up 構成；組成",
+    "question": "Which picture is most likely used in the report?",
+    "options": {
+      "A": " likely 可能",
+      "B": "3% 15%",
+      "C": "3%",
+      "D": "3% 10%"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 36,
+    "type": "passage",
+    "passage": "Dear Maggie,\n\n         I know you won’t be happy but I still have to say this again. It hurts me\n    to think that you’re going to   36  . I know you’ve always wanted to be\n    like those actresses with big eyes and slim legs, but in fact you are already\n    beautiful. What you are born with makes you special because nobody\n    looks the same as you.\n         It worries me more that   37  . But sadly, there’s no quick fix to this,\n    not even with the doctor’s help. If you don’t try to like yourself first, no\n    one else will. People like you not because of your face, but because of\n    your heart. You need to understand this first. Until you understand this,\n    nothing is going to be different even if you have this change.\n         I truly hope you think this through again.\n\n    Love,\n    Linda",
+    "question": "",
+    "options": {
+      "A": "change the way you are",
+      "B": "give up being an actress",
+      "C": "travel with a theater group",
+      "D": "run away from your friends"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 37,
+    "type": "passage",
+    "passage": "Dear Maggie,\n\n         I know you won’t be happy but I still have to say this again. It hurts me\n    to think that you’re going to   36  . I know you’ve always wanted to be\n    like those actresses with big eyes and slim legs, but in fact you are already\n    beautiful. What you are born with makes you special because nobody\n    looks the same as you.\n         It worries me more that   37  . But sadly, there’s no quick fix to this,\n    not even with the doctor’s help. If you don’t try to like yourself first, no\n    one else will. People like you not because of your face, but because of\n    your heart. You need to understand this first. Until you understand this,\n    nothing is going to be different even if you have this change.\n         I truly hope you think this through again.\n\n    Love,\n    Linda",
+    "question": "",
+    "options": {
+      "A": "you’re too shy to talk with people",
+      "B": "you just don’t want to be like others",
+      "C": "you don’t think you’re good enough",
+      "D": "you don’t know what you’ve missed"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 38,
+    "type": "passage",
+    "passage": "Elizabeth Alexandra Mary Windsor was born in London on April\n          21, 1926. No one thought one day she   38   the queen of the UK.\n          After her grandfather, King George V, died in 1936, Elizabeth’s uncle,\n          Prince Edward, became King Edward VIII. Edward   39   in love\n          with a married American woman long before, and he decided to marry\n          her after he became the king. However, Edward was asked to choose\n          between the throne and his love. Finally, he decided to give up the\n          throne.\n                 40  . After Edward VIII gave up the throne, Elizabeth’s father\n          became King George VI. As the oldest child without any brothers,\n          Elizabeth became next in line to the throne. She needed to say goodbye\n          to her good old life and prepare to be a queen. After her father died in\n          1952, she became Queen Elizabeth II.\n               Ever since she became head of her country, Queen Elizabeth II\n            41  : She has held meetings with important people in the UK, and\n          has visited many foreign countries. In the few hours she keeps to herself,\n          however, she reads and enjoys horseback riding.\n\n                                                                         throne 王位",
+    "question": "",
+    "options": {
+      "A": "has become",
+      "B": "became",
+      "C": "had become",
+      "D": "would become"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 39,
+    "type": "passage",
+    "passage": "Elizabeth Alexandra Mary Windsor was born in London on April\n          21, 1926. No one thought one day she   38   the queen of the UK.\n          After her grandfather, King George V, died in 1936, Elizabeth’s uncle,\n          Prince Edward, became King Edward VIII. Edward   39   in love\n          with a married American woman long before, and he decided to marry\n          her after he became the king. However, Edward was asked to choose\n          between the throne and his love. Finally, he decided to give up the\n          throne.\n                 40  . After Edward VIII gave up the throne, Elizabeth’s father\n          became King George VI. As the oldest child without any brothers,\n          Elizabeth became next in line to the throne. She needed to say goodbye\n          to her good old life and prepare to be a queen. After her father died in\n          1952, she became Queen Elizabeth II.\n               Ever since she became head of her country, Queen Elizabeth II\n            41  : She has held meetings with important people in the UK, and\n          has visited many foreign countries. In the few hours she keeps to herself,\n          however, she reads and enjoys horseback riding.\n\n                                                                         throne 王位",
+    "question": "",
+    "options": {
+      "A": "has fallen",
+      "B": "is falling",
+      "C": "had fallen",
+      "D": "would fall"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 40,
+    "type": "passage",
+    "passage": "Elizabeth Alexandra Mary Windsor was born in London on April\n          21, 1926. No one thought one day she   38   the queen of the UK.\n          After her grandfather, King George V, died in 1936, Elizabeth’s uncle,\n          Prince Edward, became King Edward VIII. Edward   39   in love\n          with a married American woman long before, and he decided to marry\n          her after he became the king. However, Edward was asked to choose\n          between the throne and his love. Finally, he decided to give up the\n          throne.\n                 40  . After Edward VIII gave up the throne, Elizabeth’s father\n          became King George VI. As the oldest child without any brothers,\n          Elizabeth became next in line to the throne. She needed to say goodbye\n          to her good old life and prepare to be a queen. After her father died in\n          1952, she became Queen Elizabeth II.\n               Ever since she became head of her country, Queen Elizabeth II\n            41  : She has held meetings with important people in the UK, and\n          has visited many foreign countries. In the few hours she keeps to herself,\n          however, she reads and enjoys horseback riding.\n\n                                                                         throne 王位",
+    "question": "",
+    "options": {
+      "A": "This changed Elizabeth’s life",
+      "B": "It was not easy to give up the throne",
+      "C": "It was good news to Elizabeth and her family",
+      "D": "This part of history made the UK a strong country"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 41,
+    "type": "passage",
+    "passage": "Elizabeth Alexandra Mary Windsor was born in London on April\n          21, 1926. No one thought one day she   38   the queen of the UK.\n          After her grandfather, King George V, died in 1936, Elizabeth’s uncle,\n          Prince Edward, became King Edward VIII. Edward   39   in love\n          with a married American woman long before, and he decided to marry\n          her after he became the king. However, Edward was asked to choose\n          between the throne and his love. Finally, he decided to give up the\n          throne.\n                 40  . After Edward VIII gave up the throne, Elizabeth’s father\n          became King George VI. As the oldest child without any brothers,\n          Elizabeth became next in line to the throne. She needed to say goodbye\n          to her good old life and prepare to be a queen. After her father died in\n          1952, she became Queen Elizabeth II.\n               Ever since she became head of her country, Queen Elizabeth II\n            41  : She has held meetings with important people in the UK, and\n          has visited many foreign countries. In the few hours she keeps to herself,\n          however, she reads and enjoys horseback riding.\n\n                                                                         throne 王位",
+    "question": "",
+    "options": {
+      "A": "has worked hard for the UK",
+      "B": "has been popular with the people of the UK",
+      "C": "has been the queen of the UK for a long time",
+      "D": "has brought the people of the UK much closer"
+    },
+    "answer": "A"
+  }
+]

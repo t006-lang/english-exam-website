@@ -1,0 +1,561 @@
+[
+  {
+    "id": 1,
+    "type": "single",
+    "passage": null,
+    "question": "Look at the picture. A is flying over the houses.",
+    "options": {
+      "A": "bird",
+      "B": "butterfly",
+      "C": "kite",
+      "D": "plane"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 2,
+    "type": "single",
+    "passage": null,
+    "question": "When I was a teenager, I was very . But now, it’s easier for me to talk to people.",
+    "options": {
+      "A": "happy",
+      "B": "lazy",
+      "C": "popular",
+      "D": "shy"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 3,
+    "type": "single",
+    "passage": null,
+    "question": "Lena doesn’t want to go with John because she is afraid of water.",
+    "options": {
+      "A": "dancing",
+      "B": "hiking",
+      "C": "sailing",
+      "D": "shopping"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "type": "single",
+    "passage": null,
+    "question": "Cindy enjoys her dad read stories to her before bed.",
+    "options": {
+      "A": "to listen to",
+      "B": "listening to",
+      "C": "listen to",
+      "D": "listens to"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "type": "single",
+    "passage": null,
+    "question": "Dad is busy cooking in the kitchen. Dinner will be in ten minutes.",
+    "options": {
+      "A": "free",
+      "B": "full",
+      "C": "medium",
+      "D": "ready"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 6,
+    "type": "single",
+    "passage": null,
+    "question": "There are so many new in the office. It’ll take me some time to remember who is who.",
+    "options": {
+      "A": "faces",
+      "B": "ideas",
+      "C": "rules",
+      "D": "tools"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 7,
+    "type": "single",
+    "passage": null,
+    "question": "I feel like a . I was looking for my keys for hours but they have been in my pocket the whole time.",
+    "options": {
+      "A": "fool",
+      "B": "ghost",
+      "C": "king",
+      "D": "stranger"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 8,
+    "type": "single",
+    "passage": null,
+    "question": "Mr. and Mrs. Wu have three daughters. Two are in high school, and is in elementary school.",
+    "options": {
+      "A": "each",
+      "B": "the other",
+      "C": "the one",
+      "D": "the next"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "type": "single",
+    "passage": null,
+    "question": "It is hard for trees to along this beach because of the strong winds from the sea.",
+    "options": {
+      "A": "blow",
+      "B": "build",
+      "C": "follow",
+      "D": "grow"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 10,
+    "type": "single",
+    "passage": null,
+    "question": "Christmas and I want to visit my aunt abroad. Do you have any plans yet?",
+    "options": {
+      "A": "came",
+      "B": "comes",
+      "C": "is coming",
+      "D": "was coming"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "type": "single",
+    "passage": null,
+    "question": "Jo won’t be happy if you’re late for his party tonight, so sure that you arrive on time.",
+    "options": {
+      "A": "make",
+      "B": "makes",
+      "C": "to make",
+      "D": "is making"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "type": "single",
+    "passage": null,
+    "question": "You may have a long drive because of the terrible . There are usually a lot of cars and buses during this time.",
+    "options": {
+      "A": "experience",
+      "B": "machine",
+      "C": "service",
+      "D": "traffic"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 13,
+    "type": "single",
+    "passage": null,
+    "question": "In the future, there will be greater basketball players than Stephen Curry, but now we believe he is the best!",
+    "options": {
+      "A": "again",
+      "B": "already",
+      "C": "never",
+      "D": "perhaps"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 14,
+    "type": "single",
+    "passage": null,
+    "question": "I guess the rainwater has come in from the kitchen. See? of the windows are closed except the one in the kitchen.",
+    "options": {
+      "A": "All",
+      "B": "Both",
+      "C": "Most",
+      "D": "Some"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 15,
+    "type": "single",
+    "passage": null,
+    "question": "machines have been used to pick fruits for a long time, they were not used on strawberry farms until several years ago.",
+    "options": {
+      "A": "Although",
+      "B": "Because",
+      "C": "Before",
+      "D": "If"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 16,
+    "type": "single",
+    "passage": null,
+    "question": "There are online videos that teach you exercises you can do at home. They’ll you a trip to the gym, and some money too.",
+    "options": {
+      "A": "cost",
+      "B": "give",
+      "C": "keep",
+      "D": "save"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 17,
+    "type": "single",
+    "passage": null,
+    "question": "Jane’s parents are always happy to see their grandchildren, but mine less so when I visit them with my kids.",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "do",
+      "D": "does"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "type": "single",
+    "passage": null,
+    "question": "Before she about it, you should tell Daphne you broke her favorite cup.",
+    "options": {
+      "A": "asks",
+      "B": "asked",
+      "C": "was asking",
+      "D": "will ask"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 19,
+    "type": "single",
+    "passage": null,
+    "question": "It was very windy this morning. Some of the shirts on the balcony were blown away in the pond.",
+    "options": {
+      "A": "fell",
+      "B": "and fell",
+      "C": "fallen",
+      "D": "and fallen"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "type": "passage",
+    "passage": "Rex is a dog that lives at the bakery next to our school.  He is cute and friendly.  \n      Every morning, he stands in front of the school to welcome everybody.  We all see Rex\n      as one of us.  But one Monday morning, I was surprised that Rex was not there to say\n      hello to us.  “Rex is in the hospital.  He was hit by a car last night,” my classmate told me.  \n      We went to see Rex in the hospital that day after school.  Two weeks later, Rex was much\n      better, and we decided to take him for a walk every evening.  Because of the exercise, Rex\n      became healthier and stronger.  Soon he could happily run and jump again.  He is now as\n      handsome and strong as before!",
+    "question": "What happened to Rex?",
+    "options": {
+      "A": "He got lost.",
+      "B": "He got hurt.",
+      "C": "He bit people.",
+      "D": "He ate too much."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 21,
+    "type": "passage",
+    "passage": "Rex is a dog that lives at the bakery next to our school.  He is cute and friendly.  \n      Every morning, he stands in front of the school to welcome everybody.  We all see Rex\n      as one of us.  But one Monday morning, I was surprised that Rex was not there to say\n      hello to us.  “Rex is in the hospital.  He was hit by a car last night,” my classmate told me.  \n      We went to see Rex in the hospital that day after school.  Two weeks later, Rex was much\n      better, and we decided to take him for a walk every evening.  Because of the exercise, Rex\n      became healthier and stronger.  Soon he could happily run and jump again.  He is now as\n      handsome and strong as before!",
+    "question": "How did the writer help Rex?",
+    "options": {
+      "A": "By calling the police.",
+      "B": "By making him exercise.",
+      "C": "By taking him to see a doctor.",
+      "D": "By looking for a new home for him."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "type": "passage",
+    "passage": null,
+    "question": "What do we know about Mark from the dialogue?",
+    "options": {
+      "A": "He made Linda unhappy.",
+      "B": "He is looking for a new job.",
+      "C": "He did not like Linda’s cake.",
+      "D": "He is getting married to Jenny."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 23,
+    "type": "passage",
+    "passage": null,
+    "question": "Which is most likely an example of stealing someone＇ s thunder?  likely 可能",
+    "options": {
+      "A": "Dennis never changes his mind except when his wife tells him to.",
+      "B": "Melisa tells Tom she’ll go to the party but tells her mom she’ll stay home.",
+      "C": "Jeff tells everyone he’ll move abroad when Ivy is still telling them about her baby.",
+      "D": "\u0007Alisa says she doesn’t care what we have for lunch but also doesn’t like the restaurant"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 24,
+    "type": "passage",
+    "passage": "Buy a White Lake City Card When You’re in the City\n     With any of the Cards, you can\n      - visit the city by metro, bus, or train as many times as you want. *\n      - take one child under 12 with you for free.\n      - save 20% on tickets to public museums.\n     \u0007The 1-day, 3-day, and 5-day Cards are for trips from Monday to Friday, and the\n      Weekend Card is for trips on weekends and holidays.\n     Check the map and buy the right Card for the zones you’ll be entering.\n\n          Card    Zone 1 Zones 1-2          Zones 1-3\n          1-day     $20           $40         $60\n          3-day     $40           $60         $80\n          5-day     $50           $80         $110\n     Weekend        $30           $50         $80\n     * The Cards are only for trips inside the three zones.\n\n      ⓐ White Lake Main Station\n      ⓑ Museum of White Lake City History\n      ⓒ Museum of Modern Art\n      ⓓ White Lake\n      ⓔ White Lake Castle\n      ⓕ White Lake Airport\n\n                                                                                 zone 區",
+    "question": "What can you do with a White Lake City Card?",
+    "options": {
+      "A": "Save 20% on children’s train tickets.",
+      "B": "Visit any public museum in the city for free.",
+      "C": "Take a train to places out of the three zones.",
+      "D": "Move around the city by metro as much as you want."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 25,
+    "type": "passage",
+    "passage": "Buy a White Lake City Card When You’re in the City\n     With any of the Cards, you can\n      - visit the city by metro, bus, or train as many times as you want. *\n      - take one child under 12 with you for free.\n      - save 20% on tickets to public museums.\n     \u0007The 1-day, 3-day, and 5-day Cards are for trips from Monday to Friday, and the\n      Weekend Card is for trips on weekends and holidays.\n     Check the map and buy the right Card for the zones you’ll be entering.\n\n          Card    Zone 1 Zones 1-2          Zones 1-3\n          1-day     $20           $40         $60\n          3-day     $40           $60         $80\n          5-day     $50           $80         $110\n     Weekend        $30           $50         $80\n     * The Cards are only for trips inside the three zones.\n\n      ⓐ White Lake Main Station\n      ⓑ Museum of White Lake City History\n      ⓒ Museum of Modern Art\n      ⓓ White Lake\n      ⓔ White Lake Castle\n      ⓕ White Lake Airport\n\n                                                                                 zone 區",
+    "question": "Stacy is going to White Lake City and is staying at a hotel near the White Lake Main Station. She wants to visit the Museum of White Lake City History on Friday and see White Lake on Saturday. If she plans to buy (a) White Lake City Card(s), which of the four choices will be best for her and cost her the least?",
+    "options": {
+      "A": "A 3-day Card for Zone 1.",
+      "B": "A Weekend Card for Zones 1-3.",
+      "C": "A 1-day Card for Zone 1 and a Weekend Card for Zones 1-2.",
+      "D": "A 1-day Card for Zones 1-2 and a Weekend Card for Zones 1-2."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 26,
+    "type": "passage",
+    "passage": "At 5 o’clock every morning, while most people are sleeping,\n                         16-year-old Libby Larson is already up.  She mops the floor, gets\n                         the mail and the newspapers, and gets ready for visitors to Rolling\n                         Acres.   Libby’s grandparents started Rolling Acres in 1970, and\n                         since then all of the Larson family have been working there.  \n                         Rolling Acres used to be just a sheep farm, but now, with its fruit\n                         trees, vegetable gardens, and many other kinds of animals, it has\n                         become a popular place for families to go on vacation.  Visitors can\n                         pick fruits, collect eggs, and feed the animals.  It is one of Libby’s\n                         jobs to show kids how to feed the baby sheep.\n\n  For her work, Libby is paid $10 an hour.  This summer, she expects to make about $1,200\n  and plans to buy a cell phone.  Her friends think it’s great to make that much money in a\n  summer.  However, for Libby, working at a family business also means making sacrifices.\n  “I’d love to sleep until noon or go to summer camp like other kids.  My friends stopped\n  inviting me on trips because I’m always busy in the summer.”  However, Libby also said,\n  “But it’s better to see both sides.  Working with your family is great.  You feel closer to\n  each other.”",
+    "question": "What is Rolling Acres?",
+    "options": {
+      "A": "A zoo.",
+      "B": "A campground.",
+      "C": "A vacation farm.",
+      "D": "A family restaurant."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 27,
+    "type": "passage",
+    "passage": "At 5 o’clock every morning, while most people are sleeping,\n                         16-year-old Libby Larson is already up.  She mops the floor, gets\n                         the mail and the newspapers, and gets ready for visitors to Rolling\n                         Acres.   Libby’s grandparents started Rolling Acres in 1970, and\n                         since then all of the Larson family have been working there.  \n                         Rolling Acres used to be just a sheep farm, but now, with its fruit\n                         trees, vegetable gardens, and many other kinds of animals, it has\n                         become a popular place for families to go on vacation.  Visitors can\n                         pick fruits, collect eggs, and feed the animals.  It is one of Libby’s\n                         jobs to show kids how to feed the baby sheep.\n\n  For her work, Libby is paid $10 an hour.  This summer, she expects to make about $1,200\n  and plans to buy a cell phone.  Her friends think it’s great to make that much money in a\n  summer.  However, for Libby, working at a family business also means making sacrifices.\n  “I’d love to sleep until noon or go to summer camp like other kids.  My friends stopped\n  inviting me on trips because I’m always busy in the summer.”  However, Libby also said,\n  “But it’s better to see both sides.  Working with your family is great.  You feel closer to\n  each other.”",
+    "question": "What do we learn from the first paragraph?  paragraph 段落",
+    "options": {
+      "A": "What Libby does at Rolling Acres.",
+      "B": "What visitors think of Rolling Acres.",
+      "C": "Why Libby’s grandparents started Rolling Acres.",
+      "D": "What the Larson family’s plans are for Rolling Acres."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 28,
+    "type": "passage",
+    "passage": "At 5 o’clock every morning, while most people are sleeping,\n                         16-year-old Libby Larson is already up.  She mops the floor, gets\n                         the mail and the newspapers, and gets ready for visitors to Rolling\n                         Acres.   Libby’s grandparents started Rolling Acres in 1970, and\n                         since then all of the Larson family have been working there.  \n                         Rolling Acres used to be just a sheep farm, but now, with its fruit\n                         trees, vegetable gardens, and many other kinds of animals, it has\n                         become a popular place for families to go on vacation.  Visitors can\n                         pick fruits, collect eggs, and feed the animals.  It is one of Libby’s\n                         jobs to show kids how to feed the baby sheep.\n\n  For her work, Libby is paid $10 an hour.  This summer, she expects to make about $1,200\n  and plans to buy a cell phone.  Her friends think it’s great to make that much money in a\n  summer.  However, for Libby, working at a family business also means making sacrifices.\n  “I’d love to sleep until noon or go to summer camp like other kids.  My friends stopped\n  inviting me on trips because I’m always busy in the summer.”  However, Libby also said,\n  “But it’s better to see both sides.  Working with your family is great.  You feel closer to\n  each other.”",
+    "question": "What does making sacrifices mean?",
+    "options": {
+      "A": "Learning to make money and use it wisely.",
+      "B": "Getting to know different sides of your family.",
+      "C": "Making excuses for failing to do something difficult.",
+      "D": "Giving up something important to do something else."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 29,
+    "type": "passage",
+    "passage": "Around the year 400, people came to Easter Island.\n\n                                  So many trees here!\n\n                                                        In their free time, they loved\n      They used trees to make fire and                  making statues with big rocks. With\n      build houses. Because of the trees,               the trees they cut down, they could\n      people had a great life on the island.            move the statues around easily.\n\n              Trees were needed and used in every part of their life.\n              Years passed, and there were fewer and fewer trees on Easter Island.\n\n          Without enough trees to keep                                 And I’m hungry.\n          water under the ground, the land              I’m thirsty.\n          became dry, and plants didn’t grow.\n          People began to fight for water and food. The statues were moved to fighting\n          grounds to show their power. The last trees were probably cut down at this time.\n\n      Those who cut down                               Let’s not make Earth, our only home,\n      the last trees surely                            another Easter Island.\n      understood how\n      important trees were\n      to them—but still,\n      they did it. When the\n      last trees fell to the\n      ground, people on the\n      island fell, too.",
+    "question": "What do the comics tell us?",
+    "options": {
+      "A": "Enjoy life while we can.",
+      "B": "Follow the old ways of life.",
+      "C": "Save our planet before it’s too late.",
+      "D": "Treat others the way we want to be treated."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 30,
+    "type": "passage",
+    "passage": "Around the year 400, people came to Easter Island.\n\n                                  So many trees here!\n\n                                                        In their free time, they loved\n      They used trees to make fire and                  making statues with big rocks. With\n      build houses. Because of the trees,               the trees they cut down, they could\n      people had a great life on the island.            move the statues around easily.\n\n              Trees were needed and used in every part of their life.\n              Years passed, and there were fewer and fewer trees on Easter Island.\n\n          Without enough trees to keep                                 And I’m hungry.\n          water under the ground, the land              I’m thirsty.\n          became dry, and plants didn’t grow.\n          People began to fight for water and food. The statues were moved to fighting\n          grounds to show their power. The last trees were probably cut down at this time.\n\n      Those who cut down                               Let’s not make Earth, our only home,\n      the last trees surely                            another Easter Island.\n      understood how\n      important trees were\n      to them—but still,\n      they did it. When the\n      last trees fell to the\n      ground, people on the\n      island fell, too.",
+    "question": "What can we learn about the people in the comics?",
+    "options": {
+      "A": "They made fire before starting a fight.",
+      "B": "They fought for land and plants all the time.",
+      "C": "They prayed to the statues beside a large fire.",
+      "D": "They used statues to show how strong they were."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 31,
+    "type": "passage",
+    "passage": "Around the year 400, people came to Easter Island.\n\n                                  So many trees here!\n\n                                                        In their free time, they loved\n      They used trees to make fire and                  making statues with big rocks. With\n      build houses. Because of the trees,               the trees they cut down, they could\n      people had a great life on the island.            move the statues around easily.\n\n              Trees were needed and used in every part of their life.\n              Years passed, and there were fewer and fewer trees on Easter Island.\n\n          Without enough trees to keep                                 And I’m hungry.\n          water under the ground, the land              I’m thirsty.\n          became dry, and plants didn’t grow.\n          People began to fight for water and food. The statues were moved to fighting\n          grounds to show their power. The last trees were probably cut down at this time.\n\n      Those who cut down                               Let’s not make Earth, our only home,\n      the last trees surely                            another Easter Island.\n      understood how\n      important trees were\n      to them—but still,\n      they did it. When the\n      last trees fell to the\n      ground, people on the\n      island fell, too.",
+    "question": "What does did it in Picture 7 mean?",
+    "options": {
+      "A": "Fall to the ground.",
+      "B": "Cut down the last trees.",
+      "C": "Move the statues to fighting grounds.",
+      "D": "Understand how important trees were."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "type": "passage",
+    "passage": "Many years ago, Dan Ariely bought a cabinet from IKEA.  IKEA is a\n     famous furniture store that sells boxes of furniture parts.  People who\n     buy them have to put all the parts together themselves.  It took Ariely hours to build\n     his cabinet.  Ariely didn’t really enjoy himself when he was trying to put all the parts\n     together.  However, after he finished, he felt quite good about himself and his cabinet.  \n     Later, he found that he loved his cabinet more than any of his other furniture.  \n\n                       Ariely wanted to know if anyone shared his feelings, so he did\n                       a fun origami study.  He invited two groups of people to join his\n                       study.  He called one group “builders” and the other group “buyers.”  \n     Builders were told to make origami, like paper frogs or paper birds.  When they\n     finished, they were asked how much they would spend on their works.  Ariely then\n     showed the origami to buyers and asked them how much they would pay for them.  \n     The two groups gave very different answers.  Though buyers would pay only five\n     cents for builders’ origami, builders would spend 25 cents!  Interestingly, builders\n     believed others would think their works were good enough to cost that much money!\n\n     Ariely’s study showed that he was not alone in his IKEA experience — we just love\n     things more, sometimes blindly, when we make them ourselves.  Ariely called it “the\n     IKEA effect.”\n\n                                                                effect 效應          furniture 家具",
+    "question": "What did Ariely try to find out in the origami study?",
+    "options": {
+      "A": "If he could stop the IKEA effect.",
+      "B": "Why people love making origami.",
+      "C": "Why IKEA furniture is so famous.",
+      "D": "If anyone shared his IKEA experience."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 33,
+    "type": "passage",
+    "passage": "Many years ago, Dan Ariely bought a cabinet from IKEA.  IKEA is a\n     famous furniture store that sells boxes of furniture parts.  People who\n     buy them have to put all the parts together themselves.  It took Ariely hours to build\n     his cabinet.  Ariely didn’t really enjoy himself when he was trying to put all the parts\n     together.  However, after he finished, he felt quite good about himself and his cabinet.  \n     Later, he found that he loved his cabinet more than any of his other furniture.  \n\n                       Ariely wanted to know if anyone shared his feelings, so he did\n                       a fun origami study.  He invited two groups of people to join his\n                       study.  He called one group “builders” and the other group “buyers.”  \n     Builders were told to make origami, like paper frogs or paper birds.  When they\n     finished, they were asked how much they would spend on their works.  Ariely then\n     showed the origami to buyers and asked them how much they would pay for them.  \n     The two groups gave very different answers.  Though buyers would pay only five\n     cents for builders’ origami, builders would spend 25 cents!  Interestingly, builders\n     believed others would think their works were good enough to cost that much money!\n\n     Ariely’s study showed that he was not alone in his IKEA experience — we just love\n     things more, sometimes blindly, when we make them ourselves.  Ariely called it “the\n     IKEA effect.”\n\n                                                                effect 效應          furniture 家具",
+    "question": "Which is true about the origami study?",
+    "options": {
+      "A": "Buyers would spend less on builders’ origami than builders would.",
+      "B": "Builders and buyers needed to decide a price on the origami they made.",
+      "C": "Builders knew others would not pay as much for the origami as they would.",
+      "D": "Buyers would spend more on builders’ origami after knowing how they were made."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 34,
+    "type": "passage",
+    "passage": "Many years ago, Dan Ariely bought a cabinet from IKEA.  IKEA is a\n     famous furniture store that sells boxes of furniture parts.  People who\n     buy them have to put all the parts together themselves.  It took Ariely hours to build\n     his cabinet.  Ariely didn’t really enjoy himself when he was trying to put all the parts\n     together.  However, after he finished, he felt quite good about himself and his cabinet.  \n     Later, he found that he loved his cabinet more than any of his other furniture.  \n\n                       Ariely wanted to know if anyone shared his feelings, so he did\n                       a fun origami study.  He invited two groups of people to join his\n                       study.  He called one group “builders” and the other group “buyers.”  \n     Builders were told to make origami, like paper frogs or paper birds.  When they\n     finished, they were asked how much they would spend on their works.  Ariely then\n     showed the origami to buyers and asked them how much they would pay for them.  \n     The two groups gave very different answers.  Though buyers would pay only five\n     cents for builders’ origami, builders would spend 25 cents!  Interestingly, builders\n     believed others would think their works were good enough to cost that much money!\n\n     Ariely’s study showed that he was not alone in his IKEA experience — we just love\n     things more, sometimes blindly, when we make them ourselves.  Ariely called it “the\n     IKEA effect.”\n\n                                                                effect 效應          furniture 家具",
+    "question": "Jerry just can’t get his daughter Mia to eat more vegetables at dinner. Every time he tries to do so, there is always a lot of shouting and crying. If Jerry wants to have Mia eat more vegetables by using the IKEA effect, what should he do?",
+    "options": {
+      "A": "Tell Mia that he cooks the vegetables just for her.",
+      "B": "Ask Mia to help him cook vegetables for her meal.",
+      "C": "Give Mia her favorite candy after she eats vegetables.",
+      "D": "Ask Mia what vegetables she likes and cook them for her."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 35,
+    "type": "passage",
+    "passage": "In the picture is a UK electricity worker in the 1970s.  Pictures like this appeared in\n  many newspapers at the time.  In 1972, electricity workers in the UK asked to be paid more,\n  and they decided to stop working until their wish was answered.  The government worried\n  that there wouldn’t be enough electricity for the country if these workers didn’t go to work,\n  so it agreed to give them the pay rise.  However, the story didn’t end there.\n        A year later, the electricity workers asked for another pay rise.  To get what they\n  wanted, they worked shorter hours and acted like they would walk away from their job\n  anytime.  But this time, the government decided to fight.  To save electricity, it made new\n  rules for people to follow.  For example, each family could turn on the heat in only one\n  room; TV stations had to stop their shows at 10:30 p.m.; businesses could open only three\n  days a week.\n        People’s lives were greatly changed.  Without enough heat to keep the house warm,\n  people covered themselves in blankets all the time.  Hospitals had to use candles because\n  they couldn’t keep all the lights on.  Factories couldn’t keep their machines working.  Many\n  people lost their jobs.   For months, people were paying the price while the electricity\n  workers were fighting for their wish.  In the end, the government agreed to the second pay\n  rise.  This picture shows what many people thought of the electricity workers during the\n  “dark” time.\n                                                        electricity 電力 government 政府",
+    "question": "What is the reading mainly about?",
+    "options": {
+      "A": "The tips on using a picture to tell a story.",
+      "B": "The change that electricity brought to people’s lives.",
+      "C": "The history behind the picture of a UK electricity worker.",
+      "D": "The story of a famous UK electricity worker from the 1970s."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 36,
+    "type": "passage",
+    "passage": "In the picture is a UK electricity worker in the 1970s.  Pictures like this appeared in\n  many newspapers at the time.  In 1972, electricity workers in the UK asked to be paid more,\n  and they decided to stop working until their wish was answered.  The government worried\n  that there wouldn’t be enough electricity for the country if these workers didn’t go to work,\n  so it agreed to give them the pay rise.  However, the story didn’t end there.\n        A year later, the electricity workers asked for another pay rise.  To get what they\n  wanted, they worked shorter hours and acted like they would walk away from their job\n  anytime.  But this time, the government decided to fight.  To save electricity, it made new\n  rules for people to follow.  For example, each family could turn on the heat in only one\n  room; TV stations had to stop their shows at 10:30 p.m.; businesses could open only three\n  days a week.\n        People’s lives were greatly changed.  Without enough heat to keep the house warm,\n  people covered themselves in blankets all the time.  Hospitals had to use candles because\n  they couldn’t keep all the lights on.  Factories couldn’t keep their machines working.  Many\n  people lost their jobs.   For months, people were paying the price while the electricity\n  workers were fighting for their wish.  In the end, the government agreed to the second pay\n  rise.  This picture shows what many people thought of the electricity workers during the\n  “dark” time.\n                                                        electricity 電力 government 政府",
+    "question": "In the UK in the 1970s, what did people most likely think of the UK electricity workers?",
+    "options": {
+      "A": "They were not brave enough to fix their problems.",
+      "B": "They worked like robots and never learned to change.  likely 可能",
+      "C": "They were asking too much and did not know when to stop.",
+      "D": "They did not care whether their job might hurt people’s health."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 37,
+    "type": "passage",
+    "passage": "In the picture is a UK electricity worker in the 1970s.  Pictures like this appeared in\n  many newspapers at the time.  In 1972, electricity workers in the UK asked to be paid more,\n  and they decided to stop working until their wish was answered.  The government worried\n  that there wouldn’t be enough electricity for the country if these workers didn’t go to work,\n  so it agreed to give them the pay rise.  However, the story didn’t end there.\n        A year later, the electricity workers asked for another pay rise.  To get what they\n  wanted, they worked shorter hours and acted like they would walk away from their job\n  anytime.  But this time, the government decided to fight.  To save electricity, it made new\n  rules for people to follow.  For example, each family could turn on the heat in only one\n  room; TV stations had to stop their shows at 10:30 p.m.; businesses could open only three\n  days a week.\n        People’s lives were greatly changed.  Without enough heat to keep the house warm,\n  people covered themselves in blankets all the time.  Hospitals had to use candles because\n  they couldn’t keep all the lights on.  Factories couldn’t keep their machines working.  Many\n  people lost their jobs.   For months, people were paying the price while the electricity\n  workers were fighting for their wish.  In the end, the government agreed to the second pay\n  rise.  This picture shows what many people thought of the electricity workers during the\n  “dark” time.\n                                                        electricity 電力 government 政府",
+    "question": "Why does the writer put the “ ” mark around the word dark in the last sentence?",
+    "options": {
+      "A": "To say that the “dark” time was actually not dark.",
+      "B": "To tell people that the word was said by the government.",
+      "C": "To mean both the days without lights and the difficult lives people lived.",
+      "D": "To show that the government and the electricity workers both lost their fights."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 38,
+    "type": "passage",
+    "passage": "Most kids want gifts from their parents on their birthdays, but Cameron doesn’t.  On his\n  birthday, he gives his mom a gift.  He 38 doing this in his first year of junior high\n  school.  That year, during one class, he watched a video about how a baby is pushed from its\n  mother’s body.  After class, 39 .  How brave a woman is to have a baby!  Thank God I’ll\n  never have to do that!\n\n  When Cameron came home that day, he held his mom in his arms for a long time.  He\n  decided that his birthday 40 .  During those nine months inside his mom, he just ate and\n  slept while his mom was doing all the hard work.  So why should he get a birthday gift for\n  doing nothing?  If anyone should get a gift on his birthday, it should be his mom.\n\n  The 41 “birthday gift” Cameron prepared was a bag of cookies he baked.  The cookies\n  tasted so bad, but his mom said they were the best thing she ever got.  Hearing that 42 .\n  It was so much better than getting a gift.  Now, on his birthday every year, Cameron makes\n  a gift for his mother to thank her for giving him life.\n\n  This year, Cameron 43 his mom a nice dress.  A few months ago, he learned to make\n  dresses at school and decided to make one for his mom.  Now the dress is finished and\n  hanging behind Cameron’s bedroom door.  He believes the gift will tell his mother how\n  much he loves her.",
+    "question": "",
+    "options": {
+      "A": "starts",
+      "B": "started",
+      "C": "has started",
+      "D": "will start"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 39,
+    "type": "passage",
+    "passage": "Most kids want gifts from their parents on their birthdays, but Cameron doesn’t.  On his\n  birthday, he gives his mom a gift.  He 38 doing this in his first year of junior high\n  school.  That year, during one class, he watched a video about how a baby is pushed from its\n  mother’s body.  After class, 39 .  How brave a woman is to have a baby!  Thank God I’ll\n  never have to do that!\n\n  When Cameron came home that day, he held his mom in his arms for a long time.  He\n  decided that his birthday 40 .  During those nine months inside his mom, he just ate and\n  slept while his mom was doing all the hard work.  So why should he get a birthday gift for\n  doing nothing?  If anyone should get a gift on his birthday, it should be his mom.\n\n  The 41 “birthday gift” Cameron prepared was a bag of cookies he baked.  The cookies\n  tasted so bad, but his mom said they were the best thing she ever got.  Hearing that 42 .\n  It was so much better than getting a gift.  Now, on his birthday every year, Cameron makes\n  a gift for his mother to thank her for giving him life.\n\n  This year, Cameron 43 his mom a nice dress.  A few months ago, he learned to make\n  dresses at school and decided to make one for his mom.  Now the dress is finished and\n  hanging behind Cameron’s bedroom door.  He believes the gift will tell his mother how\n  much he loves her.",
+    "question": "",
+    "options": {
+      "A": "he got quite scared of two things",
+      "B": "he still couldn’t understand two things",
+      "C": "he couldn’t stop thinking about two things",
+      "D": "he did two things that would change his life"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 40,
+    "type": "passage",
+    "passage": "Most kids want gifts from their parents on their birthdays, but Cameron doesn’t.  On his\n  birthday, he gives his mom a gift.  He 38 doing this in his first year of junior high\n  school.  That year, during one class, he watched a video about how a baby is pushed from its\n  mother’s body.  After class, 39 .  How brave a woman is to have a baby!  Thank God I’ll\n  never have to do that!\n\n  When Cameron came home that day, he held his mom in his arms for a long time.  He\n  decided that his birthday 40 .  During those nine months inside his mom, he just ate and\n  slept while his mom was doing all the hard work.  So why should he get a birthday gift for\n  doing nothing?  If anyone should get a gift on his birthday, it should be his mom.\n\n  The 41 “birthday gift” Cameron prepared was a bag of cookies he baked.  The cookies\n  tasted so bad, but his mom said they were the best thing she ever got.  Hearing that 42 .\n  It was so much better than getting a gift.  Now, on his birthday every year, Cameron makes\n  a gift for his mother to thank her for giving him life.\n\n  This year, Cameron 43 his mom a nice dress.  A few months ago, he learned to make\n  dresses at school and decided to make one for his mom.  Now the dress is finished and\n  hanging behind Cameron’s bedroom door.  He believes the gift will tell his mother how\n  much he loves her.",
+    "question": "",
+    "options": {
+      "A": "should be spent helping his mom",
+      "B": "should be a time of welcoming a new start",
+      "C": "should not be about him, but about his mom",
+      "D": "should not be celebrated for just one day, but for nine months"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 41,
+    "type": "passage",
+    "passage": "Most kids want gifts from their parents on their birthdays, but Cameron doesn’t.  On his\n  birthday, he gives his mom a gift.  He 38 doing this in his first year of junior high\n  school.  That year, during one class, he watched a video about how a baby is pushed from its\n  mother’s body.  After class, 39 .  How brave a woman is to have a baby!  Thank God I’ll\n  never have to do that!\n\n  When Cameron came home that day, he held his mom in his arms for a long time.  He\n  decided that his birthday 40 .  During those nine months inside his mom, he just ate and\n  slept while his mom was doing all the hard work.  So why should he get a birthday gift for\n  doing nothing?  If anyone should get a gift on his birthday, it should be his mom.\n\n  The 41 “birthday gift” Cameron prepared was a bag of cookies he baked.  The cookies\n  tasted so bad, but his mom said they were the best thing she ever got.  Hearing that 42 .\n  It was so much better than getting a gift.  Now, on his birthday every year, Cameron makes\n  a gift for his mother to thank her for giving him life.\n\n  This year, Cameron 43 his mom a nice dress.  A few months ago, he learned to make\n  dresses at school and decided to make one for his mom.  Now the dress is finished and\n  hanging behind Cameron’s bedroom door.  He believes the gift will tell his mother how\n  much he loves her.",
+    "question": "",
+    "options": {
+      "A": "first",
+      "B": "last",
+      "C": "only",
+      "D": "other"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 42,
+    "type": "passage",
+    "passage": "Most kids want gifts from their parents on their birthdays, but Cameron doesn’t.  On his\n  birthday, he gives his mom a gift.  He 38 doing this in his first year of junior high\n  school.  That year, during one class, he watched a video about how a baby is pushed from its\n  mother’s body.  After class, 39 .  How brave a woman is to have a baby!  Thank God I’ll\n  never have to do that!\n\n  When Cameron came home that day, he held his mom in his arms for a long time.  He\n  decided that his birthday 40 .  During those nine months inside his mom, he just ate and\n  slept while his mom was doing all the hard work.  So why should he get a birthday gift for\n  doing nothing?  If anyone should get a gift on his birthday, it should be his mom.\n\n  The 41 “birthday gift” Cameron prepared was a bag of cookies he baked.  The cookies\n  tasted so bad, but his mom said they were the best thing she ever got.  Hearing that 42 .\n  It was so much better than getting a gift.  Now, on his birthday every year, Cameron makes\n  a gift for his mother to thank her for giving him life.\n\n  This year, Cameron 43 his mom a nice dress.  A few months ago, he learned to make\n  dresses at school and decided to make one for his mom.  Now the dress is finished and\n  hanging behind Cameron’s bedroom door.  He believes the gift will tell his mother how\n  much he loves her.",
+    "question": "",
+    "options": {
+      "A": "made his head hurt",
+      "B": "made his heart sing",
+      "C": "made him change his mind",
+      "D": "made him give up baking"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 43,
+    "type": "passage",
+    "passage": "Most kids want gifts from their parents on their birthdays, but Cameron doesn’t.  On his\n  birthday, he gives his mom a gift.  He 38 doing this in his first year of junior high\n  school.  That year, during one class, he watched a video about how a baby is pushed from its\n  mother’s body.  After class, 39 .  How brave a woman is to have a baby!  Thank God I’ll\n  never have to do that!\n\n  When Cameron came home that day, he held his mom in his arms for a long time.  He\n  decided that his birthday 40 .  During those nine months inside his mom, he just ate and\n  slept while his mom was doing all the hard work.  So why should he get a birthday gift for\n  doing nothing?  If anyone should get a gift on his birthday, it should be his mom.\n\n  The 41 “birthday gift” Cameron prepared was a bag of cookies he baked.  The cookies\n  tasted so bad, but his mom said they were the best thing she ever got.  Hearing that 42 .\n  It was so much better than getting a gift.  Now, on his birthday every year, Cameron makes\n  a gift for his mother to thank her for giving him life.\n\n  This year, Cameron 43 his mom a nice dress.  A few months ago, he learned to make\n  dresses at school and decided to make one for his mom.  Now the dress is finished and\n  hanging behind Cameron’s bedroom door.  He believes the gift will tell his mother how\n  much he loves her.",
+    "question": "",
+    "options": {
+      "A": "is going to give",
+      "B": "gives",
+      "C": "has given",
+      "D": "gave"
+    },
+    "answer": "A"
+  }
+]

@@ -1,0 +1,530 @@
+[
+  {
+    "id": 1,
+    "type": "single",
+    "passage": null,
+    "question": "Look at the picture. The man is holding one of the _____.",
+    "options": {
+      "A": "bowls",
+      "B": "glasses",
+      "C": "plates",
+      "D": "spoons"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "type": "single",
+    "passage": null,
+    "question": "My mom puts the _____ on to keep her hands away from water when she washes the dishes.",
+    "options": {
+      "A": "gloves",
+      "B": "jacket",
+      "C": "ring",
+      "D": "socks"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 3,
+    "type": "single",
+    "passage": null,
+    "question": "Can you _____ your feet a little off the floor? I want to see if my keys are under the sofa.",
+    "options": {
+      "A": "check",
+      "B": "kick",
+      "C": "raise",
+      "D": "show"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "type": "single",
+    "passage": null,
+    "question": "_____ of my sisters are older than I am. I’m the youngest of the three children in my family.",
+    "options": {
+      "A": "Both",
+      "B": "Few",
+      "C": "Most",
+      "D": "Some"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 5,
+    "type": "single",
+    "passage": null,
+    "question": "The beach near our town is a very _____ place. Every summer at least one kid dies there in the water.",
+    "options": {
+      "A": "dangerous",
+      "B": "exciting",
+      "C": "lonely",
+      "D": "popular"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 6,
+    "type": "single",
+    "passage": null,
+    "question": "My wife enjoys going to the movies with her friends, but I like to watch TV at home by _____.",
+    "options": {
+      "A": "I",
+      "B": "me",
+      "C": "myself",
+      "D": "mine"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 7,
+    "type": "single",
+    "passage": null,
+    "question": "For the past twenty years, my father _____ in a school library. But he’ll leave the job next month.",
+    "options": {
+      "A": "worked",
+      "B": "has worked",
+      "C": "is working",
+      "D": "works"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "type": "single",
+    "passage": null,
+    "question": "It’s great that we can buy train tickets over the phone without going out. It _____ us a lot of time.",
+    "options": {
+      "A": "lends",
+      "B": "prepares",
+      "C": "saves",
+      "D": "takes"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "type": "single",
+    "passage": null,
+    "question": "Mozart _____ his first music when he was only six years old.",
+    "options": {
+      "A": "is writing",
+      "B": "has written",
+      "C": "will write",
+      "D": "wrote"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 10,
+    "type": "single",
+    "passage": null,
+    "question": "Jill: Have you decided _____ you will celebrate your 30th birthday? Sue: Yeah, I’m going to have a big barbecue party.",
+    "options": {
+      "A": "how",
+      "B": "where",
+      "C": "what",
+      "D": "when"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 11,
+    "type": "single",
+    "passage": null,
+    "question": "Alison doesn’t like _____ what to do. She only does things she wants to do.",
+    "options": {
+      "A": "told",
+      "B": "to tell",
+      "C": "be told",
+      "D": "to be told"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 12,
+    "type": "single",
+    "passage": null,
+    "question": "Josh has planned to make a trip to New York and _____ some of his friends there.",
+    "options": {
+      "A": "visit",
+      "B": "visits",
+      "C": "visiting",
+      "D": "visited"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 13,
+    "type": "single",
+    "passage": null,
+    "question": "Ms. Johnson has been taking phone calls since she entered the office this morning. Just when she thought she could finally leave work, _____ call came in.",
+    "options": {
+      "A": "another",
+      "B": "each",
+      "C": "the next",
+      "D": "the other"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 14,
+    "type": "single",
+    "passage": null,
+    "question": "We were so sure that Jerry _____ well on the difficult job. His past experience in other work showed he was the right guy for it. So when he failed, no one believed it.",
+    "options": {
+      "A": "had done",
+      "B": "did",
+      "C": "has done",
+      "D": "would do"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 15,
+    "type": "single",
+    "passage": null,
+    "question": "For Mike, the price is _____ important thing when he shops for jeans. He cares even more about the shape and the size of the pockets.",
+    "options": {
+      "A": "the more",
+      "B": "the most",
+      "C": "the less",
+      "D": "the least"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 16,
+    "type": "passage",
+    "passage": "When it arrives,\n Everyone cheers.\n The shirts and shorts dance\n On the clothesline,\n The trees and flowers wave\n Like they’re saying hi,\n And the clouds are so excited\n To have a running race.\n\n When it comes,\n Dad’s face falls.\n His coat and jeans jump\n Off the clothesline\n Into the pond.\n The tree leaves hop off\n And have a party on his new car.\n\n When it gets here,\n A lot of fun things I notice:\n The pond’s face,\n Sad and old with lines;\n Mrs. Smith’s bread,\n Delicious and freshly baked.\n But what smell is it?\n Oh, no, it’s from Mr. Brown’s feet!\n                                                               leaf (leaves) 葉子",
+    "question": "What is it in the reading?",
+    "options": {
+      "A": "The sun.",
+      "B": "The rain.",
+      "C": "The wind.",
+      "D": "The rainbow."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 17,
+    "type": "passage",
+    "passage": "When it arrives,\n Everyone cheers.\n The shirts and shorts dance\n On the clothesline,\n The trees and flowers wave\n Like they’re saying hi,\n And the clouds are so excited\n To have a running race.\n\n When it comes,\n Dad’s face falls.\n His coat and jeans jump\n Off the clothesline\n Into the pond.\n The tree leaves hop off\n And have a party on his new car.\n\n When it gets here,\n A lot of fun things I notice:\n The pond’s face,\n Sad and old with lines;\n Mrs. Smith’s bread,\n Delicious and freshly baked.\n But what smell is it?\n Oh, no, it’s from Mr. Brown’s feet!\n                                                               leaf (leaves) 葉子",
+    "question": "How does Dad feel“when it comes”?",
+    "options": {
+      "A": "He is scared.",
+      "B": "He is excited.",
+      "C": "He is not happy.",
+      "D": "He is not interested."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 18,
+    "type": "passage",
+    "passage": "Hey, guys! I have a lot of things I don’t need, so I’m\n                       thinking about having a yard sale. What do you think?\n\n           Having a yard sale is not easy. You have to collect things, put\n           prices on them, put them out on tables and then wait for people\n           to come. And usually you have to sell things at VERY low prices.\n           For all that time and work, you make very little money. Why not\n           just sell your things online for higher prices?\n\n           Debby’s right. But I think it’d be even better to just give your\n           things to people who need them. I just sent out a lot of things\n           last week.\n\n           Hey, I love yard sales! It’s a great chance to make big money if\n           you pick the right day. In my experience, Saturday is the best.\n\n           I agree with Albert. You can make money and meet interesting\n           people. I made some good friends at my last yard sale.",
+    "question": "What can we learn about Buffy’s friends?",
+    "options": {
+      "A": "Matt has experience of yard sales.",
+      "B": "Jamie had a successful yard sale last week.",
+      "C": "Albert thinks weather is important for yard sales.",
+      "D": "Debby thinks things are cheaper online than at yard sales."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 19,
+    "type": "passage",
+    "passage": "Hey, guys! I have a lot of things I don’t need, so I’m\n                       thinking about having a yard sale. What do you think?\n\n           Having a yard sale is not easy. You have to collect things, put\n           prices on them, put them out on tables and then wait for people\n           to come. And usually you have to sell things at VERY low prices.\n           For all that time and work, you make very little money. Why not\n           just sell your things online for higher prices?\n\n           Debby’s right. But I think it’d be even better to just give your\n           things to people who need them. I just sent out a lot of things\n           last week.\n\n           Hey, I love yard sales! It’s a great chance to make big money if\n           you pick the right day. In my experience, Saturday is the best.\n\n           I agree with Albert. You can make money and meet interesting\n           people. I made some good friends at my last yard sale.",
+    "question": "What do Buffy’s friends think about having a yard sale?",
+    "options": {
+      "A": "Albert and Matt think it’s a nice way to make friends.",
+      "B": "Debby and Albert think it’s difficult to make money from it.",
+      "C": "Matt agrees with Jamie that it’s a good chance to help people.",
+      "D": "Jamie agrees with Debby that it’s a lot of trouble to prepare for it."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 20,
+    "type": "passage",
+    "passage": "Here is an ad for Sunny Market.\n    From Jan. 4 to Feb. 4, for each $50 you spend With Sunny Sun pictures, you\n    (on anything EXCEPT books and CDs) at Sunny can get one of the prizes below\n    Market, you’ll get a Sunny Sun picture     .     for free or at low prices!!\n    (2 pictures for every $100, 3 pictures for every\n    $150, …)                                   ★         Sunny ★Cup        Chocolate\n\n    ★ Collect 12 pictures, and you can get a Sunny\n      Cup for free!\n\n    ★ Collect 10 pictures, and you can get any of\n      the desserts on the right for free!    ★          Fruitcake\n                                                             ★           Ice cream\n\n    ★ Collect 6 pictures, and you can buy a Sunny\n      Cup for $200, or any of the desserts on the\n      right for $100!\n\n★       From Jan. 4 to Feb. 10, you can use Sunny\n        Sun pictures to get Sunny Cups or desserts.",
+    "question": "From the ad, which is true about Sunny Sun pictures?",
+    "options": {
+      "A": "The first day to use Sunny Sun pictures is Feb. 4.",
+      "B": "The last day to collect Sunny Sun pictures is Feb. 10.",
+      "C": "You cannot use Sunny Sun pictures to get free desserts.",
+      "D": "You cannot get Sunny Sun pictures when you buy books."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 21,
+    "type": "passage",
+    "passage": "Here is an ad for Sunny Market.\n    From Jan. 4 to Feb. 4, for each $50 you spend With Sunny Sun pictures, you\n    (on anything EXCEPT books and CDs) at Sunny can get one of the prizes below\n    Market, you’ll get a Sunny Sun picture     .     for free or at low prices!!\n    (2 pictures for every $100, 3 pictures for every\n    $150, …)                                   ★         Sunny ★Cup        Chocolate\n\n    ★ Collect 12 pictures, and you can get a Sunny\n      Cup for free!\n\n    ★ Collect 10 pictures, and you can get any of\n      the desserts on the right for free!    ★          Fruitcake\n                                                             ★           Ice cream\n\n    ★ Collect 6 pictures, and you can buy a Sunny\n      Cup for $200, or any of the desserts on the\n      right for $100!\n\n★       From Jan. 4 to Feb. 10, you can use Sunny\n        Sun pictures to get Sunny Cups or desserts.",
+    "question": "Sammy has 7 Sunny Sun pictures. She wants to get a Sunny Cup. How can she get one?",
+    "options": {
+      "A": "Use 6 Sunny Sun pictures and pay $100.",
+      "B": "Use 6 Sunny Sun pictures and pay $200.",
+      "C": "Spend $150 to get 3 more Sunny Sun pictures.",
+      "D": "Spend $200 to get 4 more Sunny Sun pictures."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "type": "passage",
+    "passage": "Now I’m going to show you how to work with chocolate. I’ll\n                do it in a “bain-marie,” or, well, some people call it “water bath.”\n                 I myself love the name “bain-marie.” To make a “bain-marie,”\n                you need two pots, one bigger than the other.\n                     First, break the chocolate into small pieces and put them in the\n                smaller pot. Usually when making chocolate desserts, you’ll need to\n                mix chocolate with butter and sugar. So if you do, put them in the\n                pot too.\n                     Now, half fill the bigger pot with warm water. Put the smaller\n   pot over the bigger one, and start to slowly mix the chocolate, the butter, and\n   the sugar together. Keep the water under 50ºC, or the chocolate may lose its\n   shine. And make sure that no water goes in the smaller pot, or the chocolate will\n   become hard and cannot be used.\n       Keep mixing for about five to ten minutes, and the job is done. Easy, right?\n\n                                                                         mix 混合",
+    "question": "From the reading, which picture best shows the “bain-marie” way of working with chocolate?",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "type": "passage",
+    "passage": "Now I’m going to show you how to work with chocolate. I’ll\n                do it in a “bain-marie,” or, well, some people call it “water bath.”\n                 I myself love the name “bain-marie.” To make a “bain-marie,”\n                you need two pots, one bigger than the other.\n                     First, break the chocolate into small pieces and put them in the\n                smaller pot. Usually when making chocolate desserts, you’ll need to\n                mix chocolate with butter and sugar. So if you do, put them in the\n                pot too.\n                     Now, half fill the bigger pot with warm water. Put the smaller\n   pot over the bigger one, and start to slowly mix the chocolate, the butter, and\n   the sugar together. Keep the water under 50ºC, or the chocolate may lose its\n   shine. And make sure that no water goes in the smaller pot, or the chocolate will\n   become hard and cannot be used.\n       Keep mixing for about five to ten minutes, and the job is done. Easy, right?\n\n                                                                         mix 混合",
+    "question": "What does them mean in the reading?",
+    "options": {
+      "A": "Bains-marie.",
+      "B": "Butter and sugar.",
+      "C": "Chocolate desserts.",
+      "D": "Small pieces of chocolate."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 24,
+    "type": "passage",
+    "passage": "Now I’m going to show you how to work with chocolate. I’ll\n                do it in a “bain-marie,” or, well, some people call it “water bath.”\n                 I myself love the name “bain-marie.” To make a “bain-marie,”\n                you need two pots, one bigger than the other.\n                     First, break the chocolate into small pieces and put them in the\n                smaller pot. Usually when making chocolate desserts, you’ll need to\n                mix chocolate with butter and sugar. So if you do, put them in the\n                pot too.\n                     Now, half fill the bigger pot with warm water. Put the smaller\n   pot over the bigger one, and start to slowly mix the chocolate, the butter, and\n   the sugar together. Keep the water under 50ºC, or the chocolate may lose its\n   shine. And make sure that no water goes in the smaller pot, or the chocolate will\n   become hard and cannot be used.\n       Keep mixing for about five to ten minutes, and the job is done. Easy, right?\n\n                                                                         mix 混合",
+    "question": "From the reading, which is true about working with chocolate?",
+    "options": {
+      "A": "It is better to use a “bain-marie” than a “water bath.”",
+      "B": "The water in the pot should not be warmer than 50ºC.",
+      "C": "It is better to finish mixing it in less than five minutes.",
+      "D": "We should not mix butter and sugar together at the same time."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "type": "passage",
+    "passage": "Taiwanese Bian-dang in Manhattan, New York City\n   5/30/ 2014    by Eva Schmidt\n\n        During lunch time, on 53rd Street, you’ll see\n   a long line of people in front of a Taiwanese food\n   truck for their “bian-dang,” a Taiwanese word for\n   “lunch box.” On the menu you can find fried chicken with rice, pork dumplings,\n   tea eggs, and other popular Taiwanese dishes.\n        The owners of the food truck are Thomas and Diana Yang, two\n   Taiwanese-Americans. This brother-sister team started their business in 2009.\n   Back then, there were a few Taiwanese restaurants in the city and several thousand\n   food trucks, but the Yangs were the first to sell Taiwanese food on a food truck.\n        At first, business was slack. People thought they were just another Chinese food\n   truck, and the food truck’s name, “Cravings,” often made people think of desserts, not\n   lunch. Few people would stop by and try their food. “I couldn’t even give away free\n   food,” said Thomas. To catch people’s eye, they painted their truck blue, and drew\n   Taiwan’s national flower, the plum blossom, on it. They also changed the food truck’s\n   name to “bian-dang.” Soon people started to notice them, and business finally got\n   better. Now on a good day, they can sell about 150 bian-dangs in about two hours.\n        So what’s next for Thomas and Diana? Well, they hope one day there will be a\n   block with Taiwanese food in the city, just like there is a Chinatown, a Korea Town,\n   and a Little Italy. And their bian-dang food truck might just help to make that happen.\n\n                                                                      national 國家的",
+    "question": "What does the news story say about the Yangs’ food truck?",
+    "options": {
+      "A": "What people love about their food.",
+      "B": "What made them start their business.",
+      "C": "How they made delicious fried chicken.",
+      "D": "How they fixed their business problems."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 26,
+    "type": "passage",
+    "passage": "Taiwanese Bian-dang in Manhattan, New York City\n   5/30/ 2014    by Eva Schmidt\n\n        During lunch time, on 53rd Street, you’ll see\n   a long line of people in front of a Taiwanese food\n   truck for their “bian-dang,” a Taiwanese word for\n   “lunch box.” On the menu you can find fried chicken with rice, pork dumplings,\n   tea eggs, and other popular Taiwanese dishes.\n        The owners of the food truck are Thomas and Diana Yang, two\n   Taiwanese-Americans. This brother-sister team started their business in 2009.\n   Back then, there were a few Taiwanese restaurants in the city and several thousand\n   food trucks, but the Yangs were the first to sell Taiwanese food on a food truck.\n        At first, business was slack. People thought they were just another Chinese food\n   truck, and the food truck’s name, “Cravings,” often made people think of desserts, not\n   lunch. Few people would stop by and try their food. “I couldn’t even give away free\n   food,” said Thomas. To catch people’s eye, they painted their truck blue, and drew\n   Taiwan’s national flower, the plum blossom, on it. They also changed the food truck’s\n   name to “bian-dang.” Soon people started to notice them, and business finally got\n   better. Now on a good day, they can sell about 150 bian-dangs in about two hours.\n        So what’s next for Thomas and Diana? Well, they hope one day there will be a\n   block with Taiwanese food in the city, just like there is a Chinatown, a Korea Town,\n   and a Little Italy. And their bian-dang food truck might just help to make that happen.\n\n                                                                      national 國家的",
+    "question": "What does it mean when business is slack?",
+    "options": {
+      "A": "It is bad.",
+      "B": "It is for sale.",
+      "C": "It is growing.",
+      "D": "It is open every day."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 27,
+    "type": "passage",
+    "passage": "Taiwanese Bian-dang in Manhattan, New York City\n   5/30/ 2014    by Eva Schmidt\n\n        During lunch time, on 53rd Street, you’ll see\n   a long line of people in front of a Taiwanese food\n   truck for their “bian-dang,” a Taiwanese word for\n   “lunch box.” On the menu you can find fried chicken with rice, pork dumplings,\n   tea eggs, and other popular Taiwanese dishes.\n        The owners of the food truck are Thomas and Diana Yang, two\n   Taiwanese-Americans. This brother-sister team started their business in 2009.\n   Back then, there were a few Taiwanese restaurants in the city and several thousand\n   food trucks, but the Yangs were the first to sell Taiwanese food on a food truck.\n        At first, business was slack. People thought they were just another Chinese food\n   truck, and the food truck’s name, “Cravings,” often made people think of desserts, not\n   lunch. Few people would stop by and try their food. “I couldn’t even give away free\n   food,” said Thomas. To catch people’s eye, they painted their truck blue, and drew\n   Taiwan’s national flower, the plum blossom, on it. They also changed the food truck’s\n   name to “bian-dang.” Soon people started to notice them, and business finally got\n   better. Now on a good day, they can sell about 150 bian-dangs in about two hours.\n        So what’s next for Thomas and Diana? Well, they hope one day there will be a\n   block with Taiwanese food in the city, just like there is a Chinatown, a Korea Town,\n   and a Little Italy. And their bian-dang food truck might just help to make that happen.\n\n                                                                      national 國家的",
+    "question": "What does that mean in the news story?",
+    "options": {
+      "A": "A Taiwanese restaurant.",
+      "B": "A second Taiwanese food truck.",
+      "C": "A city block that sells Taiwanese food.",
+      "D": "A business that is popular across the country."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 28,
+    "type": "passage",
+    "passage": "This is a letter by Selena Bieber to the students in her school.\n            http://www.nvhsstudsup.org/openletter\n\n                            Later Is Better!\n                                        Selena Bieber\n                                  Northville High School\n\n      Do you feel it’s hard to get up early for school and even harder to listen\n      well in the first class at 8 a.m.? Well, this happens to most of us and is\n      not helpful for our learning!\n\n      Some studies show that teenagers’ brains make melatonin, the hormone that\n      helps sleep, between 11 p.m. and 8 a.m. So it’s better for us to sleep during\n      these nine hours. But here comes the problem. We’re asked to get to school\n      by 7:30 a.m. That means we have to get up before 7, when our brains\n      should still be sleeping. That’s why we’re always so tired and can’t think\n      clearly in early morning classes. No clear head, no good learning, right?\n\n      If we can’t change how our body works, why can’t school start later? In\n      this way, we can not only sleep more but also learn better!\n\n      Want to help us make it happen?\n      Visit www.nvhsstudsup.org/later-better to learn more.\n\n                                                         brain 大腦 hormone 荷爾蒙",
+    "question": "What problem is Selena Bieber trying to fix?",
+    "options": {
+      "A": "High school lessons are too difficult.",
+      "B": "Classes start too early in the morning.",
+      "C": "Too many students are late for school.",
+      "D": "Lunch break is too short for taking a rest."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 29,
+    "type": "passage",
+    "passage": "This is a letter by Selena Bieber to the students in her school.\n            http://www.nvhsstudsup.org/openletter\n\n                            Later Is Better!\n                                        Selena Bieber\n                                  Northville High School\n\n      Do you feel it’s hard to get up early for school and even harder to listen\n      well in the first class at 8 a.m.? Well, this happens to most of us and is\n      not helpful for our learning!\n\n      Some studies show that teenagers’ brains make melatonin, the hormone that\n      helps sleep, between 11 p.m. and 8 a.m. So it’s better for us to sleep during\n      these nine hours. But here comes the problem. We’re asked to get to school\n      by 7:30 a.m. That means we have to get up before 7, when our brains\n      should still be sleeping. That’s why we’re always so tired and can’t think\n      clearly in early morning classes. No clear head, no good learning, right?\n\n      If we can’t change how our body works, why can’t school start later? In\n      this way, we can not only sleep more but also learn better!\n\n      Want to help us make it happen?\n      Visit www.nvhsstudsup.org/later-better to learn more.\n\n                                                         brain 大腦 hormone 荷爾蒙",
+    "question": "What can we learn from the letter?",
+    "options": {
+      "A": "Too much melatonin can hurt teenagers’ brain.",
+      "B": "The brain stops making melatonin after 11 p.m.",
+      "C": "Sleeping longer helps the body make more melatonin.",
+      "D": "It is easier to fall asleep when the brain is making melatonin."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 30,
+    "type": "passage",
+    "passage": "This is a letter by Selena Bieber to the students in her school.\n            http://www.nvhsstudsup.org/openletter\n\n                            Later Is Better!\n                                        Selena Bieber\n                                  Northville High School\n\n      Do you feel it’s hard to get up early for school and even harder to listen\n      well in the first class at 8 a.m.? Well, this happens to most of us and is\n      not helpful for our learning!\n\n      Some studies show that teenagers’ brains make melatonin, the hormone that\n      helps sleep, between 11 p.m. and 8 a.m. So it’s better for us to sleep during\n      these nine hours. But here comes the problem. We’re asked to get to school\n      by 7:30 a.m. That means we have to get up before 7, when our brains\n      should still be sleeping. That’s why we’re always so tired and can’t think\n      clearly in early morning classes. No clear head, no good learning, right?\n\n      If we can’t change how our body works, why can’t school start later? In\n      this way, we can not only sleep more but also learn better!\n\n      Want to help us make it happen?\n      Visit www.nvhsstudsup.org/later-better to learn more.\n\n                                                         brain 大腦 hormone 荷爾蒙",
+    "question": "Below is some information from another study. We studied 48 high school students and found that the students who went to bed earlier did better on their school tests. This is not only true for those who slept nine hours, but also true for those who slept less. And some of them agreed that they learned better in early morning classes. Do the ideas in Selena Bieber’s letter agree with the information?",
+    "options": {
+      "A": "Yes, because her letter says it is better to sleep from 11 p.m. to 8 a.m.",
+      "B": "Yes, because her letter says getting up early is not helpful for learning.",
+      "C": "No, because her letter says students are asked to get to school by 7:30 a.m.",
+      "D": "No, because her letter says teenagers’ brains do not work well in early morning classes."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 31,
+    "type": "passage",
+    "passage": "Kivalina, an island village in Alaska, USA,\n                                            is known by only a few people. It cannot be\n                                            found on most maps of Alaska because it is\n                                            only 10 km2. This small Arctic village is home\n                                            to 400 Inuit people*. However, their home\n                                            will become uninhabitable because the\n                                            island could be covered by the Chukchi\n   Sea by 2025. These Inuit people will have to leave their home.\n         But life now is already difficult. Over the past twenty years, winters have\n   become warmer, the Arctic ice has kept melting, and the sea has been rising.\n   These changes have made it harder to live by hunting and fishing than before.\n   What’s worse, there is no Arctic ice thick enough to keep them safe from terrible\n   wind and rain.\n         These Inuit people think it is the oil and power companies in Alaska that\n   have brought all these troubles, but they are the ones who are paying the price.\n   It would cost hundreds of millions to move their village, and they have no idea\n   where to get the money. Groups like ReLocate are working together with the\n   Inuit people to save Kivalina, but nobody is sure if their hard work will come to\n   anything. All the Inuit people can do now is to pray the rising sea will not cover\n   their home too soon.\n\n   * The Inuit people are a group of people who live in the Arctic.\n\n                                                melt 融化 hunt 打獵 company 公司",
+    "question": "What can we learn about Kivalina?",
+    "options": {
+      "A": "It is waiting to shine.",
+      "B": "It has become history.",
+      "C": "It is fighting for one last hope.",
+      "D": "It has given up its chance to rise."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 32,
+    "type": "passage",
+    "passage": "Kivalina, an island village in Alaska, USA,\n                                            is known by only a few people. It cannot be\n                                            found on most maps of Alaska because it is\n                                            only 10 km2. This small Arctic village is home\n                                            to 400 Inuit people*. However, their home\n                                            will become uninhabitable because the\n                                            island could be covered by the Chukchi\n   Sea by 2025. These Inuit people will have to leave their home.\n         But life now is already difficult. Over the past twenty years, winters have\n   become warmer, the Arctic ice has kept melting, and the sea has been rising.\n   These changes have made it harder to live by hunting and fishing than before.\n   What’s worse, there is no Arctic ice thick enough to keep them safe from terrible\n   wind and rain.\n         These Inuit people think it is the oil and power companies in Alaska that\n   have brought all these troubles, but they are the ones who are paying the price.\n   It would cost hundreds of millions to move their village, and they have no idea\n   where to get the money. Groups like ReLocate are working together with the\n   Inuit people to save Kivalina, but nobody is sure if their hard work will come to\n   anything. All the Inuit people can do now is to pray the rising sea will not cover\n   their home too soon.\n\n   * The Inuit people are a group of people who live in the Arctic.\n\n                                                melt 融化 hunt 打獵 company 公司",
+    "question": "What does it mean when we say a place is uninhabitable?",
+    "options": {
+      "A": "It is not big.",
+      "B": "It is not popular.",
+      "C": "It cannot be bought.",
+      "D": "It cannot be lived in."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 33,
+    "type": "passage",
+    "passage": "Kivalina, an island village in Alaska, USA,\n                                            is known by only a few people. It cannot be\n                                            found on most maps of Alaska because it is\n                                            only 10 km2. This small Arctic village is home\n                                            to 400 Inuit people*. However, their home\n                                            will become uninhabitable because the\n                                            island could be covered by the Chukchi\n   Sea by 2025. These Inuit people will have to leave their home.\n         But life now is already difficult. Over the past twenty years, winters have\n   become warmer, the Arctic ice has kept melting, and the sea has been rising.\n   These changes have made it harder to live by hunting and fishing than before.\n   What’s worse, there is no Arctic ice thick enough to keep them safe from terrible\n   wind and rain.\n         These Inuit people think it is the oil and power companies in Alaska that\n   have brought all these troubles, but they are the ones who are paying the price.\n   It would cost hundreds of millions to move their village, and they have no idea\n   where to get the money. Groups like ReLocate are working together with the\n   Inuit people to save Kivalina, but nobody is sure if their hard work will come to\n   anything. All the Inuit people can do now is to pray the rising sea will not cover\n   their home too soon.\n\n   * The Inuit people are a group of people who live in the Arctic.\n\n                                                melt 融化 hunt 打獵 company 公司",
+    "question": "What does the writer think about the Inuit people in Kivalina?",
+    "options": {
+      "A": "Their way of living has been hurting the earth.",
+      "B": "They might not be able to get enough money to move their village.",
+      "C": "They should make the oil and power companies fix their problems.",
+      "D": "There are better ways than to move their village to somewhere else."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 34,
+    "type": "passage",
+    "passage": "Kivalina, an island village in Alaska, USA,\n                                            is known by only a few people. It cannot be\n                                            found on most maps of Alaska because it is\n                                            only 10 km2. This small Arctic village is home\n                                            to 400 Inuit people*. However, their home\n                                            will become uninhabitable because the\n                                            island could be covered by the Chukchi\n   Sea by 2025. These Inuit people will have to leave their home.\n         But life now is already difficult. Over the past twenty years, winters have\n   become warmer, the Arctic ice has kept melting, and the sea has been rising.\n   These changes have made it harder to live by hunting and fishing than before.\n   What’s worse, there is no Arctic ice thick enough to keep them safe from terrible\n   wind and rain.\n         These Inuit people think it is the oil and power companies in Alaska that\n   have brought all these troubles, but they are the ones who are paying the price.\n   It would cost hundreds of millions to move their village, and they have no idea\n   where to get the money. Groups like ReLocate are working together with the\n   Inuit people to save Kivalina, but nobody is sure if their hard work will come to\n   anything. All the Inuit people can do now is to pray the rising sea will not cover\n   their home too soon.\n\n   * The Inuit people are a group of people who live in the Arctic.\n\n                                                melt 融化 hunt 打獵 company 公司",
+    "question": "What does the reading say about the Arctic ice?",
+    "options": {
+      "A": "The Arctic ice covered 10 km2 of Kivalina.",
+      "B": "The melting Arctic ice kills about 400 Inuit people each year.",
+      "C": "The Arctic ice helped the Inuit people in Kivalina during bad weather.",
+      "D": "The melting Arctic ice has given the Inuit people enough water to use."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 35,
+    "type": "passage",
+    "passage": "After a lot of tests and interviews, you finally got into a good school or got a good\n job.  But there’s a problem: it’s a long way from home.  “Well, I can take the bus or\n drive,” you might think.  But before you decide whether it’s OK to have such a long\n commute, it’s best to know 35 .\n       Having a long commute means you’ll get fewer hours of sleep, and that’ll make\n you feel tired easily.  You’ll also have less time for friends and family, for exercise, or\n for a nice meal.\n       A long commute not only eats up your time but also 36 . Studies show that\n people who have a long commute get fat easily and often have neck or back problems.\n It’s easier for them to have heart problems too.   37 .  Studies find that these people\n get angry more often, feel less happy with their lives, and do less well at work.\n       Now, does that good school or that good job still sound good to you?  \n\n                                                     interview 面試 commute 通勤",
+    "question": "",
+    "options": {
+      "A": "what else you can do",
+      "B": "how you can enjoy it more",
+      "C": "how it will change your life",
+      "D": "what is the best way of commute for you"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 36,
+    "type": "passage",
+    "passage": "After a lot of tests and interviews, you finally got into a good school or got a good\n job.  But there’s a problem: it’s a long way from home.  “Well, I can take the bus or\n drive,” you might think.  But before you decide whether it’s OK to have such a long\n commute, it’s best to know 35 .\n       Having a long commute means you’ll get fewer hours of sleep, and that’ll make\n you feel tired easily.  You’ll also have less time for friends and family, for exercise, or\n for a nice meal.\n       A long commute not only eats up your time but also 36 . Studies show that\n people who have a long commute get fat easily and often have neck or back problems.\n It’s easier for them to have heart problems too.   37 .  Studies find that these people\n get angry more often, feel less happy with their lives, and do less well at work.\n       Now, does that good school or that good job still sound good to you?  \n\n                                                     interview 面試 commute 通勤",
+    "question": "",
+    "options": {
+      "A": "costs you money",
+      "B": "hurts your health",
+      "C": "makes traffic terrible",
+      "D": "kills the planet slowly"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 37,
+    "type": "passage",
+    "passage": "After a lot of tests and interviews, you finally got into a good school or got a good\n job.  But there’s a problem: it’s a long way from home.  “Well, I can take the bus or\n drive,” you might think.  But before you decide whether it’s OK to have such a long\n commute, it’s best to know 35 .\n       Having a long commute means you’ll get fewer hours of sleep, and that’ll make\n you feel tired easily.  You’ll also have less time for friends and family, for exercise, or\n for a nice meal.\n       A long commute not only eats up your time but also 36 . Studies show that\n people who have a long commute get fat easily and often have neck or back problems.\n It’s easier for them to have heart problems too.   37 .  Studies find that these people\n get angry more often, feel less happy with their lives, and do less well at work.\n       Now, does that good school or that good job still sound good to you?  \n\n                                                     interview 面試 commute 通勤",
+    "question": "",
+    "options": {
+      "A": "And that’s why",
+      "B": "But that’s not all",
+      "C": "And here’s an example",
+      "D": "But that can be stopped"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "type": "passage",
+    "passage": "NOlympics in Munich\n                                                                          11/11/2013\n\n               People in the city of Munich have spoken their mind: they do not\n          want to host the Winter Olympics in 2022. To the cities that fight for this\n          chance, 38 . The Olympics usually do a lot of good to the host city. The\n          Games bring in jobs, visitors, and, most important of all, money. So why\n          did people in Munich say no?\n               The Olympics 39 for people in Munich. For them, the world’s\n          biggest sports festival could invite serious trouble. There would be a lot of\n          building work before the Games, and during the Games, too much traffic\n          and too many visitors. Life would become terrible and nature would be\n          hurt. And 40 : Munich hosted the 1972 Summer Olympics, and its\n          neighbor, the mountain town Garmisch-Partenkirchen, hosted the 1936\n          Winter Olympics.\n               Still, the heavy price Munich paid does not worry the cities that are\n          in the race to get the 2022 Winter Olympics.         41 , they are happy that\n          Munich said no to the Olympics—their chances of getting the Games have\n          become higher.\n\n                                             host 舉辦 Olympics 奧運 visitor 遊客",
+    "question": "",
+    "options": {
+      "A": "this is surely a surprise",
+      "B": "this sounds like a good idea",
+      "C": "this is perhaps a smart answer",
+      "D": "this is old news they have heard"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 39,
+    "type": "passage",
+    "passage": "NOlympics in Munich\n                                                                          11/11/2013\n\n               People in the city of Munich have spoken their mind: they do not\n          want to host the Winter Olympics in 2022. To the cities that fight for this\n          chance, 38 . The Olympics usually do a lot of good to the host city. The\n          Games bring in jobs, visitors, and, most important of all, money. So why\n          did people in Munich say no?\n               The Olympics 39 for people in Munich. For them, the world’s\n          biggest sports festival could invite serious trouble. There would be a lot of\n          building work before the Games, and during the Games, too much traffic\n          and too many visitors. Life would become terrible and nature would be\n          hurt. And 40 : Munich hosted the 1972 Summer Olympics, and its\n          neighbor, the mountain town Garmisch-Partenkirchen, hosted the 1936\n          Winter Olympics.\n               Still, the heavy price Munich paid does not worry the cities that are\n          in the race to get the 2022 Winter Olympics.         41 , they are happy that\n          Munich said no to the Olympics—their chances of getting the Games have\n          become higher.\n\n                                             host 舉辦 Olympics 奧運 visitor 遊客",
+    "question": "",
+    "options": {
+      "A": "had given hopes",
+      "B": "are a different story",
+      "C": "bring a bright future",
+      "D": "have been a great plan"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 40,
+    "type": "passage",
+    "passage": "NOlympics in Munich\n                                                                          11/11/2013\n\n               People in the city of Munich have spoken their mind: they do not\n          want to host the Winter Olympics in 2022. To the cities that fight for this\n          chance, 38 . The Olympics usually do a lot of good to the host city. The\n          Games bring in jobs, visitors, and, most important of all, money. So why\n          did people in Munich say no?\n               The Olympics 39 for people in Munich. For them, the world’s\n          biggest sports festival could invite serious trouble. There would be a lot of\n          building work before the Games, and during the Games, too much traffic\n          and too many visitors. Life would become terrible and nature would be\n          hurt. And 40 : Munich hosted the 1972 Summer Olympics, and its\n          neighbor, the mountain town Garmisch-Partenkirchen, hosted the 1936\n          Winter Olympics.\n               Still, the heavy price Munich paid does not worry the cities that are\n          in the race to get the 2022 Winter Olympics.         41 , they are happy that\n          Munich said no to the Olympics—their chances of getting the Games have\n          become higher.\n\n                                             host 舉辦 Olympics 奧運 visitor 遊客",
+    "question": "",
+    "options": {
+      "A": "this will not go away; it will stay",
+      "B": "they are not just saying it; they are going to do it",
+      "C": "they do not speak for others; they only speak for themselves",
+      "D": "this is not a guess; it is a lesson they learned from hard experience"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 41,
+    "type": "passage",
+    "passage": "NOlympics in Munich\n                                                                          11/11/2013\n\n               People in the city of Munich have spoken their mind: they do not\n          want to host the Winter Olympics in 2022. To the cities that fight for this\n          chance, 38 . The Olympics usually do a lot of good to the host city. The\n          Games bring in jobs, visitors, and, most important of all, money. So why\n          did people in Munich say no?\n               The Olympics 39 for people in Munich. For them, the world’s\n          biggest sports festival could invite serious trouble. There would be a lot of\n          building work before the Games, and during the Games, too much traffic\n          and too many visitors. Life would become terrible and nature would be\n          hurt. And 40 : Munich hosted the 1972 Summer Olympics, and its\n          neighbor, the mountain town Garmisch-Partenkirchen, hosted the 1936\n          Winter Olympics.\n               Still, the heavy price Munich paid does not worry the cities that are\n          in the race to get the 2022 Winter Olympics.         41 , they are happy that\n          Munich said no to the Olympics—their chances of getting the Games have\n          become higher.\n\n                                             host 舉辦 Olympics 奧運 visitor 遊客",
+    "question": "",
+    "options": {
+      "A": "In fact",
+      "B": "If so",
+      "C": "However",
+      "D": "Finally"
+    },
+    "answer": "A"
+  }
+]

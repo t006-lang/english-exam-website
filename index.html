@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>會考英語練習</title>
+  <meta name="description" content="國中教育會考英語閱讀練習 - 107至114年歷屆試題及1200單字練習">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📚</text></svg>">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="index.html" class="site-title">📚 會考英語練習</a>
+      <nav class="nav-links">
+        <a href="index.html" class="nav-link active">首頁</a>
+        <a href="exam.html" class="nav-link">試題</a>
+        <a href="vocab.html" class="nav-link">單字</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1 class="hero-title">會考英語練習</h1>
+      <p class="hero-subtitle">國中教育會考英語閱讀 · 107-114年歷屆試題 · 1200核心單字</p>
+
+      <div class="big-buttons">
+        <div class="big-btn" id="examBtn" onclick="toggleYearGrid()">
+          <span class="big-btn-icon">📝</span>
+          <span class="big-btn-label">歷屆試題</span>
+          <span class="big-btn-sub">107-114 年</span>
+        </div>
+        <a href="vocab.html" class="big-btn">
+          <span class="big-btn-icon">📖</span>
+          <span class="big-btn-label">1200 單字</span>
+          <span class="big-btn-sub">單字卡 · 測驗</span>
+        </a>
+      </div>
+
+      <div class="year-grid container" id="yearGrid">
+        <p class="year-grid-title">選擇年份開始練習</p>
+        <div class="year-buttons">
+          <a href="exam.html?year=114" class="year-btn">
+            114年<span class="year-btn-sub">43 題</span>
+          </a>
+          <a href="exam.html?year=113" class="year-btn">
+            113年<span class="year-btn-sub">43 題</span>
+          </a>
+          <a href="exam.html?year=112" class="year-btn">
+            112年<span class="year-btn-sub">43 題</span>
+          </a>
+          <a href="exam.html?year=111" class="year-btn">
+            111年<span class="year-btn-sub">43 題</span>
+          </a>
+          <a href="exam.html?year=110" class="year-btn">
+            110年<span class="year-btn-sub">41 題</span>
+          </a>
+          <a href="exam.html?year=109" class="year-btn">
+            109年<span class="year-btn-sub">41 題</span>
+          </a>
+          <a href="exam.html?year=108" class="year-btn">
+            108年<span class="year-btn-sub">41 題</span>
+          </a>
+          <a href="exam.html?year=107" class="year-btn">
+            107年<span class="year-btn-sub">41 題</span>
+          </a>
+        </div>
+      </div>
+
+      <!-- Progress summary -->
+      <div class="container">
+        <div class="stats-row" id="statsRow"></div>
+      </div>
+    </section>
+
+    <!-- Recent history -->
+    <div class="container" id="historySection" style="display:none;">
+      <div class="card">
+        <p class="section-title">練習紀錄</p>
+        <table class="history-table" id="historyTable">
+          <thead>
+            <tr>
+              <th>年份</th>
+              <th>完成題數</th>
+              <th>正確率</th>
+              <th>操作</th>
+            </tr>
+          </thead>
+          <tbody id="historyBody"></tbody>
+        </table>
+      </div>
+    </div>
+  </main>
+
+  <script>
+    function toggleYearGrid() {
+      const grid = document.getElementById('yearGrid');
+      const btn = document.getElementById('examBtn');
+      const isVisible = grid.classList.contains('visible');
+      grid.classList.toggle('visible', !isVisible);
+      btn.classList.toggle('active', !isVisible);
+    }
+
+    // Load and display progress stats
+    function loadStats() {
+      const years = [107,108,109,110,111,112,113,114];
+      const QUESTION_COUNTS = {107:41,108:41,109:41,110:41,111:43,112:43,113:43,114:43};
+      const statsRow = document.getElementById('statsRow');
+      const historySection = document.getElementById('historySection');
+      const historyBody = document.getElementById('historyBody');
+
+      let totalAnswered = 0;
+      let totalCorrect = 0;
+      let hasHistory = false;
+      historyBody.innerHTML = '';
+
+      years.forEach(year => {
+        const progress = JSON.parse(localStorage.getItem(`exam_progress_${year}`) || 'null');
+        if (progress) {
+          hasHistory = true;
+          const answered = Object.keys(progress.answers || {}).length;
+          const correct = progress.score || 0;
+          const total = QUESTION_COUNTS[year];
+          totalAnswered += answered;
+          totalCorrect += correct;
+
+          const pct = answered > 0 ? Math.round(correct / answered * 100) : 0;
+          const row = document.createElement('tr');
+          row.innerHTML = `
+            <td><strong>${year}年</strong></td>
+            <td>${answered} / ${total}</td>
+            <td>${answered > 0 ? pct + '%' : '—'}</td>
+            <td>
+              <a href="exam.html?year=${year}" class="btn btn-outline" style="padding:6px 14px;font-size:0.8rem;">繼續</a>
+            </td>
+          `;
+          historyBody.appendChild(row);
+        }
+      });
+
+      if (hasHistory) {
+        historySection.style.display = 'block';
+        statsRow.innerHTML = `
+          <div class="stat-card">
+            <div class="stat-number">${totalAnswered}</div>
+            <div class="stat-label">已作答題數</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-number">${totalAnswered > 0 ? Math.round(totalCorrect/totalAnswered*100) : 0}%</div>
+            <div class="stat-label">整體正確率</div>
+          </div>
+        `;
+      }
+
+      // Vocab stats
+      const learnedWords = JSON.parse(localStorage.getItem('vocab_learned') || '[]');
+      if (learnedWords.length > 0) {
+        statsRow.innerHTML += `
+          <div class="stat-card">
+            <div class="stat-number">${learnedWords.length}</div>
+            <div class="stat-label">已學單字</div>
+          </div>
+        `;
+      }
+    }
+
+    loadStats();
+  </script>
+</body>
+</html>

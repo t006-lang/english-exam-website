@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>歷屆試題 - 會考英語練習</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📝</text></svg>">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="index.html" class="site-title">📚 會考英語練習</a>
+      <nav class="nav-links">
+        <a href="index.html" class="nav-link">首頁</a>
+        <a href="exam.html" class="nav-link active">試題</a>
+        <a href="vocab.html" class="nav-link">單字</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Year selector -->
+  <div class="year-selector-panel" id="yearSelectorPanel">
+    <button class="year-tab" data-year="114" onclick="switchYear(114)">114年</button>
+    <button class="year-tab" data-year="113" onclick="switchYear(113)">113年</button>
+    <button class="year-tab" data-year="112" onclick="switchYear(112)">112年</button>
+    <button class="year-tab" data-year="111" onclick="switchYear(111)">111年</button>
+    <button class="year-tab" data-year="110" onclick="switchYear(110)">110年</button>
+    <button class="year-tab" data-year="109" onclick="switchYear(109)">109年</button>
+    <button class="year-tab" data-year="108" onclick="switchYear(108)">108年</button>
+    <button class="year-tab" data-year="107" onclick="switchYear(107)">107年</button>
+  </div>
+
+  <!-- Exam header with progress -->
+  <div class="exam-header" id="examHeader">
+    <div class="exam-header-inner">
+      <span class="exam-title" id="examTitle">載入中...</span>
+      <span class="exam-counter" id="examCounter"></span>
+    </div>
+    <div class="progress-bar-container">
+      <div class="progress-bar" id="progressBar" style="width:0%"></div>
+    </div>
+  </div>
+
+  <!-- Main content area -->
+  <div id="mainContent">
+    <div class="loading" id="loadingState">
+      <div class="loading-spinner"></div>
+      <p>載入試題中...</p>
+    </div>
+  </div>
+
+  <script src="js/exam.js"></script>
+  <script>
+    // Initialize on load
+    const params = new URLSearchParams(window.location.search);
+    const initialYear = parseInt(params.get('year')) || 114;
+    initExam(initialYear);
+  </script>
+</body>
+</html>
