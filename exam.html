@@ -5,58 +5,140 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>歷屆試題 - 會考英語練習</title>
   <link rel="stylesheet" href="css/style.css">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📝</text></svg>">
 </head>
 <body>
+<header class="site-header">
+  <div class="header-inner">
+    <a href="index.html" class="site-title">📚 會考英語練習</a>
+    <nav class="nav-links">
+      <a href="index.html" class="nav-link">首頁</a>
+      <a href="exam.html" class="nav-link active">試題</a>
+      <a href="vocab.html" class="nav-link">單字</a>
+    </nav>
+  </div>
+</header>
 
-  <header class="site-header">
-    <div class="header-inner">
-      <a href="index.html" class="site-title">📚 會考英語練習</a>
-      <nav class="nav-links">
-        <a href="index.html" class="nav-link">首頁</a>
-        <a href="exam.html" class="nav-link active">試題</a>
-        <a href="vocab.html" class="nav-link">單字</a>
-      </nav>
+<main id="app">
+  <!-- 選擇模式畫面 -->
+  <div id="screenSelect">
+    <h2 class="page-title">選擇練習模式</h2>
+    <div class="mode-grid">
+      <div class="mode-card" onclick="showYearSelect('year')">
+        <div class="mode-icon">📅</div>
+        <h3>年份練習</h3>
+        <p>選擇特定年份，逐題作答</p>
+      </div>
+      <div class="mode-card" onclick="showYearSelect('mock')">
+        <div class="mode-icon">⏱️</div>
+        <h3>模擬考</h3>
+        <p>限時60分鐘，完整模擬考場</p>
+      </div>
+      <div class="mode-card" id="wrongModeCard" onclick="startWrongPractice()">
+        <div class="mode-icon">❌</div>
+        <h3>錯題練習</h3>
+        <p>專攻曾經答錯的題目</p>
+        <div class="wrong-count" id="wrongCountBadge"></div>
+      </div>
+      <div class="mode-card" onclick="showCustomMode()">
+        <div class="mode-icon">🎯</div>
+        <h3>自訂練習</h3>
+        <p>選擇年份、題數自由搭配</p>
+      </div>
     </div>
-  </header>
 
-  <!-- Year selector -->
-  <div class="year-selector-panel" id="yearSelectorPanel">
-    <button class="year-tab" data-year="114" onclick="switchYear(114)">114年</button>
-    <button class="year-tab" data-year="113" onclick="switchYear(113)">113年</button>
-    <button class="year-tab" data-year="112" onclick="switchYear(112)">112年</button>
-    <button class="year-tab" data-year="111" onclick="switchYear(111)">111年</button>
-    <button class="year-tab" data-year="110" onclick="switchYear(110)">110年</button>
-    <button class="year-tab" data-year="109" onclick="switchYear(109)">109年</button>
-    <button class="year-tab" data-year="108" onclick="switchYear(108)">108年</button>
-    <button class="year-tab" data-year="107" onclick="switchYear(107)">107年</button>
+    <!-- 年份選擇 -->
+    <div id="yearSelectPanel" style="display:none">
+      <h3 id="yearSelectTitle" class="section-title">選擇年份</h3>
+      <div class="year-grid">
+        <button class="year-btn" onclick="startExam(107)">107年</button>
+        <button class="year-btn" onclick="startExam(108)">108年</button>
+        <button class="year-btn" onclick="startExam(109)">109年</button>
+        <button class="year-btn" onclick="startExam(110)">110年</button>
+        <button class="year-btn" onclick="startExam(111)">111年</button>
+        <button class="year-btn" onclick="startExam(112)">112年</button>
+        <button class="year-btn" onclick="startExam(113)">113年</button>
+        <button class="year-btn" onclick="startExam(114)">114年</button>
+      </div>
+    </div>
+
+    <!-- 自訂模式 -->
+    <div id="customPanel" style="display:none">
+      <h3 class="section-title">自訂練習設定</h3>
+      <div class="custom-form">
+        <label>選擇年份（可多選）：</label>
+        <div class="year-check-grid">
+          <label><input type="checkbox" name="cy" value="107"> 107年</label>
+          <label><input type="checkbox" name="cy" value="108"> 108年</label>
+          <label><input type="checkbox" name="cy" value="109"> 109年</label>
+          <label><input type="checkbox" name="cy" value="110"> 110年</label>
+          <label><input type="checkbox" name="cy" value="111"> 111年</label>
+          <label><input type="checkbox" name="cy" value="112"> 112年</label>
+          <label><input type="checkbox" name="cy" value="113"> 113年</label>
+          <label><input type="checkbox" name="cy" value="114"> 114年</label>
+        </div>
+        <label>題數：<input type="number" id="customCount" min="5" max="100" value="20"> 題</label>
+        <button class="btn-primary" onclick="startCustomExam()">開始練習</button>
+      </div>
+    </div>
   </div>
 
-  <!-- Exam header with progress -->
-  <div class="exam-header" id="examHeader">
-    <div class="exam-header-inner">
-      <span class="exam-title" id="examTitle">載入中...</span>
-      <span class="exam-counter" id="examCounter"></span>
+  <!-- 作答畫面 -->
+  <div id="screenExam" style="display:none">
+    <div class="exam-topbar">
+      <div class="exam-info">
+        <span id="examLabel"></span>
+        <span id="examCounter" class="q-counter"></span>
+      </div>
+      <div class="exam-timer" id="examTimer" style="display:none">⏱️ <span id="timerDisplay">60:00</span></div>
+      <button class="btn-ghost btn-sm" onclick="exitExam()">離開</button>
     </div>
-    <div class="progress-bar-container">
-      <div class="progress-bar" id="progressBar" style="width:0%"></div>
+    <div class="progress-bar-wrap"><div class="progress-bar" id="progressBar"></div></div>
+
+    <div class="question-wrap">
+      <div id="passageBox" class="passage-box" style="display:none"></div>
+      <div class="question-box">
+        <div class="q-num" id="qNum"></div>
+        <div class="q-text" id="qText"></div>
+        <div class="options-grid" id="optionsGrid"></div>
+        <div class="feedback-box" id="feedbackBox" style="display:none"></div>
+      </div>
+    </div>
+
+    <div class="exam-nav">
+      <button class="btn-ghost" id="btnPrev" onclick="prevQ()">← 上一題</button>
+      <button class="btn-primary" id="btnNext" onclick="nextQ()" style="display:none">下一題 →</button>
     </div>
   </div>
 
-  <!-- Main content area -->
-  <div id="mainContent">
-    <div class="loading" id="loadingState">
-      <div class="loading-spinner"></div>
-      <p>載入試題中...</p>
+  <!-- 結果畫面 -->
+  <div id="screenResult" style="display:none">
+    <div class="result-wrap">
+      <div class="result-header">
+        <h2>練習結果</h2>
+        <div class="result-score" id="resultScore"></div>
+        <div class="result-grade" id="resultGrade"></div>
+      </div>
+
+      <div class="result-analysis">
+        <h3>弱點分析</h3>
+        <div id="analysisGrid" class="analysis-grid"></div>
+      </div>
+
+      <div class="result-wrong" id="resultWrongSection">
+        <h3>答錯的題目 <span id="wrongCount2"></span></h3>
+        <div id="wrongList"></div>
+      </div>
+
+      <div class="result-actions">
+        <button class="btn-primary" id="btnRetryWrong" onclick="retryWrong()">重做錯題</button>
+        <button class="btn-secondary" onclick="showSelect()">換年份</button>
+        <button class="btn-ghost" onclick="window.location.href='index.html'">回首頁</button>
+      </div>
     </div>
   </div>
+</main>
 
-  <script src="js/exam.js"></script>
-  <script>
-    // Initialize on load
-    const params = new URLSearchParams(window.location.search);
-    const initialYear = parseInt(params.get('year')) || 114;
-    initExam(initialYear);
-  </script>
+<script src="js/storage.js"></script>
+<script src="js/exam.js"></script>
 </body>
 </html>

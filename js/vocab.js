@@ -1,388 +1,334 @@
-/* ============================================================
-   Vocabulary Logic - 會考英語練習
-   ============================================================ */
+// vocab.js - 單字練習邏輯
 
 let allWords = [];
 let filteredWords = [];
+let fcIndex = 0;
+let fcFlipped = false;
 let currentFilter = 'all';
-let currentTab = 'flashcard';
+let currentSearch = '';
 
-// Flashcard state
-let fc = {
-  index: 0,
-  flipped: false
-};
+// 測驗
+let quizWords = [];
+let quizIndex = 0;
+let quizCorrect = 0;
+const QUIZ_SIZE = 10;
 
-// Quiz state
-let quiz = {
-  correct: 0,
-  wrong: 0,
-  currentWord: null,
-  answered: false
-};
+// 智慧複習
+let smartWords = [];
+let smartIndex = 0;
+let smartFlipped = false;
 
-// ---- localStorage helpers ----
+// ── 初始化 ──────────────────────────────────────────────────
 
-function getLearnedSet() {
-  return new Set(JSON.parse(localStorage.getItem('vocab_learned') || '[]'));
+async function init() {
+  const res = await fetch('data/vocab-1200.json');
+  allWords = await res.json();
+  applyFilter();
+  updateReviewBadge();
+  renderStats();
 }
 
-function saveLearnedSet(set) {
-  localStorage.setItem('vocab_learned', JSON.stringify([...set]));
-}
-
-function getQuizStats() {
-  return JSON.parse(localStorage.getItem('vocab_quiz_stats') || '{"correct":0,"wrong":0}');
-}
-
-function saveQuizStats() {
-  localStorage.setItem('vocab_quiz_stats', JSON.stringify({ correct: quiz.correct, wrong: quiz.wrong }));
-}
-
-// ---- Init ----
-
-async function initVocab() {
-  try {
-    const res = await fetch('data/vocab-1200.json');
-    if (!res.ok) throw new Error('Failed to fetch vocab');
-    allWords = await res.json();
-
-    // Restore quiz stats
-    const saved = getQuizStats();
-    quiz.correct = saved.correct;
-    quiz.wrong = saved.wrong;
-
-    document.getElementById('loadingState').style.display = 'none';
-    document.getElementById('filterBar').style.display = 'flex';
-
-    applyFilter(currentFilter);
-    switchTab('flashcard');
-
-    // Keyboard navigation
-    document.addEventListener('keydown', handleKeyboard);
-
-  } catch (err) {
-    document.getElementById('loadingState').innerHTML = `
-      <p style="color:#d9534f;">⚠️ 無法載入單字資料</p>
-      <p style="font-size:0.85rem; color:#888;">${err.message}</p>`;
-  }
-}
-
-// ---- Filter ----
-
-function setFilter(filter) {
-  currentFilter = filter;
-  document.querySelectorAll('.filter-btn').forEach(btn => {
-    btn.classList.toggle('active', btn.dataset.filter === filter);
-  });
-  applyFilter(filter);
-}
-
-function applyFilter(filter) {
-  const learned = getLearnedSet();
-
-  if (filter === 'learned') {
-    filteredWords = allWords.filter(w => learned.has(w.word));
-  } else if (filter === 'unlearned') {
-    filteredWords = allWords.filter(w => !learned.has(w.word));
-  } else {
-    filteredWords = [...allWords];
-  }
-
-  const learnedCount = learned.size;
-  document.getElementById('filterCount').textContent =
-    `已學會 ${learnedCount} / ${allWords.length} 個`;
-
-  if (filteredWords.length === 0) {
-    if (filter === 'learned') {
-      showEmptyState('還沒有標記為已學會的單字', '去練習單字卡吧！');
-    } else if (filter === 'unlearned') {
-      showEmptyState('全部單字都學會了！', '太厲害了！');
-    }
-    return;
-  }
-
-  // Reset index if out of bounds
-  if (fc.index >= filteredWords.length) {
-    fc.index = 0;
-  }
-
-  if (currentTab === 'flashcard') {
-    renderFlashcard();
-  } else {
-    renderQuizQuestion();
-  }
-}
-
-function showEmptyState(msg, sub) {
-  const tabContent = document.getElementById(`tabContent${currentTab.charAt(0).toUpperCase() + currentTab.slice(1)}`);
-  if (tabContent) {
-    const inner = tabContent.querySelector('.empty-placeholder');
-    if (inner) inner.innerHTML = `<span class="empty-icon">🎉</span><p>${msg}</p><p style="font-size:0.85rem;color:#aaa;">${sub}</p>`;
-  }
-}
-
-// ---- Tab switching ----
+// ── 分頁切換 ────────────────────────────────────────────────
 
 function switchTab(tab) {
-  currentTab = tab;
-
-  document.getElementById('tabFlashcard').classList.toggle('active', tab === 'flashcard');
-  document.getElementById('tabQuiz').classList.toggle('active', tab === 'quiz');
-
-  const flashcardContent = document.getElementById('tabContentFlashcard');
-  const quizContent = document.getElementById('tabContentQuiz');
-
-  if (tab === 'flashcard') {
-    flashcardContent.style.display = 'block';
-    quizContent.style.display = 'none';
-    if (filteredWords.length > 0) renderFlashcard();
-  } else {
-    flashcardContent.style.display = 'none';
-    quizContent.style.display = 'block';
-    updateQuizStats();
-    if (filteredWords.length > 0) renderQuizQuestion();
-  }
+  ['flashcard','quiz','smart','stats'].forEach(t => {
+    document.getElementById('tab' + t.charAt(0).toUpperCase() + t.slice(1)).style.display = t===tab?'':'none';
+  });
+  document.querySelectorAll('.vtab').forEach((el,i) => el.classList.toggle('active', ['flashcard','quiz','smart','stats'][i]===tab));
+  if (tab === 'quiz') startQuiz();
+  if (tab === 'smart') loadSmartReview();
+  if (tab === 'stats') renderStats();
 }
 
-// ---- Flashcard ----
+// ── 篩選 ────────────────────────────────────────────────────
+
+function setFilter(f) {
+  currentFilter = f;
+  document.querySelectorAll('.filter-btn').forEach((el,i) => el.classList.toggle('active', ['all','new','learning','learned'][i]===f));
+  applyFilter();
+}
+
+function doSearch() {
+  currentSearch = document.getElementById('searchBox').value.toLowerCase();
+  applyFilter();
+}
+
+function applyFilter() {
+  filteredWords = allWords.filter(w => {
+    const d = Storage.getWordData(w.word);
+    const statusMatch = currentFilter === 'all' || d.status === currentFilter || (currentFilter==='new' && d.status==='new');
+    const searchMatch = !currentSearch || w.word.toLowerCase().includes(currentSearch) || w.chinese.includes(currentSearch);
+    return statusMatch && searchMatch;
+  });
+  fcIndex = 0;
+  renderFlashcard();
+}
+
+// ── 單字卡 ──────────────────────────────────────────────────
 
 function renderFlashcard() {
-  if (filteredWords.length === 0) return;
+  if (filteredWords.length === 0) {
+    document.getElementById('fcWord').textContent = '沒有符合的單字';
+    document.getElementById('fcPos').textContent = '';
+    document.getElementById('fcChinese').textContent = '';
+    document.getElementById('fcProgress').textContent = '0 / 0';
+    return;
+  }
+  const w = filteredWords[fcIndex];
+  document.getElementById('fcWord').textContent = w.word;
+  document.getElementById('fcPos').textContent = w.pos;
+  document.getElementById('fcChinese').textContent = w.chinese;
+  document.getElementById('fcWordSmall').textContent = w.word;
+  document.getElementById('fcProgress').textContent = `${fcIndex+1} / ${filteredWords.length}`;
+  showCardFront();
+}
 
-  const word = filteredWords[fc.index];
-  const learned = getLearnedSet();
-  const isLearned = learned.has(word.word);
-
-  // Reset flip state
-  fc.flipped = false;
+function showCardFront() {
+  fcFlipped = false;
+  document.getElementById('cardFront').style.display = '';
+  document.getElementById('cardBack').style.display = 'none';
   document.getElementById('flashcard').classList.remove('flipped');
-
-  // Update front
-  document.getElementById('cardWord').textContent = word.word;
-  document.getElementById('cardPos').textContent = word.pos || '';
-
-  // Update back
-  document.getElementById('cardChinese').textContent = word.chinese || '';
-  document.getElementById('cardPosBack').textContent = word.pos || '';
-  document.getElementById('cardWordSmall').textContent = word.word;
-
-  // Update counter
-  document.getElementById('fcCounter').textContent = `${fc.index + 1} / ${filteredWords.length}`;
-
-  // Update prev/next buttons
-  document.getElementById('fcPrevBtn').disabled = fc.index === 0;
-  document.getElementById('fcNextBtn').disabled = fc.index === filteredWords.length - 1;
-
-  // Update learned button
-  const btn = document.getElementById('learnedBtn');
-  btn.classList.toggle('learned', isLearned);
-  btn.textContent = isLearned ? '✓ 已學會' : '標記為「已學會」';
 }
 
 function flipCard() {
-  fc.flipped = !fc.flipped;
-  document.getElementById('flashcard').classList.toggle('flipped', fc.flipped);
-}
-
-function fcPrev() {
-  if (fc.index > 0) {
-    fc.index--;
-    renderFlashcard();
-  }
+  fcFlipped = !fcFlipped;
+  document.getElementById('cardFront').style.display = fcFlipped ? 'none' : '';
+  document.getElementById('cardBack').style.display = fcFlipped ? '' : 'none';
 }
 
 function fcNext() {
-  if (fc.index < filteredWords.length - 1) {
-    fc.index++;
-    renderFlashcard();
+  if (filteredWords.length === 0) return;
+  fcIndex = (fcIndex + 1) % filteredWords.length;
+  renderFlashcard();
+}
+
+function fcPrev() {
+  if (filteredWords.length === 0) return;
+  fcIndex = (fcIndex - 1 + filteredWords.length) % filteredWords.length;
+  renderFlashcard();
+}
+
+function markStatus(status) {
+  if (filteredWords.length === 0) return;
+  const w = filteredWords[fcIndex];
+  Storage.updateWord(w.word, { status });
+  Storage.addVocabHistory({ learned: status === 'learned' ? 1 : 0 });
+  updateReviewBadge();
+  fcNext();
+}
+
+// ── 測驗 ────────────────────────────────────────────────────
+
+function startQuiz() {
+  const pool = filteredWords.length >= 4 ? filteredWords : allWords;
+  const shuffled = [...pool].sort(() => Math.random()-0.5);
+  quizWords = shuffled.slice(0, QUIZ_SIZE);
+  quizIndex = 0; quizCorrect = 0;
+  document.getElementById('quizWrap').style.display = '';
+  document.getElementById('quizEnd').style.display = 'none';
+  document.getElementById('quizScore').textContent = 0;
+  document.getElementById('quizTotal').textContent = 0;
+  renderQuizQ();
+}
+
+function renderQuizQ() {
+  if (quizIndex >= quizWords.length) { showQuizEnd(); return; }
+  const w = quizWords[quizIndex];
+  document.getElementById('quizWord').textContent = w.word + '  ' + w.pos;
+
+  // 4個選項：1正確+3隨機
+  const correct = w;
+  const others = allWords.filter(x => x.word !== w.word).sort(() => Math.random()-0.5).slice(0,3);
+  const opts = [correct, ...others].sort(() => Math.random()-0.5);
+
+  document.getElementById('btnNextQuiz').style.display = 'none';
+  document.getElementById('quizOptions').innerHTML = opts.map(o => `
+    <button class="quiz-opt" onclick="selectQuizOpt(this,'${o.word}','${w.word}')">${o.chinese}</button>
+  `).join('');
+}
+
+function selectQuizOpt(el, chosen, correct) {
+  document.querySelectorAll('.quiz-opt').forEach(b => b.disabled = true);
+  if (chosen === correct) {
+    el.classList.add('opt-correct');
+    quizCorrect++;
+    Storage.markCorrect(0, chosen);
+  } else {
+    el.classList.add('opt-wrong');
+    document.querySelectorAll('.quiz-opt').forEach(b => { if(b.textContent === allWords.find(w=>w.word===correct)?.chinese) b.classList.add('opt-correct'); });
+    Storage.markWrong(0, chosen);
+  }
+  quizIndex++;
+  document.getElementById('quizScore').textContent = quizCorrect;
+  document.getElementById('quizTotal').textContent = quizIndex;
+  document.getElementById('btnNextQuiz').style.display = '';
+}
+
+function nextQuizQ() {
+  document.getElementById('btnNextQuiz').style.display = 'none';
+  renderQuizQ();
+}
+
+function showQuizEnd() {
+  Storage.addVocabHistory({ reviewed: quizWords.length });
+  document.getElementById('quizWrap').style.display = 'none';
+  document.getElementById('quizEnd').style.display = '';
+  document.getElementById('quizEndScore').textContent = `${quizCorrect} / ${quizWords.length} (${Math.round(quizCorrect/quizWords.length*100)}%)`;
+}
+
+// ── 智慧複習 (SM-2 簡化版) ──────────────────────────────────
+
+function loadSmartReview() {
+  const today = new Date().toISOString().slice(0,10);
+  smartWords = allWords.filter(w => {
+    const d = Storage.getWordData(w.word);
+    if (d.status === 'new') return false;
+    if (!d.nextReview) return d.status === 'learning';
+    return d.nextReview <= today;
+  }).slice(0, 30);
+
+  document.getElementById('reviewCount').textContent = smartWords.length;
+  smartIndex = 0;
+
+  if (smartWords.length === 0) {
+    document.getElementById('smartWrap').style.display = 'none';
+    document.getElementById('smartDone').style.display = '';
+  } else {
+    document.getElementById('smartWrap').style.display = '';
+    document.getElementById('smartDone').style.display = 'none';
+    renderSmartCard();
   }
 }
 
-function toggleLearned() {
-  if (filteredWords.length === 0) return;
-
-  const word = filteredWords[fc.index];
-  const learned = getLearnedSet();
-
-  if (learned.has(word.word)) {
-    learned.delete(word.word);
-  } else {
-    learned.add(word.word);
+function renderSmartCard() {
+  if (smartIndex >= smartWords.length) {
+    document.getElementById('smartWrap').style.display = 'none';
+    document.getElementById('smartDone').style.display = '';
+    return;
   }
-
-  saveLearnedSet(learned);
-
-  // Re-apply filter (word may drop out of filtered list)
-  const prevWord = word.word;
-  applyFilter(currentFilter);
-
-  // Try to stay near same position
-  const newIdx = filteredWords.findIndex(w => w.word === prevWord);
-  if (newIdx !== -1) {
-    fc.index = newIdx;
-  } else {
-    // Word was removed from filter, move to next or prev
-    fc.index = Math.min(fc.index, filteredWords.length - 1);
-  }
-
-  if (filteredWords.length > 0) {
-    renderFlashcard();
-  }
-
-  // Update filter count
-  const learnedCount = learned.size;
-  document.getElementById('filterCount').textContent =
-    `已學會 ${learnedCount} / ${allWords.length} 個`;
+  const w = smartWords[smartIndex];
+  document.getElementById('smWord').textContent = w.word;
+  document.getElementById('smPos').textContent = w.pos;
+  document.getElementById('smChinese').textContent = w.chinese;
+  document.getElementById('smWordSmall').textContent = w.word;
+  document.getElementById('smCurrent').textContent = smartIndex + 1;
+  document.getElementById('smTotal').textContent = smartWords.length;
+  document.getElementById('smartActions').style.display = 'none';
+  document.getElementById('smartFront').style.display = '';
+  document.getElementById('smartBack').style.display = 'none';
+  smartFlipped = false;
 }
 
-// ---- Quiz ----
+function flipSmartCard() {
+  smartFlipped = !smartFlipped;
+  document.getElementById('smartFront').style.display = smartFlipped ? 'none' : '';
+  document.getElementById('smartBack').style.display = smartFlipped ? '' : 'none';
+  if (smartFlipped) document.getElementById('smartActions').style.display = '';
+}
 
-function renderQuizQuestion() {
-  if (filteredWords.length === 0) return;
+function smartReview(result) {
+  const w = smartWords[smartIndex];
+  const d = Storage.getWordData(w.word);
+  const today = new Date();
+  let interval = d.interval || 1;
+  let ef = d.easeFactor || 2.5;
 
-  quiz.answered = false;
+  if (result === 'forgot') { interval = 1; ef = Math.max(1.3, ef - 0.2); }
+  else if (result === 'vague') { interval = Math.max(1, Math.round(interval * 1.5)); }
+  else { interval = Math.round(interval * ef); ef = Math.min(3.0, ef + 0.1); }
 
-  // Pick a random word
-  const randomIdx = Math.floor(Math.random() * filteredWords.length);
-  quiz.currentWord = filteredWords[randomIdx];
+  const next = new Date(today);
+  next.setDate(next.getDate() + interval);
 
-  document.getElementById('quizWord').textContent = quiz.currentWord.word;
-  document.getElementById('quizPos').textContent = quiz.currentWord.pos || '';
+  Storage.updateWord(w.word, {
+    status: result === 'forgot' ? 'learning' : 'learned',
+    interval, easeFactor: ef,
+    nextReview: next.toISOString().slice(0,10),
+    wrongCount: result === 'forgot' ? (d.wrongCount||0)+1 : d.wrongCount||0
+  });
+  Storage.addVocabHistory({ reviewed: 1, learned: result !== 'forgot' ? 1 : 0 });
 
-  // Generate 4 options (1 correct + 3 wrong)
-  const correctChinese = quiz.currentWord.chinese;
-  const wrongOptions = getRandomWrongOptions(quiz.currentWord, 3);
+  smartIndex++;
+  renderSmartCard();
+  updateReviewBadge();
+}
 
-  const options = shuffle([correctChinese, ...wrongOptions]);
+// ── 統計 ────────────────────────────────────────────────────
 
-  const container = document.getElementById('quizOptions');
-  container.innerHTML = '';
-  options.forEach(opt => {
-    const btn = document.createElement('button');
-    btn.className = 'quiz-option-btn';
-    btn.textContent = opt;
-    btn.onclick = () => selectQuizAnswer(opt, correctChinese, btn);
-    container.appendChild(btn);
+function renderStats() {
+  const vocab = Storage.getVocab();
+  let nNew = 0, nLearning = 0, nLearned = 0;
+  allWords.forEach(w => {
+    const d = vocab[w.word];
+    if (!d || d.status === 'new') nNew++;
+    else if (d.status === 'learning') nLearning++;
+    else nLearned++;
+  });
+  document.getElementById('stNew').textContent = nNew;
+  document.getElementById('stLearning').textContent = nLearning;
+  document.getElementById('stLearned').textContent = nLearned;
+  document.getElementById('stTotal').textContent = allWords.length;
+
+  // 圓餅圖
+  const total = allWords.length;
+  const canvas = document.getElementById('pieChart');
+  const ctx = canvas.getContext('2d');
+  ctx.clearRect(0,0,200,200);
+  const slices = [
+    { val: nNew, color: '#94a3b8', label: '未學習' },
+    { val: nLearning, color: '#60a5fa', label: '學習中' },
+    { val: nLearned, color: '#34d399', label: '已熟悉' },
+  ];
+  let start = -Math.PI/2;
+  slices.forEach(s => {
+    const angle = (s.val / total) * 2 * Math.PI;
+    ctx.beginPath();
+    ctx.moveTo(100,100);
+    ctx.arc(100,100,90,start,start+angle);
+    ctx.closePath();
+    ctx.fillStyle = s.color;
+    ctx.fill();
+    start += angle;
   });
 
-  document.getElementById('quizFeedback').style.display = 'none';
-  document.getElementById('quizNextBtn').style.display = 'none';
-}
-
-function getRandomWrongOptions(currentWord, count) {
-  const used = new Set([currentWord.chinese]);
-  const pool = allWords.filter(w => w.word !== currentWord.word && !used.has(w.chinese));
-  const shuffled = shuffle(pool);
-  const result = [];
-  for (const w of shuffled) {
-    if (!used.has(w.chinese)) {
-      used.add(w.chinese);
-      result.push(w.chinese);
-      if (result.length >= count) break;
-    }
+  // 週歷史
+  const history = Storage.getVocabHistory();
+  const days = [];
+  for (let i=6;i>=0;i--) {
+    const d = new Date(); d.setDate(d.getDate()-i);
+    const ds = d.toISOString().slice(0,10);
+    const h = history.find(h => h.date === ds);
+    days.push({ date: ds.slice(5), learned: h?.learned||0 });
   }
-  return result;
+  const max = Math.max(...days.map(d=>d.learned), 1);
+  document.getElementById('weeklyBars').innerHTML = days.map(d => `
+    <div class="weekly-bar-item">
+      <div class="weekly-bar" style="height:${Math.round(d.learned/max*60)}px"></div>
+      <div class="weekly-label">${d.date}</div>
+      <div class="weekly-val">${d.learned}</div>
+    </div>`).join('');
 }
 
-function selectQuizAnswer(selected, correct, clickedBtn) {
-  if (quiz.answered) return;
-  quiz.answered = true;
+function updateReviewBadge() {
+  const today = new Date().toISOString().slice(0,10);
+  const count = allWords.filter(w => {
+    const d = Storage.getWordData(w.word);
+    if (d.status === 'new') return false;
+    if (!d.nextReview) return d.status === 'learning';
+    return d.nextReview <= today;
+  }).length;
+  document.getElementById('reviewBadge').textContent = count > 0 ? count : '';
+}
 
-  const isCorrect = selected === correct;
-  const feedback = document.getElementById('quizFeedback');
-
-  // Highlight buttons
-  document.querySelectorAll('.quiz-option-btn').forEach(btn => {
-    btn.disabled = true;
-    if (btn.textContent === correct) {
-      btn.classList.add('correct');
-    } else if (btn === clickedBtn && !isCorrect) {
-      btn.classList.add('wrong');
-    }
-  });
-
-  if (isCorrect) {
-    quiz.correct++;
-    feedback.textContent = '✓ 答對了！';
-    feedback.style.background = '#e6f7ed';
-    feedback.style.color = '#2e9e5b';
-  } else {
-    quiz.wrong++;
-    feedback.textContent = `✗ 答錯了！正確答案：${correct}`;
-    feedback.style.background = '#fdecea';
-    feedback.style.color = '#d9534f';
+// 鍵盤快捷鍵
+document.addEventListener('keydown', e => {
+  const activeTab = document.querySelector('.vtab.active')?.textContent;
+  if (activeTab?.includes('單字卡')) {
+    if (e.key === ' ') { e.preventDefault(); flipCard(); }
+    if (e.key === 'ArrowRight') fcNext();
+    if (e.key === 'ArrowLeft') fcPrev();
+    if (e.key === 'l' || e.key === 'L') markStatus('learned');
   }
+});
 
-  feedback.style.display = 'block';
-  document.getElementById('quizNextBtn').style.display = 'block';
-
-  saveQuizStats();
-  updateQuizStats();
-
-  // Auto advance after 1.5s
-  setTimeout(() => {
-    if (quiz.answered) {
-      nextQuizQuestion();
-    }
-  }, 1800);
-}
-
-function nextQuizQuestion() {
-  renderQuizQuestion();
-}
-
-function updateQuizStats() {
-  const total = quiz.correct + quiz.wrong;
-  const pct = total > 0 ? Math.round(quiz.correct / total * 100) : null;
-
-  document.getElementById('quizCorrect').textContent = quiz.correct;
-  document.getElementById('quizWrong').textContent = quiz.wrong;
-  document.getElementById('quizPct').textContent = pct !== null ? pct + '%' : '—';
-}
-
-function resetQuizStats() {
-  quiz.correct = 0;
-  quiz.wrong = 0;
-  saveQuizStats();
-  updateQuizStats();
-  renderQuizQuestion();
-}
-
-// ---- Keyboard navigation ----
-
-function handleKeyboard(e) {
-  if (currentTab !== 'flashcard') return;
-  if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
-
-  switch(e.key) {
-    case ' ':
-    case 'Enter':
-      e.preventDefault();
-      flipCard();
-      break;
-    case 'ArrowLeft':
-      e.preventDefault();
-      fcPrev();
-      break;
-    case 'ArrowRight':
-      e.preventDefault();
-      fcNext();
-      break;
-    case 'l':
-    case 'L':
-      toggleLearned();
-      break;
-  }
-}
-
-// ---- Utility ----
-
-function shuffle(arr) {
-  const a = [...arr];
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [a[i], a[j]] = [a[j], a[i]];
-  }
-  return a;
-}
+init();

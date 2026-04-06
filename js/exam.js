@@ -1,380 +1,317 @@
-/* ============================================================
-   Exam Logic - 會考英語閱讀練習
-   ============================================================ */
+// exam.js - 試題練習邏輯
 
-const QUESTION_COUNTS = {107:41, 108:41, 109:41, 110:41, 111:43, 112:43, 113:43, 114:43};
+let questions = [];      // 當前題目集
+let current = 0;         // 當前題目索引
+let answers = {};        // { index: 'A'/'B'/'C'/'D' }
+let mode = 'year';       // year | mock | wrong | custom
+let currentYear = null;
+let mockTimer = null;
+let mockSeconds = 3600;
+let wrongIds = [];       // 答錯的索引陣列
 
-let state = {
-  year: 114,
-  questions: [],
-  currentIndex: 0,
-  answers: {},      // { questionId: selectedLetter }
-  score: 0,
-  loading: false
-};
+// ── 模式選擇 ────────────────────────────────────────────────
 
-// ---- localStorage helpers ----
-
-function saveProgress() {
-  const key = `exam_progress_${state.year}`;
-  localStorage.setItem(key, JSON.stringify({
-    answers: state.answers,
-    score: state.score,
-    currentIndex: state.currentIndex
-  }));
+function showSelect() {
+  hide('screenExam'); hide('screenResult');
+  show('screenSelect');
+  hide('yearSelectPanel'); hide('customPanel');
+  updateWrongBadge();
 }
 
-function loadProgress(year) {
-  const key = `exam_progress_${year}`;
-  return JSON.parse(localStorage.getItem(key) || 'null');
+function showYearSelect(m) {
+  mode = m;
+  document.getElementById('yearSelectTitle').textContent = m === 'mock' ? '選擇模擬考年份' : '選擇練習年份';
+  show('yearSelectPanel'); hide('customPanel');
 }
 
-function clearProgress(year) {
-  localStorage.removeItem(`exam_progress_${year}`);
+function showCustomMode() {
+  show('customPanel'); hide('yearSelectPanel');
 }
 
-// ---- Year switching ----
-
-function switchYear(year) {
-  if (state.loading) return;
-  // Update URL without reload
-  history.replaceState(null, '', `exam.html?year=${year}`);
-  initExam(year);
+function updateWrongBadge() {
+  const w = Storage.getWrongQuestions();
+  const cnt = Object.keys(w).length;
+  const badge = document.getElementById('wrongCountBadge');
+  badge.textContent = cnt > 0 ? `${cnt} 題` : '';
 }
 
-// ---- Init ----
+// ── 載入題目 ────────────────────────────────────────────────
 
-async function initExam(year) {
-  state.year = year;
-  state.loading = true;
+async function startExam(year) {
+  currentYear = year;
+  const data = await loadYear(year);
+  if (!data) return;
+  questions = data;
+  answers = {};
+  wrongIds = [];
+  current = 0;
+  hide('screenSelect');
+  show('screenExam');
+  document.getElementById('examLabel').textContent = `${year}年`;
+  if (mode === 'mock') startMockTimer();
+  else hide('examTimer');
+  renderQ();
+}
 
-  // Update year tabs
-  document.querySelectorAll('.year-tab').forEach(tab => {
-    tab.classList.toggle('active', parseInt(tab.dataset.year) === year);
+async function startWrongPractice() {
+  mode = 'wrong';
+  const w = Storage.getWrongQuestions();
+  const keys = Object.keys(w);
+  if (keys.length === 0) { alert('目前沒有錯題！繼續加油！'); return; }
+
+  // 按年份分組載入
+  const byYear = {};
+  keys.forEach(k => {
+    const [y, id] = k.split('-');
+    if (!byYear[y]) byYear[y] = [];
+    byYear[y].push(parseInt(id));
   });
 
-  document.getElementById('examTitle').textContent = `${year}年 英語閱讀`;
-  document.getElementById('examCounter').textContent = '載入中...';
-  document.getElementById('mainContent').innerHTML = `
-    <div class="loading">
-      <div class="loading-spinner"></div>
-      <p>載入試題中...</p>
-    </div>`;
+  questions = [];
+  for (const [year, ids] of Object.entries(byYear)) {
+    const data = await loadYear(parseInt(year));
+    if (!data) continue;
+    ids.forEach(id => {
+      const q = data.find(q => q.id === id);
+      if (q) questions.push({ ...q, _year: parseInt(year) });
+    });
+  }
 
+  if (questions.length === 0) return;
+  shuffle(questions);
+  answers = {}; wrongIds = []; current = 0;
+  hide('screenSelect'); show('screenExam');
+  document.getElementById('examLabel').textContent = '錯題練習';
+  hide('examTimer');
+  renderQ();
+}
+
+async function startCustomExam() {
+  const checked = [...document.querySelectorAll('input[name="cy"]:checked')].map(el => parseInt(el.value));
+  if (checked.length === 0) { alert('請至少選擇一個年份'); return; }
+  const count = parseInt(document.getElementById('customCount').value) || 20;
+
+  mode = 'custom';
+  let pool = [];
+  for (const year of checked) {
+    const data = await loadYear(year);
+    if (data) pool.push(...data.map(q => ({ ...q, _year: year })));
+  }
+  shuffle(pool);
+  questions = pool.slice(0, count);
+  answers = {}; wrongIds = []; current = 0;
+  currentYear = checked[0];
+  hide('screenSelect'); show('screenExam');
+  document.getElementById('examLabel').textContent = '自訂練習';
+  hide('examTimer');
+  renderQ();
+}
+
+async function loadYear(year) {
   try {
     const res = await fetch(`data/questions-${year}.json`);
-    if (!res.ok) throw new Error('Failed to fetch');
-    const questions = await res.json();
-
-    state.questions = questions.filter(q => q.options && Object.keys(q.options).length >= 2);
-    state.answers = {};
-    state.score = 0;
-    state.currentIndex = 0;
-
-    // Restore progress
-    const saved = loadProgress(year);
-    if (saved) {
-      state.answers = saved.answers || {};
-      state.score = saved.score || 0;
-      // Find first unanswered question
-      const answeredIds = Object.keys(state.answers).map(Number);
-      const firstUnanswered = state.questions.findIndex(q => !answeredIds.includes(q.id));
-      state.currentIndex = firstUnanswered === -1 ? state.questions.length - 1 : firstUnanswered;
-      if (saved.currentIndex !== undefined && firstUnanswered === -1) {
-        state.currentIndex = saved.currentIndex;
-      }
-    }
-
-    state.loading = false;
-
-    // Check if all answered -> show summary
-    if (Object.keys(state.answers).length >= state.questions.length && state.questions.length > 0) {
-      renderSummary();
-    } else {
-      renderQuestion();
-    }
-  } catch (err) {
-    state.loading = false;
-    document.getElementById('mainContent').innerHTML = `
-      <div class="exam-main">
-        <div class="card" style="text-align:center; color:#d9534f;">
-          <p style="font-size:1.5rem; margin-bottom:8px;">⚠️</p>
-          <p>無法載入 ${year} 年試題</p>
-          <p style="font-size:0.85rem; color:#888; margin-top:8px;">${err.message}</p>
-        </div>
-      </div>`;
+    return await res.json();
+  } catch(e) {
+    alert(`無法載入 ${year} 年題目`); return null;
   }
 }
 
-// ---- Render question ----
+// ── 模擬考計時器 ────────────────────────────────────────────
 
-function renderQuestion() {
-  const q = state.questions[state.currentIndex];
+function startMockTimer() {
+  mockSeconds = 3600;
+  show('examTimer');
+  if (mockTimer) clearInterval(mockTimer);
+  mockTimer = setInterval(() => {
+    mockSeconds--;
+    const m = String(Math.floor(mockSeconds/60)).padStart(2,'0');
+    const s = String(mockSeconds%60).padStart(2,'0');
+    document.getElementById('timerDisplay').textContent = `${m}:${s}`;
+    if (mockSeconds <= 0) { clearInterval(mockTimer); showResult(); }
+  }, 1000);
+}
+
+// ── 渲染題目 ────────────────────────────────────────────────
+
+function renderQ() {
+  const q = questions[current];
   if (!q) return;
+  const total = questions.length;
 
-  const total = state.questions.length;
-  const current = state.currentIndex + 1;
-  const answered = Object.keys(state.answers).length;
-  const pct = Math.round(answered / total * 100);
+  document.getElementById('examCounter').textContent = `第 ${current+1} / ${total} 題`;
+  document.getElementById('progressBar').style.width = `${(current+1)/total*100}%`;
+  document.getElementById('qNum').textContent = `第 ${q.id} 題`;
+  document.getElementById('qText').textContent = q.question;
 
-  // Update header
-  document.getElementById('examTitle').textContent = `${state.year}年 英語閱讀`;
-  document.getElementById('examCounter').textContent = `第 ${current} / ${total} 題`;
-  document.getElementById('progressBar').style.width = pct + '%';
+  // 段落
+  const pb = document.getElementById('passageBox');
+  if (q.passage) { pb.textContent = q.passage; show('passageBox'); }
+  else hide('passageBox');
 
-  // Build HTML
-  let html = '<div class="exam-main">';
-
-  // Passage (if applicable)
-  if (q.passage) {
-    html += `
-      <div class="passage-block">
-        <div class="passage-label">閱讀文章</div>
-        ${escapeHtml(q.passage)}
-      </div>`;
-  }
-
-  // Question
-  const typeLabel = q.type === 'passage'
-    ? '<span class="badge badge-passage">題組</span>'
-    : '<span class="badge badge-single">單題</span>';
-
-  const alreadyAnswered = state.answers[q.id];
-
-  html += `
-    <div class="question-block">
-      <div class="question-number">${typeLabel} 第 ${q.id} 題</div>
-      <div class="question-text">${escapeHtml(q.question || '（本題含圖片，請參考原始試題）')}</div>
-      <div class="options-list" id="optionsList">`;
-
-  const letters = ['A','B','C','D'];
-  letters.forEach(letter => {
-    const text = q.options[letter];
-    if (!text) return;
-
-    let btnClass = 'option-btn';
-    if (alreadyAnswered) {
-      if (letter === q.answer) btnClass += ' correct';
-      else if (letter === alreadyAnswered && alreadyAnswered !== q.answer) btnClass += ' wrong';
+  // 選項
+  const grid = document.getElementById('optionsGrid');
+  grid.innerHTML = ['A','B','C','D'].map(letter => {
+    if (!q.options[letter]) return '';
+    const chosen = answers[current];
+    let cls = 'option-btn';
+    if (chosen) {
+      if (letter === q.answer) cls += ' opt-correct';
+      else if (letter === chosen) cls += ' opt-wrong';
     }
+    return `<button class="${cls}" onclick="selectAnswer('${letter}')" ${chosen ? 'disabled' : ''}>
+      <span class="opt-letter">${letter}</span>
+      <span class="opt-text">${q.options[letter]}</span>
+    </button>`;
+  }).join('');
 
-    const disabled = alreadyAnswered ? 'disabled' : '';
-    html += `
-      <button class="${btnClass}" ${disabled} onclick="selectAnswer('${letter}')">
-        <span class="option-letter">${letter}</span>
-        <span>${escapeHtml(text)}</span>
-      </button>`;
-  });
-
-  html += `</div>`;
-
-  // If no options (picture question)
-  if (Object.keys(q.options).length < 2) {
-    html += `<div class="answer-feedback correct" style="display:flex;">
-      <span>⚠️</span>
-      <span>本題含圖片，請參考原始試題。正確答案：<strong>${q.answer}</strong></span>
-    </div>`;
+  // 回饋
+  const fb = document.getElementById('feedbackBox');
+  if (answers[current]) {
+    const correct = answers[current] === q.answer;
+    fb.innerHTML = correct
+      ? `<span class="fb-correct">✓ 答對了！正確答案是 ${q.answer}</span>`
+      : `<span class="fb-wrong">✗ 答錯了！正確答案是 <strong>${q.answer}</strong>：${q.options[q.answer]}</span>`;
+    show('feedbackBox');
+    show('btnNext');
+  } else {
+    hide('feedbackBox');
+    hide('btnNext');
   }
 
-  // Feedback
-  if (alreadyAnswered) {
-    const isCorrect = alreadyAnswered === q.answer;
-    html += `
-      <div class="answer-feedback ${isCorrect ? 'correct' : 'wrong'}" style="display:flex;">
-        <span>${isCorrect ? '✓' : '✗'}</span>
-        <span>${isCorrect ? '答對了！' : `答錯了，正確答案是 <strong>${q.answer}</strong>`}</span>
-      </div>`;
+  // 上一題按鈕
+  document.getElementById('btnPrev').style.visibility = current > 0 ? 'visible' : 'hidden';
+
+  // 最後一題：改顯示「查看結果」
+  if (current === total - 1 && answers[current]) {
+    document.getElementById('btnNext').textContent = '查看結果 →';
+  } else {
+    document.getElementById('btnNext').textContent = '下一題 →';
   }
-
-  html += `</div>`; // question-block
-
-  // Navigation
-  html += `
-    <div class="nav-buttons">
-      <button class="nav-btn" onclick="prevQuestion()" ${state.currentIndex === 0 ? 'disabled' : ''}>← 上一題</button>
-      <button class="nav-btn primary" onclick="nextQuestion()" id="nextBtn">
-        ${state.currentIndex === total - 1 ? '查看結果' : '下一題 →'}
-      </button>
-    </div>`;
-
-  html += '</div>'; // exam-main
-
-  document.getElementById('mainContent').innerHTML = html;
 }
 
-// ---- Answer selection ----
+// ── 作答 ────────────────────────────────────────────────────
 
 function selectAnswer(letter) {
-  const q = state.questions[state.currentIndex];
-  if (!q || state.answers[q.id]) return;
+  if (answers[current] !== undefined) return;
+  const q = questions[current];
+  answers[current] = letter;
 
-  state.answers[q.id] = letter;
-  if (letter === q.answer) {
-    state.score++;
-  }
-  saveProgress();
-  renderQuestion();
-
-  // Auto advance after short delay
-  setTimeout(() => {
-    if (state.currentIndex < state.questions.length - 1) {
-      nextQuestion();
-    } else {
-      renderSummary();
-    }
-  }, 1200);
-}
-
-// ---- Navigation ----
-
-function prevQuestion() {
-  if (state.currentIndex > 0) {
-    state.currentIndex--;
-    saveProgress();
-    renderQuestion();
-  }
-}
-
-function nextQuestion() {
-  if (state.currentIndex < state.questions.length - 1) {
-    state.currentIndex++;
-    saveProgress();
-    renderQuestion();
+  const year = q._year || currentYear;
+  if (letter !== q.answer) {
+    wrongIds.push(current);
+    Storage.markWrong(year, q.id);
   } else {
-    renderSummary();
+    Storage.markCorrect(year, q.id);
   }
+  renderQ();
 }
 
-// ---- Summary ----
+function nextQ() {
+  if (current >= questions.length - 1) { showResult(); return; }
+  current++;
+  renderQ();
+}
 
-function renderSummary() {
-  const total = state.questions.length;
-  const answered = Object.keys(state.answers).length;
-  const correct = state.score;
-  const pct = answered > 0 ? Math.round(correct / answered * 100) : 0;
+function prevQ() {
+  if (current <= 0) return;
+  current--;
+  renderQ();
+}
 
-  // Update header
-  document.getElementById('examTitle').textContent = `${state.year}年 英語閱讀`;
-  document.getElementById('examCounter').textContent = `完成 ${answered} / ${total} 題`;
-  document.getElementById('progressBar').style.width = '100%';
+// ── 結果 ────────────────────────────────────────────────────
 
-  let grade, gradeColor, desc;
-  if (pct >= 90) { grade = '精熟 A++'; gradeColor = '#2e9e5b'; desc = '表現優異！繼續保持！'; }
-  else if (pct >= 80) { grade = '精熟 A+'; gradeColor = '#2e9e5b'; desc = '非常好！再衝上去！'; }
-  else if (pct >= 70) { grade = '精熟 A'; gradeColor = '#1a6fc4'; desc = '不錯！繼續努力！'; }
-  else if (pct >= 60) { grade = '基礎 B++'; gradeColor = '#1a6fc4'; desc = '繼續練習！'; }
-  else if (pct >= 50) { grade = '基礎 B+'; gradeColor = '#f0a500'; desc = '多練習幾遍！'; }
-  else if (pct >= 40) { grade = '基礎 B'; gradeColor = '#f0a500'; desc = '加強練習！'; }
-  else { grade = '待加強'; gradeColor = '#d9534f'; desc = '多複習試題！'; }
+function showResult() {
+  if (mockTimer) clearInterval(mockTimer);
 
-  // Breakdown by type
-  let singleCorrect = 0, singleTotal = 0, passageCorrect = 0, passageTotal = 0;
-  state.questions.forEach(q => {
-    const ans = state.answers[q.id];
-    if (ans !== undefined) {
-      if (q.type === 'single') {
-        singleTotal++;
-        if (ans === q.answer) singleCorrect++;
-      } else {
-        passageTotal++;
-        if (ans === q.answer) passageCorrect++;
-      }
-    }
+  const total = questions.length;
+  const answered = Object.keys(answers).length;
+  const correct = Object.values(answers).filter((a,i) => a === questions[i].answer).length;
+  const pct = Math.round(correct/total*100);
+
+  // 儲存結果
+  const year = currentYear;
+  Storage.addExamResult({
+    year, mode, score: correct, total,
+    wrongIds: wrongIds.map(i => questions[i].id)
   });
 
-  let html = `
-    <div class="exam-main">
-      <div class="card score-summary">
-        <div class="score-circle">
-          <div class="score-number">${correct}</div>
-          <div class="score-total">/ ${answered} 題</div>
-        </div>
-        <div class="score-grade" style="color:${gradeColor}">${grade} (${pct}%)</div>
-        <div class="score-desc">${desc}</div>
+  // 分數顯示
+  document.getElementById('resultScore').textContent = `${correct} / ${total} (${pct}%)`;
+  const grade = pct >= 80 ? '精熟 ⭐' : pct >= 60 ? '基礎 👍' : '待加強 💪';
+  const gradeCls = pct >= 80 ? 'grade-a' : pct >= 60 ? 'grade-b' : 'grade-c';
+  const gradeEl = document.getElementById('resultGrade');
+  gradeEl.textContent = grade;
+  gradeEl.className = 'result-grade ' + gradeCls;
 
-        <div class="stats-row" style="margin-bottom:24px;">
-          <div class="stat-card">
-            <div class="stat-number" style="font-size:1.3rem;">${singleTotal > 0 ? Math.round(singleCorrect/singleTotal*100) : 0}%</div>
-            <div class="stat-label">單題正確率</div>
-          </div>
-          <div class="stat-card">
-            <div class="stat-number" style="font-size:1.3rem;">${passageTotal > 0 ? Math.round(passageCorrect/passageTotal*100) : 0}%</div>
-            <div class="stat-label">題組正確率</div>
-          </div>
-        </div>
+  // 弱點分析
+  const singles = questions.filter(q => q.type === 'single');
+  const passages = questions.filter(q => q.type === 'passage');
+  const singleCorrect = singles.filter((_,i) => answers[questions.indexOf(singles[i])] === singles[i]?.answer).length;
 
-        <div class="score-actions">
-          <button class="btn btn-outline" onclick="reviewAnswers()">複習答題</button>
-          <button class="btn btn-primary" onclick="restartExam()">重新作答</button>
-        </div>
-      </div>
-
-      <!-- Question review -->
-      <div class="card" id="reviewCard" style="display:none;">
-        <p class="section-title" style="margin-bottom:16px;">答題詳情</p>
-        <div id="reviewList"></div>
-      </div>
-
-      <div class="card text-center" style="padding:16px;">
-        <p style="font-size:0.85rem; color:#888; margin-bottom:12px;">練習其他年份</p>
-        <div style="display:flex; gap:8px; flex-wrap:wrap; justify-content:center;">
-          ${[114,113,112,111,110,109,108,107].filter(y => y !== state.year).map(y =>
-            `<a href="exam.html?year=${y}" class="btn btn-outline" style="padding:8px 14px; font-size:0.85rem;">${y}年</a>`
-          ).join('')}
-        </div>
-      </div>
+  // 簡化計算：遍歷所有答題
+  let sCorr = 0, sTotal = 0, pCorr = 0, pTotal = 0;
+  questions.forEach((q, i) => {
+    if (q.type === 'single') { sTotal++; if(answers[i]===q.answer) sCorr++; }
+    else { pTotal++; if(answers[i]===q.answer) pCorr++; }
+  });
+  document.getElementById('analysisGrid').innerHTML = `
+    <div class="analysis-item">
+      <div class="analysis-label">單題</div>
+      <div class="analysis-bar-wrap"><div class="analysis-bar" style="width:${sTotal?Math.round(sCorr/sTotal*100):0}%"></div></div>
+      <div class="analysis-val">${sCorr}/${sTotal}</div>
+    </div>
+    <div class="analysis-item">
+      <div class="analysis-label">題組</div>
+      <div class="analysis-bar-wrap"><div class="analysis-bar" style="width:${pTotal?Math.round(pCorr/pTotal*100):0}%"></div></div>
+      <div class="analysis-val">${pCorr}/${pTotal}</div>
     </div>`;
 
-  document.getElementById('mainContent').innerHTML = html;
+  // 錯題列表
+  document.getElementById('wrongCount2').textContent = `(${wrongIds.length} 題)`;
+  if (wrongIds.length > 0) {
+    document.getElementById('wrongList').innerHTML = wrongIds.map(i => {
+      const q = questions[i];
+      return `<div class="wrong-item">
+        <span class="wrong-qnum">第 ${q.id} 題</span>
+        <span class="wrong-qtext">${q.question.slice(0,60)}${q.question.length>60?'…':''}</span>
+        <span class="wrong-ans">你選：<strong class="wrong-mark">${answers[i]}</strong> 正確：<strong class="correct-mark">${q.answer}</strong></span>
+      </div>`;
+    }).join('');
+    document.getElementById('btnRetryWrong').style.display = '';
+  } else {
+    document.getElementById('wrongList').innerHTML = '<p class="no-wrong">全對！太厲害了！🎉</p>';
+    document.getElementById('btnRetryWrong').style.display = 'none';
+  }
+
+  hide('screenExam'); hide('screenSelect');
+  show('screenResult');
 }
 
-function reviewAnswers() {
-  const card = document.getElementById('reviewCard');
-  const list = document.getElementById('reviewList');
+function retryWrong() {
+  const wrongQs = wrongIds.map(i => questions[i]);
+  questions = wrongQs;
+  answers = {}; wrongIds = []; current = 0;
+  mode = 'wrong';
+  hide('screenResult'); show('screenExam');
+  hide('examTimer');
+  renderQ();
+}
 
-  if (card.style.display === 'none') {
-    card.style.display = 'block';
-    let html = '';
-    state.questions.forEach(q => {
-      const userAns = state.answers[q.id];
-      const isCorrect = userAns === q.answer;
-      const icon = userAns === undefined ? '—' : (isCorrect ? '✓' : '✗');
-      const color = userAns === undefined ? '#999' : (isCorrect ? '#2e9e5b' : '#d9534f');
+function exitExam() {
+  if (mockTimer) clearInterval(mockTimer);
+  showSelect();
+}
 
-      html += `
-        <div style="display:flex; align-items:flex-start; gap:12px; padding:10px 0; border-bottom:1px solid #eee;">
-          <span style="color:${color}; font-weight:700; font-size:1.1rem; min-width:24px;">${icon}</span>
-          <div style="flex:1;">
-            <span style="font-size:0.85rem; color:#888;">第 ${q.id} 題</span>
-            <div style="font-size:0.9rem; margin-top:2px;">${escapeHtml((q.question||'').substring(0,80))}${(q.question||'').length > 80 ? '...' : ''}</div>
-            ${!isCorrect && userAns ? `<div style="font-size:0.85rem; color:#d9534f; margin-top:4px;">你的答案: ${userAns} → 正確: ${q.answer}</div>` : ''}
-          </div>
-        </div>`;
-    });
-    list.innerHTML = html || '<p style="color:#888;">沒有作答紀錄</p>';
-    card.scrollIntoView({ behavior: 'smooth' });
-  } else {
-    card.style.display = 'none';
+// ── 工具 ────────────────────────────────────────────────────
+
+function show(id) { document.getElementById(id).style.display = ''; }
+function hide(id) { document.getElementById(id).style.display = 'none'; }
+function shuffle(arr) {
+  for (let i=arr.length-1;i>0;i--) {
+    const j=Math.floor(Math.random()*(i+1));
+    [arr[i],arr[j]]=[arr[j],arr[i]];
   }
 }
 
-function restartExam() {
-  clearProgress(state.year);
-  state.answers = {};
-  state.score = 0;
-  state.currentIndex = 0;
-  renderQuestion();
-}
-
-// ---- Utility ----
-
-function escapeHtml(str) {
-  if (!str) return '';
-  return str
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;')
-    .replace(/'/g, '&#39;')
-    .replace(/\n/g, '<br>');
-}
+// 初始化
+showSelect();

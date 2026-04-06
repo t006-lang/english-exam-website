@@ -1,8 +1,33 @@
 [
   {
+    "word": "a/an",
+    "pos": "art.",
+    "chinese": "冠詞"
+  },
+  {
+    "word": "a few",
+    "pos": "phrase",
+    "chinese": "幾個"
+  },
+  {
+    "word": "a little",
+    "pos": "phrase",
+    "chinese": "一點"
+  },
+  {
+    "word": "a lot",
+    "pos": "phrase",
+    "chinese": "很多"
+  },
+  {
+    "word": "a.m.",
+    "pos": "abbr.",
+    "chinese": "上午"
+  },
+  {
     "word": "able",
     "pos": "adj.",
-    "chinese": "能夠的，有能力的"
+    "chinese": "能夠的"
   },
   {
     "word": "about",
@@ -12,22 +37,27 @@
   {
     "word": "above",
     "pos": "prep./adv.",
-    "chinese": "在…上方；超過"
+    "chinese": "在…上方"
   },
   {
-    "word": "accept",
-    "pos": "v.",
-    "chinese": "接受"
+    "word": "abroad",
+    "pos": "adv.",
+    "chinese": "在國外"
   },
   {
-    "word": "accident",
-    "pos": "n.",
-    "chinese": "意外，事故"
+    "word": "across",
+    "pos": "prep./adv.",
+    "chinese": "穿越；橫過"
+  },
+  {
+    "word": "act",
+    "pos": "v./n.",
+    "chinese": "行動；表演"
   },
   {
     "word": "action",
     "pos": "n.",
-    "chinese": "行動，動作"
+    "chinese": "行動"
   },
   {
     "word": "actor",
@@ -40,24 +70,14 @@
     "chinese": "女演員"
   },
   {
-    "word": "add",
-    "pos": "v.",
-    "chinese": "增加，添加"
-  },
-  {
-    "word": "address",
-    "pos": "n.",
-    "chinese": "地址；演講"
-  },
-  {
-    "word": "adult",
-    "pos": "n./adj.",
-    "chinese": "成人；成年的"
+    "word": "actually",
+    "pos": "adv.",
+    "chinese": "實際上"
   },
   {
     "word": "afraid",
     "pos": "adj.",
-    "chinese": "害怕的，擔心的"
+    "chinese": "害怕的"
   },
   {
     "word": "after",
@@ -72,7 +92,7 @@
   {
     "word": "again",
     "pos": "adv.",
-    "chinese": "再次，又"
+    "chinese": "再次"
   },
   {
     "word": "age",
@@ -82,7 +102,7 @@
   {
     "word": "ago",
     "pos": "adv.",
-    "chinese": "（…時間）以前"
+    "chinese": "…以前"
   },
   {
     "word": "agree",
@@ -90,9 +110,14 @@
     "chinese": "同意"
   },
   {
+    "word": "ahead",
+    "pos": "adv.",
+    "chinese": "在前方"
+  },
+  {
     "word": "air",
     "pos": "n.",
-    "chinese": "空氣；氣氛"
+    "chinese": "空氣"
   },
   {
     "word": "airplane",
@@ -106,18 +131,23 @@
   },
   {
     "word": "all",
-    "pos": "adj./pron.",
-    "chinese": "全部；所有的"
+    "pos": "adj./pron./adv.",
+    "chinese": "全部的"
   },
   {
     "word": "allow",
     "pos": "v.",
-    "chinese": "允許，准許"
+    "chinese": "允許"
   },
   {
-    "word": "alone",
-    "pos": "adj./adv.",
-    "chinese": "單獨的；獨自"
+    "word": "almost",
+    "pos": "adv.",
+    "chinese": "幾乎"
+  },
+  {
+    "word": "along",
+    "pos": "prep./adv.",
+    "chinese": "沿著"
   },
   {
     "word": "already",
@@ -127,22 +157,37 @@
   {
     "word": "also",
     "pos": "adv.",
-    "chinese": "也，此外"
+    "chinese": "也；此外"
   },
   {
     "word": "always",
     "pos": "adv.",
-    "chinese": "總是，永遠"
+    "chinese": "總是"
   },
   {
-    "word": "amazing",
-    "pos": "adj.",
-    "chinese": "令人驚奇的"
+    "word": "America",
+    "pos": "n.",
+    "chinese": "美國"
+  },
+  {
+    "word": "American",
+    "pos": "adj./n.",
+    "chinese": "美國的；美國人"
+  },
+  {
+    "word": "and",
+    "pos": "conj.",
+    "chinese": "和；而且"
+  },
+  {
+    "word": "angle",
+    "pos": "n.",
+    "chinese": "角度"
   },
   {
     "word": "angry",
     "pos": "adj.",
-    "chinese": "生氣的，憤怒的"
+    "chinese": "憤怒的"
   },
   {
     "word": "animal",
@@ -150,14 +195,24 @@
     "chinese": "動物"
   },
   {
+    "word": "another",
+    "pos": "adj./pron.",
+    "chinese": "另一個"
+  },
+  {
     "word": "answer",
     "pos": "n./v.",
     "chinese": "答案；回答"
   },
   {
+    "word": "ant",
+    "pos": "n.",
+    "chinese": "螞蟻"
+  },
+  {
     "word": "any",
     "pos": "adj./pron.",
-    "chinese": "任何（的）"
+    "chinese": "任何"
   },
   {
     "word": "anyone",
@@ -167,17 +222,17 @@
   {
     "word": "anything",
     "pos": "pron.",
-    "chinese": "任何事物"
+    "chinese": "任何事"
   },
   {
-    "word": "anyway",
-    "pos": "adv.",
-    "chinese": "無論如何，反正"
+    "word": "apartment",
+    "pos": "n.",
+    "chinese": "公寓"
   },
   {
     "word": "appear",
     "pos": "v.",
-    "chinese": "出現，顯得"
+    "chinese": "出現"
   },
   {
     "word": "apple",
@@ -185,14 +240,24 @@
     "chinese": "蘋果"
   },
   {
+    "word": "April",
+    "pos": "n.",
+    "chinese": "四月"
+  },
+  {
     "word": "area",
     "pos": "n.",
-    "chinese": "地區，區域"
+    "chinese": "區域；面積"
   },
   {
     "word": "arm",
     "pos": "n.",
-    "chinese": "手臂；武器"
+    "chinese": "手臂"
+  },
+  {
+    "word": "around",
+    "pos": "prep./adv.",
+    "chinese": "在…周圍；大約"
   },
   {
     "word": "arrive",
@@ -200,34 +265,49 @@
     "chinese": "到達"
   },
   {
+    "word": "art",
+    "pos": "n.",
+    "chinese": "藝術"
+  },
+  {
+    "word": "as",
+    "pos": "conj./prep.",
+    "chinese": "當…時；像…一樣"
+  },
+  {
     "word": "ask",
     "pos": "v.",
-    "chinese": "問，請求"
+    "chinese": "詢問；要求"
   },
   {
-    "word": "asleep",
-    "pos": "adj.",
-    "chinese": "睡著的"
+    "word": "at",
+    "pos": "prep.",
+    "chinese": "在（地點/時間）"
   },
   {
-    "word": "attention",
+    "word": "attack",
+    "pos": "v./n.",
+    "chinese": "攻擊"
+  },
+  {
+    "word": "August",
     "pos": "n.",
-    "chinese": "注意（力）"
+    "chinese": "八月"
   },
   {
     "word": "aunt",
     "pos": "n.",
-    "chinese": "阿姨，伯母，嬸嬸"
+    "chinese": "阿姨；姑姑"
   },
   {
-    "word": "avoid",
-    "pos": "v.",
-    "chinese": "避免"
+    "word": "autumn",
+    "pos": "n.",
+    "chinese": "秋天"
   },
   {
     "word": "away",
     "pos": "adv.",
-    "chinese": "離開，遠離"
+    "chinese": "離開；遠離"
   },
   {
     "word": "baby",
@@ -236,28 +316,63 @@
   },
   {
     "word": "back",
-    "pos": "n./adv.",
-    "chinese": "背部；回，向後"
+    "pos": "n./adv./adj.",
+    "chinese": "背部；後面；回來"
   },
   {
     "word": "bad",
     "pos": "adj.",
-    "chinese": "壞的，不好的"
+    "chinese": "壞的"
+  },
+  {
+    "word": "badminton",
+    "pos": "n.",
+    "chinese": "羽毛球"
   },
   {
     "word": "bag",
     "pos": "n.",
-    "chinese": "袋子，包包"
+    "chinese": "袋子"
   },
   {
-    "word": "ball",
+    "word": "bake",
+    "pos": "v.",
+    "chinese": "烤"
+  },
+  {
+    "word": "bakery",
     "pos": "n.",
-    "chinese": "球"
+    "chinese": "麵包店"
+  },
+  {
+    "word": "balcony",
+    "pos": "n.",
+    "chinese": "陽台"
+  },
+  {
+    "word": "banana",
+    "pos": "n.",
+    "chinese": "香蕉"
+  },
+  {
+    "word": "band",
+    "pos": "n.",
+    "chinese": "樂團；帶子"
   },
   {
     "word": "bank",
     "pos": "n.",
-    "chinese": "銀行；河岸"
+    "chinese": "銀行"
+  },
+  {
+    "word": "baseball",
+    "pos": "n.",
+    "chinese": "棒球"
+  },
+  {
+    "word": "basket",
+    "pos": "n.",
+    "chinese": "籃子"
   },
   {
     "word": "basketball",
@@ -265,14 +380,39 @@
     "chinese": "籃球"
   },
   {
+    "word": "bat",
+    "pos": "n.",
+    "chinese": "球棒；蝙蝠"
+  },
+  {
     "word": "bath",
     "pos": "n.",
-    "chinese": "洗澡；浴缸"
+    "chinese": "洗澡"
+  },
+  {
+    "word": "bathroom",
+    "pos": "n.",
+    "chinese": "浴室"
+  },
+  {
+    "word": "be",
+    "pos": "v.",
+    "chinese": "是；在"
   },
   {
     "word": "beach",
     "pos": "n.",
     "chinese": "海灘"
+  },
+  {
+    "word": "bean",
+    "pos": "n.",
+    "chinese": "豆子"
+  },
+  {
+    "word": "bear",
+    "pos": "n./v.",
+    "chinese": "熊；忍受"
   },
   {
     "word": "beautiful",
@@ -287,11 +427,31 @@
   {
     "word": "become",
     "pos": "v.",
-    "chinese": "變成，成為"
+    "chinese": "成為"
+  },
+  {
+    "word": "bed",
+    "pos": "n.",
+    "chinese": "床"
+  },
+  {
+    "word": "bedroom",
+    "pos": "n.",
+    "chinese": "臥室"
+  },
+  {
+    "word": "bee",
+    "pos": "n.",
+    "chinese": "蜜蜂"
+  },
+  {
+    "word": "beef",
+    "pos": "n.",
+    "chinese": "牛肉"
   },
   {
     "word": "before",
-    "pos": "prep./conj.",
+    "pos": "prep./conj./adv.",
     "chinese": "在…之前"
   },
   {
@@ -301,7 +461,7 @@
   },
   {
     "word": "behind",
-    "pos": "prep.",
+    "pos": "prep./adv.",
     "chinese": "在…後面"
   },
   {
@@ -310,9 +470,34 @@
     "chinese": "相信"
   },
   {
+    "word": "bell",
+    "pos": "n.",
+    "chinese": "鈴；鐘"
+  },
+  {
     "word": "belong",
     "pos": "v.",
     "chinese": "屬於"
+  },
+  {
+    "word": "below",
+    "pos": "prep./adv.",
+    "chinese": "在…下方"
+  },
+  {
+    "word": "belt",
+    "pos": "n.",
+    "chinese": "皮帶"
+  },
+  {
+    "word": "bench",
+    "pos": "n.",
+    "chinese": "長椅"
+  },
+  {
+    "word": "beside",
+    "pos": "prep.",
+    "chinese": "在…旁邊"
   },
   {
     "word": "between",
@@ -325,6 +510,11 @@
     "chinese": "腳踏車"
   },
   {
+    "word": "big",
+    "pos": "adj.",
+    "chinese": "大的"
+  },
+  {
     "word": "bird",
     "pos": "n.",
     "chinese": "鳥"
@@ -335,14 +525,104 @@
     "chinese": "生日"
   },
   {
+    "word": "bite",
+    "pos": "v./n.",
+    "chinese": "咬"
+  },
+  {
+    "word": "black",
+    "pos": "adj./n.",
+    "chinese": "黑色的"
+  },
+  {
+    "word": "blackboard",
+    "pos": "n.",
+    "chinese": "黑板"
+  },
+  {
+    "word": "blank",
+    "pos": "adj./n.",
+    "chinese": "空白的；空格"
+  },
+  {
+    "word": "blanket",
+    "pos": "n.",
+    "chinese": "毯子"
+  },
+  {
+    "word": "blind",
+    "pos": "adj.",
+    "chinese": "盲的"
+  },
+  {
+    "word": "block",
+    "pos": "n./v.",
+    "chinese": "街區；阻擋"
+  },
+  {
+    "word": "blow",
+    "pos": "v.",
+    "chinese": "吹"
+  },
+  {
+    "word": "blue",
+    "pos": "adj./n.",
+    "chinese": "藍色的"
+  },
+  {
+    "word": "boat",
+    "pos": "n.",
+    "chinese": "船"
+  },
+  {
+    "word": "body",
+    "pos": "n.",
+    "chinese": "身體"
+  },
+  {
+    "word": "boil",
+    "pos": "v.",
+    "chinese": "煮沸"
+  },
+  {
+    "word": "book",
+    "pos": "n./v.",
+    "chinese": "書；預訂"
+  },
+  {
+    "word": "bookstore",
+    "pos": "n.",
+    "chinese": "書店"
+  },
+  {
+    "word": "bored",
+    "pos": "adj.",
+    "chinese": "感到無聊的"
+  },
+  {
+    "word": "boring",
+    "pos": "adj.",
+    "chinese": "無聊的"
+  },
+  {
+    "word": "born",
+    "pos": "adj.",
+    "chinese": "出生的"
+  },
+  {
     "word": "borrow",
     "pos": "v.",
     "chinese": "借（入）"
   },
   {
+    "word": "boss",
+    "pos": "n.",
+    "chinese": "老闆"
+  },
+  {
     "word": "both",
     "pos": "adj./pron.",
-    "chinese": "兩者（都）"
+    "chinese": "兩者都"
   },
   {
     "word": "bottle",
@@ -350,14 +630,54 @@
     "chinese": "瓶子"
   },
   {
+    "word": "bottom",
+    "pos": "n./adj.",
+    "chinese": "底部"
+  },
+  {
+    "word": "bow",
+    "pos": "v./n.",
+    "chinese": "鞠躬；弓"
+  },
+  {
+    "word": "bowl",
+    "pos": "n.",
+    "chinese": "碗"
+  },
+  {
     "word": "box",
     "pos": "n.",
-    "chinese": "盒子，箱子"
+    "chinese": "箱子"
+  },
+  {
+    "word": "boy",
+    "pos": "n.",
+    "chinese": "男孩"
+  },
+  {
+    "word": "brave",
+    "pos": "adj.",
+    "chinese": "勇敢的"
+  },
+  {
+    "word": "bread",
+    "pos": "n.",
+    "chinese": "麵包"
   },
   {
     "word": "break",
     "pos": "v./n.",
     "chinese": "打破；休息"
+  },
+  {
+    "word": "breakfast",
+    "pos": "n.",
+    "chinese": "早餐"
+  },
+  {
+    "word": "bridge",
+    "pos": "n.",
+    "chinese": "橋"
   },
   {
     "word": "bright",
@@ -367,7 +687,7 @@
   {
     "word": "bring",
     "pos": "v.",
-    "chinese": "帶來，帶給"
+    "chinese": "帶來"
   },
   {
     "word": "brother",
@@ -375,9 +695,34 @@
     "chinese": "兄弟"
   },
   {
+    "word": "brown",
+    "pos": "adj./n.",
+    "chinese": "棕色的"
+  },
+  {
+    "word": "brush",
+    "pos": "n./v.",
+    "chinese": "刷子；刷"
+  },
+  {
+    "word": "bug",
+    "pos": "n.",
+    "chinese": "蟲子"
+  },
+  {
     "word": "build",
     "pos": "v.",
-    "chinese": "建造，建立"
+    "chinese": "建造"
+  },
+  {
+    "word": "bun",
+    "pos": "n.",
+    "chinese": "小圓麵包"
+  },
+  {
+    "word": "burn",
+    "pos": "v.",
+    "chinese": "燃燒"
   },
   {
     "word": "bus",
@@ -385,34 +730,134 @@
     "chinese": "公車"
   },
   {
+    "word": "business",
+    "pos": "n.",
+    "chinese": "生意；事務"
+  },
+  {
+    "word": "businessman",
+    "pos": "n.",
+    "chinese": "商人"
+  },
+  {
     "word": "busy",
     "pos": "adj.",
     "chinese": "忙碌的"
   },
   {
+    "word": "but",
+    "pos": "conj.",
+    "chinese": "但是"
+  },
+  {
+    "word": "butter",
+    "pos": "n.",
+    "chinese": "奶油"
+  },
+  {
+    "word": "butterfly",
+    "pos": "n.",
+    "chinese": "蝴蝶"
+  },
+  {
+    "word": "button",
+    "pos": "n.",
+    "chinese": "按鈕；鈕扣"
+  },
+  {
     "word": "buy",
     "pos": "v.",
-    "chinese": "購買"
+    "chinese": "買"
+  },
+  {
+    "word": "by",
+    "pos": "prep.",
+    "chinese": "被；靠近；藉由"
+  },
+  {
+    "word": "cake",
+    "pos": "n.",
+    "chinese": "蛋糕"
   },
   {
     "word": "call",
     "pos": "v./n.",
-    "chinese": "打電話；稱呼；呼叫"
+    "chinese": "打電話；稱呼"
+  },
+  {
+    "word": "camera",
+    "pos": "n.",
+    "chinese": "相機"
+  },
+  {
+    "word": "camp",
+    "pos": "n./v.",
+    "chinese": "營地；露營"
+  },
+  {
+    "word": "can",
+    "pos": "modal v./n.",
+    "chinese": "能夠；罐頭"
+  },
+  {
+    "word": "candle",
+    "pos": "n.",
+    "chinese": "蠟燭"
+  },
+  {
+    "word": "candy",
+    "pos": "n.",
+    "chinese": "糖果"
+  },
+  {
+    "word": "cap",
+    "pos": "n.",
+    "chinese": "帽子（無邊）"
+  },
+  {
+    "word": "car",
+    "pos": "n.",
+    "chinese": "汽車"
+  },
+  {
+    "word": "card",
+    "pos": "n.",
+    "chinese": "卡片"
+  },
+  {
+    "word": "care",
+    "pos": "v./n.",
+    "chinese": "在意；照顧"
   },
   {
     "word": "careful",
     "pos": "adj.",
-    "chinese": "小心的，仔細的"
+    "chinese": "小心的"
   },
   {
     "word": "carry",
     "pos": "v.",
-    "chinese": "攜帶，搬運"
+    "chinese": "攜帶"
+  },
+  {
+    "word": "case",
+    "pos": "n.",
+    "chinese": "情況；案例"
+  },
+  {
+    "word": "castle",
+    "pos": "n.",
+    "chinese": "城堡"
+  },
+  {
+    "word": "cat",
+    "pos": "n.",
+    "chinese": "貓"
   },
   {
     "word": "catch",
     "pos": "v.",
-    "chinese": "抓住，接住"
+    "chinese": "抓住"
   },
   {
     "word": "celebrate",
@@ -420,19 +865,44 @@
     "chinese": "慶祝"
   },
   {
+    "word": "cellphone",
+    "pos": "n.",
+    "chinese": "手機"
+  },
+  {
+    "word": "cent",
+    "pos": "n.",
+    "chinese": "分（貨幣）"
+  },
+  {
     "word": "center",
     "pos": "n.",
-    "chinese": "中心，中央"
+    "chinese": "中心"
+  },
+  {
+    "word": "centimeter",
+    "pos": "n.",
+    "chinese": "公分"
+  },
+  {
+    "word": "chair",
+    "pos": "n.",
+    "chinese": "椅子"
+  },
+  {
+    "word": "chalk",
+    "pos": "n.",
+    "chinese": "粉筆"
   },
   {
     "word": "chance",
     "pos": "n.",
-    "chinese": "機會；可能性"
+    "chinese": "機會"
   },
   {
     "word": "change",
     "pos": "v./n.",
-    "chinese": "改變；零錢"
+    "chinese": "改變"
   },
   {
     "word": "cheap",
@@ -440,14 +910,54 @@
     "chinese": "便宜的"
   },
   {
+    "word": "cheat",
+    "pos": "v.",
+    "chinese": "作弊"
+  },
+  {
     "word": "check",
     "pos": "v./n.",
-    "chinese": "檢查，核對"
+    "chinese": "檢查"
+  },
+  {
+    "word": "cheer",
+    "pos": "v./n.",
+    "chinese": "歡呼；加油"
+  },
+  {
+    "word": "cheese",
+    "pos": "n.",
+    "chinese": "起司"
+  },
+  {
+    "word": "chicken",
+    "pos": "n.",
+    "chinese": "雞；雞肉"
   },
   {
     "word": "child",
     "pos": "n.",
-    "chinese": "孩子 (複數：children)"
+    "chinese": "小孩"
+  },
+  {
+    "word": "China",
+    "pos": "n.",
+    "chinese": "中國"
+  },
+  {
+    "word": "Chinese",
+    "pos": "adj./n.",
+    "chinese": "中文；中國人"
+  },
+  {
+    "word": "chocolate",
+    "pos": "n.",
+    "chinese": "巧克力"
+  },
+  {
+    "word": "choice",
+    "pos": "n.",
+    "chinese": "選擇"
   },
   {
     "word": "choose",
@@ -455,14 +965,49 @@
     "chinese": "選擇"
   },
   {
+    "word": "chopsticks",
+    "pos": "n.",
+    "chinese": "筷子"
+  },
+  {
+    "word": "Christmas",
+    "pos": "n.",
+    "chinese": "聖誕節"
+  },
+  {
+    "word": "church",
+    "pos": "n.",
+    "chinese": "教堂"
+  },
+  {
+    "word": "circle",
+    "pos": "n.",
+    "chinese": "圓形"
+  },
+  {
     "word": "city",
     "pos": "n.",
     "chinese": "城市"
   },
   {
+    "word": "clap",
+    "pos": "v.",
+    "chinese": "拍手"
+  },
+  {
     "word": "class",
     "pos": "n.",
-    "chinese": "班級，課程"
+    "chinese": "班級；課"
+  },
+  {
+    "word": "classmate",
+    "pos": "n.",
+    "chinese": "同班同學"
+  },
+  {
+    "word": "classroom",
+    "pos": "n.",
+    "chinese": "教室"
   },
   {
     "word": "clean",
@@ -471,43 +1016,98 @@
   },
   {
     "word": "clear",
-    "pos": "adj.",
-    "chinese": "清楚的，清澈的"
+    "pos": "adj./v.",
+    "chinese": "清楚的；清除"
+  },
+  {
+    "word": "clerk",
+    "pos": "n.",
+    "chinese": "店員；職員"
   },
   {
     "word": "climb",
     "pos": "v.",
-    "chinese": "爬，攀登"
+    "chinese": "爬；攀登"
+  },
+  {
+    "word": "clock",
+    "pos": "n.",
+    "chinese": "時鐘"
   },
   {
     "word": "close",
     "pos": "v./adj.",
-    "chinese": "關閉；近的"
+    "chinese": "關閉；靠近的"
+  },
+  {
+    "word": "clothes",
+    "pos": "n.",
+    "chinese": "衣服"
+  },
+  {
+    "word": "cloud",
+    "pos": "n.",
+    "chinese": "雲"
+  },
+  {
+    "word": "cloudy",
+    "pos": "adj.",
+    "chinese": "多雲的"
   },
   {
     "word": "club",
     "pos": "n.",
-    "chinese": "俱樂部，社團"
+    "chinese": "社團；俱樂部"
+  },
+  {
+    "word": "coat",
+    "pos": "n.",
+    "chinese": "外套"
+  },
+  {
+    "word": "coffee",
+    "pos": "n.",
+    "chinese": "咖啡"
+  },
+  {
+    "word": "cold",
+    "pos": "adj./n.",
+    "chinese": "冷的；感冒"
   },
   {
     "word": "collect",
     "pos": "v.",
-    "chinese": "收集，收藏"
+    "chinese": "收集"
+  },
+  {
+    "word": "color",
+    "pos": "n./v.",
+    "chinese": "顏色；著色"
+  },
+  {
+    "word": "comb",
+    "pos": "n./v.",
+    "chinese": "梳子；梳頭"
   },
   {
     "word": "come",
     "pos": "v.",
-    "chinese": "來，到來"
+    "chinese": "來"
   },
   {
     "word": "comfortable",
     "pos": "adj.",
-    "chinese": "舒適的，舒服的"
+    "chinese": "舒適的"
   },
   {
-    "word": "compare",
-    "pos": "v.",
-    "chinese": "比較"
+    "word": "comic",
+    "pos": "n./adj.",
+    "chinese": "漫畫；滑稽的"
+  },
+  {
+    "word": "common",
+    "pos": "adj.",
+    "chinese": "普通的；常見的"
   },
   {
     "word": "computer",
@@ -515,9 +1115,9 @@
     "chinese": "電腦"
   },
   {
-    "word": "control",
-    "pos": "v./n.",
-    "chinese": "控制"
+    "word": "convenient",
+    "pos": "adj.",
+    "chinese": "方便的"
   },
   {
     "word": "cook",
@@ -525,14 +1125,29 @@
     "chinese": "烹飪；廚師"
   },
   {
+    "word": "cookie",
+    "pos": "n.",
+    "chinese": "餅乾"
+  },
+  {
     "word": "cool",
     "pos": "adj.",
-    "chinese": "涼快的；酷的"
+    "chinese": "涼爽的；酷的"
+  },
+  {
+    "word": "copy",
+    "pos": "v./n.",
+    "chinese": "複製；副本"
+  },
+  {
+    "word": "corner",
+    "pos": "n.",
+    "chinese": "角落；轉角"
   },
   {
     "word": "correct",
     "pos": "adj./v.",
-    "chinese": "正確的；改正"
+    "chinese": "正確的；更正"
   },
   {
     "word": "cost",
@@ -540,9 +1155,29 @@
     "chinese": "花費；費用"
   },
   {
+    "word": "couch",
+    "pos": "n.",
+    "chinese": "沙發"
+  },
+  {
+    "word": "count",
+    "pos": "v.",
+    "chinese": "計數"
+  },
+  {
     "word": "country",
     "pos": "n.",
     "chinese": "國家；鄉村"
+  },
+  {
+    "word": "course",
+    "pos": "n.",
+    "chinese": "課程；當然"
+  },
+  {
+    "word": "cousin",
+    "pos": "n.",
+    "chinese": "堂（表）兄弟姊妹"
   },
   {
     "word": "cover",
@@ -550,29 +1185,44 @@
     "chinese": "覆蓋；封面"
   },
   {
-    "word": "create",
-    "pos": "v.",
-    "chinese": "創造，創建"
+    "word": "cow",
+    "pos": "n.",
+    "chinese": "牛"
+  },
+  {
+    "word": "crazy",
+    "pos": "adj.",
+    "chinese": "瘋狂的"
   },
   {
     "word": "cross",
-    "pos": "v.",
-    "chinese": "越過，穿越"
+    "pos": "v./adj.",
+    "chinese": "越過；生氣的"
   },
   {
     "word": "cry",
     "pos": "v.",
-    "chinese": "哭泣，叫喊"
+    "chinese": "哭泣"
   },
   {
-    "word": "customer",
+    "word": "cup",
     "pos": "n.",
-    "chinese": "顧客"
+    "chinese": "杯子"
   },
   {
     "word": "cut",
-    "pos": "v.",
-    "chinese": "切，割"
+    "pos": "v./n.",
+    "chinese": "切"
+  },
+  {
+    "word": "cute",
+    "pos": "adj.",
+    "chinese": "可愛的"
+  },
+  {
+    "word": "dance",
+    "pos": "v./n.",
+    "chinese": "跳舞"
   },
   {
     "word": "dangerous",
@@ -580,24 +1230,94 @@
     "chinese": "危險的"
   },
   {
+    "word": "dark",
+    "pos": "adj./n.",
+    "chinese": "黑暗的"
+  },
+  {
+    "word": "date",
+    "pos": "n.",
+    "chinese": "日期；約會"
+  },
+  {
+    "word": "daughter",
+    "pos": "n.",
+    "chinese": "女兒"
+  },
+  {
+    "word": "day",
+    "pos": "n.",
+    "chinese": "天；白天"
+  },
+  {
+    "word": "dead",
+    "pos": "adj.",
+    "chinese": "死的"
+  },
+  {
+    "word": "deal",
+    "pos": "n./v.",
+    "chinese": "交易；處理"
+  },
+  {
+    "word": "dear",
+    "pos": "adj.",
+    "chinese": "親愛的"
+  },
+  {
+    "word": "death",
+    "pos": "n.",
+    "chinese": "死亡"
+  },
+  {
+    "word": "December",
+    "pos": "n.",
+    "chinese": "十二月"
+  },
+  {
     "word": "decide",
     "pos": "v.",
     "chinese": "決定"
   },
   {
+    "word": "deep",
+    "pos": "adj./adv.",
+    "chinese": "深的"
+  },
+  {
+    "word": "define",
+    "pos": "v.",
+    "chinese": "定義"
+  },
+  {
     "word": "delicious",
     "pos": "adj.",
-    "chinese": "美味的，可口的"
+    "chinese": "美味的"
   },
   {
-    "word": "deliver",
-    "pos": "v.",
-    "chinese": "遞送，傳遞"
+    "word": "dentist",
+    "pos": "n.",
+    "chinese": "牙醫"
   },
   {
-    "word": "describe",
+    "word": "department store",
+    "pos": "n.",
+    "chinese": "百貨公司"
+  },
+  {
+    "word": "desk",
+    "pos": "n.",
+    "chinese": "書桌"
+  },
+  {
+    "word": "dictionary",
+    "pos": "n.",
+    "chinese": "字典"
+  },
+  {
+    "word": "die",
     "pos": "v.",
-    "chinese": "描述，描寫"
+    "chinese": "死亡"
   },
   {
     "word": "different",
@@ -610,6 +1330,16 @@
     "chinese": "困難的"
   },
   {
+    "word": "dig",
+    "pos": "v.",
+    "chinese": "挖掘"
+  },
+  {
+    "word": "dining room",
+    "pos": "n.",
+    "chinese": "餐廳"
+  },
+  {
     "word": "dinner",
     "pos": "n.",
     "chinese": "晚餐"
@@ -617,17 +1347,7 @@
   {
     "word": "dirty",
     "pos": "adj.",
-    "chinese": "骯髒的"
-  },
-  {
-    "word": "disappear",
-    "pos": "v.",
-    "chinese": "消失"
-  },
-  {
-    "word": "discover",
-    "pos": "v.",
-    "chinese": "發現"
+    "chinese": "髒的"
   },
   {
     "word": "dish",
@@ -637,7 +1357,12 @@
   {
     "word": "do",
     "pos": "v.",
-    "chinese": "做，執行"
+    "chinese": "做"
+  },
+  {
+    "word": "doctor",
+    "pos": "n.",
+    "chinese": "醫生"
   },
   {
     "word": "dog",
@@ -645,14 +1370,59 @@
     "chinese": "狗"
   },
   {
+    "word": "doll",
+    "pos": "n.",
+    "chinese": "洋娃娃"
+  },
+  {
+    "word": "dollar",
+    "pos": "n.",
+    "chinese": "元"
+  },
+  {
     "word": "door",
     "pos": "n.",
     "chinese": "門"
   },
   {
+    "word": "dot",
+    "pos": "n.",
+    "chinese": "點"
+  },
+  {
+    "word": "down",
+    "pos": "adv./prep.",
+    "chinese": "向下"
+  },
+  {
+    "word": "download",
+    "pos": "v./n.",
+    "chinese": "下載"
+  },
+  {
+    "word": "dozen",
+    "pos": "n.",
+    "chinese": "一打（十二個）"
+  },
+  {
+    "word": "draw",
+    "pos": "v.",
+    "chinese": "畫"
+  },
+  {
+    "word": "drawer",
+    "pos": "n.",
+    "chinese": "抽屜"
+  },
+  {
     "word": "dream",
     "pos": "n./v.",
-    "chinese": "夢想；做夢"
+    "chinese": "夢；夢想"
+  },
+  {
+    "word": "dress",
+    "pos": "n./v.",
+    "chinese": "洋裝；穿衣"
   },
   {
     "word": "drink",
@@ -662,12 +1432,32 @@
   {
     "word": "drive",
     "pos": "v.",
-    "chinese": "駕駛，開車"
+    "chinese": "開車"
+  },
+  {
+    "word": "driver",
+    "pos": "n.",
+    "chinese": "駕駛"
   },
   {
     "word": "drop",
     "pos": "v./n.",
     "chinese": "掉落；滴"
+  },
+  {
+    "word": "drum",
+    "pos": "n.",
+    "chinese": "鼓"
+  },
+  {
+    "word": "dry",
+    "pos": "adj./v.",
+    "chinese": "乾的"
+  },
+  {
+    "word": "duck",
+    "pos": "n.",
+    "chinese": "鴨子"
   },
   {
     "word": "during",
@@ -680,14 +1470,34 @@
     "chinese": "每個"
   },
   {
+    "word": "ear",
+    "pos": "n.",
+    "chinese": "耳朵"
+  },
+  {
     "word": "early",
     "pos": "adj./adv.",
-    "chinese": "早的；早早地"
+    "chinese": "早的"
   },
   {
     "word": "earth",
     "pos": "n.",
-    "chinese": "地球，土地"
+    "chinese": "地球；土地"
+  },
+  {
+    "word": "earthquake",
+    "pos": "n.",
+    "chinese": "地震"
+  },
+  {
+    "word": "east",
+    "pos": "n./adj.",
+    "chinese": "東方"
+  },
+  {
+    "word": "Easter",
+    "pos": "n.",
+    "chinese": "復活節"
   },
   {
     "word": "easy",
@@ -700,14 +1510,54 @@
     "chinese": "吃"
   },
   {
+    "word": "egg",
+    "pos": "n.",
+    "chinese": "蛋"
+  },
+  {
+    "word": "eight",
+    "pos": "num.",
+    "chinese": "八"
+  },
+  {
+    "word": "eighteen",
+    "pos": "num.",
+    "chinese": "十八"
+  },
+  {
+    "word": "eighty",
+    "pos": "num.",
+    "chinese": "八十"
+  },
+  {
     "word": "either",
-    "pos": "adj./adv.",
+    "pos": "adj./pron./conj.",
     "chinese": "任一；也（不）"
   },
   {
+    "word": "elementary school",
+    "pos": "n.",
+    "chinese": "小學"
+  },
+  {
+    "word": "elephant",
+    "pos": "n.",
+    "chinese": "大象"
+  },
+  {
+    "word": "eleven",
+    "pos": "num.",
+    "chinese": "十一"
+  },
+  {
     "word": "else",
-    "pos": "adv.",
-    "chinese": "另外，其他"
+    "pos": "adj./adv.",
+    "chinese": "其他的；否則"
+  },
+  {
+    "word": "e-mail",
+    "pos": "n./v.",
+    "chinese": "電子郵件"
   },
   {
     "word": "end",
@@ -715,14 +1565,24 @@
     "chinese": "結束；末端"
   },
   {
+    "word": "engineer",
+    "pos": "n.",
+    "chinese": "工程師"
+  },
+  {
+    "word": "English",
+    "pos": "n./adj.",
+    "chinese": "英語；英語的"
+  },
+  {
     "word": "enjoy",
     "pos": "v.",
-    "chinese": "享受，喜歡"
+    "chinese": "享受"
   },
   {
     "word": "enough",
     "pos": "adj./adv.",
-    "chinese": "足夠的；充分地"
+    "chinese": "足夠的"
   },
   {
     "word": "enter",
@@ -730,14 +1590,44 @@
     "chinese": "進入"
   },
   {
-    "word": "even",
-    "pos": "adv.",
-    "chinese": "甚至，即使"
+    "word": "envelope",
+    "pos": "n.",
+    "chinese": "信封"
   },
   {
-    "word": "event",
+    "word": "eraser",
     "pos": "n.",
-    "chinese": "事件，活動"
+    "chinese": "橡皮擦"
+  },
+  {
+    "word": "error",
+    "pos": "n.",
+    "chinese": "錯誤"
+  },
+  {
+    "word": "eve",
+    "pos": "n.",
+    "chinese": "前夕"
+  },
+  {
+    "word": "even",
+    "pos": "adv./adj.",
+    "chinese": "甚至；平的"
+  },
+  {
+    "word": "evening",
+    "pos": "n.",
+    "chinese": "傍晚；晚上"
+  },
+  {
+    "word": "ever",
+    "pos": "adv.",
+    "chinese": "曾經；永遠"
+  },
+  {
+    "word": "every",
+    "pos": "adj.",
+    "chinese": "每個"
   },
   {
     "word": "everyone",
@@ -747,17 +1637,27 @@
   {
     "word": "everything",
     "pos": "pron.",
-    "chinese": "一切，每件事"
+    "chinese": "每件事"
   },
   {
     "word": "example",
     "pos": "n.",
-    "chinese": "例子，範例"
+    "chinese": "例子"
+  },
+  {
+    "word": "excellent",
+    "pos": "adj.",
+    "chinese": "優秀的"
   },
   {
     "word": "except",
-    "pos": "prep.",
-    "chinese": "除了…以外"
+    "pos": "prep./conj.",
+    "chinese": "除了"
+  },
+  {
+    "word": "excited",
+    "pos": "adj.",
+    "chinese": "感到興奮的"
   },
   {
     "word": "exciting",
@@ -765,14 +1665,19 @@
     "chinese": "令人興奮的"
   },
   {
+    "word": "excuse",
+    "pos": "n./v.",
+    "chinese": "藉口；原諒"
+  },
+  {
     "word": "exercise",
     "pos": "n./v.",
-    "chinese": "運動，練習"
+    "chinese": "運動；練習"
   },
   {
     "word": "expect",
     "pos": "v.",
-    "chinese": "期待，預期"
+    "chinese": "期待"
   },
   {
     "word": "expensive",
@@ -787,7 +1692,12 @@
   {
     "word": "explain",
     "pos": "v.",
-    "chinese": "解釋，說明"
+    "chinese": "解釋"
+  },
+  {
+    "word": "eye",
+    "pos": "n.",
+    "chinese": "眼睛"
   },
   {
     "word": "face",
@@ -800,14 +1710,24 @@
     "chinese": "事實"
   },
   {
+    "word": "factory",
+    "pos": "n.",
+    "chinese": "工廠"
+  },
+  {
+    "word": "fail",
+    "pos": "v.",
+    "chinese": "失敗"
+  },
+  {
     "word": "fall",
     "pos": "v./n.",
-    "chinese": "跌落，秋天"
+    "chinese": "落下；秋天"
   },
   {
     "word": "family",
     "pos": "n.",
-    "chinese": "家庭，家人"
+    "chinese": "家庭"
   },
   {
     "word": "famous",
@@ -815,44 +1735,129 @@
     "chinese": "著名的"
   },
   {
+    "word": "fan",
+    "pos": "n.",
+    "chinese": "風扇；粉絲"
+  },
+  {
     "word": "far",
     "pos": "adj./adv.",
-    "chinese": "遠的；遠地"
+    "chinese": "遠的"
+  },
+  {
+    "word": "farm",
+    "pos": "n.",
+    "chinese": "農場"
+  },
+  {
+    "word": "farmer",
+    "pos": "n.",
+    "chinese": "農夫"
   },
   {
     "word": "fast",
     "pos": "adj./adv.",
-    "chinese": "快的；快速地"
+    "chinese": "快的"
+  },
+  {
+    "word": "fat",
+    "pos": "adj./n.",
+    "chinese": "胖的；脂肪"
+  },
+  {
+    "word": "father",
+    "pos": "n.",
+    "chinese": "父親"
+  },
+  {
+    "word": "favorite",
+    "pos": "adj./n.",
+    "chinese": "最喜歡的"
+  },
+  {
+    "word": "February",
+    "pos": "n.",
+    "chinese": "二月"
+  },
+  {
+    "word": "feed",
+    "pos": "v.",
+    "chinese": "餵食"
   },
   {
     "word": "feel",
     "pos": "v.",
-    "chinese": "感覺，感受"
+    "chinese": "感覺"
+  },
+  {
+    "word": "festival",
+    "pos": "n.",
+    "chinese": "節日"
+  },
+  {
+    "word": "fever",
+    "pos": "n.",
+    "chinese": "發燒"
   },
   {
     "word": "few",
     "pos": "adj./pron.",
-    "chinese": "少數的；幾個"
+    "chinese": "少數的"
+  },
+  {
+    "word": "fifteen",
+    "pos": "num.",
+    "chinese": "十五"
+  },
+  {
+    "word": "fifty",
+    "pos": "num.",
+    "chinese": "五十"
+  },
+  {
+    "word": "fight",
+    "pos": "v./n.",
+    "chinese": "打架；戰鬥"
+  },
+  {
+    "word": "file",
+    "pos": "n./v.",
+    "chinese": "檔案；歸檔"
+  },
+  {
+    "word": "fill",
+    "pos": "v.",
+    "chinese": "填滿"
   },
   {
     "word": "finally",
     "pos": "adv.",
-    "chinese": "最後，終於"
+    "chinese": "最後；終於"
   },
   {
     "word": "find",
     "pos": "v.",
-    "chinese": "找到，發現"
+    "chinese": "找到；發現"
+  },
+  {
+    "word": "fine",
+    "pos": "adj.",
+    "chinese": "好的"
+  },
+  {
+    "word": "finger",
+    "pos": "n.",
+    "chinese": "手指"
   },
   {
     "word": "finish",
-    "pos": "v.",
-    "chinese": "完成，結束"
+    "pos": "v./n.",
+    "chinese": "完成；結束"
   },
   {
     "word": "fire",
-    "pos": "n.",
-    "chinese": "火，火災"
+    "pos": "n./v.",
+    "chinese": "火"
   },
   {
     "word": "first",
@@ -860,9 +1865,29 @@
     "chinese": "第一；首先"
   },
   {
+    "word": "fish",
+    "pos": "n./v.",
+    "chinese": "魚；釣魚"
+  },
+  {
+    "word": "fisherman",
+    "pos": "n.",
+    "chinese": "漁夫"
+  },
+  {
+    "word": "five",
+    "pos": "num.",
+    "chinese": "五"
+  },
+  {
+    "word": "fix",
+    "pos": "v.",
+    "chinese": "修理；固定"
+  },
+  {
     "word": "floor",
     "pos": "n.",
-    "chinese": "地板，樓層"
+    "chinese": "地板；樓層"
   },
   {
     "word": "flower",
@@ -871,13 +1896,13 @@
   },
   {
     "word": "fly",
-    "pos": "v.",
-    "chinese": "飛，乘飛機"
+    "pos": "v./n.",
+    "chinese": "飛；蒼蠅"
   },
   {
     "word": "follow",
     "pos": "v.",
-    "chinese": "跟隨，遵循"
+    "chinese": "跟隨；遵循"
   },
   {
     "word": "food",
@@ -885,19 +1910,74 @@
     "chinese": "食物"
   },
   {
+    "word": "fool",
+    "pos": "n./v.",
+    "chinese": "傻瓜；愚弄"
+  },
+  {
+    "word": "foot",
+    "pos": "n.",
+    "chinese": "腳；英尺"
+  },
+  {
+    "word": "for",
+    "pos": "prep.",
+    "chinese": "為了；對於"
+  },
+  {
+    "word": "foreign",
+    "pos": "adj.",
+    "chinese": "外國的"
+  },
+  {
+    "word": "foreigner",
+    "pos": "n.",
+    "chinese": "外國人"
+  },
+  {
     "word": "forget",
     "pos": "v.",
     "chinese": "忘記"
   },
   {
+    "word": "fork",
+    "pos": "n.",
+    "chinese": "叉子"
+  },
+  {
+    "word": "forty",
+    "pos": "num.",
+    "chinese": "四十"
+  },
+  {
+    "word": "four",
+    "pos": "num.",
+    "chinese": "四"
+  },
+  {
+    "word": "fourteen",
+    "pos": "num.",
+    "chinese": "十四"
+  },
+  {
+    "word": "fox",
+    "pos": "n.",
+    "chinese": "狐狸"
+  },
+  {
     "word": "free",
     "pos": "adj.",
-    "chinese": "免費的；自由的"
+    "chinese": "自由的；免費的"
   },
   {
     "word": "fresh",
     "pos": "adj.",
     "chinese": "新鮮的"
+  },
+  {
+    "word": "Friday",
+    "pos": "n.",
+    "chinese": "星期五"
   },
   {
     "word": "friend",
@@ -910,24 +1990,59 @@
     "chinese": "友善的"
   },
   {
+    "word": "fries",
+    "pos": "n.",
+    "chinese": "薯條"
+  },
+  {
+    "word": "frog",
+    "pos": "n.",
+    "chinese": "青蛙"
+  },
+  {
+    "word": "from",
+    "pos": "prep.",
+    "chinese": "從；來自"
+  },
+  {
+    "word": "front",
+    "pos": "n./adj.",
+    "chinese": "前面"
+  },
+  {
     "word": "fruit",
     "pos": "n.",
     "chinese": "水果"
   },
   {
+    "word": "fry",
+    "pos": "v.",
+    "chinese": "油炸"
+  },
+  {
     "word": "full",
     "pos": "adj.",
-    "chinese": "滿的，充滿的"
+    "chinese": "滿的；飽的"
+  },
+  {
+    "word": "fun",
+    "pos": "n./adj.",
+    "chinese": "樂趣；有趣的"
   },
   {
     "word": "funny",
     "pos": "adj.",
-    "chinese": "好笑的，有趣的"
+    "chinese": "好笑的；奇怪的"
+  },
+  {
+    "word": "future",
+    "pos": "n./adj.",
+    "chinese": "未來"
   },
   {
     "word": "game",
     "pos": "n.",
-    "chinese": "遊戲，比賽"
+    "chinese": "遊戲；比賽"
   },
   {
     "word": "garden",
@@ -935,24 +2050,49 @@
     "chinese": "花園"
   },
   {
+    "word": "garbage",
+    "pos": "n.",
+    "chinese": "垃圾"
+  },
+  {
+    "word": "gas",
+    "pos": "n.",
+    "chinese": "瓦斯；氣體"
+  },
+  {
     "word": "gate",
     "pos": "n.",
-    "chinese": "大門，入口"
+    "chinese": "大門"
   },
   {
     "word": "get",
     "pos": "v.",
-    "chinese": "獲得，得到"
+    "chinese": "得到；到達"
+  },
+  {
+    "word": "ghost",
+    "pos": "n.",
+    "chinese": "鬼"
+  },
+  {
+    "word": "giant",
+    "pos": "n./adj.",
+    "chinese": "巨人；巨大的"
   },
   {
     "word": "gift",
     "pos": "n.",
-    "chinese": "禮物；天賦"
+    "chinese": "禮物"
+  },
+  {
+    "word": "girl",
+    "pos": "n.",
+    "chinese": "女孩"
   },
   {
     "word": "give",
     "pos": "v.",
-    "chinese": "給，贈送"
+    "chinese": "給"
   },
   {
     "word": "glad",
@@ -960,49 +2100,184 @@
     "chinese": "高興的"
   },
   {
-    "word": "go",
-    "pos": "v.",
-    "chinese": "去，走"
+    "word": "glass",
+    "pos": "n.",
+    "chinese": "玻璃；玻璃杯"
   },
   {
-    "word": "goal",
+    "word": "glasses",
     "pos": "n.",
-    "chinese": "目標；進球"
+    "chinese": "眼鏡"
+  },
+  {
+    "word": "glove",
+    "pos": "n.",
+    "chinese": "手套"
+  },
+  {
+    "word": "glue",
+    "pos": "n./v.",
+    "chinese": "膠水；黏合"
+  },
+  {
+    "word": "go",
+    "pos": "v.",
+    "chinese": "去"
+  },
+  {
+    "word": "goat",
+    "pos": "n.",
+    "chinese": "山羊"
+  },
+  {
+    "word": "god",
+    "pos": "n.",
+    "chinese": "神；上帝"
   },
   {
     "word": "good",
     "pos": "adj.",
-    "chinese": "好的，良好的"
+    "chinese": "好的"
+  },
+  {
+    "word": "good-bye",
+    "pos": "interj.",
+    "chinese": "再見"
+  },
+  {
+    "word": "goose",
+    "pos": "n.",
+    "chinese": "鵝"
   },
   {
     "word": "grade",
     "pos": "n.",
-    "chinese": "成績，等級"
+    "chinese": "年級；成績"
+  },
+  {
+    "word": "gram",
+    "pos": "n.",
+    "chinese": "公克"
+  },
+  {
+    "word": "grandfather",
+    "pos": "n.",
+    "chinese": "祖父"
+  },
+  {
+    "word": "grandmother",
+    "pos": "n.",
+    "chinese": "祖母"
+  },
+  {
+    "word": "grape",
+    "pos": "n.",
+    "chinese": "葡萄"
+  },
+  {
+    "word": "grass",
+    "pos": "n.",
+    "chinese": "草"
+  },
+  {
+    "word": "gray",
+    "pos": "adj./n.",
+    "chinese": "灰色的"
   },
   {
     "word": "great",
     "pos": "adj.",
-    "chinese": "很棒的，偉大的"
+    "chinese": "很棒的；偉大的"
+  },
+  {
+    "word": "green",
+    "pos": "adj./n.",
+    "chinese": "綠色的"
+  },
+  {
+    "word": "ground",
+    "pos": "n.",
+    "chinese": "地面"
   },
   {
     "word": "group",
     "pos": "n.",
-    "chinese": "群體，小組"
+    "chinese": "群組；團體"
   },
   {
     "word": "grow",
     "pos": "v.",
-    "chinese": "生長，成長"
+    "chinese": "生長；成長"
+  },
+  {
+    "word": "guava",
+    "pos": "n.",
+    "chinese": "芭樂"
   },
   {
     "word": "guess",
-    "pos": "v.",
+    "pos": "v./n.",
     "chinese": "猜測"
+  },
+  {
+    "word": "guitar",
+    "pos": "n.",
+    "chinese": "吉他"
+  },
+  {
+    "word": "guy",
+    "pos": "n.",
+    "chinese": "傢伙；男生"
+  },
+  {
+    "word": "gym",
+    "pos": "n.",
+    "chinese": "體育館"
   },
   {
     "word": "habit",
     "pos": "n.",
     "chinese": "習慣"
+  },
+  {
+    "word": "hair",
+    "pos": "n.",
+    "chinese": "頭髮"
+  },
+  {
+    "word": "half",
+    "pos": "n./adj.",
+    "chinese": "一半"
+  },
+  {
+    "word": "Halloween",
+    "pos": "n.",
+    "chinese": "萬聖節"
+  },
+  {
+    "word": "ham",
+    "pos": "n.",
+    "chinese": "火腿"
+  },
+  {
+    "word": "hamburger",
+    "pos": "n.",
+    "chinese": "漢堡"
+  },
+  {
+    "word": "hand",
+    "pos": "n.",
+    "chinese": "手"
+  },
+  {
+    "word": "handsome",
+    "pos": "adj.",
+    "chinese": "英俊的"
+  },
+  {
+    "word": "hang",
+    "pos": "v.",
+    "chinese": "掛；懸掛"
   },
   {
     "word": "happen",
@@ -1012,12 +2287,47 @@
   {
     "word": "happy",
     "pos": "adj.",
-    "chinese": "快樂的，幸福的"
+    "chinese": "快樂的"
   },
   {
     "word": "hard",
     "pos": "adj./adv.",
-    "chinese": "努力地；堅硬的"
+    "chinese": "困難的；努力地"
+  },
+  {
+    "word": "hard-working",
+    "pos": "adj.",
+    "chinese": "勤勞的"
+  },
+  {
+    "word": "hat",
+    "pos": "n.",
+    "chinese": "帽子（有邊）"
+  },
+  {
+    "word": "hate",
+    "pos": "v.",
+    "chinese": "討厭"
+  },
+  {
+    "word": "have",
+    "pos": "v.",
+    "chinese": "有；吃"
+  },
+  {
+    "word": "he",
+    "pos": "pron.",
+    "chinese": "他"
+  },
+  {
+    "word": "head",
+    "pos": "n.",
+    "chinese": "頭"
+  },
+  {
+    "word": "headache",
+    "pos": "n.",
+    "chinese": "頭痛"
   },
   {
     "word": "health",
@@ -1032,17 +2342,32 @@
   {
     "word": "hear",
     "pos": "v.",
-    "chinese": "聽到，聽說"
+    "chinese": "聽到"
   },
   {
     "word": "heart",
     "pos": "n.",
-    "chinese": "心，心臟"
+    "chinese": "心臟；心"
+  },
+  {
+    "word": "heat",
+    "pos": "n./v.",
+    "chinese": "熱；加熱"
   },
   {
     "word": "heavy",
     "pos": "adj.",
-    "chinese": "重的；繁重的"
+    "chinese": "重的"
+  },
+  {
+    "word": "height",
+    "pos": "n.",
+    "chinese": "高度"
+  },
+  {
+    "word": "hello",
+    "pos": "interj.",
+    "chinese": "你好"
   },
   {
     "word": "help",
@@ -1050,14 +2375,49 @@
     "chinese": "幫助"
   },
   {
+    "word": "helpful",
+    "pos": "adj.",
+    "chinese": "有幫助的"
+  },
+  {
+    "word": "hen",
+    "pos": "n.",
+    "chinese": "母雞"
+  },
+  {
+    "word": "here",
+    "pos": "adv.",
+    "chinese": "這裡"
+  },
+  {
+    "word": "hey",
+    "pos": "interj.",
+    "chinese": "嘿"
+  },
+  {
+    "word": "hi",
+    "pos": "interj.",
+    "chinese": "嗨"
+  },
+  {
     "word": "hide",
     "pos": "v.",
-    "chinese": "躲藏，隱藏"
+    "chinese": "躲藏；隱藏"
   },
   {
     "word": "high",
     "pos": "adj./adv.",
-    "chinese": "高的；高地"
+    "chinese": "高的"
+  },
+  {
+    "word": "hike",
+    "pos": "v./n.",
+    "chinese": "健行"
+  },
+  {
+    "word": "hill",
+    "pos": "n.",
+    "chinese": "小山"
   },
   {
     "word": "history",
@@ -1065,19 +2425,44 @@
     "chinese": "歷史"
   },
   {
-    "word": "hole",
+    "word": "hit",
+    "pos": "v./n.",
+    "chinese": "打；擊中"
+  },
+  {
+    "word": "hobby",
     "pos": "n.",
-    "chinese": "洞，孔"
+    "chinese": "嗜好"
+  },
+  {
+    "word": "hold",
+    "pos": "v.",
+    "chinese": "握住；舉辦"
   },
   {
     "word": "holiday",
     "pos": "n.",
-    "chinese": "假日，節日"
+    "chinese": "假日"
   },
   {
     "word": "home",
+    "pos": "n./adv.",
+    "chinese": "家；回家"
+  },
+  {
+    "word": "homework",
     "pos": "n.",
-    "chinese": "家，家庭"
+    "chinese": "作業"
+  },
+  {
+    "word": "honest",
+    "pos": "adj.",
+    "chinese": "誠實的"
+  },
+  {
+    "word": "honey",
+    "pos": "n.",
+    "chinese": "蜂蜜；親愛的"
   },
   {
     "word": "hope",
@@ -1085,14 +2470,29 @@
     "chinese": "希望"
   },
   {
+    "word": "horse",
+    "pos": "n.",
+    "chinese": "馬"
+  },
+  {
     "word": "hospital",
     "pos": "n.",
     "chinese": "醫院"
   },
   {
+    "word": "hot",
+    "pos": "adj.",
+    "chinese": "熱的；辣的"
+  },
+  {
+    "word": "hot dog",
+    "pos": "n.",
+    "chinese": "熱狗"
+  },
+  {
     "word": "hotel",
     "pos": "n.",
-    "chinese": "飯店，旅館"
+    "chinese": "飯店"
   },
   {
     "word": "hour",
@@ -1102,27 +2502,77 @@
   {
     "word": "house",
     "pos": "n.",
-    "chinese": "房子，住宅"
+    "chinese": "房子"
+  },
+  {
+    "word": "housewife",
+    "pos": "n.",
+    "chinese": "家庭主婦"
   },
   {
     "word": "how",
     "pos": "adv.",
-    "chinese": "如何，怎樣"
+    "chinese": "如何；多麼"
+  },
+  {
+    "word": "however",
+    "pos": "adv./conj.",
+    "chinese": "然而"
+  },
+  {
+    "word": "hundred",
+    "pos": "num.",
+    "chinese": "百"
   },
   {
     "word": "hungry",
     "pos": "adj.",
-    "chinese": "飢餓的"
+    "chinese": "饑餓的"
+  },
+  {
+    "word": "hunt",
+    "pos": "v.",
+    "chinese": "打獵；搜尋"
+  },
+  {
+    "word": "hurry",
+    "pos": "v./n.",
+    "chinese": "趕快；匆忙"
   },
   {
     "word": "hurt",
     "pos": "v.",
-    "chinese": "受傷；傷害"
+    "chinese": "傷害；疼痛"
+  },
+  {
+    "word": "husband",
+    "pos": "n.",
+    "chinese": "丈夫"
+  },
+  {
+    "word": "I",
+    "pos": "pron.",
+    "chinese": "我"
+  },
+  {
+    "word": "ice",
+    "pos": "n.",
+    "chinese": "冰"
+  },
+  {
+    "word": "ice cream",
+    "pos": "n.",
+    "chinese": "冰淇淋"
   },
   {
     "word": "idea",
     "pos": "n.",
-    "chinese": "主意，想法"
+    "chinese": "想法；點子"
+  },
+  {
+    "word": "if",
+    "pos": "conj.",
+    "chinese": "如果"
   },
   {
     "word": "important",
@@ -1130,29 +2580,54 @@
     "chinese": "重要的"
   },
   {
-    "word": "improve",
-    "pos": "v.",
-    "chinese": "改善，進步"
+    "word": "in",
+    "pos": "prep.",
+    "chinese": "在…裡面"
   },
   {
-    "word": "include",
-    "pos": "v.",
-    "chinese": "包括，包含"
+    "word": "inch",
+    "pos": "n.",
+    "chinese": "英寸"
+  },
+  {
+    "word": "insect",
+    "pos": "n.",
+    "chinese": "昆蟲"
+  },
+  {
+    "word": "inside",
+    "pos": "prep./adv.",
+    "chinese": "在裡面"
   },
   {
     "word": "interest",
-    "pos": "n.",
-    "chinese": "興趣；利息"
+    "pos": "n./v.",
+    "chinese": "興趣；使感興趣"
+  },
+  {
+    "word": "interested",
+    "pos": "adj.",
+    "chinese": "感興趣的"
   },
   {
     "word": "interesting",
     "pos": "adj.",
-    "chinese": "有趣的，有意思的"
+    "chinese": "有趣的"
   },
   {
-    "word": "introduce",
-    "pos": "v.",
-    "chinese": "介紹"
+    "word": "Internet",
+    "pos": "n.",
+    "chinese": "網際網路"
+  },
+  {
+    "word": "interview",
+    "pos": "n./v.",
+    "chinese": "採訪；面試"
+  },
+  {
+    "word": "into",
+    "pos": "prep.",
+    "chinese": "進入"
   },
   {
     "word": "invite",
@@ -1165,9 +2640,44 @@
     "chinese": "島嶼"
   },
   {
+    "word": "it",
+    "pos": "pron.",
+    "chinese": "它"
+  },
+  {
+    "word": "item",
+    "pos": "n.",
+    "chinese": "項目；物品"
+  },
+  {
+    "word": "jacket",
+    "pos": "n.",
+    "chinese": "夾克"
+  },
+  {
+    "word": "January",
+    "pos": "n.",
+    "chinese": "一月"
+  },
+  {
+    "word": "jeans",
+    "pos": "n.",
+    "chinese": "牛仔褲"
+  },
+  {
+    "word": "job",
+    "pos": "n.",
+    "chinese": "工作"
+  },
+  {
+    "word": "jog",
+    "pos": "v.",
+    "chinese": "慢跑"
+  },
+  {
     "word": "join",
     "pos": "v.",
-    "chinese": "加入，參加"
+    "chinese": "加入"
   },
   {
     "word": "joke",
@@ -1175,14 +2685,34 @@
     "chinese": "笑話；開玩笑"
   },
   {
-    "word": "journey",
+    "word": "joy",
     "pos": "n.",
-    "chinese": "旅程，旅途"
+    "chinese": "喜悅"
+  },
+  {
+    "word": "juice",
+    "pos": "n.",
+    "chinese": "果汁"
+  },
+  {
+    "word": "July",
+    "pos": "n.",
+    "chinese": "七月"
   },
   {
     "word": "jump",
-    "pos": "v.",
-    "chinese": "跳，跳躍"
+    "pos": "v./n.",
+    "chinese": "跳"
+  },
+  {
+    "word": "June",
+    "pos": "n.",
+    "chinese": "六月"
+  },
+  {
+    "word": "junior high school",
+    "pos": "n.",
+    "chinese": "國中"
   },
   {
     "word": "just",
@@ -1192,7 +2722,32 @@
   {
     "word": "keep",
     "pos": "v.",
-    "chinese": "保持，保留"
+    "chinese": "保持；保留"
+  },
+  {
+    "word": "key",
+    "pos": "n.",
+    "chinese": "鑰匙；關鍵"
+  },
+  {
+    "word": "kick",
+    "pos": "v./n.",
+    "chinese": "踢"
+  },
+  {
+    "word": "kid",
+    "pos": "n.",
+    "chinese": "小孩"
+  },
+  {
+    "word": "kill",
+    "pos": "v.",
+    "chinese": "殺死"
+  },
+  {
+    "word": "kilogram",
+    "pos": "n.",
+    "chinese": "公斤"
   },
   {
     "word": "kind",
@@ -1200,14 +2755,64 @@
     "chinese": "親切的；種類"
   },
   {
+    "word": "king",
+    "pos": "n.",
+    "chinese": "國王"
+  },
+  {
+    "word": "kiss",
+    "pos": "v./n.",
+    "chinese": "親吻"
+  },
+  {
+    "word": "kitchen",
+    "pos": "n.",
+    "chinese": "廚房"
+  },
+  {
+    "word": "kite",
+    "pos": "n.",
+    "chinese": "風箏"
+  },
+  {
+    "word": "knee",
+    "pos": "n.",
+    "chinese": "膝蓋"
+  },
+  {
+    "word": "knife",
+    "pos": "n.",
+    "chinese": "刀子"
+  },
+  {
+    "word": "knock",
+    "pos": "v.",
+    "chinese": "敲打"
+  },
+  {
     "word": "know",
     "pos": "v.",
-    "chinese": "知道，了解"
+    "chinese": "知道；認識"
   },
   {
     "word": "knowledge",
     "pos": "n.",
-    "chinese": "知識，學問"
+    "chinese": "知識"
+  },
+  {
+    "word": "lake",
+    "pos": "n.",
+    "chinese": "湖"
+  },
+  {
+    "word": "lamp",
+    "pos": "n.",
+    "chinese": "燈"
+  },
+  {
+    "word": "land",
+    "pos": "n./v.",
+    "chinese": "土地；降落"
   },
   {
     "word": "language",
@@ -1217,7 +2822,7 @@
   {
     "word": "large",
     "pos": "adj.",
-    "chinese": "大的，廣大的"
+    "chinese": "大的"
   },
   {
     "word": "last",
@@ -1227,37 +2832,117 @@
   {
     "word": "late",
     "pos": "adj./adv.",
-    "chinese": "晚的；遲地"
+    "chinese": "晚的"
+  },
+  {
+    "word": "later",
+    "pos": "adv.",
+    "chinese": "後來；稍後"
   },
   {
     "word": "laugh",
-    "pos": "v.",
-    "chinese": "笑，大笑"
+    "pos": "v./n.",
+    "chinese": "笑"
+  },
+  {
+    "word": "lawyer",
+    "pos": "n.",
+    "chinese": "律師"
+  },
+  {
+    "word": "lazy",
+    "pos": "adj.",
+    "chinese": "懶惰的"
+  },
+  {
+    "word": "lead",
+    "pos": "v./n.",
+    "chinese": "帶領；鉛"
+  },
+  {
+    "word": "leader",
+    "pos": "n.",
+    "chinese": "領袖；隊長"
   },
   {
     "word": "learn",
     "pos": "v.",
-    "chinese": "學習，學到"
+    "chinese": "學習"
+  },
+  {
+    "word": "least",
+    "pos": "adj./adv.",
+    "chinese": "最少的"
   },
   {
     "word": "leave",
     "pos": "v.",
-    "chinese": "離開，留下"
+    "chinese": "離開；留下"
+  },
+  {
+    "word": "left",
+    "pos": "adj./adv./n.",
+    "chinese": "左邊；剩下的"
+  },
+  {
+    "word": "leg",
+    "pos": "n.",
+    "chinese": "腿"
+  },
+  {
+    "word": "lemon",
+    "pos": "n.",
+    "chinese": "檸檬"
   },
   {
     "word": "lend",
     "pos": "v.",
-    "chinese": "借出，出借"
+    "chinese": "借（出）"
+  },
+  {
+    "word": "less",
+    "pos": "adj./adv.",
+    "chinese": "較少的"
+  },
+  {
+    "word": "lesson",
+    "pos": "n.",
+    "chinese": "課；教訓"
+  },
+  {
+    "word": "let",
+    "pos": "v.",
+    "chinese": "讓"
   },
   {
     "word": "letter",
     "pos": "n.",
-    "chinese": "信，字母"
+    "chinese": "字母；信"
+  },
+  {
+    "word": "level",
+    "pos": "n.",
+    "chinese": "水平；等級"
+  },
+  {
+    "word": "library",
+    "pos": "n.",
+    "chinese": "圖書館"
+  },
+  {
+    "word": "lie",
+    "pos": "v./n.",
+    "chinese": "說謊；躺下"
   },
   {
     "word": "life",
     "pos": "n.",
-    "chinese": "生命，生活"
+    "chinese": "生活；生命"
+  },
+  {
+    "word": "light",
+    "pos": "n./adj./v.",
+    "chinese": "光；輕的；點燃"
   },
   {
     "word": "like",
@@ -1265,54 +2950,84 @@
     "chinese": "喜歡；像"
   },
   {
+    "word": "line",
+    "pos": "n.",
+    "chinese": "線；排隊"
+  },
+  {
+    "word": "lion",
+    "pos": "n.",
+    "chinese": "獅子"
+  },
+  {
+    "word": "lip",
+    "pos": "n.",
+    "chinese": "嘴唇"
+  },
+  {
     "word": "list",
     "pos": "n./v.",
-    "chinese": "清單；列舉"
+    "chinese": "清單；列出"
   },
   {
     "word": "listen",
     "pos": "v.",
-    "chinese": "聽，傾聽"
+    "chinese": "聽"
   },
   {
     "word": "little",
     "pos": "adj./adv.",
-    "chinese": "小的；一點點"
+    "chinese": "小的；少量"
   },
   {
     "word": "live",
-    "pos": "v.",
-    "chinese": "居住，生活"
+    "pos": "v./adj.",
+    "chinese": "居住；活的"
   },
   {
-    "word": "local",
-    "pos": "adj.",
-    "chinese": "當地的，地方的"
+    "word": "living room",
+    "pos": "n.",
+    "chinese": "客廳"
   },
   {
     "word": "lonely",
     "pos": "adj.",
-    "chinese": "孤獨的，寂寞的"
+    "chinese": "孤獨的"
   },
   {
     "word": "long",
     "pos": "adj./adv.",
-    "chinese": "長的；久地"
+    "chinese": "長的"
   },
   {
     "word": "look",
     "pos": "v.",
-    "chinese": "看，看起來"
+    "chinese": "看；看起來"
   },
   {
     "word": "lose",
     "pos": "v.",
-    "chinese": "失去，輸掉"
+    "chinese": "失去；輸"
+  },
+  {
+    "word": "loud",
+    "pos": "adj./adv.",
+    "chinese": "大聲的"
   },
   {
     "word": "love",
     "pos": "v./n.",
-    "chinese": "愛，喜愛"
+    "chinese": "愛"
+  },
+  {
+    "word": "lovely",
+    "pos": "adj.",
+    "chinese": "可愛的；美好的"
+  },
+  {
+    "word": "low",
+    "pos": "adj./adv.",
+    "chinese": "低的"
   },
   {
     "word": "lucky",
@@ -1320,9 +3035,54 @@
     "chinese": "幸運的"
   },
   {
+    "word": "lunch",
+    "pos": "n.",
+    "chinese": "午餐"
+  },
+  {
+    "word": "machine",
+    "pos": "n.",
+    "chinese": "機器"
+  },
+  {
+    "word": "mad",
+    "pos": "adj.",
+    "chinese": "生氣的；瘋狂的"
+  },
+  {
+    "word": "magic",
+    "pos": "n./adj.",
+    "chinese": "魔法；魔法的"
+  },
+  {
+    "word": "mail",
+    "pos": "n./v.",
+    "chinese": "郵件；郵寄"
+  },
+  {
+    "word": "mailman",
+    "pos": "n.",
+    "chinese": "郵差"
+  },
+  {
+    "word": "main",
+    "pos": "adj.",
+    "chinese": "主要的"
+  },
+  {
     "word": "make",
     "pos": "v.",
-    "chinese": "製作，使（…）"
+    "chinese": "製作；使"
+  },
+  {
+    "word": "man",
+    "pos": "n.",
+    "chinese": "男人"
+  },
+  {
+    "word": "many",
+    "pos": "adj./pron.",
+    "chinese": "許多"
   },
   {
     "word": "map",
@@ -1330,89 +3090,269 @@
     "chinese": "地圖"
   },
   {
-    "word": "mark",
-    "pos": "v./n.",
-    "chinese": "標記；分數"
+    "word": "March",
+    "pos": "n.",
+    "chinese": "三月"
   },
   {
-    "word": "match",
+    "word": "mark",
     "pos": "n./v.",
-    "chinese": "比賽；符合"
+    "chinese": "記號；標記"
+  },
+  {
+    "word": "marker",
+    "pos": "n.",
+    "chinese": "麥克筆"
+  },
+  {
+    "word": "market",
+    "pos": "n.",
+    "chinese": "市場"
+  },
+  {
+    "word": "married",
+    "pos": "adj.",
+    "chinese": "已婚的"
+  },
+  {
+    "word": "mask",
+    "pos": "n.",
+    "chinese": "口罩；面具"
+  },
+  {
+    "word": "math",
+    "pos": "n.",
+    "chinese": "數學"
+  },
+  {
+    "word": "matter",
+    "pos": "n./v.",
+    "chinese": "事情；重要"
+  },
+  {
+    "word": "may",
+    "pos": "modal v.",
+    "chinese": "可能；可以"
+  },
+  {
+    "word": "May",
+    "pos": "n.",
+    "chinese": "五月"
+  },
+  {
+    "word": "maybe",
+    "pos": "adv.",
+    "chinese": "也許"
   },
   {
     "word": "meal",
     "pos": "n.",
-    "chinese": "餐，飯"
+    "chinese": "餐"
   },
   {
     "word": "mean",
     "pos": "v./adj.",
-    "chinese": "意思是；吝嗇的"
+    "chinese": "意思；刻薄的"
+  },
+  {
+    "word": "meat",
+    "pos": "n.",
+    "chinese": "肉"
   },
   {
     "word": "medicine",
     "pos": "n.",
-    "chinese": "藥，醫學"
+    "chinese": "藥；醫學"
+  },
+  {
+    "word": "medium",
+    "pos": "adj./n.",
+    "chinese": "中等的；媒介"
   },
   {
     "word": "meet",
     "pos": "v.",
-    "chinese": "見面，遇見"
+    "chinese": "見面"
+  },
+  {
+    "word": "meeting",
+    "pos": "n.",
+    "chinese": "會議"
   },
   {
     "word": "member",
     "pos": "n.",
-    "chinese": "成員，會員"
+    "chinese": "成員"
   },
   {
-    "word": "message",
+    "word": "menu",
     "pos": "n.",
-    "chinese": "訊息，消息"
+    "chinese": "菜單"
+  },
+  {
+    "word": "metro",
+    "pos": "n.",
+    "chinese": "捷運"
+  },
+  {
+    "word": "middle",
+    "pos": "n./adj.",
+    "chinese": "中間"
+  },
+  {
+    "word": "mile",
+    "pos": "n.",
+    "chinese": "英里"
+  },
+  {
+    "word": "milk",
+    "pos": "n.",
+    "chinese": "牛奶"
+  },
+  {
+    "word": "million",
+    "pos": "num.",
+    "chinese": "百萬"
   },
   {
     "word": "mind",
     "pos": "n./v.",
-    "chinese": "心智；介意"
+    "chinese": "心思；介意"
+  },
+  {
+    "word": "minute",
+    "pos": "n.",
+    "chinese": "分鐘"
+  },
+  {
+    "word": "Miss",
+    "pos": "n.",
+    "chinese": "小姐"
   },
   {
     "word": "miss",
     "pos": "v.",
-    "chinese": "錯過；思念"
+    "chinese": "想念；錯過"
   },
   {
     "word": "mistake",
-    "pos": "n.",
+    "pos": "n./v.",
     "chinese": "錯誤"
+  },
+  {
+    "word": "modern",
+    "pos": "adj.",
+    "chinese": "現代的"
   },
   {
     "word": "moment",
     "pos": "n.",
-    "chinese": "片刻，時刻"
+    "chinese": "時刻；片刻"
+  },
+  {
+    "word": "Monday",
+    "pos": "n.",
+    "chinese": "星期一"
   },
   {
     "word": "money",
     "pos": "n.",
-    "chinese": "錢，金錢"
+    "chinese": "錢"
+  },
+  {
+    "word": "monkey",
+    "pos": "n.",
+    "chinese": "猴子"
   },
   {
     "word": "month",
     "pos": "n.",
-    "chinese": "月，月份"
+    "chinese": "月份"
+  },
+  {
+    "word": "moon",
+    "pos": "n.",
+    "chinese": "月亮"
+  },
+  {
+    "word": "more",
+    "pos": "adj./adv.",
+    "chinese": "更多的"
+  },
+  {
+    "word": "morning",
+    "pos": "n.",
+    "chinese": "早上"
+  },
+  {
+    "word": "mop",
+    "pos": "n./v.",
+    "chinese": "拖把；拖地"
   },
   {
     "word": "most",
     "pos": "adj./adv.",
-    "chinese": "最多；最"
+    "chinese": "最多的"
+  },
+  {
+    "word": "mother",
+    "pos": "n.",
+    "chinese": "母親"
+  },
+  {
+    "word": "motorcycle",
+    "pos": "n.",
+    "chinese": "機車"
+  },
+  {
+    "word": "mountain",
+    "pos": "n.",
+    "chinese": "山"
+  },
+  {
+    "word": "mouse",
+    "pos": "n.",
+    "chinese": "老鼠；滑鼠"
+  },
+  {
+    "word": "mouth",
+    "pos": "n.",
+    "chinese": "嘴巴"
   },
   {
     "word": "move",
     "pos": "v.",
-    "chinese": "移動，搬動"
+    "chinese": "移動；搬家"
   },
   {
     "word": "movie",
     "pos": "n.",
     "chinese": "電影"
+  },
+  {
+    "word": "Mr.",
+    "pos": "n.",
+    "chinese": "先生"
+  },
+  {
+    "word": "Mrs.",
+    "pos": "n.",
+    "chinese": "太太"
+  },
+  {
+    "word": "Ms.",
+    "pos": "n.",
+    "chinese": "女士"
+  },
+  {
+    "word": "much",
+    "pos": "adj./adv.",
+    "chinese": "許多；非常"
+  },
+  {
+    "word": "mud",
+    "pos": "n.",
+    "chinese": "泥巴"
   },
   {
     "word": "museum",
@@ -1425,14 +3365,44 @@
     "chinese": "音樂"
   },
   {
-    "word": "nature",
-    "pos": "n.",
-    "chinese": "自然；本性"
+    "word": "must",
+    "pos": "modal v.",
+    "chinese": "必須"
   },
   {
-    "word": "necessary",
+    "word": "nail",
+    "pos": "n.",
+    "chinese": "指甲；釘子"
+  },
+  {
+    "word": "name",
+    "pos": "n./v.",
+    "chinese": "名字；命名"
+  },
+  {
+    "word": "national",
     "pos": "adj.",
-    "chinese": "必要的，必需的"
+    "chinese": "國家的；全國的"
+  },
+  {
+    "word": "nature",
+    "pos": "n.",
+    "chinese": "自然"
+  },
+  {
+    "word": "near",
+    "pos": "prep./adj./adv.",
+    "chinese": "靠近"
+  },
+  {
+    "word": "neck",
+    "pos": "n.",
+    "chinese": "脖子"
+  },
+  {
+    "word": "need",
+    "pos": "v./n.",
+    "chinese": "需要"
   },
   {
     "word": "neighbor",
@@ -1440,29 +3410,109 @@
     "chinese": "鄰居"
   },
   {
-    "word": "nervous",
+    "word": "never",
+    "pos": "adv.",
+    "chinese": "從不"
+  },
+  {
+    "word": "new",
     "pos": "adj.",
-    "chinese": "緊張的，焦慮的"
+    "chinese": "新的"
   },
   {
     "word": "news",
     "pos": "n.",
-    "chinese": "新聞，消息"
+    "chinese": "新聞"
+  },
+  {
+    "word": "newspaper",
+    "pos": "n.",
+    "chinese": "報紙"
+  },
+  {
+    "word": "next",
+    "pos": "adj./adv.",
+    "chinese": "下一個"
   },
   {
     "word": "nice",
     "pos": "adj.",
-    "chinese": "好的，令人愉快的"
+    "chinese": "好的；友善的"
   },
   {
     "word": "night",
     "pos": "n.",
-    "chinese": "夜晚，夜裡"
+    "chinese": "夜晚"
+  },
+  {
+    "word": "nine",
+    "pos": "num.",
+    "chinese": "九"
+  },
+  {
+    "word": "nineteen",
+    "pos": "num.",
+    "chinese": "十九"
+  },
+  {
+    "word": "ninety",
+    "pos": "num.",
+    "chinese": "九十"
+  },
+  {
+    "word": "no",
+    "pos": "adj./adv./interj.",
+    "chinese": "沒有；不"
+  },
+  {
+    "word": "nobody",
+    "pos": "pron.",
+    "chinese": "沒有人"
   },
   {
     "word": "noise",
     "pos": "n.",
-    "chinese": "噪音，聲音"
+    "chinese": "噪音"
+  },
+  {
+    "word": "noisy",
+    "pos": "adj.",
+    "chinese": "吵鬧的"
+  },
+  {
+    "word": "noodle",
+    "pos": "n.",
+    "chinese": "麵條"
+  },
+  {
+    "word": "noon",
+    "pos": "n.",
+    "chinese": "中午"
+  },
+  {
+    "word": "north",
+    "pos": "n./adj.",
+    "chinese": "北方"
+  },
+  {
+    "word": "nose",
+    "pos": "n.",
+    "chinese": "鼻子"
+  },
+  {
+    "word": "not",
+    "pos": "adv.",
+    "chinese": "不"
+  },
+  {
+    "word": "note",
+    "pos": "n./v.",
+    "chinese": "筆記；注意"
+  },
+  {
+    "word": "notebook",
+    "pos": "n.",
+    "chinese": "筆記本"
   },
   {
     "word": "nothing",
@@ -1472,22 +3522,82 @@
   {
     "word": "notice",
     "pos": "v./n.",
-    "chinese": "注意到；通知"
+    "chinese": "注意；通知"
+  },
+  {
+    "word": "November",
+    "pos": "n.",
+    "chinese": "十一月"
+  },
+  {
+    "word": "now",
+    "pos": "adv.",
+    "chinese": "現在"
   },
   {
     "word": "number",
     "pos": "n.",
-    "chinese": "數字，號碼"
+    "chinese": "數字；號碼"
   },
   {
-    "word": "offer",
-    "pos": "v./n.",
-    "chinese": "提供，提議"
+    "word": "nurse",
+    "pos": "n.",
+    "chinese": "護士"
+  },
+  {
+    "word": "o'clock",
+    "pos": "adv.",
+    "chinese": "…點鐘"
+  },
+  {
+    "word": "October",
+    "pos": "n.",
+    "chinese": "十月"
+  },
+  {
+    "word": "of",
+    "pos": "prep.",
+    "chinese": "的；關於"
+  },
+  {
+    "word": "off",
+    "pos": "adv./prep.",
+    "chinese": "關掉；離開"
+  },
+  {
+    "word": "office",
+    "pos": "n.",
+    "chinese": "辦公室"
+  },
+  {
+    "word": "officer",
+    "pos": "n.",
+    "chinese": "官員；警察"
   },
   {
     "word": "often",
     "pos": "adv.",
-    "chinese": "經常，常常"
+    "chinese": "經常"
+  },
+  {
+    "word": "oil",
+    "pos": "n.",
+    "chinese": "油"
+  },
+  {
+    "word": "OK",
+    "pos": "adj./adv./interj.",
+    "chinese": "好的；可以"
+  },
+  {
+    "word": "old",
+    "pos": "adj.",
+    "chinese": "老的；舊的"
+  },
+  {
+    "word": "on",
+    "pos": "prep./adv.",
+    "chinese": "在…上面；開著"
   },
   {
     "word": "once",
@@ -1495,14 +3605,44 @@
     "chinese": "一次；一旦"
   },
   {
+    "word": "one",
+    "pos": "num./pron.",
+    "chinese": "一；某人"
+  },
+  {
+    "word": "only",
+    "pos": "adj./adv.",
+    "chinese": "唯一的；只"
+  },
+  {
     "word": "open",
     "pos": "v./adj.",
     "chinese": "打開；開著的"
   },
   {
+    "word": "or",
+    "pos": "conj.",
+    "chinese": "或者"
+  },
+  {
+    "word": "orange",
+    "pos": "n./adj.",
+    "chinese": "柳橙；橘色"
+  },
+  {
     "word": "order",
     "pos": "n./v.",
-    "chinese": "順序；命令；點菜"
+    "chinese": "順序；點餐；命令"
+  },
+  {
+    "word": "other",
+    "pos": "adj./pron.",
+    "chinese": "其他的"
+  },
+  {
+    "word": "out",
+    "pos": "adv./prep.",
+    "chinese": "出去；外面"
   },
   {
     "word": "outside",
@@ -1510,17 +3650,62 @@
     "chinese": "在外面"
   },
   {
+    "word": "over",
+    "pos": "prep./adv.",
+    "chinese": "超過；結束"
+  },
+  {
     "word": "own",
     "pos": "adj./v.",
     "chinese": "自己的；擁有"
   },
   {
-    "word": "pack",
-    "pos": "v.",
-    "chinese": "打包，裝箱"
+    "word": "p.m.",
+    "pos": "abbr.",
+    "chinese": "下午"
   },
   {
-    "word": "parents",
+    "word": "pack",
+    "pos": "v./n.",
+    "chinese": "打包"
+  },
+  {
+    "word": "package",
+    "pos": "n.",
+    "chinese": "包裹"
+  },
+  {
+    "word": "page",
+    "pos": "n.",
+    "chinese": "頁"
+  },
+  {
+    "word": "paint",
+    "pos": "v./n.",
+    "chinese": "塗漆；畫"
+  },
+  {
+    "word": "pair",
+    "pos": "n.",
+    "chinese": "一對"
+  },
+  {
+    "word": "pants",
+    "pos": "n.",
+    "chinese": "褲子"
+  },
+  {
+    "word": "papaya",
+    "pos": "n.",
+    "chinese": "木瓜"
+  },
+  {
+    "word": "paper",
+    "pos": "n.",
+    "chinese": "紙；報告"
+  },
+  {
+    "word": "parent",
     "pos": "n.",
     "chinese": "父母"
   },
@@ -1532,47 +3717,152 @@
   {
     "word": "part",
     "pos": "n.",
-    "chinese": "部分，一部分"
+    "chinese": "部分"
   },
   {
     "word": "party",
     "pos": "n.",
-    "chinese": "派對，宴會"
+    "chinese": "派對；政黨"
   },
   {
     "word": "pass",
     "pos": "v.",
-    "chinese": "經過；傳遞；通過"
+    "chinese": "經過；通過"
+  },
+  {
+    "word": "past",
+    "pos": "n./prep./adj.",
+    "chinese": "過去"
+  },
+  {
+    "word": "paste",
+    "pos": "v./n.",
+    "chinese": "黏貼；糊"
   },
   {
     "word": "pay",
-    "pos": "v.",
-    "chinese": "付款，付錢"
+    "pos": "v./n.",
+    "chinese": "付錢"
+  },
+  {
+    "word": "PE",
+    "pos": "n.",
+    "chinese": "體育"
+  },
+  {
+    "word": "peach",
+    "pos": "n.",
+    "chinese": "桃子"
+  },
+  {
+    "word": "pear",
+    "pos": "n.",
+    "chinese": "梨子"
+  },
+  {
+    "word": "pen",
+    "pos": "n.",
+    "chinese": "原子筆"
+  },
+  {
+    "word": "pencil",
+    "pos": "n.",
+    "chinese": "鉛筆"
   },
   {
     "word": "people",
     "pos": "n.",
-    "chinese": "人們，人民"
+    "chinese": "人們"
   },
   {
-    "word": "perfect",
-    "pos": "adj.",
-    "chinese": "完美的"
+    "word": "perhaps",
+    "pos": "adv.",
+    "chinese": "也許"
   },
   {
-    "word": "phone",
+    "word": "person",
     "pos": "n.",
-    "chinese": "電話，手機"
+    "chinese": "人"
+  },
+  {
+    "word": "pet",
+    "pos": "n.",
+    "chinese": "寵物"
+  },
+  {
+    "word": "photo",
+    "pos": "n.",
+    "chinese": "照片"
+  },
+  {
+    "word": "piano",
+    "pos": "n.",
+    "chinese": "鋼琴"
   },
   {
     "word": "pick",
     "pos": "v.",
-    "chinese": "挑選，採摘"
+    "chinese": "挑選；採摘"
+  },
+  {
+    "word": "picnic",
+    "pos": "n.",
+    "chinese": "野餐"
+  },
+  {
+    "word": "picture",
+    "pos": "n.",
+    "chinese": "圖片；照片"
+  },
+  {
+    "word": "pie",
+    "pos": "n.",
+    "chinese": "派"
+  },
+  {
+    "word": "piece",
+    "pos": "n.",
+    "chinese": "一片；一件"
+  },
+  {
+    "word": "pig",
+    "pos": "n.",
+    "chinese": "豬"
+  },
+  {
+    "word": "pin",
+    "pos": "n./v.",
+    "chinese": "大頭針；別住"
+  },
+  {
+    "word": "pink",
+    "pos": "adj./n.",
+    "chinese": "粉紅色"
+  },
+  {
+    "word": "pipe",
+    "pos": "n.",
+    "chinese": "管子"
+  },
+  {
+    "word": "pizza",
+    "pos": "n.",
+    "chinese": "披薩"
+  },
+  {
+    "word": "place",
+    "pos": "n./v.",
+    "chinese": "地方；放置"
   },
   {
     "word": "plan",
     "pos": "n./v.",
-    "chinese": "計劃；計畫"
+    "chinese": "計畫"
+  },
+  {
+    "word": "planet",
+    "pos": "n.",
+    "chinese": "星球；行星"
   },
   {
     "word": "plant",
@@ -1580,19 +3870,89 @@
     "chinese": "植物；種植"
   },
   {
+    "word": "plate",
+    "pos": "n.",
+    "chinese": "盤子"
+  },
+  {
     "word": "play",
     "pos": "v./n.",
-    "chinese": "玩，比賽；戲劇"
+    "chinese": "玩；演奏"
+  },
+  {
+    "word": "player",
+    "pos": "n.",
+    "chinese": "玩家；球員"
+  },
+  {
+    "word": "playground",
+    "pos": "n.",
+    "chinese": "操場"
   },
   {
     "word": "please",
     "pos": "v./adv.",
-    "chinese": "取悅；請"
+    "chinese": "請；使高興"
+  },
+  {
+    "word": "pleasure",
+    "pos": "n.",
+    "chinese": "樂趣；高興"
+  },
+  {
+    "word": "pocket",
+    "pos": "n.",
+    "chinese": "口袋"
+  },
+  {
+    "word": "point",
+    "pos": "n./v.",
+    "chinese": "點；指向"
+  },
+  {
+    "word": "police",
+    "pos": "n.",
+    "chinese": "警察"
+  },
+  {
+    "word": "polite",
+    "pos": "adj.",
+    "chinese": "有禮貌的"
+  },
+  {
+    "word": "pond",
+    "pos": "n.",
+    "chinese": "池塘"
+  },
+  {
+    "word": "pool",
+    "pos": "n.",
+    "chinese": "游泳池"
+  },
+  {
+    "word": "poor",
+    "pos": "adj.",
+    "chinese": "貧窮的；可憐的"
+  },
+  {
+    "word": "pop",
+    "pos": "adj./v./n.",
+    "chinese": "流行的；彈出"
+  },
+  {
+    "word": "popcorn",
+    "pos": "n.",
+    "chinese": "爆米花"
   },
   {
     "word": "popular",
     "pos": "adj.",
-    "chinese": "受歡迎的，流行的"
+    "chinese": "受歡迎的"
+  },
+  {
+    "word": "pork",
+    "pos": "n.",
+    "chinese": "豬肉"
   },
   {
     "word": "possible",
@@ -1600,64 +3960,169 @@
     "chinese": "可能的"
   },
   {
+    "word": "post office",
+    "pos": "n.",
+    "chinese": "郵局"
+  },
+  {
+    "word": "postcard",
+    "pos": "n.",
+    "chinese": "明信片"
+  },
+  {
+    "word": "pot",
+    "pos": "n.",
+    "chinese": "鍋子"
+  },
+  {
+    "word": "pound",
+    "pos": "n.",
+    "chinese": "磅"
+  },
+  {
+    "word": "power",
+    "pos": "n.",
+    "chinese": "力量；電力"
+  },
+  {
+    "word": "probably",
+    "pos": "adv.",
+    "chinese": "可能；大概"
+  },
+  {
+    "word": "practice",
+    "pos": "v./n.",
+    "chinese": "練習"
+  },
+  {
+    "word": "pray",
+    "pos": "v.",
+    "chinese": "祈禱"
+  },
+  {
     "word": "prepare",
     "pos": "v.",
-    "chinese": "準備，預備"
+    "chinese": "準備"
   },
   {
     "word": "present",
-    "pos": "n./adj.",
-    "chinese": "禮物；現在的；出席的"
+    "pos": "n./adj./v.",
+    "chinese": "禮物；現在的；呈現"
+  },
+  {
+    "word": "pretty",
+    "pos": "adj./adv.",
+    "chinese": "漂亮的；相當"
   },
   {
     "word": "price",
     "pos": "n.",
-    "chinese": "價格，價錢"
+    "chinese": "價格"
+  },
+  {
+    "word": "prize",
+    "pos": "n.",
+    "chinese": "獎品"
   },
   {
     "word": "problem",
     "pos": "n.",
-    "chinese": "問題，難題"
+    "chinese": "問題"
   },
   {
     "word": "program",
     "pos": "n.",
-    "chinese": "節目，程式，計劃"
+    "chinese": "節目；程式"
   },
   {
     "word": "proud",
     "pos": "adj.",
-    "chinese": "驕傲的，自豪的"
+    "chinese": "驕傲的"
   },
   {
-    "word": "provide",
+    "word": "public",
+    "pos": "adj./n.",
+    "chinese": "公共的；大眾"
+  },
+  {
+    "word": "pull",
     "pos": "v.",
-    "chinese": "提供"
+    "chinese": "拉"
+  },
+  {
+    "word": "pumpkin",
+    "pos": "n.",
+    "chinese": "南瓜"
+  },
+  {
+    "word": "puppy",
+    "pos": "n.",
+    "chinese": "小狗"
+  },
+  {
+    "word": "purple",
+    "pos": "adj./n.",
+    "chinese": "紫色"
   },
   {
     "word": "push",
     "pos": "v.",
-    "chinese": "推，按"
+    "chinese": "推"
   },
   {
     "word": "put",
     "pos": "v.",
-    "chinese": "放置，放"
+    "chinese": "放置"
+  },
+  {
+    "word": "quarter",
+    "pos": "n.",
+    "chinese": "四分之一"
+  },
+  {
+    "word": "queen",
+    "pos": "n.",
+    "chinese": "女王"
   },
   {
     "word": "question",
     "pos": "n.",
-    "chinese": "問題，疑問"
+    "chinese": "問題"
   },
   {
     "word": "quick",
-    "pos": "adj.",
-    "chinese": "快速的，迅速的"
+    "pos": "adj./adv.",
+    "chinese": "快的；迅速"
   },
   {
     "word": "quiet",
     "pos": "adj.",
-    "chinese": "安靜的，寧靜的"
+    "chinese": "安靜的"
+  },
+  {
+    "word": "quite",
+    "pos": "adv.",
+    "chinese": "相當；完全"
+  },
+  {
+    "word": "quiz",
+    "pos": "n.",
+    "chinese": "測驗"
+  },
+  {
+    "word": "rabbit",
+    "pos": "n.",
+    "chinese": "兔子"
+  },
+  {
+    "word": "race",
+    "pos": "n./v.",
+    "chinese": "比賽；賽跑"
+  },
+  {
+    "word": "radio",
+    "pos": "n.",
+    "chinese": "收音機"
   },
   {
     "word": "rain",
@@ -1665,14 +4130,34 @@
     "chinese": "雨；下雨"
   },
   {
+    "word": "rainbow",
+    "pos": "n.",
+    "chinese": "彩虹"
+  },
+  {
+    "word": "rainy",
+    "pos": "adj.",
+    "chinese": "多雨的"
+  },
+  {
+    "word": "raise",
+    "pos": "v.",
+    "chinese": "舉起；養育"
+  },
+  {
+    "word": "rat",
+    "pos": "n.",
+    "chinese": "老鼠"
+  },
+  {
     "word": "reach",
     "pos": "v.",
-    "chinese": "到達，伸手到"
+    "chinese": "到達；伸手"
   },
   {
     "word": "read",
     "pos": "v.",
-    "chinese": "閱讀，讀"
+    "chinese": "閱讀"
   },
   {
     "word": "ready",
@@ -1682,62 +4167,172 @@
   {
     "word": "real",
     "pos": "adj.",
-    "chinese": "真實的，真正的"
+    "chinese": "真實的"
+  },
+  {
+    "word": "really",
+    "pos": "adv.",
+    "chinese": "真的；非常"
   },
   {
     "word": "reason",
     "pos": "n.",
-    "chinese": "原因，理由"
+    "chinese": "理由；原因"
   },
   {
-    "word": "receive",
-    "pos": "v.",
-    "chinese": "收到，接受"
+    "word": "red",
+    "pos": "adj./n.",
+    "chinese": "紅色的"
+  },
+  {
+    "word": "refrigerator",
+    "pos": "n.",
+    "chinese": "冰箱"
+  },
+  {
+    "word": "relative",
+    "pos": "n.",
+    "chinese": "親戚"
   },
   {
     "word": "remember",
     "pos": "v.",
-    "chinese": "記得，記住"
+    "chinese": "記得"
+  },
+  {
+    "word": "repeat",
+    "pos": "v.",
+    "chinese": "重複"
   },
   {
     "word": "report",
     "pos": "n./v.",
-    "chinese": "報告，報導"
+    "chinese": "報告"
+  },
+  {
+    "word": "reporter",
+    "pos": "n.",
+    "chinese": "記者"
   },
   {
     "word": "rest",
     "pos": "n./v.",
-    "chinese": "休息；剩餘"
+    "chinese": "休息；其餘"
   },
   {
-    "word": "return",
-    "pos": "v.",
-    "chinese": "回來，歸還"
+    "word": "restaurant",
+    "pos": "n.",
+    "chinese": "餐廳"
+  },
+  {
+    "word": "restroom",
+    "pos": "n.",
+    "chinese": "洗手間"
+  },
+  {
+    "word": "rice",
+    "pos": "n.",
+    "chinese": "米飯"
+  },
+  {
+    "word": "rich",
+    "pos": "adj.",
+    "chinese": "富有的"
+  },
+  {
+    "word": "ride",
+    "pos": "v./n.",
+    "chinese": "騎；乘車"
   },
   {
     "word": "right",
-    "pos": "adj./adv.",
+    "pos": "adj./adv./n.",
     "chinese": "對的；右邊"
+  },
+  {
+    "word": "ring",
+    "pos": "n./v.",
+    "chinese": "戒指；鈴響"
+  },
+  {
+    "word": "rise",
+    "pos": "v.",
+    "chinese": "升起"
+  },
+  {
+    "word": "river",
+    "pos": "n.",
+    "chinese": "河流"
   },
   {
     "word": "road",
     "pos": "n.",
-    "chinese": "道路，馬路"
+    "chinese": "道路"
+  },
+  {
+    "word": "robot",
+    "pos": "n.",
+    "chinese": "機器人"
+  },
+  {
+    "word": "rock",
+    "pos": "n./v.",
+    "chinese": "岩石；搖動"
+  },
+  {
+    "word": "roll",
+    "pos": "v./n.",
+    "chinese": "滾動；卷"
   },
   {
     "word": "room",
     "pos": "n.",
-    "chinese": "房間；空間"
+    "chinese": "房間"
+  },
+  {
+    "word": "root",
+    "pos": "n.",
+    "chinese": "根"
+  },
+  {
+    "word": "rope",
+    "pos": "n.",
+    "chinese": "繩子"
+  },
+  {
+    "word": "rose",
+    "pos": "n.",
+    "chinese": "玫瑰"
+  },
+  {
+    "word": "round",
+    "pos": "adj./adv.",
+    "chinese": "圓的；周圍"
+  },
+  {
+    "word": "row",
+    "pos": "n./v.",
+    "chinese": "行；划船"
   },
   {
     "word": "rule",
+    "pos": "n./v.",
+    "chinese": "規則；統治"
+  },
+  {
+    "word": "ruler",
     "pos": "n.",
-    "chinese": "規定，規則"
+    "chinese": "尺；統治者"
   },
   {
     "word": "run",
     "pos": "v.",
-    "chinese": "跑，奔跑"
+    "chinese": "跑；運作"
+  },
+  {
+    "word": "sad",
+    "pos": "adj.",
+    "chinese": "悲傷的"
   },
   {
     "word": "safe",
@@ -1745,14 +4340,59 @@
     "chinese": "安全的"
   },
   {
+    "word": "sail",
+    "pos": "v./n.",
+    "chinese": "航行；帆"
+  },
+  {
+    "word": "salad",
+    "pos": "n.",
+    "chinese": "沙拉"
+  },
+  {
+    "word": "sale",
+    "pos": "n.",
+    "chinese": "出售；特賣"
+  },
+  {
+    "word": "salesman",
+    "pos": "n.",
+    "chinese": "銷售員"
+  },
+  {
+    "word": "salt",
+    "pos": "n.",
+    "chinese": "鹽"
+  },
+  {
+    "word": "same",
+    "pos": "adj./pron.",
+    "chinese": "相同的"
+  },
+  {
+    "word": "sandwich",
+    "pos": "n.",
+    "chinese": "三明治"
+  },
+  {
+    "word": "Saturday",
+    "pos": "n.",
+    "chinese": "星期六"
+  },
+  {
     "word": "save",
     "pos": "v.",
-    "chinese": "拯救；節省"
+    "chinese": "拯救；儲蓄"
   },
   {
     "word": "say",
     "pos": "v.",
-    "chinese": "說，說話"
+    "chinese": "說"
+  },
+  {
+    "word": "scared",
+    "pos": "adj.",
+    "chinese": "害怕的"
   },
   {
     "word": "school",
@@ -1765,6 +4405,21 @@
     "chinese": "科學"
   },
   {
+    "word": "scooter",
+    "pos": "n.",
+    "chinese": "機車；滑板車"
+  },
+  {
+    "word": "screen",
+    "pos": "n.",
+    "chinese": "螢幕"
+  },
+  {
+    "word": "sea",
+    "pos": "n.",
+    "chinese": "海"
+  },
+  {
     "word": "season",
     "pos": "n.",
     "chinese": "季節"
@@ -1775,44 +4430,214 @@
     "chinese": "座位"
   },
   {
-    "word": "secret",
+    "word": "second",
     "pos": "n./adj.",
-    "chinese": "秘密；秘密的"
+    "chinese": "秒；第二"
   },
   {
-    "word": "seem",
+    "word": "secretary",
+    "pos": "n.",
+    "chinese": "秘書"
+  },
+  {
+    "word": "see",
     "pos": "v.",
-    "chinese": "似乎，好像"
+    "chinese": "看見"
+  },
+  {
+    "word": "seed",
+    "pos": "n.",
+    "chinese": "種子"
+  },
+  {
+    "word": "seesaw",
+    "pos": "n.",
+    "chinese": "蹺蹺板"
+  },
+  {
+    "word": "seldom",
+    "pos": "adv.",
+    "chinese": "很少"
   },
   {
     "word": "sell",
     "pos": "v.",
-    "chinese": "賣，銷售"
+    "chinese": "賣"
   },
   {
     "word": "send",
     "pos": "v.",
-    "chinese": "寄，送"
+    "chinese": "送；寄"
+  },
+  {
+    "word": "senior high school",
+    "pos": "n.",
+    "chinese": "高中"
+  },
+  {
+    "word": "sentence",
+    "pos": "n.",
+    "chinese": "句子"
+  },
+  {
+    "word": "September",
+    "pos": "n.",
+    "chinese": "九月"
   },
   {
     "word": "serious",
     "pos": "adj.",
-    "chinese": "嚴肅的；嚴重的"
+    "chinese": "嚴重的；認真的"
+  },
+  {
+    "word": "service",
+    "pos": "n.",
+    "chinese": "服務"
+  },
+  {
+    "word": "set",
+    "pos": "v./n.",
+    "chinese": "設定；一套"
+  },
+  {
+    "word": "seven",
+    "pos": "num.",
+    "chinese": "七"
+  },
+  {
+    "word": "seventeen",
+    "pos": "num.",
+    "chinese": "十七"
+  },
+  {
+    "word": "seventy",
+    "pos": "num.",
+    "chinese": "七十"
+  },
+  {
+    "word": "several",
+    "pos": "adj.",
+    "chinese": "幾個"
+  },
+  {
+    "word": "shake",
+    "pos": "v./n.",
+    "chinese": "搖動"
+  },
+  {
+    "word": "shape",
+    "pos": "n./v.",
+    "chinese": "形狀；塑造"
   },
   {
     "word": "share",
     "pos": "v./n.",
-    "chinese": "分享，共用"
+    "chinese": "分享"
+  },
+  {
+    "word": "sharp",
+    "pos": "adj.",
+    "chinese": "鋒利的"
+  },
+  {
+    "word": "she",
+    "pos": "pron.",
+    "chinese": "她"
+  },
+  {
+    "word": "sheep",
+    "pos": "n.",
+    "chinese": "羊"
+  },
+  {
+    "word": "shine",
+    "pos": "v.",
+    "chinese": "照耀"
+  },
+  {
+    "word": "ship",
+    "pos": "n.",
+    "chinese": "船"
+  },
+  {
+    "word": "shirt",
+    "pos": "n.",
+    "chinese": "襯衫"
+  },
+  {
+    "word": "shoe",
+    "pos": "n.",
+    "chinese": "鞋子"
+  },
+  {
+    "word": "shop",
+    "pos": "n./v.",
+    "chinese": "商店；購物"
+  },
+  {
+    "word": "shopkeeper",
+    "pos": "n.",
+    "chinese": "店主"
   },
   {
     "word": "short",
     "pos": "adj.",
-    "chinese": "短的；矮的"
+    "chinese": "矮的；短的"
+  },
+  {
+    "word": "shorts",
+    "pos": "n.",
+    "chinese": "短褲"
+  },
+  {
+    "word": "should",
+    "pos": "modal v.",
+    "chinese": "應該"
+  },
+  {
+    "word": "shoulder",
+    "pos": "n.",
+    "chinese": "肩膀"
+  },
+  {
+    "word": "shout",
+    "pos": "v./n.",
+    "chinese": "大喊"
   },
   {
     "word": "show",
     "pos": "v./n.",
     "chinese": "展示；節目"
+  },
+  {
+    "word": "shower",
+    "pos": "n./v.",
+    "chinese": "淋浴；陣雨"
+  },
+  {
+    "word": "shy",
+    "pos": "adj.",
+    "chinese": "害羞的"
+  },
+  {
+    "word": "sick",
+    "pos": "adj.",
+    "chinese": "生病的"
+  },
+  {
+    "word": "side",
+    "pos": "n.",
+    "chinese": "側面；邊"
+  },
+  {
+    "word": "sidewalk",
+    "pos": "n.",
+    "chinese": "人行道"
+  },
+  {
+    "word": "sight",
+    "pos": "n.",
+    "chinese": "視力；景象"
   },
   {
     "word": "sign",
@@ -1826,8 +4651,23 @@
   },
   {
     "word": "since",
-    "pos": "conj./prep.",
-    "chinese": "自從，因為"
+    "pos": "prep./conj.",
+    "chinese": "自從；因為"
+  },
+  {
+    "word": "sing",
+    "pos": "v.",
+    "chinese": "唱歌"
+  },
+  {
+    "word": "singer",
+    "pos": "n.",
+    "chinese": "歌手"
+  },
+  {
+    "word": "sir",
+    "pos": "n.",
+    "chinese": "先生"
   },
   {
     "word": "sister",
@@ -1835,19 +4675,64 @@
     "chinese": "姊妹"
   },
   {
-    "word": "situation",
+    "word": "sit",
+    "pos": "v.",
+    "chinese": "坐"
+  },
+  {
+    "word": "six",
+    "pos": "num.",
+    "chinese": "六"
+  },
+  {
+    "word": "sixteen",
+    "pos": "num.",
+    "chinese": "十六"
+  },
+  {
+    "word": "sixty",
+    "pos": "num.",
+    "chinese": "六十"
+  },
+  {
+    "word": "size",
     "pos": "n.",
-    "chinese": "情況，局面"
+    "chinese": "大小；尺碼"
+  },
+  {
+    "word": "skirt",
+    "pos": "n.",
+    "chinese": "裙子"
+  },
+  {
+    "word": "sky",
+    "pos": "n.",
+    "chinese": "天空"
   },
   {
     "word": "sleep",
     "pos": "v./n.",
-    "chinese": "睡覺，睡眠"
+    "chinese": "睡覺"
   },
   {
-    "word": "slowly",
-    "pos": "adv.",
-    "chinese": "慢慢地，緩慢地"
+    "word": "slide",
+    "pos": "v./n.",
+    "chinese": "滑；溜滑梯"
+  },
+  {
+    "word": "slim",
+    "pos": "adj.",
+    "chinese": "苗條的"
+  },
+  {
+    "word": "slow",
+    "pos": "adj./adv.",
+    "chinese": "慢的"
+  },
+  {
+    "word": "small",
+    "pos": "adj.",
+    "chinese": "小的"
   },
   {
     "word": "smart",
@@ -1855,9 +4740,29 @@
     "chinese": "聰明的"
   },
   {
+    "word": "smell",
+    "pos": "v./n.",
+    "chinese": "聞；氣味"
+  },
+  {
     "word": "smile",
     "pos": "v./n.",
     "chinese": "微笑"
+  },
+  {
+    "word": "smoke",
+    "pos": "v./n.",
+    "chinese": "抽菸；煙"
+  },
+  {
+    "word": "snack",
+    "pos": "n.",
+    "chinese": "點心"
+  },
+  {
+    "word": "snake",
+    "pos": "n.",
+    "chinese": "蛇"
   },
   {
     "word": "snow",
@@ -1865,14 +4770,39 @@
     "chinese": "雪；下雪"
   },
   {
+    "word": "snowy",
+    "pos": "adj.",
+    "chinese": "下雪的"
+  },
+  {
     "word": "so",
     "pos": "adv./conj.",
-    "chinese": "所以；如此，很"
+    "chinese": "如此；所以"
+  },
+  {
+    "word": "soccer",
+    "pos": "n.",
+    "chinese": "足球"
+  },
+  {
+    "word": "socks",
+    "pos": "n.",
+    "chinese": "短襪"
+  },
+  {
+    "word": "sofa",
+    "pos": "n.",
+    "chinese": "沙發"
+  },
+  {
+    "word": "soldier",
+    "pos": "n.",
+    "chinese": "士兵"
   },
   {
     "word": "some",
     "pos": "adj./pron.",
-    "chinese": "一些；某些"
+    "chinese": "一些"
   },
   {
     "word": "someone",
@@ -1882,67 +4812,182 @@
   {
     "word": "something",
     "pos": "pron.",
-    "chinese": "某事，某物"
+    "chinese": "某事"
   },
   {
     "word": "sometimes",
     "pos": "adv.",
-    "chinese": "有時候"
+    "chinese": "有時"
+  },
+  {
+    "word": "somewhere",
+    "pos": "adv.",
+    "chinese": "某處"
+  },
+  {
+    "word": "son",
+    "pos": "n.",
+    "chinese": "兒子"
+  },
+  {
+    "word": "song",
+    "pos": "n.",
+    "chinese": "歌曲"
   },
   {
     "word": "soon",
     "pos": "adv.",
-    "chinese": "很快，不久"
+    "chinese": "很快；不久"
+  },
+  {
+    "word": "sore",
+    "pos": "adj.",
+    "chinese": "疼痛的"
   },
   {
     "word": "sorry",
     "pos": "adj.",
-    "chinese": "對不起，遺憾"
+    "chinese": "抱歉的"
+  },
+  {
+    "word": "sound",
+    "pos": "n./v.",
+    "chinese": "聲音；聽起來"
+  },
+  {
+    "word": "soup",
+    "pos": "n.",
+    "chinese": "湯"
+  },
+  {
+    "word": "south",
+    "pos": "n./adj.",
+    "chinese": "南方"
+  },
+  {
+    "word": "space",
+    "pos": "n.",
+    "chinese": "空間；太空"
   },
   {
     "word": "speak",
     "pos": "v.",
-    "chinese": "說話，講"
+    "chinese": "說話"
   },
   {
     "word": "special",
     "pos": "adj.",
-    "chinese": "特別的，特殊的"
+    "chinese": "特別的"
+  },
+  {
+    "word": "spell",
+    "pos": "v./n.",
+    "chinese": "拼寫"
   },
   {
     "word": "spend",
     "pos": "v.",
-    "chinese": "花費（錢/時間）"
+    "chinese": "花費；度過"
   },
   {
-    "word": "sport",
+    "word": "spider",
+    "pos": "n.",
+    "chinese": "蜘蛛"
+  },
+  {
+    "word": "spoon",
+    "pos": "n.",
+    "chinese": "湯匙"
+  },
+  {
+    "word": "sports",
     "pos": "n.",
     "chinese": "運動"
   },
   {
-    "word": "start",
+    "word": "spring",
+    "pos": "n.",
+    "chinese": "春天；彈簧"
+  },
+  {
+    "word": "square",
+    "pos": "n./adj.",
+    "chinese": "廣場；正方形"
+  },
+  {
+    "word": "stairs",
+    "pos": "n.",
+    "chinese": "樓梯"
+  },
+  {
+    "word": "stamp",
+    "pos": "n./v.",
+    "chinese": "郵票；蓋章"
+  },
+  {
+    "word": "stand",
     "pos": "v.",
-    "chinese": "開始，出發"
+    "chinese": "站立；忍受"
+  },
+  {
+    "word": "star",
+    "pos": "n.",
+    "chinese": "星星；明星"
+  },
+  {
+    "word": "start",
+    "pos": "v./n.",
+    "chinese": "開始"
+  },
+  {
+    "word": "station",
+    "pos": "n.",
+    "chinese": "車站"
   },
   {
     "word": "stay",
     "pos": "v.",
-    "chinese": "待，停留"
+    "chinese": "停留；待"
   },
   {
-    "word": "step",
-    "pos": "n./v.",
-    "chinese": "步驟；踏步"
+    "word": "steak",
+    "pos": "n.",
+    "chinese": "牛排"
+  },
+  {
+    "word": "still",
+    "pos": "adv./adj.",
+    "chinese": "仍然；靜止的"
+  },
+  {
+    "word": "stomach",
+    "pos": "n.",
+    "chinese": "胃；肚子"
   },
   {
     "word": "stop",
-    "pos": "v.",
-    "chinese": "停止，阻止"
+    "pos": "v./n.",
+    "chinese": "停止"
+  },
+  {
+    "word": "store",
+    "pos": "n./v.",
+    "chinese": "商店；儲存"
   },
   {
     "word": "story",
     "pos": "n.",
-    "chinese": "故事"
+    "chinese": "故事；樓層"
+  },
+  {
+    "word": "straight",
+    "pos": "adj./adv.",
+    "chinese": "直的"
+  },
+  {
+    "word": "strange",
+    "pos": "adj.",
+    "chinese": "奇怪的"
   },
   {
     "word": "stranger",
@@ -1950,14 +4995,24 @@
     "chinese": "陌生人"
   },
   {
+    "word": "strawberry",
+    "pos": "n.",
+    "chinese": "草莓"
+  },
+  {
     "word": "street",
     "pos": "n.",
-    "chinese": "街道，馬路"
+    "chinese": "街道"
+  },
+  {
+    "word": "string",
+    "pos": "n.",
+    "chinese": "繩子；弦"
   },
   {
     "word": "strong",
     "pos": "adj.",
-    "chinese": "強壯的；強烈的"
+    "chinese": "強壯的"
   },
   {
     "word": "student",
@@ -1967,7 +5022,12 @@
   {
     "word": "study",
     "pos": "v./n.",
-    "chinese": "學習，研究"
+    "chinese": "學習；書房"
+  },
+  {
+    "word": "stupid",
+    "pos": "adj.",
+    "chinese": "愚蠢的"
   },
   {
     "word": "subject",
@@ -1975,19 +5035,49 @@
     "chinese": "科目；主題"
   },
   {
-    "word": "success",
-    "pos": "n.",
-    "chinese": "成功"
-  },
-  {
     "word": "successful",
     "pos": "adj.",
     "chinese": "成功的"
   },
   {
-    "word": "suddenly",
-    "pos": "adv.",
-    "chinese": "突然地"
+    "word": "sugar",
+    "pos": "n.",
+    "chinese": "糖"
+  },
+  {
+    "word": "summer",
+    "pos": "n.",
+    "chinese": "夏天"
+  },
+  {
+    "word": "sun",
+    "pos": "n.",
+    "chinese": "太陽"
+  },
+  {
+    "word": "Sunday",
+    "pos": "n.",
+    "chinese": "星期日"
+  },
+  {
+    "word": "sunny",
+    "pos": "adj.",
+    "chinese": "晴天的"
+  },
+  {
+    "word": "supermarket",
+    "pos": "n.",
+    "chinese": "超市"
+  },
+  {
+    "word": "sure",
+    "pos": "adj./adv.",
+    "chinese": "確定的；當然"
+  },
+  {
+    "word": "surf",
+    "pos": "v.",
+    "chinese": "衝浪；上網"
   },
   {
     "word": "surprise",
@@ -1995,24 +5085,84 @@
     "chinese": "驚喜；使驚訝"
   },
   {
+    "word": "surprised",
+    "pos": "adj.",
+    "chinese": "感到驚訝的"
+  },
+  {
+    "word": "sweater",
+    "pos": "n.",
+    "chinese": "毛衣"
+  },
+  {
+    "word": "sweet",
+    "pos": "adj.",
+    "chinese": "甜的"
+  },
+  {
+    "word": "swim",
+    "pos": "v.",
+    "chinese": "游泳"
+  },
+  {
+    "word": "swing",
+    "pos": "v./n.",
+    "chinese": "盪鞦韆；鞦韆"
+  },
+  {
+    "word": "table",
+    "pos": "n.",
+    "chinese": "桌子；表格"
+  },
+  {
+    "word": "tail",
+    "pos": "n.",
+    "chinese": "尾巴"
+  },
+  {
+    "word": "Taiwan",
+    "pos": "n.",
+    "chinese": "台灣"
+  },
+  {
     "word": "take",
     "pos": "v.",
-    "chinese": "拿，帶，搭乘"
+    "chinese": "拿；帶；花費"
   },
   {
     "word": "talk",
     "pos": "v./n.",
-    "chinese": "說話，談話"
+    "chinese": "談話"
   },
   {
     "word": "tall",
     "pos": "adj.",
-    "chinese": "高的（人）"
+    "chinese": "高的"
+  },
+  {
+    "word": "tape",
+    "pos": "n.",
+    "chinese": "膠帶；錄音帶"
+  },
+  {
+    "word": "taste",
+    "pos": "v./n.",
+    "chinese": "嚐；味道"
+  },
+  {
+    "word": "taxi",
+    "pos": "n.",
+    "chinese": "計程車"
+  },
+  {
+    "word": "tea",
+    "pos": "n.",
+    "chinese": "茶"
   },
   {
     "word": "teach",
     "pos": "v.",
-    "chinese": "教，教導"
+    "chinese": "教"
   },
   {
     "word": "teacher",
@@ -2022,32 +5172,212 @@
   {
     "word": "team",
     "pos": "n.",
-    "chinese": "隊，團隊"
+    "chinese": "隊伍"
+  },
+  {
+    "word": "teenager",
+    "pos": "n.",
+    "chinese": "青少年"
+  },
+  {
+    "word": "telephone",
+    "pos": "n.",
+    "chinese": "電話"
+  },
+  {
+    "word": "television",
+    "pos": "n.",
+    "chinese": "電視"
   },
   {
     "word": "tell",
     "pos": "v.",
-    "chinese": "告訴，講"
+    "chinese": "告訴"
   },
   {
-    "word": "thankful",
+    "word": "temple",
+    "pos": "n.",
+    "chinese": "廟宇"
+  },
+  {
+    "word": "ten",
+    "pos": "num.",
+    "chinese": "十"
+  },
+  {
+    "word": "tennis",
+    "pos": "n.",
+    "chinese": "網球"
+  },
+  {
+    "word": "terrible",
     "pos": "adj.",
-    "chinese": "感謝的，感激的"
+    "chinese": "糟糕的；可怕的"
+  },
+  {
+    "word": "test",
+    "pos": "n./v.",
+    "chinese": "測驗"
+  },
+  {
+    "word": "than",
+    "pos": "conj./prep.",
+    "chinese": "比"
+  },
+  {
+    "word": "thank",
+    "pos": "v.",
+    "chinese": "感謝"
+  },
+  {
+    "word": "that",
+    "pos": "pron./adj./conj.",
+    "chinese": "那；那個"
+  },
+  {
+    "word": "the",
+    "pos": "art.",
+    "chinese": "定冠詞"
+  },
+  {
+    "word": "theater",
+    "pos": "n.",
+    "chinese": "劇院；電影院"
+  },
+  {
+    "word": "then",
+    "pos": "adv./conj.",
+    "chinese": "那時；然後"
+  },
+  {
+    "word": "there",
+    "pos": "adv.",
+    "chinese": "那裡"
+  },
+  {
+    "word": "these",
+    "pos": "pron./adj.",
+    "chinese": "這些"
+  },
+  {
+    "word": "they",
+    "pos": "pron.",
+    "chinese": "他們"
+  },
+  {
+    "word": "thick",
+    "pos": "adj.",
+    "chinese": "厚的"
+  },
+  {
+    "word": "thin",
+    "pos": "adj.",
+    "chinese": "薄的；瘦的"
+  },
+  {
+    "word": "thing",
+    "pos": "n.",
+    "chinese": "事情；東西"
   },
   {
     "word": "think",
     "pos": "v.",
-    "chinese": "想，思考"
+    "chinese": "思考；認為"
+  },
+  {
+    "word": "third",
+    "pos": "adj./n.",
+    "chinese": "第三"
+  },
+  {
+    "word": "thirsty",
+    "pos": "adj.",
+    "chinese": "口渴的"
+  },
+  {
+    "word": "thirteen",
+    "pos": "num.",
+    "chinese": "十三"
+  },
+  {
+    "word": "thirty",
+    "pos": "num.",
+    "chinese": "三十"
+  },
+  {
+    "word": "this",
+    "pos": "pron./adj.",
+    "chinese": "這；這個"
+  },
+  {
+    "word": "those",
+    "pos": "pron./adj.",
+    "chinese": "那些"
+  },
+  {
+    "word": "though",
+    "pos": "conj./adv.",
+    "chinese": "雖然；不過"
+  },
+  {
+    "word": "thousand",
+    "pos": "num.",
+    "chinese": "千"
+  },
+  {
+    "word": "three",
+    "pos": "num.",
+    "chinese": "三"
+  },
+  {
+    "word": "throat",
+    "pos": "n.",
+    "chinese": "喉嚨"
+  },
+  {
+    "word": "through",
+    "pos": "prep./adv.",
+    "chinese": "通過；穿越"
   },
   {
     "word": "throw",
     "pos": "v.",
-    "chinese": "丟，投擲"
+    "chinese": "丟擲"
+  },
+  {
+    "word": "Thursday",
+    "pos": "n.",
+    "chinese": "星期四"
   },
   {
     "word": "ticket",
     "pos": "n.",
-    "chinese": "票，票券"
+    "chinese": "票"
+  },
+  {
+    "word": "tidy",
+    "pos": "adj./v.",
+    "chinese": "整齊的；整理"
+  },
+  {
+    "word": "tie",
+    "pos": "n./v.",
+    "chinese": "領帶；綁；平局"
+  },
+  {
+    "word": "tiger",
+    "pos": "n.",
+    "chinese": "老虎"
+  },
+  {
+    "word": "time",
+    "pos": "n.",
+    "chinese": "時間；次數"
+  },
+  {
+    "word": "tip",
+    "pos": "n./v.",
+    "chinese": "小費；提示"
   },
   {
     "word": "tired",
@@ -2055,44 +5385,189 @@
     "chinese": "疲倦的"
   },
   {
+    "word": "to",
+    "pos": "prep.",
+    "chinese": "到；給"
+  },
+  {
+    "word": "toast",
+    "pos": "n./v.",
+    "chinese": "吐司；乾杯"
+  },
+  {
     "word": "today",
-    "pos": "adv./n.",
+    "pos": "n./adv.",
     "chinese": "今天"
+  },
+  {
+    "word": "toe",
+    "pos": "n.",
+    "chinese": "腳趾"
   },
   {
     "word": "together",
     "pos": "adv.",
-    "chinese": "一起，共同"
+    "chinese": "一起"
+  },
+  {
+    "word": "tomato",
+    "pos": "n.",
+    "chinese": "番茄"
   },
   {
     "word": "tomorrow",
-    "pos": "adv./n.",
+    "pos": "n./adv.",
     "chinese": "明天"
   },
   {
+    "word": "tonight",
+    "pos": "n./adv.",
+    "chinese": "今晚"
+  },
+  {
+    "word": "too",
+    "pos": "adv.",
+    "chinese": "也；太"
+  },
+  {
+    "word": "tool",
+    "pos": "n.",
+    "chinese": "工具"
+  },
+  {
+    "word": "tooth",
+    "pos": "n.",
+    "chinese": "牙齒"
+  },
+  {
+    "word": "top",
+    "pos": "n./adj.",
+    "chinese": "頂部；最高的"
+  },
+  {
+    "word": "topic",
+    "pos": "n.",
+    "chinese": "主題"
+  },
+  {
     "word": "total",
-    "pos": "adj./n.",
-    "chinese": "全部的；總計"
+    "pos": "n./adj.",
+    "chinese": "總計"
   },
   {
     "word": "touch",
-    "pos": "v.",
-    "chinese": "觸摸，碰"
+    "pos": "v./n.",
+    "chinese": "觸碰"
   },
   {
-    "word": "travel",
+    "word": "towel",
+    "pos": "n.",
+    "chinese": "毛巾"
+  },
+  {
+    "word": "town",
+    "pos": "n.",
+    "chinese": "城鎮"
+  },
+  {
+    "word": "toy",
+    "pos": "n.",
+    "chinese": "玩具"
+  },
+  {
+    "word": "traffic",
+    "pos": "n.",
+    "chinese": "交通"
+  },
+  {
+    "word": "train",
+    "pos": "n./v.",
+    "chinese": "火車；訓練"
+  },
+  {
+    "word": "trash",
+    "pos": "n.",
+    "chinese": "垃圾"
+  },
+  {
+    "word": "treat",
     "pos": "v./n.",
-    "chinese": "旅行，旅遊"
+    "chinese": "對待；招待"
+  },
+  {
+    "word": "tree",
+    "pos": "n.",
+    "chinese": "樹"
+  },
+  {
+    "word": "trick",
+    "pos": "n./v.",
+    "chinese": "把戲；欺騙"
+  },
+  {
+    "word": "trip",
+    "pos": "n.",
+    "chinese": "旅行"
+  },
+  {
+    "word": "trouble",
+    "pos": "n./v.",
+    "chinese": "麻煩"
+  },
+  {
+    "word": "truck",
+    "pos": "n.",
+    "chinese": "卡車"
+  },
+  {
+    "word": "true",
+    "pos": "adj.",
+    "chinese": "真實的"
   },
   {
     "word": "try",
     "pos": "v.",
-    "chinese": "嘗試，試試"
+    "chinese": "嘗試"
+  },
+  {
+    "word": "T-shirt",
+    "pos": "n.",
+    "chinese": "T恤"
+  },
+  {
+    "word": "Tuesday",
+    "pos": "n.",
+    "chinese": "星期二"
   },
   {
     "word": "turn",
     "pos": "v./n.",
-    "chinese": "轉，轉動；輪到"
+    "chinese": "轉；輪流"
+  },
+  {
+    "word": "turtle",
+    "pos": "n.",
+    "chinese": "烏龜"
+  },
+  {
+    "word": "twelve",
+    "pos": "num.",
+    "chinese": "十二"
+  },
+  {
+    "word": "twenty",
+    "pos": "num.",
+    "chinese": "二十"
+  },
+  {
+    "word": "twice",
+    "pos": "adv.",
+    "chinese": "兩次"
+  },
+  {
+    "word": "two",
+    "pos": "num.",
+    "chinese": "二"
   },
   {
     "word": "type",
@@ -2100,14 +5575,69 @@
     "chinese": "類型；打字"
   },
   {
+    "word": "typhoon",
+    "pos": "n.",
+    "chinese": "颱風"
+  },
+  {
+    "word": "ugly",
+    "pos": "adj.",
+    "chinese": "醜的"
+  },
+  {
     "word": "umbrella",
     "pos": "n.",
     "chinese": "雨傘"
   },
   {
+    "word": "uncle",
+    "pos": "n.",
+    "chinese": "叔叔；伯伯"
+  },
+  {
+    "word": "under",
+    "pos": "prep.",
+    "chinese": "在…下面"
+  },
+  {
     "word": "understand",
     "pos": "v.",
-    "chinese": "了解，明白"
+    "chinese": "了解"
+  },
+  {
+    "word": "unhappy",
+    "pos": "adj.",
+    "chinese": "不快樂的"
+  },
+  {
+    "word": "uniform",
+    "pos": "n.",
+    "chinese": "制服"
+  },
+  {
+    "word": "until",
+    "pos": "prep./conj.",
+    "chinese": "直到"
+  },
+  {
+    "word": "up",
+    "pos": "adv./prep.",
+    "chinese": "向上"
+  },
+  {
+    "word": "upload",
+    "pos": "v.",
+    "chinese": "上傳"
+  },
+  {
+    "word": "USA",
+    "pos": "n.",
+    "chinese": "美國"
+  },
+  {
+    "word": "use",
+    "pos": "v./n.",
+    "chinese": "使用"
   },
   {
     "word": "useful",
@@ -2117,37 +5647,82 @@
   {
     "word": "usually",
     "pos": "adv.",
-    "chinese": "通常，一般"
+    "chinese": "通常"
   },
   {
     "word": "vacation",
     "pos": "n.",
-    "chinese": "假期，度假"
+    "chinese": "假期"
   },
   {
-    "word": "voice",
+    "word": "vegetable",
     "pos": "n.",
-    "chinese": "聲音，嗓音"
+    "chinese": "蔬菜"
+  },
+  {
+    "word": "very",
+    "pos": "adv.",
+    "chinese": "非常"
+  },
+  {
+    "word": "video",
+    "pos": "n.",
+    "chinese": "影片"
+  },
+  {
+    "word": "violin",
+    "pos": "n.",
+    "chinese": "小提琴"
   },
   {
     "word": "visit",
     "pos": "v./n.",
-    "chinese": "拜訪，參觀"
+    "chinese": "拜訪"
+  },
+  {
+    "word": "visitor",
+    "pos": "n.",
+    "chinese": "訪客"
+  },
+  {
+    "word": "voice",
+    "pos": "n.",
+    "chinese": "聲音"
   },
   {
     "word": "wait",
     "pos": "v.",
-    "chinese": "等，等待"
+    "chinese": "等待"
+  },
+  {
+    "word": "waiter",
+    "pos": "n.",
+    "chinese": "男服務生"
+  },
+  {
+    "word": "waitress",
+    "pos": "n.",
+    "chinese": "女服務生"
   },
   {
     "word": "wake",
     "pos": "v.",
-    "chinese": "醒來，叫醒"
+    "chinese": "醒來；叫醒"
   },
   {
     "word": "walk",
     "pos": "v./n.",
-    "chinese": "走路，步行"
+    "chinese": "走路"
+  },
+  {
+    "word": "wall",
+    "pos": "n.",
+    "chinese": "牆"
+  },
+  {
+    "word": "wallet",
+    "pos": "n.",
+    "chinese": "皮夾"
   },
   {
     "word": "want",
@@ -2155,14 +5730,14 @@
     "chinese": "想要"
   },
   {
-    "word": "wash",
-    "pos": "v.",
-    "chinese": "洗，清洗"
+    "word": "warm",
+    "pos": "adj.",
+    "chinese": "溫暖的"
   },
   {
-    "word": "waste",
-    "pos": "v./n.",
-    "chinese": "浪費"
+    "word": "wash",
+    "pos": "v.",
+    "chinese": "洗"
   },
   {
     "word": "watch",
@@ -2170,14 +5745,149 @@
     "chinese": "觀看；手錶"
   },
   {
+    "word": "water",
+    "pos": "n.",
+    "chinese": "水"
+  },
+  {
+    "word": "watermelon",
+    "pos": "n.",
+    "chinese": "西瓜"
+  },
+  {
+    "word": "wave",
+    "pos": "v./n.",
+    "chinese": "揮手；波浪"
+  },
+  {
+    "word": "way",
+    "pos": "n.",
+    "chinese": "方法；路途"
+  },
+  {
+    "word": "we",
+    "pos": "pron.",
+    "chinese": "我們"
+  },
+  {
+    "word": "weak",
+    "pos": "adj.",
+    "chinese": "虛弱的"
+  },
+  {
+    "word": "wear",
+    "pos": "v.",
+    "chinese": "穿戴"
+  },
+  {
     "word": "weather",
     "pos": "n.",
     "chinese": "天氣"
   },
   {
+    "word": "Wednesday",
+    "pos": "n.",
+    "chinese": "星期三"
+  },
+  {
+    "word": "week",
+    "pos": "n.",
+    "chinese": "週"
+  },
+  {
+    "word": "weekend",
+    "pos": "n.",
+    "chinese": "週末"
+  },
+  {
+    "word": "welcome",
+    "pos": "v./adj./interj.",
+    "chinese": "歡迎"
+  },
+  {
+    "word": "well",
+    "pos": "adv./adj./interj.",
+    "chinese": "好；井"
+  },
+  {
+    "word": "west",
+    "pos": "n./adj.",
+    "chinese": "西方"
+  },
+  {
+    "word": "wet",
+    "pos": "adj.",
+    "chinese": "濕的"
+  },
+  {
+    "word": "what",
+    "pos": "pron./adj.",
+    "chinese": "什麼"
+  },
+  {
+    "word": "when",
+    "pos": "adv./conj.",
+    "chinese": "什麼時候；當"
+  },
+  {
+    "word": "where",
+    "pos": "adv./conj.",
+    "chinese": "哪裡"
+  },
+  {
+    "word": "whether",
+    "pos": "conj.",
+    "chinese": "是否"
+  },
+  {
+    "word": "which",
+    "pos": "pron./adj.",
+    "chinese": "哪一個"
+  },
+  {
+    "word": "while",
+    "pos": "conj./n.",
+    "chinese": "當…時候；一會兒"
+  },
+  {
+    "word": "white",
+    "pos": "adj./n.",
+    "chinese": "白色的"
+  },
+  {
+    "word": "who",
+    "pos": "pron.",
+    "chinese": "誰"
+  },
+  {
+    "word": "whose",
+    "pos": "pron.",
+    "chinese": "誰的"
+  },
+  {
+    "word": "why",
+    "pos": "adv.",
+    "chinese": "為什麼"
+  },
+  {
+    "word": "wide",
+    "pos": "adj.",
+    "chinese": "寬的"
+  },
+  {
+    "word": "wife",
+    "pos": "n.",
+    "chinese": "妻子"
+  },
+  {
+    "word": "will",
+    "pos": "modal v.",
+    "chinese": "將要；願意"
+  },
+  {
     "word": "win",
     "pos": "v.",
-    "chinese": "贏，勝利"
+    "chinese": "贏"
   },
   {
     "word": "wind",
@@ -2185,24 +5895,69 @@
     "chinese": "風"
   },
   {
+    "word": "window",
+    "pos": "n.",
+    "chinese": "窗戶"
+  },
+  {
+    "word": "windy",
+    "pos": "adj.",
+    "chinese": "有風的"
+  },
+  {
+    "word": "winter",
+    "pos": "n.",
+    "chinese": "冬天"
+  },
+  {
+    "word": "wise",
+    "pos": "adj.",
+    "chinese": "聰明的；有智慧的"
+  },
+  {
     "word": "wish",
     "pos": "v./n.",
-    "chinese": "希望，祝願"
+    "chinese": "希望；願望"
+  },
+  {
+    "word": "with",
+    "pos": "prep.",
+    "chinese": "和；用"
+  },
+  {
+    "word": "without",
+    "pos": "prep.",
+    "chinese": "沒有"
+  },
+  {
+    "word": "woman",
+    "pos": "n.",
+    "chinese": "女人"
   },
   {
     "word": "wonderful",
     "pos": "adj.",
-    "chinese": "美好的，精彩的"
+    "chinese": "很棒的"
   },
   {
     "word": "word",
     "pos": "n.",
-    "chinese": "字，單字，話語"
+    "chinese": "字；話"
   },
   {
     "word": "work",
     "pos": "v./n.",
-    "chinese": "工作，運作"
+    "chinese": "工作；運作"
+  },
+  {
+    "word": "workbook",
+    "pos": "n.",
+    "chinese": "作業本"
+  },
+  {
+    "word": "worker",
+    "pos": "n.",
+    "chinese": "工人"
   },
   {
     "word": "world",
@@ -2211,32 +5966,82 @@
   },
   {
     "word": "worry",
-    "pos": "v.",
-    "chinese": "擔心，煩惱"
+    "pos": "v./n.",
+    "chinese": "擔心"
   },
   {
     "word": "write",
     "pos": "v.",
-    "chinese": "寫，書寫"
+    "chinese": "寫"
+  },
+  {
+    "word": "writer",
+    "pos": "n.",
+    "chinese": "作家"
   },
   {
     "word": "wrong",
-    "pos": "adj.",
-    "chinese": "錯誤的，不對的"
+    "pos": "adj./adv.",
+    "chinese": "錯的"
   },
   {
     "word": "yard",
     "pos": "n.",
-    "chinese": "院子；碼（單位）"
+    "chinese": "院子；碼"
   },
   {
     "word": "year",
     "pos": "n.",
-    "chinese": "年，年份"
+    "chinese": "年"
+  },
+  {
+    "word": "yellow",
+    "pos": "adj./n.",
+    "chinese": "黃色的"
+  },
+  {
+    "word": "yes",
+    "pos": "adv./interj.",
+    "chinese": "是的"
+  },
+  {
+    "word": "yesterday",
+    "pos": "n./adv.",
+    "chinese": "昨天"
+  },
+  {
+    "word": "yet",
+    "pos": "adv./conj.",
+    "chinese": "還沒；但是"
+  },
+  {
+    "word": "you",
+    "pos": "pron.",
+    "chinese": "你；你們"
   },
   {
     "word": "young",
     "pos": "adj.",
     "chinese": "年輕的"
+  },
+  {
+    "word": "yummy",
+    "pos": "adj.",
+    "chinese": "好吃的"
+  },
+  {
+    "word": "zebra",
+    "pos": "n.",
+    "chinese": "斑馬"
+  },
+  {
+    "word": "zero",
+    "pos": "num./n.",
+    "chinese": "零"
+  },
+  {
+    "word": "zoo",
+    "pos": "n.",
+    "chinese": "動物園"
   }
 ]

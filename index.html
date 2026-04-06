@@ -4,169 +4,84 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>會考英語練習</title>
-  <meta name="description" content="國中教育會考英語閱讀練習 - 107至114年歷屆試題及1200單字練習">
   <link rel="stylesheet" href="css/style.css">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📚</text></svg>">
 </head>
 <body>
+<header class="site-header">
+  <div class="header-inner">
+    <a href="index.html" class="site-title">📚 會考英語練習</a>
+    <nav class="nav-links">
+      <a href="index.html" class="nav-link active">首頁</a>
+      <a href="exam.html" class="nav-link">試題</a>
+      <a href="vocab.html" class="nav-link">單字</a>
+    </nav>
+  </div>
+</header>
 
-  <header class="site-header">
-    <div class="header-inner">
-      <a href="index.html" class="site-title">📚 會考英語練習</a>
-      <nav class="nav-links">
-        <a href="index.html" class="nav-link active">首頁</a>
-        <a href="exam.html" class="nav-link">試題</a>
-        <a href="vocab.html" class="nav-link">單字</a>
-      </nav>
-    </div>
-  </header>
+<main class="home-main">
+  <section class="hero">
+    <h1>會考英語練習</h1>
+    <p class="subtitle">國中教育會考英語閱讀 · 107-114年歷屆試題 · 1200核心單字</p>
+  </section>
 
-  <main>
-    <section class="hero">
-      <h1 class="hero-title">會考英語練習</h1>
-      <p class="hero-subtitle">國中教育會考英語閱讀 · 107-114年歷屆試題 · 1200核心單字</p>
+  <section class="stats-bar" id="statsBar">
+    <div class="stat-item"><span class="stat-num" id="statExams">0</span><span class="stat-label">次練習</span></div>
+    <div class="stat-item"><span class="stat-num" id="statAvg">-</span><span class="stat-label">平均正確率</span></div>
+    <div class="stat-item"><span class="stat-num" id="statWrong">0</span><span class="stat-label">錯題待複習</span></div>
+    <div class="stat-item"><span class="stat-num" id="statWords">0</span><span class="stat-label">單字已學會</span></div>
+  </section>
 
-      <div class="big-buttons">
-        <div class="big-btn" id="examBtn" onclick="toggleYearGrid()">
-          <span class="big-btn-icon">📝</span>
-          <span class="big-btn-label">歷屆試題</span>
-          <span class="big-btn-sub">107-114 年</span>
-        </div>
-        <a href="vocab.html" class="big-btn">
-          <span class="big-btn-icon">📖</span>
-          <span class="big-btn-label">1200 單字</span>
-          <span class="big-btn-sub">單字卡 · 測驗</span>
-        </a>
+  <section class="main-cards">
+    <a href="exam.html" class="main-card card-exam">
+      <div class="card-icon">📝</div>
+      <h2>歷屆試題</h2>
+      <p>107-114年 · 逐題作答 · 即時解析 · 錯題收集</p>
+      <div class="card-modes">
+        <span class="mode-tag">年份練習</span>
+        <span class="mode-tag">模擬考</span>
+        <span class="mode-tag">錯題練習</span>
+        <span class="mode-tag">自訂練習</span>
       </div>
-
-      <div class="year-grid container" id="yearGrid">
-        <p class="year-grid-title">選擇年份開始練習</p>
-        <div class="year-buttons">
-          <a href="exam.html?year=114" class="year-btn">
-            114年<span class="year-btn-sub">43 題</span>
-          </a>
-          <a href="exam.html?year=113" class="year-btn">
-            113年<span class="year-btn-sub">43 題</span>
-          </a>
-          <a href="exam.html?year=112" class="year-btn">
-            112年<span class="year-btn-sub">43 題</span>
-          </a>
-          <a href="exam.html?year=111" class="year-btn">
-            111年<span class="year-btn-sub">43 題</span>
-          </a>
-          <a href="exam.html?year=110" class="year-btn">
-            110年<span class="year-btn-sub">41 題</span>
-          </a>
-          <a href="exam.html?year=109" class="year-btn">
-            109年<span class="year-btn-sub">41 題</span>
-          </a>
-          <a href="exam.html?year=108" class="year-btn">
-            108年<span class="year-btn-sub">41 題</span>
-          </a>
-          <a href="exam.html?year=107" class="year-btn">
-            107年<span class="year-btn-sub">41 題</span>
-          </a>
-        </div>
+    </a>
+    <a href="vocab.html" class="main-card card-vocab">
+      <div class="card-icon">🔤</div>
+      <h2>1200單字</h2>
+      <p>翻牌記憶 · 四選一測驗 · 智慧間隔複習</p>
+      <div class="card-modes">
+        <span class="mode-tag">單字卡</span>
+        <span class="mode-tag">測驗</span>
+        <span class="mode-tag">智慧複習</span>
+        <span class="mode-tag">學習統計</span>
       </div>
+    </a>
+  </section>
 
-      <!-- Progress summary -->
-      <div class="container">
-        <div class="stats-row" id="statsRow"></div>
-      </div>
-    </section>
+  <section class="recent-section" id="recentSection" style="display:none">
+    <h3>最近練習</h3>
+    <div id="recentList"></div>
+  </section>
+</main>
 
-    <!-- Recent history -->
-    <div class="container" id="historySection" style="display:none;">
-      <div class="card">
-        <p class="section-title">練習紀錄</p>
-        <table class="history-table" id="historyTable">
-          <thead>
-            <tr>
-              <th>年份</th>
-              <th>完成題數</th>
-              <th>正確率</th>
-              <th>操作</th>
-            </tr>
-          </thead>
-          <tbody id="historyBody"></tbody>
-        </table>
-      </div>
-    </div>
-  </main>
+<script src="js/storage.js"></script>
+<script>
+  const stats = Storage.getStats();
+  document.getElementById('statExams').textContent = stats.totalAttempted;
+  document.getElementById('statAvg').textContent = stats.totalAttempted ? stats.avgScore + '%' : '-';
+  document.getElementById('statWrong').textContent = stats.wrongCount;
+  document.getElementById('statWords').textContent = stats.learnedWords;
 
-  <script>
-    function toggleYearGrid() {
-      const grid = document.getElementById('yearGrid');
-      const btn = document.getElementById('examBtn');
-      const isVisible = grid.classList.contains('visible');
-      grid.classList.toggle('visible', !isVisible);
-      btn.classList.toggle('active', !isVisible);
-    }
-
-    // Load and display progress stats
-    function loadStats() {
-      const years = [107,108,109,110,111,112,113,114];
-      const QUESTION_COUNTS = {107:41,108:41,109:41,110:41,111:43,112:43,113:43,114:43};
-      const statsRow = document.getElementById('statsRow');
-      const historySection = document.getElementById('historySection');
-      const historyBody = document.getElementById('historyBody');
-
-      let totalAnswered = 0;
-      let totalCorrect = 0;
-      let hasHistory = false;
-      historyBody.innerHTML = '';
-
-      years.forEach(year => {
-        const progress = JSON.parse(localStorage.getItem(`exam_progress_${year}`) || 'null');
-        if (progress) {
-          hasHistory = true;
-          const answered = Object.keys(progress.answers || {}).length;
-          const correct = progress.score || 0;
-          const total = QUESTION_COUNTS[year];
-          totalAnswered += answered;
-          totalCorrect += correct;
-
-          const pct = answered > 0 ? Math.round(correct / answered * 100) : 0;
-          const row = document.createElement('tr');
-          row.innerHTML = `
-            <td><strong>${year}年</strong></td>
-            <td>${answered} / ${total}</td>
-            <td>${answered > 0 ? pct + '%' : '—'}</td>
-            <td>
-              <a href="exam.html?year=${year}" class="btn btn-outline" style="padding:6px 14px;font-size:0.8rem;">繼續</a>
-            </td>
-          `;
-          historyBody.appendChild(row);
-        }
-      });
-
-      if (hasHistory) {
-        historySection.style.display = 'block';
-        statsRow.innerHTML = `
-          <div class="stat-card">
-            <div class="stat-number">${totalAnswered}</div>
-            <div class="stat-label">已作答題數</div>
-          </div>
-          <div class="stat-card">
-            <div class="stat-number">${totalAnswered > 0 ? Math.round(totalCorrect/totalAnswered*100) : 0}%</div>
-            <div class="stat-label">整體正確率</div>
-          </div>
-        `;
-      }
-
-      // Vocab stats
-      const learnedWords = JSON.parse(localStorage.getItem('vocab_learned') || '[]');
-      if (learnedWords.length > 0) {
-        statsRow.innerHTML += `
-          <div class="stat-card">
-            <div class="stat-number">${learnedWords.length}</div>
-            <div class="stat-label">已學單字</div>
-          </div>
-        `;
-      }
-    }
-
-    loadStats();
-  </script>
+  const history = Storage.getExamHistory().slice(0, 5);
+  if (history.length > 0) {
+    document.getElementById('recentSection').style.display = '';
+    const list = document.getElementById('recentList');
+    list.innerHTML = history.map(h => `
+      <div class="recent-item">
+        <span class="recent-year">${h.year}年</span>
+        <span class="recent-mode">${h.mode === 'mock' ? '模擬考' : h.mode === 'wrong' ? '錯題練習' : '年份練習'}</span>
+        <span class="recent-score ${h.score/h.total >= 0.8 ? 'grade-a' : h.score/h.total >= 0.6 ? 'grade-b' : 'grade-c'}">${h.score}/${h.total} (${Math.round(h.score/h.total*100)}%)</span>
+        <span class="recent-date">${h.date}</span>
+      </div>`).join('');
+  }
+</script>
 </body>
 </html>

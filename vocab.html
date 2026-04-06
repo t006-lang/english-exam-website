@@ -3,125 +3,140 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>1200 單字 - 會考英語練習</title>
+  <title>1200單字 - 會考英語練習</title>
   <link rel="stylesheet" href="css/style.css">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📖</text></svg>">
 </head>
 <body>
+<header class="site-header">
+  <div class="header-inner">
+    <a href="index.html" class="site-title">📚 會考英語練習</a>
+    <nav class="nav-links">
+      <a href="index.html" class="nav-link">首頁</a>
+      <a href="exam.html" class="nav-link">試題</a>
+      <a href="vocab.html" class="nav-link active">單字</a>
+    </nav>
+  </div>
+</header>
 
-  <header class="site-header">
-    <div class="header-inner">
-      <a href="index.html" class="site-title">📚 會考英語練習</a>
-      <nav class="nav-links">
-        <a href="index.html" class="nav-link">首頁</a>
-        <a href="exam.html" class="nav-link">試題</a>
-        <a href="vocab.html" class="nav-link active">單字</a>
-      </nav>
-    </div>
-  </header>
+<main>
+  <div class="vocab-tabs">
+    <button class="vtab active" onclick="switchTab('flashcard')">單字卡</button>
+    <button class="vtab" onclick="switchTab('quiz')">測驗</button>
+    <button class="vtab" onclick="switchTab('smart')">智慧複習 <span id="reviewBadge" class="badge"></span></button>
+    <button class="vtab" onclick="switchTab('stats')">學習統計</button>
+  </div>
 
-  <!-- Tab navigation -->
-  <div class="vocab-header">
-    <div class="vocab-header-inner">
-      <div class="tab-nav">
-        <button class="tab-btn active" id="tabFlashcard" onclick="switchTab('flashcard')">單字卡</button>
-        <button class="tab-btn" id="tabQuiz" onclick="switchTab('quiz')">單字測驗</button>
+  <div class="vocab-filter">
+    <button class="filter-btn active" onclick="setFilter('all')">全部</button>
+    <button class="filter-btn" onclick="setFilter('new')">未學習</button>
+    <button class="filter-btn" onclick="setFilter('learning')">學習中</button>
+    <button class="filter-btn" onclick="setFilter('learned')">已熟悉</button>
+    <input type="text" id="searchBox" placeholder="搜尋單字…" oninput="doSearch()" class="search-input">
+  </div>
+
+  <!-- 單字卡 -->
+  <div id="tabFlashcard" class="tab-content">
+    <div class="card-progress"><span id="fcProgress">0 / 0</span></div>
+    <div class="flashcard-wrap">
+      <div class="flashcard" id="flashcard" onclick="flipCard()">
+        <div class="card-front" id="cardFront">
+          <div class="card-word" id="fcWord"></div>
+          <div class="card-pos" id="fcPos"></div>
+          <div class="card-hint">點擊翻面</div>
+        </div>
+        <div class="card-back" id="cardBack" style="display:none">
+          <div class="card-chinese" id="fcChinese"></div>
+          <div class="card-word-small" id="fcWordSmall"></div>
+        </div>
       </div>
+    </div>
+    <div class="card-actions">
+      <button class="btn-wrong" onclick="markStatus('new')">✗ 不熟</button>
+      <button class="btn-nav" onclick="fcPrev()">← 上一個</button>
+      <button class="btn-nav" onclick="fcNext()">下一個 →</button>
+      <button class="btn-learned" onclick="markStatus('learned')">✓ 記住了</button>
     </div>
   </div>
 
-  <main class="vocab-main">
-    <!-- Loading -->
-    <div class="loading" id="loadingState">
-      <div class="loading-spinner"></div>
-      <p>載入單字中...</p>
+  <!-- 測驗 -->
+  <div id="tabQuiz" class="tab-content" style="display:none">
+    <div class="quiz-wrap" id="quizWrap">
+      <div class="quiz-score">本輪：<span id="quizScore">0</span>/<span id="quizTotal">0</span></div>
+      <div class="quiz-qword" id="quizWord"></div>
+      <div class="quiz-options" id="quizOptions"></div>
+      <button class="btn-primary" id="btnNextQuiz" onclick="nextQuizQ()" style="display:none">下一題</button>
     </div>
-
-    <!-- Filter bar (shared) -->
-    <div class="filter-bar" id="filterBar" style="display:none;">
-      <button class="filter-btn active" data-filter="all" onclick="setFilter('all')">全部</button>
-      <button class="filter-btn" data-filter="unlearned" onclick="setFilter('unlearned')">未學會</button>
-      <button class="filter-btn" data-filter="learned" onclick="setFilter('learned')">已學會</button>
-      <span class="filter-count" id="filterCount"></span>
+    <div class="quiz-end" id="quizEnd" style="display:none">
+      <h3>本輪結果</h3>
+      <div class="quiz-end-score" id="quizEndScore"></div>
+      <button class="btn-primary" onclick="startQuiz()">再來一輪</button>
     </div>
+  </div>
 
-    <!-- ===== FLASHCARD TAB ===== -->
-    <div id="tabContentFlashcard" style="display:none;">
-
-      <div class="flashcard-nav">
-        <button class="nav-btn" id="fcPrevBtn" onclick="fcPrev()">← 上一個</button>
-        <span class="fc-counter" id="fcCounter">1 / 448</span>
-        <button class="nav-btn primary" id="fcNextBtn" onclick="fcNext()">下一個 →</button>
-      </div>
-
-      <div class="flashcard-container">
-        <div class="flashcard" id="flashcard" onclick="flipCard()">
-          <div class="card-face card-front" id="cardFront">
-            <div class="card-word" id="cardWord">apple</div>
-            <div class="card-pos" id="cardPos">n.</div>
-            <div class="card-hint">點擊查看中文</div>
+  <!-- 智慧複習 -->
+  <div id="tabSmart" class="tab-content" style="display:none">
+    <div class="smart-header">
+      <p>今日需複習：<strong id="reviewCount">0</strong> 個單字</p>
+      <p class="smart-desc">根據記憶曲線，以下單字需要複習</p>
+    </div>
+    <div id="smartWrap">
+      <div class="flashcard-wrap">
+        <div class="flashcard" id="smartCard" onclick="flipSmartCard()">
+          <div class="card-front" id="smartFront">
+            <div class="card-word" id="smWord"></div>
+            <div class="card-pos" id="smPos"></div>
+            <div class="card-hint">點擊翻面</div>
           </div>
-          <div class="card-face card-back" id="cardBack">
-            <div class="card-chinese" id="cardChinese">蘋果</div>
-            <div class="card-pos-back" id="cardPosBack">n.</div>
-            <div class="card-word-small" id="cardWordSmall">apple</div>
+          <div class="card-back" id="smartBack" style="display:none">
+            <div class="card-chinese" id="smChinese"></div>
+            <div class="card-word-small" id="smWordSmall"></div>
           </div>
         </div>
       </div>
-
-      <button class="learned-btn" id="learnedBtn" onclick="toggleLearned()">
-        標記為「已學會」
-      </button>
-
-      <!-- Keyboard hint -->
-      <p style="text-align:center; font-size:0.8rem; color:#aaa; margin-top:12px;">
-        按空白鍵翻卡 · ← → 切換
-      </p>
-    </div>
-
-    <!-- ===== QUIZ TAB ===== -->
-    <div id="tabContentQuiz" style="display:none;">
-
-      <div class="quiz-stats">
-        <div class="quiz-stat">
-          <div class="quiz-stat-num" id="quizCorrect">0</div>
-          <div class="quiz-stat-label">答對</div>
-        </div>
-        <div class="quiz-stat">
-          <div class="quiz-stat-num" id="quizWrong">0</div>
-          <div class="quiz-stat-label">答錯</div>
-        </div>
-        <div class="quiz-stat">
-          <div class="quiz-stat-num" id="quizPct">—</div>
-          <div class="quiz-stat-label">正確率</div>
-        </div>
-      </div>
-
-      <div class="quiz-word-display">
-        <div class="quiz-word" id="quizWord">apple</div>
-        <div class="quiz-pos" id="quizPos">n.</div>
-      </div>
-
-      <div class="quiz-options" id="quizOptions">
-        <!-- Generated dynamically -->
-      </div>
-
-      <div id="quizFeedback" style="display:none; text-align:center; padding:10px; border-radius:8px; font-weight:700; margin-bottom:12px;"></div>
-
-      <button class="nav-btn primary" id="quizNextBtn" onclick="nextQuizQuestion()" style="width:100%; display:none;">
-        下一題 →
-      </button>
-
-      <div style="text-align:center; margin-top:12px;">
-        <button class="btn btn-outline" onclick="resetQuizStats()">重置分數</button>
+      <div class="smart-counter">第 <span id="smCurrent">1</span> / <span id="smTotal">1</span> 個</div>
+      <div class="smart-actions" id="smartActions" style="display:none">
+        <button class="btn-wrong" onclick="smartReview('forgot')">😟 忘了</button>
+        <button class="btn-secondary" onclick="smartReview('vague')">🤔 模糊</button>
+        <button class="btn-learned" onclick="smartReview('remember')">😊 記得</button>
       </div>
     </div>
+    <div id="smartDone" style="display:none">
+      <div class="smart-done-msg">🎉 今天的複習完成了！</div>
+      <button class="btn-primary" onclick="loadSmartReview()">重新載入</button>
+    </div>
+  </div>
 
-  </main>
+  <!-- 學習統計 -->
+  <div id="tabStats" class="tab-content" style="display:none">
+    <div class="stats-grid">
+      <div class="stats-card">
+        <div class="stats-num" id="stNew">0</div>
+        <div class="stats-label">未學習</div>
+      </div>
+      <div class="stats-card">
+        <div class="stats-num" id="stLearning">0</div>
+        <div class="stats-label">學習中</div>
+      </div>
+      <div class="stats-card">
+        <div class="stats-num" id="stLearned">0</div>
+        <div class="stats-label">已熟悉</div>
+      </div>
+      <div class="stats-card">
+        <div class="stats-num" id="stTotal">1209</div>
+        <div class="stats-label">總單字數</div>
+      </div>
+    </div>
+    <div class="pie-section">
+      <canvas id="pieChart" width="200" height="200"></canvas>
+    </div>
+    <div class="history-section">
+      <h3>最近7天</h3>
+      <div id="weeklyBars" class="weekly-bars"></div>
+    </div>
+  </div>
+</main>
 
-  <script src="js/vocab.js"></script>
-  <script>
-    initVocab();
-  </script>
+<script src="js/storage.js"></script>
+<script src="js/vocab.js"></script>
 </body>
 </html>
