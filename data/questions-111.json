@@ -55,7 +55,7 @@
     "id": 5,
     "type": "single",
     "passage": null,
-    "question": "I did not do my homework, so my teacher said I       stay after school to finish it.",
+    "question": "I tried on these shoes in several different ____ , and I thought the white pair looked best on me.",
     "options": {
       "A": "failed to",
       "B": "had to",
@@ -68,7 +68,7 @@
     "id": 6,
     "type": "single",
     "passage": null,
-    "question": "Kevin has only enough money for the bag or the shoes. That is a hard       to make because he likes them both.",
+    "question": "Rex did not feel the earthquake this morning. He ____ in the park at the time.",
     "options": {
       "A": "choice",
       "B": "gift",
@@ -81,7 +81,7 @@
     "id": 7,
     "type": "single",
     "passage": null,
-    "question": "It was       for us to answer the math question because we’ve done the same kind of questions many times.",
+    "question": "Mr. Lee has worked in the same store for ten years; he’s never thought about ____ his job.",
     "options": {
       "A": "common",
       "B": "easy",
@@ -94,7 +94,7 @@
     "id": 8,
     "type": "single",
     "passage": null,
-    "question": "Although it took me lots of time       a big meal for ten people, I was happy that everyone enjoyed it.",
+    "question": "I didn’t take the bus today because it was ____ . All the seats were taken and a lot of students were standing.",
     "options": {
       "A": "prepare",
       "B": "to prepare",
@@ -107,7 +107,7 @@
     "id": 9,
     "type": "single",
     "passage": null,
-    "question": "Don’t let the children swim in the river. We don’t know how       it is. It could be dangerous.",
+    "question": "Don’t go away when you’re cooking, ____ the food might burn.",
     "options": {
       "A": "deep",
       "B": "far",
@@ -120,7 +120,7 @@
     "id": 10,
     "type": "single",
     "passage": null,
-    "question": "Bob is       of the boys in the family. He never does any housework. His brothers at least take out the garbage sometimes.",
+    "question": "Jerry wanted to know ____ he was kicked off the soccer team, but no one gave him a good reason.",
     "options": {
       "A": "lazier",
       "B": "the lazy",
@@ -133,7 +133,7 @@
     "id": 11,
     "type": "single",
     "passage": null,
-    "question": "Aunt Gina has lived in this town for more than sixty years, so she       it very well.",
+    "question": "Jenny is already forty, doesn’t have a job and often makes trouble for her parents. To them, she is really a(n) ____ .",
     "options": {
       "A": "will know",
       "B": "knew",
@@ -146,7 +146,7 @@
     "id": 12,
     "type": "single",
     "passage": null,
-    "question": "We won’t see the sun even after the typhoon leaves, because the news said that heavier rain will soon      .",
+    "question": "Ed and Jill ____ camping this weekend, so they have to finish their homework by Friday.",
     "options": {
       "A": "catch",
       "B": "follow",
@@ -159,7 +159,7 @@
     "id": 13,
     "type": "single",
     "passage": null,
-    "question": "Yesterday when I got home from work, my brother       for dinner, so he invited me to join him.",
+    "question": "Doraemon, a blue Japanese robot cat, has hated mice since his ears ____ by a mouse.",
     "options": {
       "A": "goes out",
       "B": "went out",
@@ -172,7 +172,7 @@
     "id": 14,
     "type": "single",
     "passage": null,
-    "question": "You were       not to lend Amy money. She never gives back what she borrows.",
+    "question": "If we play some interesting games in class, there ____ more fun in learning English.",
     "options": {
       "A": "crazy",
       "B": "helpful",
@@ -185,7 +185,7 @@
     "id": 15,
     "type": "single",
     "passage": null,
-    "question": "Have you found a summer job yet? Mr. Firth       someone to take care of his kids during the vacation. Maybe you can talk to him.",
+    "question": "The ____ of this shop was so bad; I never got any answer after I emailed them my questions.",
     "options": {
       "A": "has looked for",
       "B": "is looking for",
@@ -211,7 +211,7 @@
     "id": 17,
     "type": "single",
     "passage": null,
-    "question": "The police haven’t found the little girl who       at a supermarket. They’ll keep doing all they can to find her.",
+    "question": "Do you remember the CD I was looking for for months? I ____ found it in a small shop. Look, here it is!",
     "options": {
       "A": "took away",
       "B": "taken away",
@@ -224,7 +224,7 @@
     "id": 18,
     "type": "single",
     "passage": null,
-    "question": "Buses to the airport only come once every hour, and we just missed      . Why don’t we take a taxi?",
+    "question": "Business at Jane’s shop has not been good these days. And the new supermarket across the street only makes things ____ .",
     "options": {
       "A": "another",
       "B": "it",
@@ -237,7 +237,7 @@
     "id": 19,
     "type": "single",
     "passage": null,
-    "question": "Ariel       every night for a week before her Chinese test and got a very good grade.",
+    "question": "Scott wasn’t sure if the young woman before him was ____ pulled him out of a car on fire.",
     "options": {
       "A": "studied",
       "B": "studies",
@@ -250,7 +250,7 @@
     "id": 20,
     "type": "single",
     "passage": null,
-    "question": "While reading this story, Brad saw the word “trolling” and didn’t know what it meant. Josh turned off the screen and sat back. “Why are they trolling me like this?” He didn’t understand. They wanted him to share what he thought about the show, and he did. And now look what he got. In the end, all they wanted was nice words. He found several meanings of the word in a dictionary. Which one should Brad choose?",
+    "question": "I ____ swimming for several years before I went to this high school. I gave it up because of heavy schoolwork.",
     "options": {
       "A": "To celebrate in song.",
       "B": "To make someone or something move around.",

@@ -16,7 +16,7 @@
     "id": 2,
     "type": "single",
     "passage": null,
-    "question": "Ms. Liu usually gives us a lot of homework, she didn’t give us any today.",
+    "question": "Ms. Liu usually gives us a lot of homework, ____ she didn’t give us any today.",
     "options": {
       "A": "but",
       "B": "if",
@@ -29,7 +29,7 @@
     "id": 3,
     "type": "single",
     "passage": null,
-    "question": "Playing games on the cellphone popular with high school students.",
+    "question": "Playing games on the cellphone ____ popular with high school students.",
     "options": {
       "A": "is",
       "B": "are",
@@ -42,7 +42,7 @@
     "id": 4,
     "type": "single",
     "passage": null,
-    "question": "There more than twenty clubs in our school. Which one would you like to join?",
+    "question": "There ____ more than twenty clubs in our school. Which one would you like to join?",
     "options": {
       "A": "has",
       "B": "have",
@@ -55,7 +55,7 @@
     "id": 5,
     "type": "single",
     "passage": null,
-    "question": "Diane had a bad cold last week. She is still too to go mountain climbing with you.",
+    "question": "Diane had a bad cold last week. She is still too ____ to go mountain climbing with you.",
     "options": {
       "A": "busy",
       "B": "short",
@@ -68,7 +68,7 @@
     "id": 6,
     "type": "single",
     "passage": null,
-    "question": "The book under Mary’s desk is , but I don’t know why it is there.",
+    "question": "The book under Mary’s desk is ____ , but I don’t know why it is there.",
     "options": {
       "A": "us",
       "B": "me",
@@ -81,7 +81,7 @@
     "id": 7,
     "type": "single",
     "passage": null,
-    "question": "Last night a garbage truck hit a tree and turned over. Now the street is with lots of garbage.",
+    "question": "Last night a garbage truck hit a tree and turned over. Now the street is ____ with lots of garbage.",
     "options": {
       "A": "dark",
       "B": "dirty",
@@ -94,7 +94,7 @@
     "id": 8,
     "type": "single",
     "passage": null,
-    "question": "It almost killed Kevin to take care of his baby sister for one afternoon. He wondered how his mom could do every day.",
+    "question": "It almost killed Kevin to take care of his baby sister for one afternoon. He wondered how his mom could do ____ every day.",
     "options": {
       "A": "her",
       "B": "it",
@@ -107,7 +107,7 @@
     "id": 9,
     "type": "single",
     "passage": null,
-    "question": "Joyce tells her brother everything. She never anything from him.",
+    "question": "Joyce tells her brother everything. She never ____ anything from him.",
     "options": {
       "A": "covers",
       "B": "believes",
@@ -120,7 +120,7 @@
     "id": 10,
     "type": "single",
     "passage": null,
-    "question": "Ben always uses his birthday as a(n) to ask Dad to buy him something expensive.",
+    "question": "Ben always uses his birthday as a(n) ____ to ask Dad to buy him something expensive.",
     "options": {
       "A": "action",
       "B": "excuse",
@@ -146,7 +146,7 @@
     "id": 12,
     "type": "single",
     "passage": null,
-    "question": "Everyone in the class enjoys playing chess Bill; he thinks the game is boring.",
+    "question": "Everyone in the class enjoys playing chess ____ Bill; he thinks the game is boring.",
     "options": {
       "A": "except",
       "B": "for",
@@ -159,7 +159,7 @@
     "id": 13,
     "type": "single",
     "passage": null,
-    "question": "In my school days, I to English radio programs every day. That was how I learned English at that time.",
+    "question": "In my school days, I ____ to English radio programs every day. That was how I learned English at that time.",
     "options": {
       "A": "listen",
       "B": "have listened",
@@ -172,7 +172,7 @@
     "id": 14,
     "type": "single",
     "passage": null,
-    "question": "Tom’s voice when he talks about his neighbors. He speaks faster, his face becomes redder and you can almost see fire in his eyes.",
+    "question": "Tom’s voice ____ when he talks about his neighbors. He speaks faster, his face becomes redder and you can almost see fire in his eyes.",
     "options": {
       "A": "appears",
       "B": "drops",

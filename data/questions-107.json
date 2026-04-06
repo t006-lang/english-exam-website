@@ -55,7 +55,7 @@
     "id": 5,
     "type": "single",
     "passage": null,
-    "question": "You need not only good luck but also hard work to become a baseball player.",
+    "question": "You need not only good luck but also hard work to become a ____ baseball player.",
     "options": {
       "A": "young",
       "B": "successful",
@@ -68,7 +68,7 @@
     "id": 6,
     "type": "single",
     "passage": null,
-    "question": "The woman who lives next door to Ken is a to him. They have never met and he doesn’t even know her name.",
+    "question": "The woman who lives next door to Ken is a ____ to him. They have never met and he doesn’t even know her name.",
     "options": {
       "A": "daughter",
       "B": "friend",
@@ -81,7 +81,7 @@
     "id": 7,
     "type": "single",
     "passage": null,
-    "question": "With the new bus line, it is much more for Fanny to go to school. It saves her a lot of time now.",
+    "question": "With the new bus line, it is much more ____ for Fanny to go to school. It saves her a lot of time now.",
     "options": {
       "A": "useful",
       "B": "possible",
@@ -94,7 +94,7 @@
     "id": 8,
     "type": "single",
     "passage": null,
-    "question": "Dad: Have you brushed your teeth yet? Ann: No, but I before I go to bed.",
+    "question": "Dad: Have you brushed your teeth yet? Ann: No, but I ____ before I go to bed.",
     "options": {
       "A": "haven’t",
       "B": "have",
@@ -107,7 +107,7 @@
     "id": 9,
     "type": "single",
     "passage": null,
-    "question": "Alice: Do you know Grandma is going to visit us? Willy: It’s next week. She told me on the phone. And we’ll take her to the national park.",
+    "question": "Alice: Do you know ____ Grandma is going to visit us? Willy: It’s next week. She told me on the phone. And we’ll take her to the national park.",
     "options": {
       "A": "where",
       "B": "when",
@@ -146,7 +146,7 @@
     "id": 12,
     "type": "single",
     "passage": null,
-    "question": "The factory has been throwing trash into the river for years. Now must be taken to stop this.",
+    "question": "The factory has been throwing trash into the river for years. Now ____ must be taken to stop this.",
     "options": {
       "A": "action",
       "B": "chances",
@@ -159,7 +159,7 @@
     "id": 13,
     "type": "single",
     "passage": null,
-    "question": "The beach party tonight the end of our summer vacation. Tomorrow we are all going back home and getting ready for school.",
+    "question": "The beach party tonight ____ the end of our summer vacation. Tomorrow we are all going back home and getting ready for school.",
     "options": {
       "A": "changes",
       "B": "marks",
@@ -172,7 +172,7 @@
     "id": 14,
     "type": "single",
     "passage": null,
-    "question": "Anyone who reads Loren’s business plan will quickly see some serious problems in it, or feel something is not right.",
+    "question": "Anyone who reads Loren’s business plan will quickly see some serious problems in it, or ____ feel something is not right.",
     "options": {
       "A": "at least",
       "B": "even",
@@ -185,7 +185,7 @@
     "id": 15,
     "type": "single",
     "passage": null,
-    "question": "I’ve wanted to read The Diary of a Young Girl for months, today I finally borrowed the book from the library.",
+    "question": "I’ve wanted to read The Diary of a Young Girl for months, ____ today I finally borrowed the book from the library.",
     "options": {
       "A": "and",
       "B": "since",

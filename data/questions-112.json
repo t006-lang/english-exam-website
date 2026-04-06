@@ -3,7 +3,7 @@
     "id": 1,
     "type": "single",
     "passage": null,
-    "question": "Look at the picture. The man is holding a of grapes in his hands.",
+    "question": "Look at the picture. There is ____ under the door.",
     "options": {
       "A": "bag",
       "B": "basket",
@@ -16,7 +16,7 @@
     "id": 2,
     "type": "single",
     "passage": null,
-    "question": "Dennis enjoys in public. He is proud of his beautiful voice.",
+    "question": "My ____ hurts so much that I cannot even turn my head.",
     "options": {
       "A": "dancing",
       "B": "drawing",
@@ -29,7 +29,7 @@
     "id": 3,
     "type": "single",
     "passage": null,
-    "question": "Mrs. Johnson can’t hear very well. If you need to talk to her, you must .",
+    "question": "Our school basketball team won the national game last night. We are so ____ them.",
     "options": {
       "A": "explain",
       "B": "hurry",
@@ -42,7 +42,7 @@
     "id": 4,
     "type": "single",
     "passage": null,
-    "question": "People got very excited when they watched Ms. Smith at the party.",
+    "question": "Tomorrow is Sam’s last day in the office.  Nobody knows why he decided to ____ .",
     "options": {
       "A": "danced",
       "B": "dancing",
@@ -55,7 +55,7 @@
     "id": 5,
     "type": "single",
     "passage": null,
-    "question": "I tried on these shoes in several different , and I thought the white pair looked best on me.",
+    "question": "It’s not a good idea to go mountain climbing in this bad ____ . We should wait until the typhoon goes away.",
     "options": {
       "A": "colors",
       "B": "prices",
@@ -68,7 +68,7 @@
     "id": 6,
     "type": "single",
     "passage": null,
-    "question": "Rex did not feel the earthquake this morning. He in the park at the time.",
+    "question": "Chris loves walking with Anna on snowy days, but Anna hates ____ very much.",
     "options": {
       "A": "jogged",
       "B": "was jogging",
@@ -81,7 +81,7 @@
     "id": 7,
     "type": "single",
     "passage": null,
-    "question": "Mr. Lee has worked in the same store for ten years; he’s never thought about his job.",
+    "question": "Lora likes to eat bananas that are already a little brown on the outside, and so ____ I.",
     "options": {
       "A": "changing",
       "B": "finding",
@@ -94,7 +94,7 @@
     "id": 8,
     "type": "single",
     "passage": null,
-    "question": "I didn’t take the bus today because it was . All the seats were taken and a lot of students were standing.",
+    "question": "Your refrigerator shouldn’t be making loud noises now, but if it ____ does, just give me a call and I’ll come check it again.",
     "options": {
       "A": "dirty",
       "B": "fast",
@@ -107,7 +107,7 @@
     "id": 9,
     "type": "single",
     "passage": null,
-    "question": "Don’t go away when you’re cooking, the food might burn.",
+    "question": "After winning money in the card game, Jay decided to try again. He felt that he might also be ____ a second time.",
     "options": {
       "A": "but",
       "B": "if",
@@ -120,7 +120,7 @@
     "id": 10,
     "type": "single",
     "passage": null,
-    "question": "Jerry wanted to know he was kicked off the soccer team, but no one gave him a good reason.",
+    "question": "The knife doesn’t cut very well. It’s not as ____ as before.",
     "options": {
       "A": "where",
       "B": "when",
@@ -133,7 +133,7 @@
     "id": 11,
     "type": "single",
     "passage": null,
-    "question": "Jenny is already forty, doesn’t have a job and often makes trouble for her parents. To them, she is really a(n) .",
+    "question": "John will stay with his sister until he ____ an apartment.",
     "options": {
       "A": "daughter",
       "B": "example",
@@ -146,7 +146,7 @@
     "id": 12,
     "type": "single",
     "passage": null,
-    "question": "Ed and Jill camping this weekend, so they have to finish their homework by Friday.",
+    "question": "Students ____ to go on the school trip should ask their parents first.",
     "options": {
       "A": "went",
       "B": "were going",
@@ -159,7 +159,7 @@
     "id": 13,
     "type": "single",
     "passage": null,
-    "question": "Doraemon, a blue Japanese robot cat, has hated mice since his ears by a mouse.",
+    "question": "The temple sits alone in the mountains at a height of 3,000m ____ sea level.",
     "options": {
       "A": "bit",
       "B": "bite",
@@ -172,7 +172,7 @@
     "id": 14,
     "type": "single",
     "passage": null,
-    "question": "If we play some interesting games in class, there more fun in learning English.",
+    "question": "Patty spent several days planning to invite Charlie to dinner, ____ she couldn’t say a word when they met.",
     "options": {
       "A": "are",
       "B": "has",
@@ -185,7 +185,7 @@
     "id": 15,
     "type": "single",
     "passage": null,
-    "question": "The of this shop was so bad; I never got any answer after I emailed them my questions.",
+    "question": "I can’t tell you what I think of the movie because I ____ it. I’ll probably watch it this Saturday.",
     "options": {
       "A": "item",
       "B": "business",
@@ -198,7 +198,7 @@
     "id": 16,
     "type": "single",
     "passage": null,
-    "question": "It’s not easy to see those islands clearly from here on sunny days, and it’s even less to see them on cloudy days.",
+    "question": "The new guy at the help desk answers calls like a ____ . There are no ups and downs in his voice and you can’t tell if he is happy or sad.",
     "options": {
       "A": "difficult",
       "B": "lucky",
@@ -211,7 +211,7 @@
     "id": 17,
     "type": "single",
     "passage": null,
-    "question": "Do you remember the CD I was looking for for months? I found it in a small shop. Look, here it is!",
+    "question": "Jasmine planned to spend her summer in the country, but right after she got there, she started to ____ the noise in the city.",
     "options": {
       "A": "almost",
       "B": "even",
@@ -224,7 +224,7 @@
     "id": 18,
     "type": "single",
     "passage": null,
-    "question": "Business at Jane’s shop has not been good these days. And the new supermarket across the street only makes things .",
+    "question": "“Bad traffic” is perhaps the ____ excuse for being late when your boss knows it only takes you five minutes to walk to work.",
     "options": {
       "A": "easier",
       "B": "worse",
@@ -237,7 +237,7 @@
     "id": 19,
     "type": "single",
     "passage": null,
-    "question": "Scott wasn’t sure if the young woman before him was pulled him out of a car on fire.",
+    "question": "The housework in Mr. and Mrs. Wang’s family ____ between them and their kids. Everyone’s got their own job to do.",
     "options": {
       "A": "who",
       "B": "the one",
@@ -250,7 +250,7 @@
     "id": 20,
     "type": "single",
     "passage": null,
-    "question": "I swimming for several years before I went to this high school. I gave it up because of heavy schoolwork.",
+    "question": "I want to find another dentist because ____ pulled out a good tooth last time I went to him.",
     "options": {
       "A": "have practiced",
       "B": "am practicing",
@@ -263,7 +263,7 @@
     "id": 21,
     "type": "single",
     "passage": null,
-    "question": "Frank Kane is so good in the movie that many people he will win the best actor prize.",
+    "question": "Mom:\u0007 Linda, you’ve been playing computer games all evening!  Have you finished your report? Linda:\u0007 Well, ____ most of it this afternoon, and I’ll finish it by Friday.",
     "options": {
       "A": "expect",
       "B": "forget",
