@@ -326,11 +326,10 @@ img { max-width: 100%; }
 
 .passage-card {
   background: var(--surface-2); border-radius: var(--radius-md);
-  border-left: 4px solid var(--accent); padding: 16px 18px;
-  font-size: 14px; line-height: 1.9;
+  padding: 16px 18px; font-size: 14px; line-height: 1.9;
   border: 1px solid var(--border); border-left: 4px solid var(--accent);
-  white-space: pre-wrap;
 }
+.passage-card.text-only { white-space: pre-wrap; }
 .passage-img {
   max-width: 100%; border-radius: var(--radius-md);
   display: block; margin: 0 auto;

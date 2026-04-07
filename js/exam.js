@@ -184,10 +184,12 @@ function renderQ() {
       html += `<div class="passage-text">${q.passage.replace(/\n/g, '<br>')}</div>`;
     }
     pb.innerHTML = html;
+    pb.classList.remove('text-only');
     passageCol.style.display = '';
     examBody.classList.add('two-col');
   } else if (q.passage) {
     pb.textContent = q.passage;
+    pb.classList.add('text-only');
     passageCol.style.display = '';
     examBody.classList.add('two-col');
   } else {
