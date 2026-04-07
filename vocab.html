@@ -69,11 +69,13 @@
         <div class="card-front" id="cardFront">
           <div class="fc-word" id="fcWord"></div>
           <div class="fc-pos" id="fcPos"></div>
+          <button class="fc-speak-btn" id="fcSpeakBtn" onclick="event.stopPropagation(); speakWord()" title="播放發音">🔊</button>
           <div class="fc-hint">點擊翻面</div>
         </div>
         <div class="card-back" id="cardBack" style="display:none">
           <div class="fc-chinese" id="fcChinese"></div>
           <div class="fc-word-sm" id="fcWordSmall"></div>
+          <div class="fc-example" id="fcExample"><span class="fc-example-loading">載入例句中…</span></div>
         </div>
       </div>
     </div>

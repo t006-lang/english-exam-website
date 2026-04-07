@@ -91,7 +91,66 @@ function renderFlashcard() {
   document.getElementById('fcChinese').textContent = w.chinese;
   document.getElementById('fcWordSmall').textContent = w.word;
   document.getElementById('fcProgress').textContent = `${fcIndex+1} / ${filteredWords.length}`;
+  document.getElementById('fcExample').innerHTML = '<span class="fc-example-loading">載入例句中…</span>';
   showCardFront();
+}
+
+// ── 發音 ─────────────────────────────────────────────────────
+
+function speakWord() {
+  if (!window.speechSynthesis) return;
+  const word = filteredWords[fcIndex]?.word;
+  if (!word) return;
+  window.speechSynthesis.cancel();
+  const utt = new SpeechSynthesisUtterance(word);
+  utt.lang = 'en-US';
+  utt.rate = 0.9;
+  window.speechSynthesis.speak(utt);
+}
+
+// ── 例句（Free Dictionary API）──────────────────────────────
+
+const exampleCache = {};
+
+async function loadExample(word) {
+  const el = document.getElementById('fcExample');
+  if (!el) return;
+
+  // 詞組或含特殊字元的單字跳過
+  if (word.includes(' ') || word.includes('/')) {
+    el.innerHTML = '';
+    return;
+  }
+
+  if (exampleCache[word] !== undefined) {
+    el.innerHTML = exampleCache[word];
+    return;
+  }
+
+  try {
+    const res = await fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${encodeURIComponent(word)}`);
+    if (!res.ok) throw new Error();
+    const data = await res.json();
+    // 找第一個有例句的定義
+    let example = '';
+    for (const entry of data) {
+      for (const meaning of entry.meanings || []) {
+        for (const def of meaning.definitions || []) {
+          if (def.example) { example = def.example; break; }
+        }
+        if (example) break;
+      }
+      if (example) break;
+    }
+    const html = example
+      ? `<div class="fc-example-text">📖 ${example}</div>`
+      : '';
+    exampleCache[word] = html;
+    el.innerHTML = html;
+  } catch {
+    exampleCache[word] = '';
+    el.innerHTML = '';
+  }
 }
 
 function showCardFront() {
@@ -105,6 +164,9 @@ function flipCard() {
   fcFlipped = !fcFlipped;
   document.getElementById('cardFront').style.display = fcFlipped ? 'none' : '';
   document.getElementById('cardBack').style.display = fcFlipped ? '' : 'none';
+  if (fcFlipped && filteredWords[fcIndex]) {
+    loadExample(filteredWords[fcIndex].word);
+  }
 }
 
 function fcNext() {
