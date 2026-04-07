@@ -3,6 +3,7 @@
     "id": 1,
     "type": "single",
     "passage": null,
+    "passageImage": "data/images/112-q01.jpg",
     "question": "Look at the picture. The man is holding a ____ of grapes in his hands.",
     "options": {
       "A": "bag",
