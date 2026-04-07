@@ -291,6 +291,7 @@
   {
     "id": 23,
     "type": "passage",
+    "passageImage": "data/images/111-q23.jpg",
     "passage": "Below is an infographic.\ninfographic 資訊圖表\n4",
     "question": "What can we learn about sugar from the infographic?",
     "options": {
@@ -304,6 +305,7 @@
   {
     "id": 24,
     "type": "passage",
+    "passageImage": "data/images/111-q23.jpg",
     "passage": "Below is an infographic.\ninfographic 資訊圖表\n4",
     "question": "What can be a reason why the list of “Sugar that is hidden in foods and drinks” is put in the infographic?",
     "options": {
