@@ -2,6046 +2,7255 @@
   {
     "word": "a/an",
     "pos": "art.",
-    "chinese": "冠詞"
+    "chinese": "冠詞",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "a few",
     "pos": "phrase",
-    "chinese": "幾個"
+    "chinese": "幾個",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "a little",
     "pos": "phrase",
-    "chinese": "一點"
+    "chinese": "一點",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "a lot",
     "pos": "phrase",
-    "chinese": "很多"
+    "chinese": "很多",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "a.m.",
     "pos": "abbr.",
-    "chinese": "上午"
+    "chinese": "上午",
+    "topic": "Time & Calendar"
   },
   {
     "word": "able",
     "pos": "adj.",
-    "chinese": "能夠的"
+    "chinese": "能夠的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "about",
     "pos": "prep./adv.",
-    "chinese": "關於；大約"
+    "chinese": "關於；大約",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "above",
     "pos": "prep./adv.",
-    "chinese": "在…上方"
+    "chinese": "在…上方",
+    "topic": "Places & Directions"
   },
   {
     "word": "abroad",
     "pos": "adv.",
-    "chinese": "在國外"
+    "chinese": "在國外",
+    "topic": "Transportation & Travel"
   },
   {
     "word": "across",
     "pos": "prep./adv.",
-    "chinese": "穿越；橫過"
+    "chinese": "穿越；橫過",
+    "topic": "Places & Directions"
   },
   {
     "word": "act",
     "pos": "v./n.",
-    "chinese": "行動；表演"
+    "chinese": "行動；表演",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "action",
     "pos": "n.",
-    "chinese": "行動"
+    "chinese": "行動",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "actor",
     "pos": "n.",
-    "chinese": "男演員"
+    "chinese": "男演員",
+    "topic": "Work & Occupations"
   },
   {
     "word": "actress",
     "pos": "n.",
-    "chinese": "女演員"
+    "chinese": "女演員",
+    "topic": "Work & Occupations"
   },
   {
     "word": "actually",
     "pos": "adv.",
-    "chinese": "實際上"
+    "chinese": "實際上",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "afraid",
     "pos": "adj.",
-    "chinese": "害怕的"
+    "chinese": "害怕的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "after",
     "pos": "prep./conj.",
-    "chinese": "在…之後"
+    "chinese": "在…之後",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "afternoon",
     "pos": "n.",
-    "chinese": "下午"
+    "chinese": "下午",
+    "topic": "Time & Calendar"
   },
   {
     "word": "again",
     "pos": "adv.",
-    "chinese": "再次"
+    "chinese": "再次",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "age",
     "pos": "n.",
-    "chinese": "年齡；時代"
+    "chinese": "年齡；時代",
+    "topic": "Time & Calendar"
   },
   {
     "word": "ago",
     "pos": "adv.",
-    "chinese": "…以前"
+    "chinese": "…以前",
+    "topic": "Time & Calendar"
   },
   {
     "word": "agree",
     "pos": "v.",
-    "chinese": "同意"
+    "chinese": "同意",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "ahead",
     "pos": "adv.",
-    "chinese": "在前方"
+    "chinese": "在前方",
+    "topic": "Places & Directions"
   },
   {
     "word": "air",
     "pos": "n.",
-    "chinese": "空氣"
+    "chinese": "空氣",
+    "topic": "Nature & Weather"
   },
   {
     "word": "airplane",
     "pos": "n.",
-    "chinese": "飛機"
+    "chinese": "飛機",
+    "topic": "Transportation & Travel"
   },
   {
     "word": "airport",
     "pos": "n.",
-    "chinese": "機場"
+    "chinese": "機場",
+    "topic": "Places & Directions"
   },
   {
     "word": "all",
     "pos": "adj./pron./adv.",
-    "chinese": "全部的"
+    "chinese": "全部的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "allow",
     "pos": "v.",
-    "chinese": "允許"
+    "chinese": "允許",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "almost",
     "pos": "adv.",
-    "chinese": "幾乎"
+    "chinese": "幾乎",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "along",
     "pos": "prep./adv.",
-    "chinese": "沿著"
+    "chinese": "沿著",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "already",
     "pos": "adv.",
-    "chinese": "已經"
+    "chinese": "已經",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "also",
     "pos": "adv.",
-    "chinese": "也；此外"
+    "chinese": "也；此外",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "always",
     "pos": "adv.",
-    "chinese": "總是"
+    "chinese": "總是",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "America",
     "pos": "n.",
-    "chinese": "美國"
+    "chinese": "美國",
+    "topic": "Places & Directions"
   },
   {
     "word": "American",
     "pos": "adj./n.",
-    "chinese": "美國的；美國人"
+    "chinese": "美國的；美國人",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "and",
     "pos": "conj.",
-    "chinese": "和；而且"
+    "chinese": "和；而且",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "angle",
     "pos": "n.",
-    "chinese": "角度"
+    "chinese": "角度",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "angry",
     "pos": "adj.",
-    "chinese": "憤怒的"
+    "chinese": "憤怒的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "animal",
     "pos": "n.",
-    "chinese": "動物"
+    "chinese": "動物",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "another",
     "pos": "adj./pron.",
-    "chinese": "另一個"
+    "chinese": "另一個",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "answer",
     "pos": "n./v.",
-    "chinese": "答案；回答"
+    "chinese": "答案；回答",
+    "topic": "School"
   },
   {
     "word": "ant",
     "pos": "n.",
-    "chinese": "螞蟻"
+    "chinese": "螞蟻",
+    "topic": "Animals"
   },
   {
     "word": "any",
     "pos": "adj./pron.",
-    "chinese": "任何"
+    "chinese": "任何",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "anyone",
     "pos": "pron.",
-    "chinese": "任何人"
+    "chinese": "任何人",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "anything",
     "pos": "pron.",
-    "chinese": "任何事"
+    "chinese": "任何事",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "apartment",
     "pos": "n.",
-    "chinese": "公寓"
+    "chinese": "公寓",
+    "topic": "Housing"
   },
   {
     "word": "appear",
     "pos": "v.",
-    "chinese": "出現"
+    "chinese": "出現",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "apple",
     "pos": "n.",
-    "chinese": "蘋果"
+    "chinese": "蘋果",
+    "topic": "Food & Drinks"
   },
   {
     "word": "April",
     "pos": "n.",
-    "chinese": "四月"
+    "chinese": "四月",
+    "topic": "Time & Calendar"
   },
   {
     "word": "area",
     "pos": "n.",
-    "chinese": "區域；面積"
+    "chinese": "區域；面積",
+    "topic": "Places & Directions"
   },
   {
     "word": "arm",
     "pos": "n.",
-    "chinese": "手臂"
+    "chinese": "手臂",
+    "topic": "Body"
   },
   {
     "word": "around",
     "pos": "prep./adv.",
-    "chinese": "在…周圍；大約"
+    "chinese": "在…周圍；大約",
+    "topic": "Places & Directions"
   },
   {
     "word": "arrive",
     "pos": "v.",
-    "chinese": "到達"
+    "chinese": "到達",
+    "topic": "Transportation & Travel"
   },
   {
     "word": "art",
     "pos": "n.",
-    "chinese": "藝術"
+    "chinese": "藝術",
+    "topic": "School"
   },
   {
     "word": "as",
     "pos": "conj./prep.",
-    "chinese": "當…時；像…一樣"
+    "chinese": "當…時；像…一樣",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "ask",
     "pos": "v.",
-    "chinese": "詢問；要求"
+    "chinese": "詢問；要求",
+    "topic": "Daily Activities"
   },
   {
     "word": "at",
     "pos": "prep.",
-    "chinese": "在（地點/時間）"
+    "chinese": "在（地點/時間）",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "attack",
     "pos": "v./n.",
-    "chinese": "攻擊"
+    "chinese": "攻擊",
+    "topic": "Daily Activities"
   },
   {
     "word": "August",
     "pos": "n.",
-    "chinese": "八月"
+    "chinese": "八月",
+    "topic": "Time & Calendar"
   },
   {
     "word": "aunt",
     "pos": "n.",
-    "chinese": "阿姨；姑姑"
+    "chinese": "阿姨；姑姑",
+    "topic": "Family"
   },
   {
     "word": "autumn",
     "pos": "n.",
-    "chinese": "秋天"
+    "chinese": "秋天",
+    "topic": "Time & Calendar"
   },
   {
     "word": "away",
     "pos": "adv.",
-    "chinese": "離開；遠離"
+    "chinese": "離開；遠離",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "baby",
     "pos": "n.",
-    "chinese": "嬰兒"
+    "chinese": "嬰兒",
+    "topic": "Family"
   },
   {
     "word": "back",
     "pos": "n./adv./adj.",
-    "chinese": "背部；後面；回來"
+    "chinese": "背部；後面；回來",
+    "topic": "Body"
   },
   {
     "word": "bad",
     "pos": "adj.",
-    "chinese": "壞的"
+    "chinese": "壞的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "badminton",
     "pos": "n.",
-    "chinese": "羽毛球"
+    "chinese": "羽毛球",
+    "topic": "Sports & Recreation"
   },
   {
     "word": "bag",
     "pos": "n.",
-    "chinese": "袋子"
+    "chinese": "袋子",
+    "topic": "Shopping & Money"
   },
   {
     "word": "bake",
     "pos": "v.",
-    "chinese": "烤"
+    "chinese": "烤",
+    "topic": "Daily Activities"
   },
   {
     "word": "bakery",
     "pos": "n.",
-    "chinese": "麵包店"
+    "chinese": "麵包店",
+    "topic": "Places & Directions"
   },
   {
     "word": "balcony",
     "pos": "n.",
-    "chinese": "陽台"
+    "chinese": "陽台",
+    "topic": "Housing"
   },
   {
     "word": "banana",
     "pos": "n.",
-    "chinese": "香蕉"
+    "chinese": "香蕉",
+    "topic": "Food & Drinks"
   },
   {
     "word": "band",
     "pos": "n.",
-    "chinese": "樂團；帶子"
+    "chinese": "樂團；帶子",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "bank",
     "pos": "n.",
-    "chinese": "銀行"
+    "chinese": "銀行",
+    "topic": "Places & Directions"
   },
   {
     "word": "baseball",
     "pos": "n.",
-    "chinese": "棒球"
+    "chinese": "棒球",
+    "topic": "Sports & Recreation"
   },
   {
     "word": "basket",
     "pos": "n.",
-    "chinese": "籃子"
+    "chinese": "籃子",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "basketball",
     "pos": "n.",
-    "chinese": "籃球"
+    "chinese": "籃球",
+    "topic": "Sports & Recreation"
   },
   {
     "word": "bat",
     "pos": "n.",
-    "chinese": "球棒；蝙蝠"
+    "chinese": "球棒；蝙蝠",
+    "topic": "Animals"
   },
   {
     "word": "bath",
     "pos": "n.",
-    "chinese": "洗澡"
+    "chinese": "洗澡",
+    "topic": "Daily Activities"
   },
   {
     "word": "bathroom",
     "pos": "n.",
-    "chinese": "浴室"
+    "chinese": "浴室",
+    "topic": "Housing"
   },
   {
     "word": "be",
     "pos": "v.",
-    "chinese": "是；在"
+    "chinese": "是；在",
+    "topic": "Daily Activities"
   },
   {
     "word": "beach",
     "pos": "n.",
-    "chinese": "海灘"
+    "chinese": "海灘",
+    "topic": "Nature & Weather"
   },
   {
     "word": "bean",
     "pos": "n.",
-    "chinese": "豆子"
+    "chinese": "豆子",
+    "topic": "Food & Drinks"
   },
   {
     "word": "bear",
     "pos": "n./v.",
-    "chinese": "熊；忍受"
+    "chinese": "熊；忍受",
+    "topic": "Animals"
   },
   {
     "word": "beautiful",
     "pos": "adj.",
-    "chinese": "美麗的"
+    "chinese": "美麗的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "because",
     "pos": "conj.",
-    "chinese": "因為"
+    "chinese": "因為",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "become",
     "pos": "v.",
-    "chinese": "成為"
+    "chinese": "成為",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "bed",
     "pos": "n.",
-    "chinese": "床"
+    "chinese": "床",
+    "topic": "Housing"
   },
   {
     "word": "bedroom",
     "pos": "n.",
-    "chinese": "臥室"
+    "chinese": "臥室",
+    "topic": "Housing"
   },
   {
     "word": "bee",
     "pos": "n.",
-    "chinese": "蜜蜂"
+    "chinese": "蜜蜂",
+    "topic": "Animals"
   },
   {
     "word": "beef",
     "pos": "n.",
-    "chinese": "牛肉"
+    "chinese": "牛肉",
+    "topic": "Food & Drinks"
   },
   {
     "word": "before",
     "pos": "prep./conj./adv.",
-    "chinese": "在…之前"
+    "chinese": "在…之前",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "begin",
     "pos": "v.",
-    "chinese": "開始"
+    "chinese": "開始",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "behind",
     "pos": "prep./adv.",
-    "chinese": "在…後面"
+    "chinese": "在…後面",
+    "topic": "Places & Directions"
   },
   {
     "word": "believe",
     "pos": "v.",
-    "chinese": "相信"
+    "chinese": "相信",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "bell",
     "pos": "n.",
-    "chinese": "鈴；鐘"
+    "chinese": "鈴；鐘",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "belong",
     "pos": "v.",
-    "chinese": "屬於"
+    "chinese": "屬於",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "below",
     "pos": "prep./adv.",
-    "chinese": "在…下方"
+    "chinese": "在…下方",
+    "topic": "Places & Directions"
   },
   {
     "word": "belt",
     "pos": "n.",
-    "chinese": "皮帶"
+    "chinese": "皮帶",
+    "topic": "Clothing"
   },
   {
     "word": "bench",
     "pos": "n.",
-    "chinese": "長椅"
+    "chinese": "長椅",
+    "topic": "Housing"
   },
   {
     "word": "beside",
     "pos": "prep.",
-    "chinese": "在…旁邊"
+    "chinese": "在…旁邊",
+    "topic": "Places & Directions"
   },
   {
     "word": "between",
     "pos": "prep.",
-    "chinese": "在…之間"
+    "chinese": "在…之間",
+    "topic": "Places & Directions"
   },
   {
     "word": "bicycle",
     "pos": "n.",
-    "chinese": "腳踏車"
+    "chinese": "腳踏車",
+    "topic": "Transportation & Travel"
   },
   {
     "word": "big",
     "pos": "adj.",
-    "chinese": "大的"
+    "chinese": "大的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "bird",
     "pos": "n.",
-    "chinese": "鳥"
+    "chinese": "鳥",
+    "topic": "Animals"
   },
   {
     "word": "birthday",
     "pos": "n.",
-    "chinese": "生日"
+    "chinese": "生日",
+    "topic": "Time & Calendar"
   },
   {
     "word": "bite",
     "pos": "v./n.",
-    "chinese": "咬"
+    "chinese": "咬",
+    "topic": "Daily Activities"
   },
   {
     "word": "black",
     "pos": "adj./n.",
-    "chinese": "黑色的"
+    "chinese": "黑色的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "blackboard",
     "pos": "n.",
-    "chinese": "黑板"
+    "chinese": "黑板",
+    "topic": "School"
   },
   {
     "word": "blank",
     "pos": "adj./n.",
-    "chinese": "空白的；空格"
+    "chinese": "空白的；空格",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "blanket",
     "pos": "n.",
-    "chinese": "毯子"
+    "chinese": "毯子",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "blind",
     "pos": "adj.",
-    "chinese": "盲的"
+    "chinese": "盲的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "block",
     "pos": "n./v.",
-    "chinese": "街區；阻擋"
+    "chinese": "街區；阻擋",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "blow",
     "pos": "v.",
-    "chinese": "吹"
+    "chinese": "吹",
+    "topic": "Daily Activities"
   },
   {
     "word": "blue",
     "pos": "adj./n.",
-    "chinese": "藍色的"
+    "chinese": "藍色的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "boat",
     "pos": "n.",
-    "chinese": "船"
+    "chinese": "船",
+    "topic": "Transportation & Travel"
   },
   {
     "word": "body",
     "pos": "n.",
-    "chinese": "身體"
+    "chinese": "身體",
+    "topic": "Body"
   },
   {
     "word": "boil",
     "pos": "v.",
-    "chinese": "煮沸"
+    "chinese": "煮沸",
+    "topic": "Daily Activities"
   },
   {
     "word": "book",
     "pos": "n./v.",
-    "chinese": "書；預訂"
+    "chinese": "書；預訂",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "bookstore",
     "pos": "n.",
-    "chinese": "書店"
+    "chinese": "書店",
+    "topic": "Places & Directions"
   },
   {
     "word": "bored",
     "pos": "adj.",
-    "chinese": "感到無聊的"
+    "chinese": "感到無聊的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "boring",
     "pos": "adj.",
-    "chinese": "無聊的"
+    "chinese": "無聊的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "born",
     "pos": "adj.",
-    "chinese": "出生的"
+    "chinese": "出生的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "borrow",
     "pos": "v.",
-    "chinese": "借（入）"
+    "chinese": "借（入）",
+    "topic": "Daily Activities"
   },
   {
     "word": "boss",
     "pos": "n.",
-    "chinese": "老闆"
+    "chinese": "老闆",
+    "topic": "Work & Occupations"
   },
   {
     "word": "both",
     "pos": "adj./pron.",
-    "chinese": "兩者都"
+    "chinese": "兩者都",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "bottle",
     "pos": "n.",
-    "chinese": "瓶子"
+    "chinese": "瓶子",
+    "topic": "Shopping & Money"
   },
   {
     "word": "bottom",
     "pos": "n./adj.",
-    "chinese": "底部"
+    "chinese": "底部",
+    "topic": "Places & Directions"
   },
   {
     "word": "bow",
     "pos": "v./n.",
-    "chinese": "鞠躬；弓"
+    "chinese": "鞠躬；弓",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "bowl",
     "pos": "n.",
-    "chinese": "碗"
+    "chinese": "碗",
+    "topic": "Housing"
   },
   {
     "word": "box",
     "pos": "n.",
-    "chinese": "箱子"
+    "chinese": "箱子",
+    "topic": "Shopping & Money"
   },
   {
     "word": "boy",
     "pos": "n.",
-    "chinese": "男孩"
+    "chinese": "男孩",
+    "topic": "People"
   },
   {
     "word": "brave",
     "pos": "adj.",
-    "chinese": "勇敢的"
+    "chinese": "勇敢的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "bread",
     "pos": "n.",
-    "chinese": "麵包"
+    "chinese": "麵包",
+    "topic": "Food & Drinks"
   },
   {
     "word": "break",
     "pos": "v./n.",
-    "chinese": "打破；休息"
+    "chinese": "打破；休息",
+    "topic": "Daily Activities"
   },
   {
     "word": "breakfast",
     "pos": "n.",
-    "chinese": "早餐"
+    "chinese": "早餐",
+    "topic": "Food & Drinks"
   },
   {
     "word": "bridge",
     "pos": "n.",
-    "chinese": "橋"
+    "chinese": "橋",
+    "topic": "Transportation & Travel"
   },
   {
     "word": "bright",
     "pos": "adj.",
-    "chinese": "明亮的；聰明的"
+    "chinese": "明亮的；聰明的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "bring",
     "pos": "v.",
-    "chinese": "帶來"
+    "chinese": "帶來",
+    "topic": "Daily Activities"
   },
   {
     "word": "brother",
     "pos": "n.",
-    "chinese": "兄弟"
+    "chinese": "兄弟",
+    "topic": "Family"
   },
   {
     "word": "brown",
     "pos": "adj./n.",
-    "chinese": "棕色的"
+    "chinese": "棕色的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "brush",
     "pos": "n./v.",
-    "chinese": "刷子；刷"
+    "chinese": "刷子；刷",
+    "topic": "Daily Activities"
   },
   {
     "word": "bug",
     "pos": "n.",
-    "chinese": "蟲子"
+    "chinese": "蟲子",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "build",
     "pos": "v.",
-    "chinese": "建造"
+    "chinese": "建造",
+    "topic": "Daily Activities"
   },
   {
     "word": "bun",
     "pos": "n.",
-    "chinese": "小圓麵包"
+    "chinese": "小圓麵包",
+    "topic": "Food & Drinks"
   },
   {
     "word": "burn",
     "pos": "v.",
-    "chinese": "燃燒"
+    "chinese": "燃燒",
+    "topic": "Daily Activities"
   },
   {
     "word": "bus",
     "pos": "n.",
-    "chinese": "公車"
+    "chinese": "公車",
+    "topic": "Transportation & Travel"
   },
   {
     "word": "business",
     "pos": "n.",
-    "chinese": "生意；事務"
+    "chinese": "生意；事務",
+    "topic": "Work & Occupations"
   },
   {
     "word": "businessman",
     "pos": "n.",
-    "chinese": "商人"
+    "chinese": "商人",
+    "topic": "Work & Occupations"
   },
   {
     "word": "busy",
     "pos": "adj.",
-    "chinese": "忙碌的"
+    "chinese": "忙碌的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "but",
     "pos": "conj.",
-    "chinese": "但是"
+    "chinese": "但是",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "butter",
     "pos": "n.",
-    "chinese": "奶油"
+    "chinese": "奶油",
+    "topic": "Food & Drinks"
   },
   {
     "word": "butterfly",
     "pos": "n.",
-    "chinese": "蝴蝶"
+    "chinese": "蝴蝶",
+    "topic": "Animals"
   },
   {
     "word": "button",
     "pos": "n.",
-    "chinese": "按鈕；鈕扣"
+    "chinese": "按鈕；鈕扣",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "buy",
     "pos": "v.",
-    "chinese": "買"
+    "chinese": "買",
+    "topic": "Daily Activities"
   },
   {
     "word": "by",
     "pos": "prep.",
-    "chinese": "被；靠近；藉由"
+    "chinese": "被；靠近；藉由",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "cake",
     "pos": "n.",
-    "chinese": "蛋糕"
+    "chinese": "蛋糕",
+    "topic": "Food & Drinks"
   },
   {
     "word": "call",
     "pos": "v./n.",
-    "chinese": "打電話；稱呼"
+    "chinese": "打電話；稱呼",
+    "topic": "Daily Activities"
   },
   {
     "word": "camera",
     "pos": "n.",
-    "chinese": "相機"
+    "chinese": "相機",
+    "topic": "Communication & Technology"
   },
   {
     "word": "camp",
     "pos": "n./v.",
-    "chinese": "營地；露營"
+    "chinese": "營地；露營",
+    "topic": "Sports & Recreation"
   },
   {
     "word": "can",
     "pos": "modal v./n.",
-    "chinese": "能夠；罐頭"
+    "chinese": "能夠；罐頭",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "candle",
     "pos": "n.",
-    "chinese": "蠟燭"
+    "chinese": "蠟燭",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "candy",
     "pos": "n.",
-    "chinese": "糖果"
+    "chinese": "糖果",
+    "topic": "Food & Drinks"
   },
   {
     "word": "cap",
     "pos": "n.",
-    "chinese": "帽子（無邊）"
+    "chinese": "帽子（無邊）",
+    "topic": "Clothing"
   },
   {
     "word": "car",
     "pos": "n.",
-    "chinese": "汽車"
+    "chinese": "汽車",
+    "topic": "Transportation & Travel"
   },
   {
     "word": "card",
     "pos": "n.",
-    "chinese": "卡片"
+    "chinese": "卡片",
+    "topic": "Shopping & Money"
   },
   {
     "word": "care",
     "pos": "v./n.",
-    "chinese": "在意；照顧"
+    "chinese": "在意；照顧",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "careful",
     "pos": "adj.",
-    "chinese": "小心的"
+    "chinese": "小心的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "carry",
     "pos": "v.",
-    "chinese": "攜帶"
+    "chinese": "攜帶",
+    "topic": "Daily Activities"
   },
   {
     "word": "case",
     "pos": "n.",
-    "chinese": "情況；案例"
+    "chinese": "情況；案例",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "castle",
     "pos": "n.",
-    "chinese": "城堡"
+    "chinese": "城堡",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "cat",
     "pos": "n.",
-    "chinese": "貓"
+    "chinese": "貓",
+    "topic": "Animals"
   },
   {
     "word": "catch",
     "pos": "v.",
-    "chinese": "抓住"
+    "chinese": "抓住",
+    "topic": "Daily Activities"
   },
   {
     "word": "celebrate",
     "pos": "v.",
-    "chinese": "慶祝"
+    "chinese": "慶祝",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "cellphone",
     "pos": "n.",
-    "chinese": "手機"
+    "chinese": "手機",
+    "topic": "Communication & Technology"
   },
   {
     "word": "cent",
     "pos": "n.",
-    "chinese": "分（貨幣）"
+    "chinese": "分（貨幣）",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "center",
     "pos": "n.",
-    "chinese": "中心"
+    "chinese": "中心",
+    "topic": "Places & Directions"
   },
   {
     "word": "centimeter",
     "pos": "n.",
-    "chinese": "公分"
+    "chinese": "公分",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "chair",
     "pos": "n.",
-    "chinese": "椅子"
+    "chinese": "椅子",
+    "topic": "Housing"
   },
   {
     "word": "chalk",
     "pos": "n.",
-    "chinese": "粉筆"
+    "chinese": "粉筆",
+    "topic": "School"
   },
   {
     "word": "chance",
     "pos": "n.",
-    "chinese": "機會"
+    "chinese": "機會",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "change",
     "pos": "v./n.",
-    "chinese": "改變"
+    "chinese": "改變",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "cheap",
     "pos": "adj.",
-    "chinese": "便宜的"
+    "chinese": "便宜的",
+    "topic": "Shopping & Money"
   },
   {
     "word": "cheat",
     "pos": "v.",
-    "chinese": "作弊"
+    "chinese": "作弊",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "check",
     "pos": "v./n.",
-    "chinese": "檢查"
+    "chinese": "檢查",
+    "topic": "Daily Activities"
   },
   {
     "word": "cheer",
     "pos": "v./n.",
-    "chinese": "歡呼；加油"
+    "chinese": "歡呼；加油",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "cheese",
     "pos": "n.",
-    "chinese": "起司"
+    "chinese": "起司",
+    "topic": "Food & Drinks"
   },
   {
     "word": "chicken",
     "pos": "n.",
-    "chinese": "雞；雞肉"
+    "chinese": "雞；雞肉",
+    "topic": "Food & Drinks"
   },
   {
     "word": "child",
     "pos": "n.",
-    "chinese": "小孩"
+    "chinese": "小孩",
+    "topic": "Family"
   },
   {
     "word": "China",
     "pos": "n.",
-    "chinese": "中國"
+    "chinese": "中國",
+    "topic": "Places & Directions"
   },
   {
     "word": "Chinese",
     "pos": "adj./n.",
-    "chinese": "中文；中國人"
+    "chinese": "中文；中國人",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "chocolate",
     "pos": "n.",
-    "chinese": "巧克力"
+    "chinese": "巧克力",
+    "topic": "Food & Drinks"
   },
   {
     "word": "choice",
     "pos": "n.",
-    "chinese": "選擇"
+    "chinese": "選擇",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "choose",
     "pos": "v.",
-    "chinese": "選擇"
+    "chinese": "選擇",
+    "topic": "Daily Activities"
   },
   {
     "word": "chopsticks",
     "pos": "n.",
-    "chinese": "筷子"
+    "chinese": "筷子",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "Christmas",
     "pos": "n.",
-    "chinese": "聖誕節"
+    "chinese": "聖誕節",
+    "topic": "Time & Calendar"
   },
   {
     "word": "church",
     "pos": "n.",
-    "chinese": "教堂"
+    "chinese": "教堂",
+    "topic": "Places & Directions"
   },
   {
     "word": "circle",
     "pos": "n.",
-    "chinese": "圓形"
+    "chinese": "圓形",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "city",
     "pos": "n.",
-    "chinese": "城市"
+    "chinese": "城市",
+    "topic": "Places & Directions"
   },
   {
     "word": "clap",
     "pos": "v.",
-    "chinese": "拍手"
+    "chinese": "拍手",
+    "topic": "Daily Activities"
   },
   {
     "word": "class",
     "pos": "n.",
-    "chinese": "班級；課"
+    "chinese": "班級；課",
+    "topic": "School"
   },
   {
     "word": "classmate",
     "pos": "n.",
-    "chinese": "同班同學"
+    "chinese": "同班同學",
+    "topic": "School"
   },
   {
     "word": "classroom",
     "pos": "n.",
-    "chinese": "教室"
+    "chinese": "教室",
+    "topic": "School"
   },
   {
     "word": "clean",
     "pos": "adj./v.",
-    "chinese": "乾淨的；清潔"
+    "chinese": "乾淨的；清潔",
+    "topic": "Daily Activities"
   },
   {
     "word": "clear",
     "pos": "adj./v.",
-    "chinese": "清楚的；清除"
+    "chinese": "清楚的；清除",
+    "topic": "Personal characteristics"
   },
   {
     "word": "clerk",
     "pos": "n.",
-    "chinese": "店員；職員"
+    "chinese": "店員；職員",
+    "topic": "Work & Occupations"
   },
   {
     "word": "climb",
     "pos": "v.",
-    "chinese": "爬；攀登"
+    "chinese": "爬；攀登",
+    "topic": "Daily Activities"
   },
   {
     "word": "clock",
     "pos": "n.",
-    "chinese": "時鐘"
+    "chinese": "時鐘",
+    "topic": "Housing"
   },
   {
     "word": "close",
     "pos": "v./adj.",
-    "chinese": "關閉；靠近的"
+    "chinese": "關閉；靠近的",
+    "topic": "Daily Activities"
   },
   {
     "word": "clothes",
     "pos": "n.",
-    "chinese": "衣服"
+    "chinese": "衣服",
+    "topic": "Clothing"
   },
   {
     "word": "cloud",
     "pos": "n.",
-    "chinese": "雲"
+    "chinese": "雲",
+    "topic": "Nature & Weather"
   },
   {
     "word": "cloudy",
     "pos": "adj.",
-    "chinese": "多雲的"
+    "chinese": "多雲的",
+    "topic": "Nature & Weather"
   },
   {
     "word": "club",
     "pos": "n.",
-    "chinese": "社團；俱樂部"
+    "chinese": "社團；俱樂部",
+    "topic": "School"
   },
   {
     "word": "coat",
     "pos": "n.",
-    "chinese": "外套"
+    "chinese": "外套",
+    "topic": "Clothing"
   },
   {
     "word": "coffee",
     "pos": "n.",
-    "chinese": "咖啡"
+    "chinese": "咖啡",
+    "topic": "Food & Drinks"
   },
   {
     "word": "cold",
     "pos": "adj./n.",
-    "chinese": "冷的；感冒"
+    "chinese": "冷的；感冒",
+    "topic": "Health"
   },
   {
     "word": "collect",
     "pos": "v.",
-    "chinese": "收集"
+    "chinese": "收集",
+    "topic": "Daily Activities"
   },
   {
     "word": "color",
     "pos": "n./v.",
-    "chinese": "顏色；著色"
+    "chinese": "顏色；著色",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "comb",
     "pos": "n./v.",
-    "chinese": "梳子；梳頭"
+    "chinese": "梳子；梳頭",
+    "topic": "Housing"
   },
   {
     "word": "come",
     "pos": "v.",
-    "chinese": "來"
+    "chinese": "來",
+    "topic": "Daily Activities"
   },
   {
     "word": "comfortable",
     "pos": "adj.",
-    "chinese": "舒適的"
+    "chinese": "舒適的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "comic",
     "pos": "n./adj.",
-    "chinese": "漫畫；滑稽的"
+    "chinese": "漫畫；滑稽的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "common",
     "pos": "adj.",
-    "chinese": "普通的；常見的"
+    "chinese": "普通的；常見的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "computer",
     "pos": "n.",
-    "chinese": "電腦"
+    "chinese": "電腦",
+    "topic": "Communication & Technology"
   },
   {
     "word": "convenient",
     "pos": "adj.",
-    "chinese": "方便的"
+    "chinese": "方便的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "cook",
     "pos": "v./n.",
-    "chinese": "烹飪；廚師"
+    "chinese": "烹飪；廚師",
+    "topic": "Daily Activities"
   },
   {
     "word": "cookie",
     "pos": "n.",
-    "chinese": "餅乾"
+    "chinese": "餅乾",
+    "topic": "Food & Drinks"
   },
   {
     "word": "cool",
     "pos": "adj.",
-    "chinese": "涼爽的；酷的"
+    "chinese": "涼爽的；酷的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "copy",
     "pos": "v./n.",
-    "chinese": "複製；副本"
+    "chinese": "複製；副本",
+    "topic": "School"
   },
   {
     "word": "corner",
     "pos": "n.",
-    "chinese": "角落；轉角"
+    "chinese": "角落；轉角",
+    "topic": "Places & Directions"
   },
   {
     "word": "correct",
     "pos": "adj./v.",
-    "chinese": "正確的；更正"
+    "chinese": "正確的；更正",
+    "topic": "Personal characteristics"
   },
   {
     "word": "cost",
     "pos": "v./n.",
-    "chinese": "花費；費用"
+    "chinese": "花費；費用",
+    "topic": "Shopping & Money"
   },
   {
     "word": "couch",
     "pos": "n.",
-    "chinese": "沙發"
+    "chinese": "沙發",
+    "topic": "Housing"
   },
   {
     "word": "count",
     "pos": "v.",
-    "chinese": "計數"
+    "chinese": "計數",
+    "topic": "Daily Activities"
   },
   {
     "word": "country",
     "pos": "n.",
-    "chinese": "國家；鄉村"
+    "chinese": "國家；鄉村",
+    "topic": "Places & Directions"
   },
   {
     "word": "course",
     "pos": "n.",
-    "chinese": "課程；當然"
+    "chinese": "課程；當然",
+    "topic": "School"
   },
   {
     "word": "cousin",
     "pos": "n.",
-    "chinese": "堂（表）兄弟姊妹"
+    "chinese": "堂（表）兄弟姊妹",
+    "topic": "Family"
   },
   {
     "word": "cover",
     "pos": "v./n.",
-    "chinese": "覆蓋；封面"
+    "chinese": "覆蓋；封面",
+    "topic": "Daily Activities"
   },
   {
     "word": "cow",
     "pos": "n.",
-    "chinese": "牛"
+    "chinese": "牛",
+    "topic": "Animals"
   },
   {
     "word": "crazy",
     "pos": "adj.",
-    "chinese": "瘋狂的"
+    "chinese": "瘋狂的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "cross",
     "pos": "v./adj.",
-    "chinese": "越過；生氣的"
+    "chinese": "越過；生氣的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "cry",
     "pos": "v.",
-    "chinese": "哭泣"
+    "chinese": "哭泣",
+    "topic": "Daily Activities"
   },
   {
     "word": "cup",
     "pos": "n.",
-    "chinese": "杯子"
+    "chinese": "杯子",
+    "topic": "Housing"
   },
   {
     "word": "cut",
     "pos": "v./n.",
-    "chinese": "切"
+    "chinese": "切",
+    "topic": "Daily Activities"
   },
   {
     "word": "cute",
     "pos": "adj.",
-    "chinese": "可愛的"
+    "chinese": "可愛的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "dance",
     "pos": "v./n.",
-    "chinese": "跳舞"
+    "chinese": "跳舞",
+    "topic": "Sports & Recreation"
   },
   {
     "word": "dangerous",
     "pos": "adj.",
-    "chinese": "危險的"
+    "chinese": "危險的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "dark",
     "pos": "adj./n.",
-    "chinese": "黑暗的"
+    "chinese": "黑暗的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "date",
     "pos": "n.",
-    "chinese": "日期；約會"
+    "chinese": "日期；約會",
+    "topic": "Time & Calendar"
   },
   {
     "word": "daughter",
     "pos": "n.",
-    "chinese": "女兒"
+    "chinese": "女兒",
+    "topic": "Family"
   },
   {
     "word": "day",
     "pos": "n.",
-    "chinese": "天；白天"
+    "chinese": "天；白天",
+    "topic": "Time & Calendar"
   },
   {
     "word": "dead",
     "pos": "adj.",
-    "chinese": "死的"
+    "chinese": "死的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "deal",
     "pos": "n./v.",
-    "chinese": "交易；處理"
+    "chinese": "交易；處理",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "dear",
     "pos": "adj.",
-    "chinese": "親愛的"
+    "chinese": "親愛的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "death",
     "pos": "n.",
-    "chinese": "死亡"
+    "chinese": "死亡",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "December",
     "pos": "n.",
-    "chinese": "十二月"
+    "chinese": "十二月",
+    "topic": "Time & Calendar"
   },
   {
     "word": "decide",
     "pos": "v.",
-    "chinese": "決定"
+    "chinese": "決定",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "deep",
     "pos": "adj./adv.",
-    "chinese": "深的"
+    "chinese": "深的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "define",
     "pos": "v.",
-    "chinese": "定義"
+    "chinese": "定義",
+    "topic": "School"
   },
   {
     "word": "delicious",
     "pos": "adj.",
-    "chinese": "美味的"
+    "chinese": "美味的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "dentist",
     "pos": "n.",
-    "chinese": "牙醫"
+    "chinese": "牙醫",
+    "topic": "Work & Occupations"
   },
   {
     "word": "department store",
     "pos": "n.",
-    "chinese": "百貨公司"
+    "chinese": "百貨公司",
+    "topic": "Places & Directions"
   },
   {
     "word": "desk",
     "pos": "n.",
-    "chinese": "書桌"
+    "chinese": "書桌",
+    "topic": "Housing"
   },
   {
     "word": "dictionary",
     "pos": "n.",
-    "chinese": "字典"
+    "chinese": "字典",
+    "topic": "School"
   },
   {
     "word": "die",
     "pos": "v.",
-    "chinese": "死亡"
+    "chinese": "死亡",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "different",
     "pos": "adj.",
-    "chinese": "不同的"
+    "chinese": "不同的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "difficult",
     "pos": "adj.",
-    "chinese": "困難的"
+    "chinese": "困難的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "dig",
     "pos": "v.",
-    "chinese": "挖掘"
+    "chinese": "挖掘",
+    "topic": "Daily Activities"
   },
   {
     "word": "dining room",
     "pos": "n.",
-    "chinese": "餐廳"
+    "chinese": "餐廳",
+    "topic": "Housing"
   },
   {
     "word": "dinner",
     "pos": "n.",
-    "chinese": "晚餐"
+    "chinese": "晚餐",
+    "topic": "Food & Drinks"
   },
   {
     "word": "dirty",
     "pos": "adj.",
-    "chinese": "髒的"
+    "chinese": "髒的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "dish",
     "pos": "n.",
-    "chinese": "菜餚；盤子"
+    "chinese": "菜餚；盤子",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "do",
     "pos": "v.",
-    "chinese": "做"
+    "chinese": "做",
+    "topic": "Daily Activities"
   },
   {
     "word": "doctor",
     "pos": "n.",
-    "chinese": "醫生"
+    "chinese": "醫生",
+    "topic": "Work & Occupations"
   },
   {
     "word": "dog",
     "pos": "n.",
-    "chinese": "狗"
+    "chinese": "狗",
+    "topic": "Animals"
   },
   {
     "word": "doll",
     "pos": "n.",
-    "chinese": "洋娃娃"
+    "chinese": "洋娃娃",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "dollar",
     "pos": "n.",
-    "chinese": "元"
+    "chinese": "元",
+    "topic": "Shopping & Money"
   },
   {
     "word": "door",
     "pos": "n.",
-    "chinese": "門"
+    "chinese": "門",
+    "topic": "Housing"
   },
   {
     "word": "dot",
     "pos": "n.",
-    "chinese": "點"
+    "chinese": "點",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "down",
     "pos": "adv./prep.",
-    "chinese": "向下"
+    "chinese": "向下",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "download",
     "pos": "v./n.",
-    "chinese": "下載"
+    "chinese": "下載",
+    "topic": "Communication & Technology"
   },
   {
     "word": "dozen",
     "pos": "n.",
-    "chinese": "一打（十二個）"
+    "chinese": "一打（十二個）",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "draw",
     "pos": "v.",
-    "chinese": "畫"
+    "chinese": "畫",
+    "topic": "Daily Activities"
   },
   {
     "word": "drawer",
     "pos": "n.",
-    "chinese": "抽屜"
+    "chinese": "抽屜",
+    "topic": "Housing"
   },
   {
     "word": "dream",
     "pos": "n./v.",
-    "chinese": "夢；夢想"
+    "chinese": "夢；夢想",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "dress",
     "pos": "n./v.",
-    "chinese": "洋裝；穿衣"
+    "chinese": "洋裝；穿衣",
+    "topic": "Daily Activities"
   },
   {
     "word": "drink",
     "pos": "v./n.",
-    "chinese": "喝；飲料"
+    "chinese": "喝；飲料",
+    "topic": "Daily Activities"
   },
   {
     "word": "drive",
     "pos": "v.",
-    "chinese": "開車"
+    "chinese": "開車",
+    "topic": "Daily Activities"
   },
   {
     "word": "driver",
     "pos": "n.",
-    "chinese": "駕駛"
+    "chinese": "駕駛",
+    "topic": "Work & Occupations"
   },
   {
     "word": "drop",
     "pos": "v./n.",
-    "chinese": "掉落；滴"
+    "chinese": "掉落；滴",
+    "topic": "Daily Activities"
   },
   {
     "word": "drum",
     "pos": "n.",
-    "chinese": "鼓"
+    "chinese": "鼓",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "dry",
     "pos": "adj./v.",
-    "chinese": "乾的"
+    "chinese": "乾的",
+    "topic": "Daily Activities"
   },
   {
     "word": "duck",
     "pos": "n.",
-    "chinese": "鴨子"
+    "chinese": "鴨子",
+    "topic": "Animals"
   },
   {
     "word": "during",
     "pos": "prep.",
-    "chinese": "在…期間"
+    "chinese": "在…期間",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "each",
     "pos": "adj./pron.",
-    "chinese": "每個"
+    "chinese": "每個",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "ear",
     "pos": "n.",
-    "chinese": "耳朵"
+    "chinese": "耳朵",
+    "topic": "Body"
   },
   {
     "word": "early",
     "pos": "adj./adv.",
-    "chinese": "早的"
+    "chinese": "早的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "earth",
     "pos": "n.",
-    "chinese": "地球；土地"
+    "chinese": "地球；土地",
+    "topic": "Nature & Weather"
   },
   {
     "word": "earthquake",
     "pos": "n.",
-    "chinese": "地震"
+    "chinese": "地震",
+    "topic": "Nature & Weather"
   },
   {
     "word": "east",
     "pos": "n./adj.",
-    "chinese": "東方"
+    "chinese": "東方",
+    "topic": "Places & Directions"
   },
   {
     "word": "Easter",
     "pos": "n.",
-    "chinese": "復活節"
+    "chinese": "復活節",
+    "topic": "Time & Calendar"
   },
   {
     "word": "easy",
     "pos": "adj.",
-    "chinese": "容易的"
+    "chinese": "容易的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "eat",
     "pos": "v.",
-    "chinese": "吃"
+    "chinese": "吃",
+    "topic": "Daily Activities"
   },
   {
     "word": "egg",
     "pos": "n.",
-    "chinese": "蛋"
+    "chinese": "蛋",
+    "topic": "Food & Drinks"
   },
   {
     "word": "eight",
     "pos": "num.",
-    "chinese": "八"
+    "chinese": "八",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "eighteen",
     "pos": "num.",
-    "chinese": "十八"
+    "chinese": "十八",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "eighty",
     "pos": "num.",
-    "chinese": "八十"
+    "chinese": "八十",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "either",
     "pos": "adj./pron./conj.",
-    "chinese": "任一；也（不）"
+    "chinese": "任一；也（不）",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "elementary school",
     "pos": "n.",
-    "chinese": "小學"
+    "chinese": "小學",
+    "topic": "School"
   },
   {
     "word": "elephant",
     "pos": "n.",
-    "chinese": "大象"
+    "chinese": "大象",
+    "topic": "Animals"
   },
   {
     "word": "eleven",
     "pos": "num.",
-    "chinese": "十一"
+    "chinese": "十一",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "else",
     "pos": "adj./adv.",
-    "chinese": "其他的；否則"
+    "chinese": "其他的；否則",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "e-mail",
     "pos": "n./v.",
-    "chinese": "電子郵件"
+    "chinese": "電子郵件",
+    "topic": "Communication & Technology"
   },
   {
     "word": "end",
     "pos": "n./v.",
-    "chinese": "結束；末端"
+    "chinese": "結束；末端",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "engineer",
     "pos": "n.",
-    "chinese": "工程師"
+    "chinese": "工程師",
+    "topic": "Work & Occupations"
   },
   {
     "word": "English",
     "pos": "n./adj.",
-    "chinese": "英語；英語的"
+    "chinese": "英語；英語的",
+    "topic": "School"
   },
   {
     "word": "enjoy",
     "pos": "v.",
-    "chinese": "享受"
+    "chinese": "享受",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "enough",
     "pos": "adj./adv.",
-    "chinese": "足夠的"
+    "chinese": "足夠的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "enter",
     "pos": "v.",
-    "chinese": "進入"
+    "chinese": "進入",
+    "topic": "Daily Activities"
   },
   {
     "word": "envelope",
     "pos": "n.",
-    "chinese": "信封"
+    "chinese": "信封",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "eraser",
     "pos": "n.",
-    "chinese": "橡皮擦"
+    "chinese": "橡皮擦",
+    "topic": "School"
   },
   {
     "word": "error",
     "pos": "n.",
-    "chinese": "錯誤"
+    "chinese": "錯誤",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "eve",
     "pos": "n.",
-    "chinese": "前夕"
+    "chinese": "前夕",
+    "topic": "Time & Calendar"
   },
   {
     "word": "even",
     "pos": "adv./adj.",
-    "chinese": "甚至；平的"
+    "chinese": "甚至；平的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "evening",
     "pos": "n.",
-    "chinese": "傍晚；晚上"
+    "chinese": "傍晚；晚上",
+    "topic": "Time & Calendar"
   },
   {
     "word": "ever",
     "pos": "adv.",
-    "chinese": "曾經；永遠"
+    "chinese": "曾經；永遠",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "every",
     "pos": "adj.",
-    "chinese": "每個"
+    "chinese": "每個",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "everyone",
     "pos": "pron.",
-    "chinese": "每個人"
+    "chinese": "每個人",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "everything",
     "pos": "pron.",
-    "chinese": "每件事"
+    "chinese": "每件事",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "example",
     "pos": "n.",
-    "chinese": "例子"
+    "chinese": "例子",
+    "topic": "School"
   },
   {
     "word": "excellent",
     "pos": "adj.",
-    "chinese": "優秀的"
+    "chinese": "優秀的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "except",
     "pos": "prep./conj.",
-    "chinese": "除了"
+    "chinese": "除了",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "excited",
     "pos": "adj.",
-    "chinese": "感到興奮的"
+    "chinese": "感到興奮的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "exciting",
     "pos": "adj.",
-    "chinese": "令人興奮的"
+    "chinese": "令人興奮的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "excuse",
     "pos": "n./v.",
-    "chinese": "藉口；原諒"
+    "chinese": "藉口；原諒",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "exercise",
     "pos": "n./v.",
-    "chinese": "運動；練習"
+    "chinese": "運動；練習",
+    "topic": "School"
   },
   {
     "word": "expect",
     "pos": "v.",
-    "chinese": "期待"
+    "chinese": "期待",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "expensive",
     "pos": "adj.",
-    "chinese": "昂貴的"
+    "chinese": "昂貴的",
+    "topic": "Shopping & Money"
   },
   {
     "word": "experience",
     "pos": "n./v.",
-    "chinese": "經驗；體驗"
+    "chinese": "經驗；體驗",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "explain",
     "pos": "v.",
-    "chinese": "解釋"
+    "chinese": "解釋",
+    "topic": "Daily Activities"
   },
   {
     "word": "eye",
     "pos": "n.",
-    "chinese": "眼睛"
+    "chinese": "眼睛",
+    "topic": "Body"
   },
   {
     "word": "face",
     "pos": "n./v.",
-    "chinese": "臉；面對"
+    "chinese": "臉；面對",
+    "topic": "Body"
   },
   {
     "word": "fact",
     "pos": "n.",
-    "chinese": "事實"
+    "chinese": "事實",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "factory",
     "pos": "n.",
-    "chinese": "工廠"
+    "chinese": "工廠",
+    "topic": "Places & Directions"
   },
   {
     "word": "fail",
     "pos": "v.",
-    "chinese": "失敗"
+    "chinese": "失敗",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "fall",
     "pos": "v./n.",
-    "chinese": "落下；秋天"
+    "chinese": "落下；秋天",
+    "topic": "Daily Activities"
   },
   {
     "word": "family",
     "pos": "n.",
-    "chinese": "家庭"
+    "chinese": "家庭",
+    "topic": "Family"
   },
   {
     "word": "famous",
     "pos": "adj.",
-    "chinese": "著名的"
+    "chinese": "著名的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "fan",
     "pos": "n.",
-    "chinese": "風扇；粉絲"
+    "chinese": "風扇；粉絲",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "far",
     "pos": "adj./adv.",
-    "chinese": "遠的"
+    "chinese": "遠的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "farm",
     "pos": "n.",
-    "chinese": "農場"
+    "chinese": "農場",
+    "topic": "Places & Directions"
   },
   {
     "word": "farmer",
     "pos": "n.",
-    "chinese": "農夫"
+    "chinese": "農夫",
+    "topic": "Work & Occupations"
   },
   {
     "word": "fast",
     "pos": "adj./adv.",
-    "chinese": "快的"
+    "chinese": "快的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "fat",
     "pos": "adj./n.",
-    "chinese": "胖的；脂肪"
+    "chinese": "胖的；脂肪",
+    "topic": "Personal characteristics"
   },
   {
     "word": "father",
     "pos": "n.",
-    "chinese": "父親"
+    "chinese": "父親",
+    "topic": "Family"
   },
   {
     "word": "favorite",
     "pos": "adj./n.",
-    "chinese": "最喜歡的"
+    "chinese": "最喜歡的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "February",
     "pos": "n.",
-    "chinese": "二月"
+    "chinese": "二月",
+    "topic": "Time & Calendar"
   },
   {
     "word": "feed",
     "pos": "v.",
-    "chinese": "餵食"
+    "chinese": "餵食",
+    "topic": "Daily Activities"
   },
   {
     "word": "feel",
     "pos": "v.",
-    "chinese": "感覺"
+    "chinese": "感覺",
+    "topic": "Daily Activities"
   },
   {
     "word": "festival",
     "pos": "n.",
-    "chinese": "節日"
+    "chinese": "節日",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "fever",
     "pos": "n.",
-    "chinese": "發燒"
+    "chinese": "發燒",
+    "topic": "Health"
   },
   {
     "word": "few",
     "pos": "adj./pron.",
-    "chinese": "少數的"
+    "chinese": "少數的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "fifteen",
     "pos": "num.",
-    "chinese": "十五"
+    "chinese": "十五",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "fifty",
     "pos": "num.",
-    "chinese": "五十"
+    "chinese": "五十",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "fight",
     "pos": "v./n.",
-    "chinese": "打架；戰鬥"
+    "chinese": "打架；戰鬥",
+    "topic": "Daily Activities"
   },
   {
     "word": "file",
     "pos": "n./v.",
-    "chinese": "檔案；歸檔"
+    "chinese": "檔案；歸檔",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "fill",
     "pos": "v.",
-    "chinese": "填滿"
+    "chinese": "填滿",
+    "topic": "Daily Activities"
   },
   {
     "word": "finally",
     "pos": "adv.",
-    "chinese": "最後；終於"
+    "chinese": "最後；終於",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "find",
     "pos": "v.",
-    "chinese": "找到；發現"
+    "chinese": "找到；發現",
+    "topic": "Daily Activities"
   },
   {
     "word": "fine",
     "pos": "adj.",
-    "chinese": "好的"
+    "chinese": "好的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "finger",
     "pos": "n.",
-    "chinese": "手指"
+    "chinese": "手指",
+    "topic": "Body"
   },
   {
     "word": "finish",
     "pos": "v./n.",
-    "chinese": "完成；結束"
+    "chinese": "完成；結束",
+    "topic": "Daily Activities"
   },
   {
     "word": "fire",
     "pos": "n./v.",
-    "chinese": "火"
+    "chinese": "火",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "first",
     "pos": "adj./adv.",
-    "chinese": "第一；首先"
+    "chinese": "第一；首先",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "fish",
     "pos": "n./v.",
-    "chinese": "魚；釣魚"
+    "chinese": "魚；釣魚",
+    "topic": "Animals"
   },
   {
     "word": "fisherman",
     "pos": "n.",
-    "chinese": "漁夫"
+    "chinese": "漁夫",
+    "topic": "Work & Occupations"
   },
   {
     "word": "five",
     "pos": "num.",
-    "chinese": "五"
+    "chinese": "五",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "fix",
     "pos": "v.",
-    "chinese": "修理；固定"
+    "chinese": "修理；固定",
+    "topic": "Daily Activities"
   },
   {
     "word": "floor",
     "pos": "n.",
-    "chinese": "地板；樓層"
+    "chinese": "地板；樓層",
+    "topic": "Housing"
   },
   {
     "word": "flower",
     "pos": "n.",
-    "chinese": "花"
+    "chinese": "花",
+    "topic": "Nature & Weather"
   },
   {
     "word": "fly",
     "pos": "v./n.",
-    "chinese": "飛；蒼蠅"
+    "chinese": "飛；蒼蠅",
+    "topic": "Daily Activities"
   },
   {
     "word": "follow",
     "pos": "v.",
-    "chinese": "跟隨；遵循"
+    "chinese": "跟隨；遵循",
+    "topic": "Daily Activities"
   },
   {
     "word": "food",
     "pos": "n.",
-    "chinese": "食物"
+    "chinese": "食物",
+    "topic": "Food & Drinks"
   },
   {
     "word": "fool",
     "pos": "n./v.",
-    "chinese": "傻瓜；愚弄"
+    "chinese": "傻瓜；愚弄",
+    "topic": "People"
   },
   {
     "word": "foot",
     "pos": "n.",
-    "chinese": "腳；英尺"
+    "chinese": "腳；英尺",
+    "topic": "Body"
   },
   {
     "word": "for",
     "pos": "prep.",
-    "chinese": "為了；對於"
+    "chinese": "為了；對於",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "foreign",
     "pos": "adj.",
-    "chinese": "外國的"
+    "chinese": "外國的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "foreigner",
     "pos": "n.",
-    "chinese": "外國人"
+    "chinese": "外國人",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "forget",
     "pos": "v.",
-    "chinese": "忘記"
+    "chinese": "忘記",
+    "topic": "Daily Activities"
   },
   {
     "word": "fork",
     "pos": "n.",
-    "chinese": "叉子"
+    "chinese": "叉子",
+    "topic": "Housing"
   },
   {
     "word": "forty",
     "pos": "num.",
-    "chinese": "四十"
+    "chinese": "四十",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "four",
     "pos": "num.",
-    "chinese": "四"
+    "chinese": "四",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "fourteen",
     "pos": "num.",
-    "chinese": "十四"
+    "chinese": "十四",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "fox",
     "pos": "n.",
-    "chinese": "狐狸"
+    "chinese": "狐狸",
+    "topic": "Animals"
   },
   {
     "word": "free",
     "pos": "adj.",
-    "chinese": "自由的；免費的"
+    "chinese": "自由的；免費的",
+    "topic": "Shopping & Money"
   },
   {
     "word": "fresh",
     "pos": "adj.",
-    "chinese": "新鮮的"
+    "chinese": "新鮮的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "Friday",
     "pos": "n.",
-    "chinese": "星期五"
+    "chinese": "星期五",
+    "topic": "Time & Calendar"
   },
   {
     "word": "friend",
     "pos": "n.",
-    "chinese": "朋友"
+    "chinese": "朋友",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "friendly",
     "pos": "adj.",
-    "chinese": "友善的"
+    "chinese": "友善的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "fries",
     "pos": "n.",
-    "chinese": "薯條"
+    "chinese": "薯條",
+    "topic": "Food & Drinks"
   },
   {
     "word": "frog",
     "pos": "n.",
-    "chinese": "青蛙"
+    "chinese": "青蛙",
+    "topic": "Animals"
   },
   {
     "word": "from",
     "pos": "prep.",
-    "chinese": "從；來自"
+    "chinese": "從；來自",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "front",
     "pos": "n./adj.",
-    "chinese": "前面"
+    "chinese": "前面",
+    "topic": "Places & Directions"
   },
   {
     "word": "fruit",
     "pos": "n.",
-    "chinese": "水果"
+    "chinese": "水果",
+    "topic": "Food & Drinks"
   },
   {
     "word": "fry",
     "pos": "v.",
-    "chinese": "油炸"
+    "chinese": "油炸",
+    "topic": "Daily Activities"
   },
   {
     "word": "full",
     "pos": "adj.",
-    "chinese": "滿的；飽的"
+    "chinese": "滿的；飽的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "fun",
     "pos": "n./adj.",
-    "chinese": "樂趣；有趣的"
+    "chinese": "樂趣；有趣的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "funny",
     "pos": "adj.",
-    "chinese": "好笑的；奇怪的"
+    "chinese": "好笑的；奇怪的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "future",
     "pos": "n./adj.",
-    "chinese": "未來"
+    "chinese": "未來",
+    "topic": "Time & Calendar"
   },
   {
     "word": "game",
     "pos": "n.",
-    "chinese": "遊戲；比賽"
+    "chinese": "遊戲；比賽",
+    "topic": "Sports & Recreation"
   },
   {
     "word": "garden",
     "pos": "n.",
-    "chinese": "花園"
+    "chinese": "花園",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "garbage",
     "pos": "n.",
-    "chinese": "垃圾"
+    "chinese": "垃圾",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "gas",
     "pos": "n.",
-    "chinese": "瓦斯；氣體"
+    "chinese": "瓦斯；氣體",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "gate",
     "pos": "n.",
-    "chinese": "大門"
+    "chinese": "大門",
+    "topic": "Places & Directions"
   },
   {
     "word": "get",
     "pos": "v.",
-    "chinese": "得到；到達"
+    "chinese": "得到；到達",
+    "topic": "Daily Activities"
   },
   {
     "word": "ghost",
     "pos": "n.",
-    "chinese": "鬼"
+    "chinese": "鬼",
+    "topic": "Animals"
   },
   {
     "word": "giant",
     "pos": "n./adj.",
-    "chinese": "巨人；巨大的"
+    "chinese": "巨人；巨大的",
+    "topic": "People"
   },
   {
     "word": "gift",
     "pos": "n.",
-    "chinese": "禮物"
+    "chinese": "禮物",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "girl",
     "pos": "n.",
-    "chinese": "女孩"
+    "chinese": "女孩",
+    "topic": "People"
   },
   {
     "word": "give",
     "pos": "v.",
-    "chinese": "給"
+    "chinese": "給",
+    "topic": "Daily Activities"
   },
   {
     "word": "glad",
     "pos": "adj.",
-    "chinese": "高興的"
+    "chinese": "高興的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "glass",
     "pos": "n.",
-    "chinese": "玻璃；玻璃杯"
+    "chinese": "玻璃；玻璃杯",
+    "topic": "Housing"
   },
   {
     "word": "glasses",
     "pos": "n.",
-    "chinese": "眼鏡"
+    "chinese": "眼鏡",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "glove",
     "pos": "n.",
-    "chinese": "手套"
+    "chinese": "手套",
+    "topic": "Clothing"
   },
   {
     "word": "glue",
     "pos": "n./v.",
-    "chinese": "膠水；黏合"
+    "chinese": "膠水；黏合",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "go",
     "pos": "v.",
-    "chinese": "去"
+    "chinese": "去",
+    "topic": "Daily Activities"
   },
   {
     "word": "goat",
     "pos": "n.",
-    "chinese": "山羊"
+    "chinese": "山羊",
+    "topic": "Animals"
   },
   {
     "word": "god",
     "pos": "n.",
-    "chinese": "神；上帝"
+    "chinese": "神；上帝",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "good",
     "pos": "adj.",
-    "chinese": "好的"
+    "chinese": "好的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "good-bye",
     "pos": "interj.",
-    "chinese": "再見"
+    "chinese": "再見",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "goose",
     "pos": "n.",
-    "chinese": "鵝"
+    "chinese": "鵝",
+    "topic": "Animals"
   },
   {
     "word": "grade",
     "pos": "n.",
-    "chinese": "年級；成績"
+    "chinese": "年級；成績",
+    "topic": "School"
   },
   {
     "word": "gram",
     "pos": "n.",
-    "chinese": "公克"
+    "chinese": "公克",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "grandfather",
     "pos": "n.",
-    "chinese": "祖父"
+    "chinese": "祖父",
+    "topic": "Family"
   },
   {
     "word": "grandmother",
     "pos": "n.",
-    "chinese": "祖母"
+    "chinese": "祖母",
+    "topic": "Family"
   },
   {
     "word": "grape",
     "pos": "n.",
-    "chinese": "葡萄"
+    "chinese": "葡萄",
+    "topic": "Food & Drinks"
   },
   {
     "word": "grass",
     "pos": "n.",
-    "chinese": "草"
+    "chinese": "草",
+    "topic": "Nature & Weather"
   },
   {
     "word": "gray",
     "pos": "adj./n.",
-    "chinese": "灰色的"
+    "chinese": "灰色的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "great",
     "pos": "adj.",
-    "chinese": "很棒的；偉大的"
+    "chinese": "很棒的；偉大的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "green",
     "pos": "adj./n.",
-    "chinese": "綠色的"
+    "chinese": "綠色的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "ground",
     "pos": "n.",
-    "chinese": "地面"
+    "chinese": "地面",
+    "topic": "Nature & Weather"
   },
   {
     "word": "group",
     "pos": "n.",
-    "chinese": "群組；團體"
+    "chinese": "群組；團體",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "grow",
     "pos": "v.",
-    "chinese": "生長；成長"
+    "chinese": "生長；成長",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "guava",
     "pos": "n.",
-    "chinese": "芭樂"
+    "chinese": "芭樂",
+    "topic": "Food & Drinks"
   },
   {
     "word": "guess",
     "pos": "v./n.",
-    "chinese": "猜測"
+    "chinese": "猜測",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "guitar",
     "pos": "n.",
-    "chinese": "吉他"
+    "chinese": "吉他",
+    "topic": "Sports & Recreation"
   },
   {
     "word": "guy",
     "pos": "n.",
-    "chinese": "傢伙；男生"
+    "chinese": "傢伙；男生",
+    "topic": "People"
   },
   {
     "word": "gym",
     "pos": "n.",
-    "chinese": "體育館"
+    "chinese": "體育館",
+    "topic": "School"
   },
   {
     "word": "habit",
     "pos": "n.",
-    "chinese": "習慣"
+    "chinese": "習慣",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "hair",
     "pos": "n.",
-    "chinese": "頭髮"
+    "chinese": "頭髮",
+    "topic": "Body"
   },
   {
     "word": "half",
     "pos": "n./adj.",
-    "chinese": "一半"
+    "chinese": "一半",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "Halloween",
     "pos": "n.",
-    "chinese": "萬聖節"
+    "chinese": "萬聖節",
+    "topic": "Time & Calendar"
   },
   {
     "word": "ham",
     "pos": "n.",
-    "chinese": "火腿"
+    "chinese": "火腿",
+    "topic": "Food & Drinks"
   },
   {
     "word": "hamburger",
     "pos": "n.",
-    "chinese": "漢堡"
+    "chinese": "漢堡",
+    "topic": "Food & Drinks"
   },
   {
     "word": "hand",
     "pos": "n.",
-    "chinese": "手"
+    "chinese": "手",
+    "topic": "Body"
   },
   {
     "word": "handsome",
     "pos": "adj.",
-    "chinese": "英俊的"
+    "chinese": "英俊的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "hang",
     "pos": "v.",
-    "chinese": "掛；懸掛"
+    "chinese": "掛；懸掛",
+    "topic": "Daily Activities"
   },
   {
     "word": "happen",
     "pos": "v.",
-    "chinese": "發生"
+    "chinese": "發生",
+    "topic": "Daily Activities"
   },
   {
     "word": "happy",
     "pos": "adj.",
-    "chinese": "快樂的"
+    "chinese": "快樂的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "hard",
     "pos": "adj./adv.",
-    "chinese": "困難的；努力地"
+    "chinese": "困難的；努力地",
+    "topic": "Personal characteristics"
   },
   {
     "word": "hard-working",
     "pos": "adj.",
-    "chinese": "勤勞的"
+    "chinese": "勤勞的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "hat",
     "pos": "n.",
-    "chinese": "帽子（有邊）"
+    "chinese": "帽子（有邊）",
+    "topic": "Clothing"
   },
   {
     "word": "hate",
     "pos": "v.",
-    "chinese": "討厭"
+    "chinese": "討厭",
+    "topic": "Daily Activities"
   },
   {
     "word": "have",
     "pos": "v.",
-    "chinese": "有；吃"
+    "chinese": "有；吃",
+    "topic": "Daily Activities"
   },
   {
     "word": "he",
     "pos": "pron.",
-    "chinese": "他"
+    "chinese": "他",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "head",
     "pos": "n.",
-    "chinese": "頭"
+    "chinese": "頭",
+    "topic": "Body"
   },
   {
     "word": "headache",
     "pos": "n.",
-    "chinese": "頭痛"
+    "chinese": "頭痛",
+    "topic": "Health"
   },
   {
     "word": "health",
     "pos": "n.",
-    "chinese": "健康"
+    "chinese": "健康",
+    "topic": "Health"
   },
   {
     "word": "healthy",
     "pos": "adj.",
-    "chinese": "健康的"
+    "chinese": "健康的",
+    "topic": "Health"
   },
   {
     "word": "hear",
     "pos": "v.",
-    "chinese": "聽到"
+    "chinese": "聽到",
+    "topic": "Daily Activities"
   },
   {
     "word": "heart",
     "pos": "n.",
-    "chinese": "心臟；心"
+    "chinese": "心臟；心",
+    "topic": "Body"
   },
   {
     "word": "heat",
     "pos": "n./v.",
-    "chinese": "熱；加熱"
+    "chinese": "熱；加熱",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "heavy",
     "pos": "adj.",
-    "chinese": "重的"
+    "chinese": "重的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "height",
     "pos": "n.",
-    "chinese": "高度"
+    "chinese": "高度",
+    "topic": "Body"
   },
   {
     "word": "hello",
     "pos": "interj.",
-    "chinese": "你好"
+    "chinese": "你好",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "help",
     "pos": "v./n.",
-    "chinese": "幫助"
+    "chinese": "幫助",
+    "topic": "Daily Activities"
   },
   {
     "word": "helpful",
     "pos": "adj.",
-    "chinese": "有幫助的"
+    "chinese": "有幫助的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "hen",
     "pos": "n.",
-    "chinese": "母雞"
+    "chinese": "母雞",
+    "topic": "Animals"
   },
   {
     "word": "here",
     "pos": "adv.",
-    "chinese": "這裡"
+    "chinese": "這裡",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "hey",
     "pos": "interj.",
-    "chinese": "嘿"
+    "chinese": "嘿",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "hi",
     "pos": "interj.",
-    "chinese": "嗨"
+    "chinese": "嗨",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "hide",
     "pos": "v.",
-    "chinese": "躲藏；隱藏"
+    "chinese": "躲藏；隱藏",
+    "topic": "Daily Activities"
   },
   {
     "word": "high",
     "pos": "adj./adv.",
-    "chinese": "高的"
+    "chinese": "高的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "hike",
     "pos": "v./n.",
-    "chinese": "健行"
+    "chinese": "健行",
+    "topic": "Sports & Recreation"
   },
   {
     "word": "hill",
     "pos": "n.",
-    "chinese": "小山"
+    "chinese": "小山",
+    "topic": "Nature & Weather"
   },
   {
     "word": "history",
     "pos": "n.",
-    "chinese": "歷史"
+    "chinese": "歷史",
+    "topic": "School"
   },
   {
     "word": "hit",
     "pos": "v./n.",
-    "chinese": "打；擊中"
+    "chinese": "打；擊中",
+    "topic": "Daily Activities"
   },
   {
     "word": "hobby",
     "pos": "n.",
-    "chinese": "嗜好"
+    "chinese": "嗜好",
+    "topic": "Sports & Recreation"
   },
   {
     "word": "hold",
     "pos": "v.",
-    "chinese": "握住；舉辦"
+    "chinese": "握住；舉辦",
+    "topic": "Daily Activities"
   },
   {
     "word": "holiday",
     "pos": "n.",
-    "chinese": "假日"
+    "chinese": "假日",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "home",
     "pos": "n./adv.",
-    "chinese": "家；回家"
+    "chinese": "家；回家",
+    "topic": "Housing"
   },
   {
     "word": "homework",
     "pos": "n.",
-    "chinese": "作業"
+    "chinese": "作業",
+    "topic": "School"
   },
   {
     "word": "honest",
     "pos": "adj.",
-    "chinese": "誠實的"
+    "chinese": "誠實的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "honey",
     "pos": "n.",
-    "chinese": "蜂蜜；親愛的"
+    "chinese": "蜂蜜；親愛的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "hope",
     "pos": "v./n.",
-    "chinese": "希望"
+    "chinese": "希望",
+    "topic": "Daily Activities"
   },
   {
     "word": "horse",
     "pos": "n.",
-    "chinese": "馬"
+    "chinese": "馬",
+    "topic": "Animals"
   },
   {
     "word": "hospital",
     "pos": "n.",
-    "chinese": "醫院"
+    "chinese": "醫院",
+    "topic": "Places & Directions"
   },
   {
     "word": "hot",
     "pos": "adj.",
-    "chinese": "熱的；辣的"
+    "chinese": "熱的；辣的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "hot dog",
     "pos": "n.",
-    "chinese": "熱狗"
+    "chinese": "熱狗",
+    "topic": "Food & Drinks"
   },
   {
     "word": "hotel",
     "pos": "n.",
-    "chinese": "飯店"
+    "chinese": "飯店",
+    "topic": "Places & Directions"
   },
   {
     "word": "hour",
     "pos": "n.",
-    "chinese": "小時"
+    "chinese": "小時",
+    "topic": "Time & Calendar"
   },
   {
     "word": "house",
     "pos": "n.",
-    "chinese": "房子"
+    "chinese": "房子",
+    "topic": "Housing"
   },
   {
     "word": "housewife",
     "pos": "n.",
-    "chinese": "家庭主婦"
+    "chinese": "家庭主婦",
+    "topic": "Work & Occupations"
   },
   {
     "word": "how",
     "pos": "adv.",
-    "chinese": "如何；多麼"
+    "chinese": "如何；多麼",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "however",
     "pos": "adv./conj.",
-    "chinese": "然而"
+    "chinese": "然而",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "hundred",
     "pos": "num.",
-    "chinese": "百"
+    "chinese": "百",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "hungry",
     "pos": "adj.",
-    "chinese": "饑餓的"
+    "chinese": "饑餓的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "hunt",
     "pos": "v.",
-    "chinese": "打獵；搜尋"
+    "chinese": "打獵；搜尋",
+    "topic": "Daily Activities"
   },
   {
     "word": "hurry",
     "pos": "v./n.",
-    "chinese": "趕快；匆忙"
+    "chinese": "趕快；匆忙",
+    "topic": "Daily Activities"
   },
   {
     "word": "hurt",
     "pos": "v.",
-    "chinese": "傷害；疼痛"
+    "chinese": "傷害；疼痛",
+    "topic": "Daily Activities"
   },
   {
     "word": "husband",
     "pos": "n.",
-    "chinese": "丈夫"
+    "chinese": "丈夫",
+    "topic": "Family"
   },
   {
     "word": "I",
     "pos": "pron.",
-    "chinese": "我"
+    "chinese": "我",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "ice",
     "pos": "n.",
-    "chinese": "冰"
+    "chinese": "冰",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "ice cream",
     "pos": "n.",
-    "chinese": "冰淇淋"
+    "chinese": "冰淇淋",
+    "topic": "Food & Drinks"
   },
   {
     "word": "idea",
     "pos": "n.",
-    "chinese": "想法；點子"
+    "chinese": "想法；點子",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "if",
     "pos": "conj.",
-    "chinese": "如果"
+    "chinese": "如果",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "important",
     "pos": "adj.",
-    "chinese": "重要的"
+    "chinese": "重要的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "in",
     "pos": "prep.",
-    "chinese": "在…裡面"
+    "chinese": "在…裡面",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "inch",
     "pos": "n.",
-    "chinese": "英寸"
+    "chinese": "英寸",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "insect",
     "pos": "n.",
-    "chinese": "昆蟲"
+    "chinese": "昆蟲",
+    "topic": "Animals"
   },
   {
     "word": "inside",
     "pos": "prep./adv.",
-    "chinese": "在裡面"
+    "chinese": "在裡面",
+    "topic": "Places & Directions"
   },
   {
     "word": "interest",
     "pos": "n./v.",
-    "chinese": "興趣；使感興趣"
+    "chinese": "興趣；使感興趣",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "interested",
     "pos": "adj.",
-    "chinese": "感興趣的"
+    "chinese": "感興趣的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "interesting",
     "pos": "adj.",
-    "chinese": "有趣的"
+    "chinese": "有趣的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "Internet",
     "pos": "n.",
-    "chinese": "網際網路"
+    "chinese": "網際網路",
+    "topic": "Communication & Technology"
   },
   {
     "word": "interview",
     "pos": "n./v.",
-    "chinese": "採訪；面試"
+    "chinese": "採訪；面試",
+    "topic": "Communication & Technology"
   },
   {
     "word": "into",
     "pos": "prep.",
-    "chinese": "進入"
+    "chinese": "進入",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "invite",
     "pos": "v.",
-    "chinese": "邀請"
+    "chinese": "邀請",
+    "topic": "Daily Activities"
   },
   {
     "word": "island",
     "pos": "n.",
-    "chinese": "島嶼"
+    "chinese": "島嶼",
+    "topic": "Nature & Weather"
   },
   {
     "word": "it",
     "pos": "pron.",
-    "chinese": "它"
+    "chinese": "它",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "item",
     "pos": "n.",
-    "chinese": "項目；物品"
+    "chinese": "項目；物品",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "jacket",
     "pos": "n.",
-    "chinese": "夾克"
+    "chinese": "夾克",
+    "topic": "Clothing"
   },
   {
     "word": "January",
     "pos": "n.",
-    "chinese": "一月"
+    "chinese": "一月",
+    "topic": "Time & Calendar"
   },
   {
     "word": "jeans",
     "pos": "n.",
-    "chinese": "牛仔褲"
+    "chinese": "牛仔褲",
+    "topic": "Clothing"
   },
   {
     "word": "job",
     "pos": "n.",
-    "chinese": "工作"
+    "chinese": "工作",
+    "topic": "Work & Occupations"
   },
   {
     "word": "jog",
     "pos": "v.",
-    "chinese": "慢跑"
+    "chinese": "慢跑",
+    "topic": "Sports & Recreation"
   },
   {
     "word": "join",
     "pos": "v.",
-    "chinese": "加入"
+    "chinese": "加入",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "joke",
     "pos": "n./v.",
-    "chinese": "笑話；開玩笑"
+    "chinese": "笑話；開玩笑",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "joy",
     "pos": "n.",
-    "chinese": "喜悅"
+    "chinese": "喜悅",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "juice",
     "pos": "n.",
-    "chinese": "果汁"
+    "chinese": "果汁",
+    "topic": "Food & Drinks"
   },
   {
     "word": "July",
     "pos": "n.",
-    "chinese": "七月"
+    "chinese": "七月",
+    "topic": "Time & Calendar"
   },
   {
     "word": "jump",
     "pos": "v./n.",
-    "chinese": "跳"
+    "chinese": "跳",
+    "topic": "Daily Activities"
   },
   {
     "word": "June",
     "pos": "n.",
-    "chinese": "六月"
+    "chinese": "六月",
+    "topic": "Time & Calendar"
   },
   {
     "word": "junior high school",
     "pos": "n.",
-    "chinese": "國中"
+    "chinese": "國中",
+    "topic": "School"
   },
   {
     "word": "just",
     "pos": "adv.",
-    "chinese": "剛好；只是"
+    "chinese": "剛好；只是",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "keep",
     "pos": "v.",
-    "chinese": "保持；保留"
+    "chinese": "保持；保留",
+    "topic": "Daily Activities"
   },
   {
     "word": "key",
     "pos": "n.",
-    "chinese": "鑰匙；關鍵"
+    "chinese": "鑰匙；關鍵",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "kick",
     "pos": "v./n.",
-    "chinese": "踢"
+    "chinese": "踢",
+    "topic": "Daily Activities"
   },
   {
     "word": "kid",
     "pos": "n.",
-    "chinese": "小孩"
+    "chinese": "小孩",
+    "topic": "People"
   },
   {
     "word": "kill",
     "pos": "v.",
-    "chinese": "殺死"
+    "chinese": "殺死",
+    "topic": "Daily Activities"
   },
   {
     "word": "kilogram",
     "pos": "n.",
-    "chinese": "公斤"
+    "chinese": "公斤",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "kind",
     "pos": "adj./n.",
-    "chinese": "親切的；種類"
+    "chinese": "親切的；種類",
+    "topic": "Personal characteristics"
   },
   {
     "word": "king",
     "pos": "n.",
-    "chinese": "國王"
+    "chinese": "國王",
+    "topic": "People"
   },
   {
     "word": "kiss",
     "pos": "v./n.",
-    "chinese": "親吻"
+    "chinese": "親吻",
+    "topic": "Daily Activities"
   },
   {
     "word": "kitchen",
     "pos": "n.",
-    "chinese": "廚房"
+    "chinese": "廚房",
+    "topic": "Housing"
   },
   {
     "word": "kite",
     "pos": "n.",
-    "chinese": "風箏"
+    "chinese": "風箏",
+    "topic": "Sports & Recreation"
   },
   {
     "word": "knee",
     "pos": "n.",
-    "chinese": "膝蓋"
+    "chinese": "膝蓋",
+    "topic": "Body"
   },
   {
     "word": "knife",
     "pos": "n.",
-    "chinese": "刀子"
+    "chinese": "刀子",
+    "topic": "Housing"
   },
   {
     "word": "knock",
     "pos": "v.",
-    "chinese": "敲打"
+    "chinese": "敲打",
+    "topic": "Daily Activities"
   },
   {
     "word": "know",
     "pos": "v.",
-    "chinese": "知道；認識"
+    "chinese": "知道；認識",
+    "topic": "Daily Activities"
   },
   {
     "word": "knowledge",
     "pos": "n.",
-    "chinese": "知識"
+    "chinese": "知識",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "lake",
     "pos": "n.",
-    "chinese": "湖"
+    "chinese": "湖",
+    "topic": "Nature & Weather"
   },
   {
     "word": "lamp",
     "pos": "n.",
-    "chinese": "燈"
+    "chinese": "燈",
+    "topic": "Housing"
   },
   {
     "word": "land",
     "pos": "n./v.",
-    "chinese": "土地；降落"
+    "chinese": "土地；降落",
+    "topic": "Nature & Weather"
   },
   {
     "word": "language",
     "pos": "n.",
-    "chinese": "語言"
+    "chinese": "語言",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "large",
     "pos": "adj.",
-    "chinese": "大的"
+    "chinese": "大的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "last",
     "pos": "adj./v.",
-    "chinese": "最後的；持續"
+    "chinese": "最後的；持續",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "late",
     "pos": "adj./adv.",
-    "chinese": "晚的"
+    "chinese": "晚的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "later",
     "pos": "adv.",
-    "chinese": "後來；稍後"
+    "chinese": "後來；稍後",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "laugh",
     "pos": "v./n.",
-    "chinese": "笑"
+    "chinese": "笑",
+    "topic": "Daily Activities"
   },
   {
     "word": "lawyer",
     "pos": "n.",
-    "chinese": "律師"
+    "chinese": "律師",
+    "topic": "Work & Occupations"
   },
   {
     "word": "lazy",
     "pos": "adj.",
-    "chinese": "懶惰的"
+    "chinese": "懶惰的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "lead",
     "pos": "v./n.",
-    "chinese": "帶領；鉛"
+    "chinese": "帶領；鉛",
+    "topic": "Daily Activities"
   },
   {
     "word": "leader",
     "pos": "n.",
-    "chinese": "領袖；隊長"
+    "chinese": "領袖；隊長",
+    "topic": "People"
   },
   {
     "word": "learn",
     "pos": "v.",
-    "chinese": "學習"
+    "chinese": "學習",
+    "topic": "Daily Activities"
   },
   {
     "word": "least",
     "pos": "adj./adv.",
-    "chinese": "最少的"
+    "chinese": "最少的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "leave",
     "pos": "v.",
-    "chinese": "離開；留下"
+    "chinese": "離開；留下",
+    "topic": "Daily Activities"
   },
   {
     "word": "left",
     "pos": "adj./adv./n.",
-    "chinese": "左邊；剩下的"
+    "chinese": "左邊；剩下的",
+    "topic": "Places & Directions"
   },
   {
     "word": "leg",
     "pos": "n.",
-    "chinese": "腿"
+    "chinese": "腿",
+    "topic": "Body"
   },
   {
     "word": "lemon",
     "pos": "n.",
-    "chinese": "檸檬"
+    "chinese": "檸檬",
+    "topic": "Food & Drinks"
   },
   {
     "word": "lend",
     "pos": "v.",
-    "chinese": "借（出）"
+    "chinese": "借（出）",
+    "topic": "Daily Activities"
   },
   {
     "word": "less",
     "pos": "adj./adv.",
-    "chinese": "較少的"
+    "chinese": "較少的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "lesson",
     "pos": "n.",
-    "chinese": "課；教訓"
+    "chinese": "課；教訓",
+    "topic": "School"
   },
   {
     "word": "let",
     "pos": "v.",
-    "chinese": "讓"
+    "chinese": "讓",
+    "topic": "Daily Activities"
   },
   {
     "word": "letter",
     "pos": "n.",
-    "chinese": "字母；信"
+    "chinese": "字母；信",
+    "topic": "Communication & Technology"
   },
   {
     "word": "level",
     "pos": "n.",
-    "chinese": "水平；等級"
+    "chinese": "水平；等級",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "library",
     "pos": "n.",
-    "chinese": "圖書館"
+    "chinese": "圖書館",
+    "topic": "Places & Directions"
   },
   {
     "word": "lie",
     "pos": "v./n.",
-    "chinese": "說謊；躺下"
+    "chinese": "說謊；躺下",
+    "topic": "Daily Activities"
   },
   {
     "word": "life",
     "pos": "n.",
-    "chinese": "生活；生命"
+    "chinese": "生活；生命",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "light",
     "pos": "n./adj./v.",
-    "chinese": "光；輕的；點燃"
+    "chinese": "光；輕的；點燃",
+    "topic": "Personal characteristics"
   },
   {
     "word": "like",
     "pos": "v./prep.",
-    "chinese": "喜歡；像"
+    "chinese": "喜歡；像",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "line",
     "pos": "n.",
-    "chinese": "線；排隊"
+    "chinese": "線；排隊",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "lion",
     "pos": "n.",
-    "chinese": "獅子"
+    "chinese": "獅子",
+    "topic": "Animals"
   },
   {
     "word": "lip",
     "pos": "n.",
-    "chinese": "嘴唇"
+    "chinese": "嘴唇",
+    "topic": "Body"
   },
   {
     "word": "list",
     "pos": "n./v.",
-    "chinese": "清單；列出"
+    "chinese": "清單；列出",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "listen",
     "pos": "v.",
-    "chinese": "聽"
+    "chinese": "聽",
+    "topic": "Daily Activities"
   },
   {
     "word": "little",
     "pos": "adj./adv.",
-    "chinese": "小的；少量"
+    "chinese": "小的；少量",
+    "topic": "Personal characteristics"
   },
   {
     "word": "live",
     "pos": "v./adj.",
-    "chinese": "居住；活的"
+    "chinese": "居住；活的",
+    "topic": "Daily Activities"
   },
   {
     "word": "living room",
     "pos": "n.",
-    "chinese": "客廳"
+    "chinese": "客廳",
+    "topic": "Housing"
   },
   {
     "word": "lonely",
     "pos": "adj.",
-    "chinese": "孤獨的"
+    "chinese": "孤獨的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "long",
     "pos": "adj./adv.",
-    "chinese": "長的"
+    "chinese": "長的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "look",
     "pos": "v.",
-    "chinese": "看；看起來"
+    "chinese": "看；看起來",
+    "topic": "Daily Activities"
   },
   {
     "word": "lose",
     "pos": "v.",
-    "chinese": "失去；輸"
+    "chinese": "失去；輸",
+    "topic": "Daily Activities"
   },
   {
     "word": "loud",
     "pos": "adj./adv.",
-    "chinese": "大聲的"
+    "chinese": "大聲的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "love",
     "pos": "v./n.",
-    "chinese": "愛"
+    "chinese": "愛",
+    "topic": "Daily Activities"
   },
   {
     "word": "lovely",
     "pos": "adj.",
-    "chinese": "可愛的；美好的"
+    "chinese": "可愛的；美好的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "low",
     "pos": "adj./adv.",
-    "chinese": "低的"
+    "chinese": "低的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "lucky",
     "pos": "adj.",
-    "chinese": "幸運的"
+    "chinese": "幸運的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "lunch",
     "pos": "n.",
-    "chinese": "午餐"
+    "chinese": "午餐",
+    "topic": "Food & Drinks"
   },
   {
     "word": "machine",
     "pos": "n.",
-    "chinese": "機器"
+    "chinese": "機器",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "mad",
     "pos": "adj.",
-    "chinese": "生氣的；瘋狂的"
+    "chinese": "生氣的；瘋狂的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "magic",
     "pos": "n./adj.",
-    "chinese": "魔法；魔法的"
+    "chinese": "魔法；魔法的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "mail",
     "pos": "n./v.",
-    "chinese": "郵件；郵寄"
+    "chinese": "郵件；郵寄",
+    "topic": "Communication & Technology"
   },
   {
     "word": "mailman",
     "pos": "n.",
-    "chinese": "郵差"
+    "chinese": "郵差",
+    "topic": "Work & Occupations"
   },
   {
     "word": "main",
     "pos": "adj.",
-    "chinese": "主要的"
+    "chinese": "主要的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "make",
     "pos": "v.",
-    "chinese": "製作；使"
+    "chinese": "製作；使",
+    "topic": "Daily Activities"
   },
   {
     "word": "man",
     "pos": "n.",
-    "chinese": "男人"
+    "chinese": "男人",
+    "topic": "People"
   },
   {
     "word": "many",
     "pos": "adj./pron.",
-    "chinese": "許多"
+    "chinese": "許多",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "map",
     "pos": "n.",
-    "chinese": "地圖"
+    "chinese": "地圖",
+    "topic": "Transportation & Travel"
   },
   {
     "word": "March",
     "pos": "n.",
-    "chinese": "三月"
+    "chinese": "三月",
+    "topic": "Time & Calendar"
   },
   {
     "word": "mark",
     "pos": "n./v.",
-    "chinese": "記號；標記"
+    "chinese": "記號；標記",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "marker",
     "pos": "n.",
-    "chinese": "麥克筆"
+    "chinese": "麥克筆",
+    "topic": "School"
   },
   {
     "word": "market",
     "pos": "n.",
-    "chinese": "市場"
+    "chinese": "市場",
+    "topic": "Shopping & Money"
   },
   {
     "word": "married",
     "pos": "adj.",
-    "chinese": "已婚的"
+    "chinese": "已婚的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "mask",
     "pos": "n.",
-    "chinese": "口罩；面具"
+    "chinese": "口罩；面具",
+    "topic": "Clothing"
   },
   {
     "word": "math",
     "pos": "n.",
-    "chinese": "數學"
+    "chinese": "數學",
+    "topic": "School"
   },
   {
     "word": "matter",
     "pos": "n./v.",
-    "chinese": "事情；重要"
+    "chinese": "事情；重要",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "may",
     "pos": "modal v.",
-    "chinese": "可能；可以"
+    "chinese": "可能；可以",
+    "topic": "Time & Calendar"
   },
   {
     "word": "May",
     "pos": "n.",
-    "chinese": "五月"
+    "chinese": "五月",
+    "topic": "Time & Calendar"
   },
   {
     "word": "maybe",
     "pos": "adv.",
-    "chinese": "也許"
+    "chinese": "也許",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "meal",
     "pos": "n.",
-    "chinese": "餐"
+    "chinese": "餐",
+    "topic": "Food & Drinks"
   },
   {
     "word": "mean",
     "pos": "v./adj.",
-    "chinese": "意思；刻薄的"
+    "chinese": "意思；刻薄的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "meat",
     "pos": "n.",
-    "chinese": "肉"
+    "chinese": "肉",
+    "topic": "Food & Drinks"
   },
   {
     "word": "medicine",
     "pos": "n.",
-    "chinese": "藥；醫學"
+    "chinese": "藥；醫學",
+    "topic": "Health"
   },
   {
     "word": "medium",
     "pos": "adj./n.",
-    "chinese": "中等的；媒介"
+    "chinese": "中等的；媒介",
+    "topic": "Personal characteristics"
   },
   {
     "word": "meet",
     "pos": "v.",
-    "chinese": "見面"
+    "chinese": "見面",
+    "topic": "Daily Activities"
   },
   {
     "word": "meeting",
     "pos": "n.",
-    "chinese": "會議"
+    "chinese": "會議",
+    "topic": "Work & Occupations"
   },
   {
     "word": "member",
     "pos": "n.",
-    "chinese": "成員"
+    "chinese": "成員",
+    "topic": "People"
   },
   {
     "word": "menu",
     "pos": "n.",
-    "chinese": "菜單"
+    "chinese": "菜單",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "metro",
     "pos": "n.",
-    "chinese": "捷運"
+    "chinese": "捷運",
+    "topic": "Transportation & Travel"
   },
   {
     "word": "middle",
     "pos": "n./adj.",
-    "chinese": "中間"
+    "chinese": "中間",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "mile",
     "pos": "n.",
-    "chinese": "英里"
+    "chinese": "英里",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "milk",
     "pos": "n.",
-    "chinese": "牛奶"
+    "chinese": "牛奶",
+    "topic": "Food & Drinks"
   },
   {
     "word": "million",
     "pos": "num.",
-    "chinese": "百萬"
+    "chinese": "百萬",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "mind",
     "pos": "n./v.",
-    "chinese": "心思；介意"
+    "chinese": "心思；介意",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "minute",
     "pos": "n.",
-    "chinese": "分鐘"
+    "chinese": "分鐘",
+    "topic": "Time & Calendar"
   },
   {
     "word": "Miss",
     "pos": "n.",
-    "chinese": "小姐"
+    "chinese": "小姐",
+    "topic": "Daily Activities"
   },
   {
     "word": "miss",
     "pos": "v.",
-    "chinese": "想念；錯過"
+    "chinese": "想念；錯過",
+    "topic": "Daily Activities"
   },
   {
     "word": "mistake",
     "pos": "n./v.",
-    "chinese": "錯誤"
+    "chinese": "錯誤",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "modern",
     "pos": "adj.",
-    "chinese": "現代的"
+    "chinese": "現代的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "moment",
     "pos": "n.",
-    "chinese": "時刻；片刻"
+    "chinese": "時刻；片刻",
+    "topic": "Time & Calendar"
   },
   {
     "word": "Monday",
     "pos": "n.",
-    "chinese": "星期一"
+    "chinese": "星期一",
+    "topic": "Time & Calendar"
   },
   {
     "word": "money",
     "pos": "n.",
-    "chinese": "錢"
+    "chinese": "錢",
+    "topic": "Shopping & Money"
   },
   {
     "word": "monkey",
     "pos": "n.",
-    "chinese": "猴子"
+    "chinese": "猴子",
+    "topic": "Animals"
   },
   {
     "word": "month",
     "pos": "n.",
-    "chinese": "月份"
+    "chinese": "月份",
+    "topic": "Time & Calendar"
   },
   {
     "word": "moon",
     "pos": "n.",
-    "chinese": "月亮"
+    "chinese": "月亮",
+    "topic": "Nature & Weather"
   },
   {
     "word": "more",
     "pos": "adj./adv.",
-    "chinese": "更多的"
+    "chinese": "更多的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "morning",
     "pos": "n.",
-    "chinese": "早上"
+    "chinese": "早上",
+    "topic": "Time & Calendar"
   },
   {
     "word": "mop",
     "pos": "n./v.",
-    "chinese": "拖把；拖地"
+    "chinese": "拖把；拖地",
+    "topic": "Housing"
   },
   {
     "word": "most",
     "pos": "adj./adv.",
-    "chinese": "最多的"
+    "chinese": "最多的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "mother",
     "pos": "n.",
-    "chinese": "母親"
+    "chinese": "母親",
+    "topic": "Family"
   },
   {
     "word": "motorcycle",
     "pos": "n.",
-    "chinese": "機車"
+    "chinese": "機車",
+    "topic": "Transportation & Travel"
   },
   {
     "word": "mountain",
     "pos": "n.",
-    "chinese": "山"
+    "chinese": "山",
+    "topic": "Nature & Weather"
   },
   {
     "word": "mouse",
     "pos": "n.",
-    "chinese": "老鼠；滑鼠"
+    "chinese": "老鼠；滑鼠",
+    "topic": "Animals"
   },
   {
     "word": "mouth",
     "pos": "n.",
-    "chinese": "嘴巴"
+    "chinese": "嘴巴",
+    "topic": "Body"
   },
   {
     "word": "move",
     "pos": "v.",
-    "chinese": "移動；搬家"
+    "chinese": "移動；搬家",
+    "topic": "Daily Activities"
   },
   {
     "word": "movie",
     "pos": "n.",
-    "chinese": "電影"
+    "chinese": "電影",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "Mr.",
     "pos": "n.",
-    "chinese": "先生"
+    "chinese": "先生",
+    "topic": "People"
   },
   {
     "word": "Mrs.",
     "pos": "n.",
-    "chinese": "太太"
+    "chinese": "太太",
+    "topic": "People"
   },
   {
     "word": "Ms.",
     "pos": "n.",
-    "chinese": "女士"
+    "chinese": "女士",
+    "topic": "People"
   },
   {
     "word": "much",
     "pos": "adj./adv.",
-    "chinese": "許多；非常"
+    "chinese": "許多；非常",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "mud",
     "pos": "n.",
-    "chinese": "泥巴"
+    "chinese": "泥巴",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "museum",
     "pos": "n.",
-    "chinese": "博物館"
+    "chinese": "博物館",
+    "topic": "Places & Directions"
   },
   {
     "word": "music",
     "pos": "n.",
-    "chinese": "音樂"
+    "chinese": "音樂",
+    "topic": "Sports & Recreation"
   },
   {
     "word": "must",
     "pos": "modal v.",
-    "chinese": "必須"
+    "chinese": "必須",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "nail",
     "pos": "n.",
-    "chinese": "指甲；釘子"
+    "chinese": "指甲；釘子",
+    "topic": "Body"
   },
   {
     "word": "name",
     "pos": "n./v.",
-    "chinese": "名字；命名"
+    "chinese": "名字；命名",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "national",
     "pos": "adj.",
-    "chinese": "國家的；全國的"
+    "chinese": "國家的；全國的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "nature",
     "pos": "n.",
-    "chinese": "自然"
+    "chinese": "自然",
+    "topic": "Nature & Weather"
   },
   {
     "word": "near",
     "pos": "prep./adj./adv.",
-    "chinese": "靠近"
+    "chinese": "靠近",
+    "topic": "Personal characteristics"
   },
   {
     "word": "neck",
     "pos": "n.",
-    "chinese": "脖子"
+    "chinese": "脖子",
+    "topic": "Body"
   },
   {
     "word": "need",
     "pos": "v./n.",
-    "chinese": "需要"
+    "chinese": "需要",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "neighbor",
     "pos": "n.",
-    "chinese": "鄰居"
+    "chinese": "鄰居",
+    "topic": "People"
   },
   {
     "word": "never",
     "pos": "adv.",
-    "chinese": "從不"
+    "chinese": "從不",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "new",
     "pos": "adj.",
-    "chinese": "新的"
+    "chinese": "新的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "news",
     "pos": "n.",
-    "chinese": "新聞"
+    "chinese": "新聞",
+    "topic": "Communication & Technology"
   },
   {
     "word": "newspaper",
     "pos": "n.",
-    "chinese": "報紙"
+    "chinese": "報紙",
+    "topic": "Communication & Technology"
   },
   {
     "word": "next",
     "pos": "adj./adv.",
-    "chinese": "下一個"
+    "chinese": "下一個",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "nice",
     "pos": "adj.",
-    "chinese": "好的；友善的"
+    "chinese": "好的；友善的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "night",
     "pos": "n.",
-    "chinese": "夜晚"
+    "chinese": "夜晚",
+    "topic": "Time & Calendar"
   },
   {
     "word": "nine",
     "pos": "num.",
-    "chinese": "九"
+    "chinese": "九",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "nineteen",
     "pos": "num.",
-    "chinese": "十九"
+    "chinese": "十九",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "ninety",
     "pos": "num.",
-    "chinese": "九十"
+    "chinese": "九十",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "no",
     "pos": "adj./adv./interj.",
-    "chinese": "沒有；不"
+    "chinese": "沒有；不",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "nobody",
     "pos": "pron.",
-    "chinese": "沒有人"
+    "chinese": "沒有人",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "noise",
     "pos": "n.",
-    "chinese": "噪音"
+    "chinese": "噪音",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "noisy",
     "pos": "adj.",
-    "chinese": "吵鬧的"
+    "chinese": "吵鬧的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "noodle",
     "pos": "n.",
-    "chinese": "麵條"
+    "chinese": "麵條",
+    "topic": "Food & Drinks"
   },
   {
     "word": "noon",
     "pos": "n.",
-    "chinese": "中午"
+    "chinese": "中午",
+    "topic": "Time & Calendar"
   },
   {
     "word": "north",
     "pos": "n./adj.",
-    "chinese": "北方"
+    "chinese": "北方",
+    "topic": "Places & Directions"
   },
   {
     "word": "nose",
     "pos": "n.",
-    "chinese": "鼻子"
+    "chinese": "鼻子",
+    "topic": "Body"
   },
   {
     "word": "not",
     "pos": "adv.",
-    "chinese": "不"
+    "chinese": "不",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "note",
     "pos": "n./v.",
-    "chinese": "筆記；注意"
+    "chinese": "筆記；注意",
+    "topic": "Communication & Technology"
   },
   {
     "word": "notebook",
     "pos": "n.",
-    "chinese": "筆記本"
+    "chinese": "筆記本",
+    "topic": "Communication & Technology"
   },
   {
     "word": "nothing",
     "pos": "pron.",
-    "chinese": "沒有什麼"
+    "chinese": "沒有什麼",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "notice",
     "pos": "v./n.",
-    "chinese": "注意；通知"
+    "chinese": "注意；通知",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "November",
     "pos": "n.",
-    "chinese": "十一月"
+    "chinese": "十一月",
+    "topic": "Time & Calendar"
   },
   {
     "word": "now",
     "pos": "adv.",
-    "chinese": "現在"
+    "chinese": "現在",
+    "topic": "Time & Calendar"
   },
   {
     "word": "number",
     "pos": "n.",
-    "chinese": "數字；號碼"
+    "chinese": "數字；號碼",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "nurse",
     "pos": "n.",
-    "chinese": "護士"
+    "chinese": "護士",
+    "topic": "Work & Occupations"
   },
   {
     "word": "o'clock",
     "pos": "adv.",
-    "chinese": "…點鐘"
+    "chinese": "…點鐘",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "October",
     "pos": "n.",
-    "chinese": "十月"
+    "chinese": "十月",
+    "topic": "Time & Calendar"
   },
   {
     "word": "of",
     "pos": "prep.",
-    "chinese": "的；關於"
+    "chinese": "的；關於",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "off",
     "pos": "adv./prep.",
-    "chinese": "關掉；離開"
+    "chinese": "關掉；離開",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "office",
     "pos": "n.",
-    "chinese": "辦公室"
+    "chinese": "辦公室",
+    "topic": "Places & Directions"
   },
   {
     "word": "officer",
     "pos": "n.",
-    "chinese": "官員；警察"
+    "chinese": "官員；警察",
+    "topic": "Work & Occupations"
   },
   {
     "word": "often",
     "pos": "adv.",
-    "chinese": "經常"
+    "chinese": "經常",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "oil",
     "pos": "n.",
-    "chinese": "油"
+    "chinese": "油",
+    "topic": "Food & Drinks"
   },
   {
     "word": "OK",
     "pos": "adj./adv./interj.",
-    "chinese": "好的；可以"
+    "chinese": "好的；可以",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "old",
     "pos": "adj.",
-    "chinese": "老的；舊的"
+    "chinese": "老的；舊的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "on",
     "pos": "prep./adv.",
-    "chinese": "在…上面；開著"
+    "chinese": "在…上面；開著",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "once",
     "pos": "adv./conj.",
-    "chinese": "一次；一旦"
+    "chinese": "一次；一旦",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "one",
     "pos": "num./pron.",
-    "chinese": "一；某人"
+    "chinese": "一；某人",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "only",
     "pos": "adj./adv.",
-    "chinese": "唯一的；只"
+    "chinese": "唯一的；只",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "open",
     "pos": "v./adj.",
-    "chinese": "打開；開著的"
+    "chinese": "打開；開著的",
+    "topic": "Daily Activities"
   },
   {
     "word": "or",
     "pos": "conj.",
-    "chinese": "或者"
+    "chinese": "或者",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "orange",
     "pos": "n./adj.",
-    "chinese": "柳橙；橘色"
+    "chinese": "柳橙；橘色",
+    "topic": "Food & Drinks"
   },
   {
     "word": "order",
     "pos": "n./v.",
-    "chinese": "順序；點餐；命令"
+    "chinese": "順序；點餐；命令",
+    "topic": "Shopping & Money"
   },
   {
     "word": "other",
     "pos": "adj./pron.",
-    "chinese": "其他的"
+    "chinese": "其他的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "out",
     "pos": "adv./prep.",
-    "chinese": "出去；外面"
+    "chinese": "出去；外面",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "outside",
     "pos": "adv./prep.",
-    "chinese": "在外面"
+    "chinese": "在外面",
+    "topic": "Places & Directions"
   },
   {
     "word": "over",
     "pos": "prep./adv.",
-    "chinese": "超過；結束"
+    "chinese": "超過；結束",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "own",
     "pos": "adj./v.",
-    "chinese": "自己的；擁有"
+    "chinese": "自己的；擁有",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "p.m.",
     "pos": "abbr.",
-    "chinese": "下午"
+    "chinese": "下午",
+    "topic": "Time & Calendar"
   },
   {
     "word": "pack",
     "pos": "v./n.",
-    "chinese": "打包"
+    "chinese": "打包",
+    "topic": "Daily Activities"
   },
   {
     "word": "package",
     "pos": "n.",
-    "chinese": "包裹"
+    "chinese": "包裹",
+    "topic": "Shopping & Money"
   },
   {
     "word": "page",
     "pos": "n.",
-    "chinese": "頁"
+    "chinese": "頁",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "paint",
     "pos": "v./n.",
-    "chinese": "塗漆；畫"
+    "chinese": "塗漆；畫",
+    "topic": "Daily Activities"
   },
   {
     "word": "pair",
     "pos": "n.",
-    "chinese": "一對"
+    "chinese": "一對",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "pants",
     "pos": "n.",
-    "chinese": "褲子"
+    "chinese": "褲子",
+    "topic": "Clothing"
   },
   {
     "word": "papaya",
     "pos": "n.",
-    "chinese": "木瓜"
+    "chinese": "木瓜",
+    "topic": "Food & Drinks"
   },
   {
     "word": "paper",
     "pos": "n.",
-    "chinese": "紙；報告"
+    "chinese": "紙；報告",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "parent",
     "pos": "n.",
-    "chinese": "父母"
+    "chinese": "父母",
+    "topic": "Family"
   },
   {
     "word": "park",
     "pos": "n./v.",
-    "chinese": "公園；停車"
+    "chinese": "公園；停車",
+    "topic": "Places & Directions"
   },
   {
     "word": "part",
     "pos": "n.",
-    "chinese": "部分"
+    "chinese": "部分",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "party",
     "pos": "n.",
-    "chinese": "派對；政黨"
+    "chinese": "派對；政黨",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "pass",
     "pos": "v.",
-    "chinese": "經過；通過"
+    "chinese": "經過；通過",
+    "topic": "Daily Activities"
   },
   {
     "word": "past",
     "pos": "n./prep./adj.",
-    "chinese": "過去"
+    "chinese": "過去",
+    "topic": "Time & Calendar"
   },
   {
     "word": "paste",
     "pos": "v./n.",
-    "chinese": "黏貼；糊"
+    "chinese": "黏貼；糊",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "pay",
     "pos": "v./n.",
-    "chinese": "付錢"
+    "chinese": "付錢",
+    "topic": "Daily Activities"
   },
   {
     "word": "PE",
     "pos": "n.",
-    "chinese": "體育"
+    "chinese": "體育",
+    "topic": "School"
   },
   {
     "word": "peach",
     "pos": "n.",
-    "chinese": "桃子"
+    "chinese": "桃子",
+    "topic": "Food & Drinks"
   },
   {
     "word": "pear",
     "pos": "n.",
-    "chinese": "梨子"
+    "chinese": "梨子",
+    "topic": "Food & Drinks"
   },
   {
     "word": "pen",
     "pos": "n.",
-    "chinese": "原子筆"
+    "chinese": "原子筆",
+    "topic": "Housing"
   },
   {
     "word": "pencil",
     "pos": "n.",
-    "chinese": "鉛筆"
+    "chinese": "鉛筆",
+    "topic": "School"
   },
   {
     "word": "people",
     "pos": "n.",
-    "chinese": "人們"
+    "chinese": "人們",
+    "topic": "People"
   },
   {
     "word": "perhaps",
     "pos": "adv.",
-    "chinese": "也許"
+    "chinese": "也許",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "person",
     "pos": "n.",
-    "chinese": "人"
+    "chinese": "人",
+    "topic": "People"
   },
   {
     "word": "pet",
     "pos": "n.",
-    "chinese": "寵物"
+    "chinese": "寵物",
+    "topic": "Animals"
   },
   {
     "word": "photo",
     "pos": "n.",
-    "chinese": "照片"
+    "chinese": "照片",
+    "topic": "Communication & Technology"
   },
   {
     "word": "piano",
     "pos": "n.",
-    "chinese": "鋼琴"
+    "chinese": "鋼琴",
+    "topic": "Sports & Recreation"
   },
   {
     "word": "pick",
     "pos": "v.",
-    "chinese": "挑選；採摘"
+    "chinese": "挑選；採摘",
+    "topic": "Daily Activities"
   },
   {
     "word": "picnic",
     "pos": "n.",
-    "chinese": "野餐"
+    "chinese": "野餐",
+    "topic": "Sports & Recreation"
   },
   {
     "word": "picture",
     "pos": "n.",
-    "chinese": "圖片；照片"
+    "chinese": "圖片；照片",
+    "topic": "Housing"
   },
   {
     "word": "pie",
     "pos": "n.",
-    "chinese": "派"
+    "chinese": "派",
+    "topic": "Food & Drinks"
   },
   {
     "word": "piece",
     "pos": "n.",
-    "chinese": "一片；一件"
+    "chinese": "一片；一件",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "pig",
     "pos": "n.",
-    "chinese": "豬"
+    "chinese": "豬",
+    "topic": "Animals"
   },
   {
     "word": "pin",
     "pos": "n./v.",
-    "chinese": "大頭針；別住"
+    "chinese": "大頭針；別住",
+    "topic": "Clothing"
   },
   {
     "word": "pink",
     "pos": "adj./n.",
-    "chinese": "粉紅色"
+    "chinese": "粉紅色",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "pipe",
     "pos": "n.",
-    "chinese": "管子"
+    "chinese": "管子",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "pizza",
     "pos": "n.",
-    "chinese": "披薩"
+    "chinese": "披薩",
+    "topic": "Food & Drinks"
   },
   {
     "word": "place",
     "pos": "n./v.",
-    "chinese": "地方；放置"
+    "chinese": "地方；放置",
+    "topic": "Places & Directions"
   },
   {
     "word": "plan",
     "pos": "n./v.",
-    "chinese": "計畫"
+    "chinese": "計畫",
+    "topic": "Daily Activities"
   },
   {
     "word": "planet",
     "pos": "n.",
-    "chinese": "星球；行星"
+    "chinese": "星球；行星",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "plant",
     "pos": "n./v.",
-    "chinese": "植物；種植"
+    "chinese": "植物；種植",
+    "topic": "Nature & Weather"
   },
   {
     "word": "plate",
     "pos": "n.",
-    "chinese": "盤子"
+    "chinese": "盤子",
+    "topic": "Housing"
   },
   {
     "word": "play",
     "pos": "v./n.",
-    "chinese": "玩；演奏"
+    "chinese": "玩；演奏",
+    "topic": "Daily Activities"
   },
   {
     "word": "player",
     "pos": "n.",
-    "chinese": "玩家；球員"
+    "chinese": "玩家；球員",
+    "topic": "People"
   },
   {
     "word": "playground",
     "pos": "n.",
-    "chinese": "操場"
+    "chinese": "操場",
+    "topic": "Places & Directions"
   },
   {
     "word": "please",
     "pos": "v./adv.",
-    "chinese": "請；使高興"
+    "chinese": "請；使高興",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "pleasure",
     "pos": "n.",
-    "chinese": "樂趣；高興"
+    "chinese": "樂趣；高興",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "pocket",
     "pos": "n.",
-    "chinese": "口袋"
+    "chinese": "口袋",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "point",
     "pos": "n./v.",
-    "chinese": "點；指向"
+    "chinese": "點；指向",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "police",
     "pos": "n.",
-    "chinese": "警察"
+    "chinese": "警察",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "polite",
     "pos": "adj.",
-    "chinese": "有禮貌的"
+    "chinese": "有禮貌的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "pond",
     "pos": "n.",
-    "chinese": "池塘"
+    "chinese": "池塘",
+    "topic": "Nature & Weather"
   },
   {
     "word": "pool",
     "pos": "n.",
-    "chinese": "游泳池"
+    "chinese": "游泳池",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "poor",
     "pos": "adj.",
-    "chinese": "貧窮的；可憐的"
+    "chinese": "貧窮的；可憐的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "pop",
     "pos": "adj./v./n.",
-    "chinese": "流行的；彈出"
+    "chinese": "流行的；彈出",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "popcorn",
     "pos": "n.",
-    "chinese": "爆米花"
+    "chinese": "爆米花",
+    "topic": "Food & Drinks"
   },
   {
     "word": "popular",
     "pos": "adj.",
-    "chinese": "受歡迎的"
+    "chinese": "受歡迎的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "pork",
     "pos": "n.",
-    "chinese": "豬肉"
+    "chinese": "豬肉",
+    "topic": "Food & Drinks"
   },
   {
     "word": "possible",
     "pos": "adj.",
-    "chinese": "可能的"
+    "chinese": "可能的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "post office",
     "pos": "n.",
-    "chinese": "郵局"
+    "chinese": "郵局",
+    "topic": "Places & Directions"
   },
   {
     "word": "postcard",
     "pos": "n.",
-    "chinese": "明信片"
+    "chinese": "明信片",
+    "topic": "Communication & Technology"
   },
   {
     "word": "pot",
     "pos": "n.",
-    "chinese": "鍋子"
+    "chinese": "鍋子",
+    "topic": "Housing"
   },
   {
     "word": "pound",
     "pos": "n.",
-    "chinese": "磅"
+    "chinese": "磅",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "power",
     "pos": "n.",
-    "chinese": "力量；電力"
+    "chinese": "力量；電力",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "probably",
     "pos": "adv.",
-    "chinese": "可能；大概"
+    "chinese": "可能；大概",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "practice",
     "pos": "v./n.",
-    "chinese": "練習"
+    "chinese": "練習",
+    "topic": "Daily Activities"
   },
   {
     "word": "pray",
     "pos": "v.",
-    "chinese": "祈禱"
+    "chinese": "祈禱",
+    "topic": "Daily Activities"
   },
   {
     "word": "prepare",
     "pos": "v.",
-    "chinese": "準備"
+    "chinese": "準備",
+    "topic": "Daily Activities"
   },
   {
     "word": "present",
     "pos": "n./adj./v.",
-    "chinese": "禮物；現在的；呈現"
+    "chinese": "禮物；現在的；呈現",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "pretty",
     "pos": "adj./adv.",
-    "chinese": "漂亮的；相當"
+    "chinese": "漂亮的；相當",
+    "topic": "Personal characteristics"
   },
   {
     "word": "price",
     "pos": "n.",
-    "chinese": "價格"
+    "chinese": "價格",
+    "topic": "Shopping & Money"
   },
   {
     "word": "prize",
     "pos": "n.",
-    "chinese": "獎品"
+    "chinese": "獎品",
+    "topic": "Shopping & Money"
   },
   {
     "word": "problem",
     "pos": "n.",
-    "chinese": "問題"
+    "chinese": "問題",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "program",
     "pos": "n.",
-    "chinese": "節目；程式"
+    "chinese": "節目；程式",
+    "topic": "Communication & Technology"
   },
   {
     "word": "proud",
     "pos": "adj.",
-    "chinese": "驕傲的"
+    "chinese": "驕傲的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "public",
     "pos": "adj./n.",
-    "chinese": "公共的；大眾"
+    "chinese": "公共的；大眾",
+    "topic": "Personal characteristics"
   },
   {
     "word": "pull",
     "pos": "v.",
-    "chinese": "拉"
+    "chinese": "拉",
+    "topic": "Daily Activities"
   },
   {
     "word": "pumpkin",
     "pos": "n.",
-    "chinese": "南瓜"
+    "chinese": "南瓜",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "puppy",
     "pos": "n.",
-    "chinese": "小狗"
+    "chinese": "小狗",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "purple",
     "pos": "adj./n.",
-    "chinese": "紫色"
+    "chinese": "紫色",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "push",
     "pos": "v.",
-    "chinese": "推"
+    "chinese": "推",
+    "topic": "Daily Activities"
   },
   {
     "word": "put",
     "pos": "v.",
-    "chinese": "放置"
+    "chinese": "放置",
+    "topic": "Daily Activities"
   },
   {
     "word": "quarter",
     "pos": "n.",
-    "chinese": "四分之一"
+    "chinese": "四分之一",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "queen",
     "pos": "n.",
-    "chinese": "女王"
+    "chinese": "女王",
+    "topic": "People"
   },
   {
     "word": "question",
     "pos": "n.",
-    "chinese": "問題"
+    "chinese": "問題",
+    "topic": "School"
   },
   {
     "word": "quick",
     "pos": "adj./adv.",
-    "chinese": "快的；迅速"
+    "chinese": "快的；迅速",
+    "topic": "Personal characteristics"
   },
   {
     "word": "quiet",
     "pos": "adj.",
-    "chinese": "安靜的"
+    "chinese": "安靜的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "quite",
     "pos": "adv.",
-    "chinese": "相當；完全"
+    "chinese": "相當；完全",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "quiz",
     "pos": "n.",
-    "chinese": "測驗"
+    "chinese": "測驗",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "rabbit",
     "pos": "n.",
-    "chinese": "兔子"
+    "chinese": "兔子",
+    "topic": "Animals"
   },
   {
     "word": "race",
     "pos": "n./v.",
-    "chinese": "比賽；賽跑"
+    "chinese": "比賽；賽跑",
+    "topic": "Sports & Recreation"
   },
   {
     "word": "radio",
     "pos": "n.",
-    "chinese": "收音機"
+    "chinese": "收音機",
+    "topic": "Communication & Technology"
   },
   {
     "word": "rain",
     "pos": "n./v.",
-    "chinese": "雨；下雨"
+    "chinese": "雨；下雨",
+    "topic": "Nature & Weather"
   },
   {
     "word": "rainbow",
     "pos": "n.",
-    "chinese": "彩虹"
+    "chinese": "彩虹",
+    "topic": "Nature & Weather"
   },
   {
     "word": "rainy",
     "pos": "adj.",
-    "chinese": "多雨的"
+    "chinese": "多雨的",
+    "topic": "Nature & Weather"
   },
   {
     "word": "raise",
     "pos": "v.",
-    "chinese": "舉起；養育"
+    "chinese": "舉起；養育",
+    "topic": "Daily Activities"
   },
   {
     "word": "rat",
     "pos": "n.",
-    "chinese": "老鼠"
+    "chinese": "老鼠",
+    "topic": "Animals"
   },
   {
     "word": "reach",
     "pos": "v.",
-    "chinese": "到達；伸手"
+    "chinese": "到達；伸手",
+    "topic": "Daily Activities"
   },
   {
     "word": "read",
     "pos": "v.",
-    "chinese": "閱讀"
+    "chinese": "閱讀",
+    "topic": "School"
   },
   {
     "word": "ready",
     "pos": "adj.",
-    "chinese": "準備好的"
+    "chinese": "準備好的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "real",
     "pos": "adj.",
-    "chinese": "真實的"
+    "chinese": "真實的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "really",
     "pos": "adv.",
-    "chinese": "真的；非常"
+    "chinese": "真的；非常",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "reason",
     "pos": "n.",
-    "chinese": "理由；原因"
+    "chinese": "理由；原因",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "red",
     "pos": "adj./n.",
-    "chinese": "紅色的"
+    "chinese": "紅色的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "refrigerator",
     "pos": "n.",
-    "chinese": "冰箱"
+    "chinese": "冰箱",
+    "topic": "Housing"
   },
   {
     "word": "relative",
     "pos": "n.",
-    "chinese": "親戚"
+    "chinese": "親戚",
+    "topic": "Family"
   },
   {
     "word": "remember",
     "pos": "v.",
-    "chinese": "記得"
+    "chinese": "記得",
+    "topic": "Daily Activities"
   },
   {
     "word": "repeat",
     "pos": "v.",
-    "chinese": "重複"
+    "chinese": "重複",
+    "topic": "Daily Activities"
   },
   {
     "word": "report",
     "pos": "n./v.",
-    "chinese": "報告"
+    "chinese": "報告",
+    "topic": "Communication & Technology"
   },
   {
     "word": "reporter",
     "pos": "n.",
-    "chinese": "記者"
+    "chinese": "記者",
+    "topic": "Work & Occupations"
   },
   {
     "word": "rest",
     "pos": "n./v.",
-    "chinese": "休息；其餘"
+    "chinese": "休息；其餘",
+    "topic": "Daily Activities"
   },
   {
     "word": "restaurant",
     "pos": "n.",
-    "chinese": "餐廳"
+    "chinese": "餐廳",
+    "topic": "Places & Directions"
   },
   {
     "word": "restroom",
     "pos": "n.",
-    "chinese": "洗手間"
+    "chinese": "洗手間",
+    "topic": "Places & Directions"
   },
   {
     "word": "rice",
     "pos": "n.",
-    "chinese": "米飯"
+    "chinese": "米飯",
+    "topic": "Food & Drinks"
   },
   {
     "word": "rich",
     "pos": "adj.",
-    "chinese": "富有的"
+    "chinese": "富有的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "ride",
     "pos": "v./n.",
-    "chinese": "騎；乘車"
+    "chinese": "騎；乘車",
+    "topic": "Daily Activities"
   },
   {
     "word": "right",
     "pos": "adj./adv./n.",
-    "chinese": "對的；右邊"
+    "chinese": "對的；右邊",
+    "topic": "Places & Directions"
   },
   {
     "word": "ring",
     "pos": "n./v.",
-    "chinese": "戒指；鈴響"
+    "chinese": "戒指；鈴響",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "rise",
     "pos": "v.",
-    "chinese": "升起"
+    "chinese": "升起",
+    "topic": "Daily Activities"
   },
   {
     "word": "river",
     "pos": "n.",
-    "chinese": "河流"
+    "chinese": "河流",
+    "topic": "Nature & Weather"
   },
   {
     "word": "road",
     "pos": "n.",
-    "chinese": "道路"
+    "chinese": "道路",
+    "topic": "Transportation & Travel"
   },
   {
     "word": "robot",
     "pos": "n.",
-    "chinese": "機器人"
+    "chinese": "機器人",
+    "topic": "Communication & Technology"
   },
   {
     "word": "rock",
     "pos": "n./v.",
-    "chinese": "岩石；搖動"
+    "chinese": "岩石；搖動",
+    "topic": "Sports & Recreation"
   },
   {
     "word": "roll",
     "pos": "v./n.",
-    "chinese": "滾動；卷"
+    "chinese": "滾動；卷",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "room",
     "pos": "n.",
-    "chinese": "房間"
+    "chinese": "房間",
+    "topic": "Housing"
   },
   {
     "word": "root",
     "pos": "n.",
-    "chinese": "根"
+    "chinese": "根",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "rope",
     "pos": "n.",
-    "chinese": "繩子"
+    "chinese": "繩子",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "rose",
     "pos": "n.",
-    "chinese": "玫瑰"
+    "chinese": "玫瑰",
+    "topic": "Nature & Weather"
   },
   {
     "word": "round",
     "pos": "adj./adv.",
-    "chinese": "圓的；周圍"
+    "chinese": "圓的；周圍",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "row",
     "pos": "n./v.",
-    "chinese": "行；划船"
+    "chinese": "行；划船",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "rule",
     "pos": "n./v.",
-    "chinese": "規則；統治"
+    "chinese": "規則；統治",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "ruler",
     "pos": "n.",
-    "chinese": "尺；統治者"
+    "chinese": "尺；統治者",
+    "topic": "Housing"
   },
   {
     "word": "run",
     "pos": "v.",
-    "chinese": "跑；運作"
+    "chinese": "跑；運作",
+    "topic": "Daily Activities"
   },
   {
     "word": "sad",
     "pos": "adj.",
-    "chinese": "悲傷的"
+    "chinese": "悲傷的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "safe",
     "pos": "adj.",
-    "chinese": "安全的"
+    "chinese": "安全的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "sail",
     "pos": "v./n.",
-    "chinese": "航行；帆"
+    "chinese": "航行；帆",
+    "topic": "Transportation & Travel"
   },
   {
     "word": "salad",
     "pos": "n.",
-    "chinese": "沙拉"
+    "chinese": "沙拉",
+    "topic": "Food & Drinks"
   },
   {
     "word": "sale",
     "pos": "n.",
-    "chinese": "出售；特賣"
+    "chinese": "出售；特賣",
+    "topic": "Shopping & Money"
   },
   {
     "word": "salesman",
     "pos": "n.",
-    "chinese": "銷售員"
+    "chinese": "銷售員",
+    "topic": "Work & Occupations"
   },
   {
     "word": "salt",
     "pos": "n.",
-    "chinese": "鹽"
+    "chinese": "鹽",
+    "topic": "Food & Drinks"
   },
   {
     "word": "same",
     "pos": "adj./pron.",
-    "chinese": "相同的"
+    "chinese": "相同的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "sandwich",
     "pos": "n.",
-    "chinese": "三明治"
+    "chinese": "三明治",
+    "topic": "Food & Drinks"
   },
   {
     "word": "Saturday",
     "pos": "n.",
-    "chinese": "星期六"
+    "chinese": "星期六",
+    "topic": "Time & Calendar"
   },
   {
     "word": "save",
     "pos": "v.",
-    "chinese": "拯救；儲蓄"
+    "chinese": "拯救；儲蓄",
+    "topic": "Daily Activities"
   },
   {
     "word": "say",
     "pos": "v.",
-    "chinese": "說"
+    "chinese": "說",
+    "topic": "Daily Activities"
   },
   {
     "word": "scared",
     "pos": "adj.",
-    "chinese": "害怕的"
+    "chinese": "害怕的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "school",
     "pos": "n.",
-    "chinese": "學校"
+    "chinese": "學校",
+    "topic": "Places & Directions"
   },
   {
     "word": "science",
     "pos": "n.",
-    "chinese": "科學"
+    "chinese": "科學",
+    "topic": "School"
   },
   {
     "word": "scooter",
     "pos": "n.",
-    "chinese": "機車；滑板車"
+    "chinese": "機車；滑板車",
+    "topic": "Transportation & Travel"
   },
   {
     "word": "screen",
     "pos": "n.",
-    "chinese": "螢幕"
+    "chinese": "螢幕",
+    "topic": "Communication & Technology"
   },
   {
     "word": "sea",
     "pos": "n.",
-    "chinese": "海"
+    "chinese": "海",
+    "topic": "Nature & Weather"
   },
   {
     "word": "season",
     "pos": "n.",
-    "chinese": "季節"
+    "chinese": "季節",
+    "topic": "Time & Calendar"
   },
   {
     "word": "seat",
     "pos": "n.",
-    "chinese": "座位"
+    "chinese": "座位",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "second",
     "pos": "n./adj.",
-    "chinese": "秒；第二"
+    "chinese": "秒；第二",
+    "topic": "Time & Calendar"
   },
   {
     "word": "secretary",
     "pos": "n.",
-    "chinese": "秘書"
+    "chinese": "秘書",
+    "topic": "Work & Occupations"
   },
   {
     "word": "see",
     "pos": "v.",
-    "chinese": "看見"
+    "chinese": "看見",
+    "topic": "Daily Activities"
   },
   {
     "word": "seed",
     "pos": "n.",
-    "chinese": "種子"
+    "chinese": "種子",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "seesaw",
     "pos": "n.",
-    "chinese": "蹺蹺板"
+    "chinese": "蹺蹺板",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "seldom",
     "pos": "adv.",
-    "chinese": "很少"
+    "chinese": "很少",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "sell",
     "pos": "v.",
-    "chinese": "賣"
+    "chinese": "賣",
+    "topic": "Daily Activities"
   },
   {
     "word": "send",
     "pos": "v.",
-    "chinese": "送；寄"
+    "chinese": "送；寄",
+    "topic": "Daily Activities"
   },
   {
     "word": "senior high school",
     "pos": "n.",
-    "chinese": "高中"
+    "chinese": "高中",
+    "topic": "School"
   },
   {
     "word": "sentence",
     "pos": "n.",
-    "chinese": "句子"
+    "chinese": "句子",
+    "topic": "School"
   },
   {
     "word": "September",
     "pos": "n.",
-    "chinese": "九月"
+    "chinese": "九月",
+    "topic": "Time & Calendar"
   },
   {
     "word": "serious",
     "pos": "adj.",
-    "chinese": "嚴重的；認真的"
+    "chinese": "嚴重的；認真的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "service",
     "pos": "n.",
-    "chinese": "服務"
+    "chinese": "服務",
+    "topic": "Work & Occupations"
   },
   {
     "word": "set",
     "pos": "v./n.",
-    "chinese": "設定；一套"
+    "chinese": "設定；一套",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "seven",
     "pos": "num.",
-    "chinese": "七"
+    "chinese": "七",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "seventeen",
     "pos": "num.",
-    "chinese": "十七"
+    "chinese": "十七",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "seventy",
     "pos": "num.",
-    "chinese": "七十"
+    "chinese": "七十",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "several",
     "pos": "adj.",
-    "chinese": "幾個"
+    "chinese": "幾個",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "shake",
     "pos": "v./n.",
-    "chinese": "搖動"
+    "chinese": "搖動",
+    "topic": "Daily Activities"
   },
   {
     "word": "shape",
     "pos": "n./v.",
-    "chinese": "形狀；塑造"
+    "chinese": "形狀；塑造",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "share",
     "pos": "v./n.",
-    "chinese": "分享"
+    "chinese": "分享",
+    "topic": "Daily Activities"
   },
   {
     "word": "sharp",
     "pos": "adj.",
-    "chinese": "鋒利的"
+    "chinese": "鋒利的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "she",
     "pos": "pron.",
-    "chinese": "她"
+    "chinese": "她",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "sheep",
     "pos": "n.",
-    "chinese": "羊"
+    "chinese": "羊",
+    "topic": "Animals"
   },
   {
     "word": "shine",
     "pos": "v.",
-    "chinese": "照耀"
+    "chinese": "照耀",
+    "topic": "Daily Activities"
   },
   {
     "word": "ship",
     "pos": "n.",
-    "chinese": "船"
+    "chinese": "船",
+    "topic": "Transportation & Travel"
   },
   {
     "word": "shirt",
     "pos": "n.",
-    "chinese": "襯衫"
+    "chinese": "襯衫",
+    "topic": "Clothing"
   },
   {
     "word": "shoe",
     "pos": "n.",
-    "chinese": "鞋子"
+    "chinese": "鞋子",
+    "topic": "Clothing"
   },
   {
     "word": "shop",
     "pos": "n./v.",
-    "chinese": "商店；購物"
+    "chinese": "商店；購物",
+    "topic": "Shopping & Money"
   },
   {
     "word": "shopkeeper",
     "pos": "n.",
-    "chinese": "店主"
+    "chinese": "店主",
+    "topic": "Shopping & Money"
   },
   {
     "word": "short",
     "pos": "adj.",
-    "chinese": "矮的；短的"
+    "chinese": "矮的；短的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "shorts",
     "pos": "n.",
-    "chinese": "短褲"
+    "chinese": "短褲",
+    "topic": "Clothing"
   },
   {
     "word": "should",
     "pos": "modal v.",
-    "chinese": "應該"
+    "chinese": "應該",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "shoulder",
     "pos": "n.",
-    "chinese": "肩膀"
+    "chinese": "肩膀",
+    "topic": "Body"
   },
   {
     "word": "shout",
     "pos": "v./n.",
-    "chinese": "大喊"
+    "chinese": "大喊",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "show",
     "pos": "v./n.",
-    "chinese": "展示；節目"
+    "chinese": "展示；節目",
+    "topic": "Daily Activities"
   },
   {
     "word": "shower",
     "pos": "n./v.",
-    "chinese": "淋浴；陣雨"
+    "chinese": "淋浴；陣雨",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "shy",
     "pos": "adj.",
-    "chinese": "害羞的"
+    "chinese": "害羞的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "sick",
     "pos": "adj.",
-    "chinese": "生病的"
+    "chinese": "生病的",
+    "topic": "Health"
   },
   {
     "word": "side",
     "pos": "n.",
-    "chinese": "側面；邊"
+    "chinese": "側面；邊",
+    "topic": "Body"
   },
   {
     "word": "sidewalk",
     "pos": "n.",
-    "chinese": "人行道"
+    "chinese": "人行道",
+    "topic": "Places & Directions"
   },
   {
     "word": "sight",
     "pos": "n.",
-    "chinese": "視力；景象"
+    "chinese": "視力；景象",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "sign",
     "pos": "n./v.",
-    "chinese": "標誌；簽名"
+    "chinese": "標誌；簽名",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "simple",
     "pos": "adj.",
-    "chinese": "簡單的"
+    "chinese": "簡單的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "since",
     "pos": "prep./conj.",
-    "chinese": "自從；因為"
+    "chinese": "自從；因為",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "sing",
     "pos": "v.",
-    "chinese": "唱歌"
+    "chinese": "唱歌",
+    "topic": "Daily Activities"
   },
   {
     "word": "singer",
     "pos": "n.",
-    "chinese": "歌手"
+    "chinese": "歌手",
+    "topic": "Work & Occupations"
   },
   {
     "word": "sir",
     "pos": "n.",
-    "chinese": "先生"
+    "chinese": "先生",
+    "topic": "People"
   },
   {
     "word": "sister",
     "pos": "n.",
-    "chinese": "姊妹"
+    "chinese": "姊妹",
+    "topic": "Family"
   },
   {
     "word": "sit",
     "pos": "v.",
-    "chinese": "坐"
+    "chinese": "坐",
+    "topic": "Daily Activities"
   },
   {
     "word": "six",
     "pos": "num.",
-    "chinese": "六"
+    "chinese": "六",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "sixteen",
     "pos": "num.",
-    "chinese": "十六"
+    "chinese": "十六",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "sixty",
     "pos": "num.",
-    "chinese": "六十"
+    "chinese": "六十",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "size",
     "pos": "n.",
-    "chinese": "大小；尺碼"
+    "chinese": "大小；尺碼",
+    "topic": "Shopping & Money"
   },
   {
     "word": "skirt",
     "pos": "n.",
-    "chinese": "裙子"
+    "chinese": "裙子",
+    "topic": "Clothing"
   },
   {
     "word": "sky",
     "pos": "n.",
-    "chinese": "天空"
+    "chinese": "天空",
+    "topic": "Nature & Weather"
   },
   {
     "word": "sleep",
     "pos": "v./n.",
-    "chinese": "睡覺"
+    "chinese": "睡覺",
+    "topic": "Daily Activities"
   },
   {
     "word": "slide",
     "pos": "v./n.",
-    "chinese": "滑；溜滑梯"
+    "chinese": "滑；溜滑梯",
+    "topic": "Daily Activities"
   },
   {
     "word": "slim",
     "pos": "adj.",
-    "chinese": "苗條的"
+    "chinese": "苗條的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "slow",
     "pos": "adj./adv.",
-    "chinese": "慢的"
+    "chinese": "慢的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "small",
     "pos": "adj.",
-    "chinese": "小的"
+    "chinese": "小的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "smart",
     "pos": "adj.",
-    "chinese": "聰明的"
+    "chinese": "聰明的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "smell",
     "pos": "v./n.",
-    "chinese": "聞；氣味"
+    "chinese": "聞；氣味",
+    "topic": "Daily Activities"
   },
   {
     "word": "smile",
     "pos": "v./n.",
-    "chinese": "微笑"
+    "chinese": "微笑",
+    "topic": "Daily Activities"
   },
   {
     "word": "smoke",
     "pos": "v./n.",
-    "chinese": "抽菸；煙"
+    "chinese": "抽菸；煙",
+    "topic": "Daily Activities"
   },
   {
     "word": "snack",
     "pos": "n.",
-    "chinese": "點心"
+    "chinese": "點心",
+    "topic": "Food & Drinks"
   },
   {
     "word": "snake",
     "pos": "n.",
-    "chinese": "蛇"
+    "chinese": "蛇",
+    "topic": "Animals"
   },
   {
     "word": "snow",
     "pos": "n./v.",
-    "chinese": "雪；下雪"
+    "chinese": "雪；下雪",
+    "topic": "Nature & Weather"
   },
   {
     "word": "snowy",
     "pos": "adj.",
-    "chinese": "下雪的"
+    "chinese": "下雪的",
+    "topic": "Nature & Weather"
   },
   {
     "word": "so",
     "pos": "adv./conj.",
-    "chinese": "如此；所以"
+    "chinese": "如此；所以",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "soccer",
     "pos": "n.",
-    "chinese": "足球"
+    "chinese": "足球",
+    "topic": "Sports & Recreation"
   },
   {
     "word": "socks",
     "pos": "n.",
-    "chinese": "短襪"
+    "chinese": "短襪",
+    "topic": "Clothing"
   },
   {
     "word": "sofa",
     "pos": "n.",
-    "chinese": "沙發"
+    "chinese": "沙發",
+    "topic": "Housing"
   },
   {
     "word": "soldier",
     "pos": "n.",
-    "chinese": "士兵"
+    "chinese": "士兵",
+    "topic": "Work & Occupations"
   },
   {
     "word": "some",
     "pos": "adj./pron.",
-    "chinese": "一些"
+    "chinese": "一些",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "someone",
     "pos": "pron.",
-    "chinese": "某人"
+    "chinese": "某人",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "something",
     "pos": "pron.",
-    "chinese": "某事"
+    "chinese": "某事",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "sometimes",
     "pos": "adv.",
-    "chinese": "有時"
+    "chinese": "有時",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "somewhere",
     "pos": "adv.",
-    "chinese": "某處"
+    "chinese": "某處",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "son",
     "pos": "n.",
-    "chinese": "兒子"
+    "chinese": "兒子",
+    "topic": "Family"
   },
   {
     "word": "song",
     "pos": "n.",
-    "chinese": "歌曲"
+    "chinese": "歌曲",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "soon",
     "pos": "adv.",
-    "chinese": "很快；不久"
+    "chinese": "很快；不久",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "sore",
     "pos": "adj.",
-    "chinese": "疼痛的"
+    "chinese": "疼痛的",
+    "topic": "Health"
   },
   {
     "word": "sorry",
     "pos": "adj.",
-    "chinese": "抱歉的"
+    "chinese": "抱歉的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "sound",
     "pos": "n./v.",
-    "chinese": "聲音；聽起來"
+    "chinese": "聲音；聽起來",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "soup",
     "pos": "n.",
-    "chinese": "湯"
+    "chinese": "湯",
+    "topic": "Food & Drinks"
   },
   {
     "word": "south",
     "pos": "n./adj.",
-    "chinese": "南方"
+    "chinese": "南方",
+    "topic": "Places & Directions"
   },
   {
     "word": "space",
     "pos": "n.",
-    "chinese": "空間；太空"
+    "chinese": "空間；太空",
+    "topic": "Nature & Weather"
   },
   {
     "word": "speak",
     "pos": "v.",
-    "chinese": "說話"
+    "chinese": "說話",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "special",
     "pos": "adj.",
-    "chinese": "特別的"
+    "chinese": "特別的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "spell",
     "pos": "v./n.",
-    "chinese": "拼寫"
+    "chinese": "拼寫",
+    "topic": "School"
   },
   {
     "word": "spend",
     "pos": "v.",
-    "chinese": "花費；度過"
+    "chinese": "花費；度過",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "spider",
     "pos": "n.",
-    "chinese": "蜘蛛"
+    "chinese": "蜘蛛",
+    "topic": "Animals"
   },
   {
     "word": "spoon",
     "pos": "n.",
-    "chinese": "湯匙"
+    "chinese": "湯匙",
+    "topic": "Housing"
   },
   {
     "word": "sports",
     "pos": "n.",
-    "chinese": "運動"
+    "chinese": "運動",
+    "topic": "Sports & Recreation"
   },
   {
     "word": "spring",
     "pos": "n.",
-    "chinese": "春天；彈簧"
+    "chinese": "春天；彈簧",
+    "topic": "Time & Calendar"
   },
   {
     "word": "square",
     "pos": "n./adj.",
-    "chinese": "廣場；正方形"
+    "chinese": "廣場；正方形",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "stairs",
     "pos": "n.",
-    "chinese": "樓梯"
+    "chinese": "樓梯",
+    "topic": "Housing"
   },
   {
     "word": "stamp",
     "pos": "n./v.",
-    "chinese": "郵票；蓋章"
+    "chinese": "郵票；蓋章",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "stand",
     "pos": "v.",
-    "chinese": "站立；忍受"
+    "chinese": "站立；忍受",
+    "topic": "Daily Activities"
   },
   {
     "word": "star",
     "pos": "n.",
-    "chinese": "星星；明星"
+    "chinese": "星星；明星",
+    "topic": "Nature & Weather"
   },
   {
     "word": "start",
     "pos": "v./n.",
-    "chinese": "開始"
+    "chinese": "開始",
+    "topic": "Daily Activities"
   },
   {
     "word": "station",
     "pos": "n.",
-    "chinese": "車站"
+    "chinese": "車站",
+    "topic": "Transportation & Travel"
   },
   {
     "word": "stay",
     "pos": "v.",
-    "chinese": "停留；待"
+    "chinese": "停留；待",
+    "topic": "Daily Activities"
   },
   {
     "word": "steak",
     "pos": "n.",
-    "chinese": "牛排"
+    "chinese": "牛排",
+    "topic": "Food & Drinks"
   },
   {
     "word": "still",
     "pos": "adv./adj.",
-    "chinese": "仍然；靜止的"
+    "chinese": "仍然；靜止的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "stomach",
     "pos": "n.",
-    "chinese": "胃；肚子"
+    "chinese": "胃；肚子",
+    "topic": "Health"
   },
   {
     "word": "stop",
     "pos": "v./n.",
-    "chinese": "停止"
+    "chinese": "停止",
+    "topic": "Daily Activities"
   },
   {
     "word": "store",
     "pos": "n./v.",
-    "chinese": "商店；儲存"
+    "chinese": "商店；儲存",
+    "topic": "Shopping & Money"
   },
   {
     "word": "story",
     "pos": "n.",
-    "chinese": "故事；樓層"
+    "chinese": "故事；樓層",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "straight",
     "pos": "adj./adv.",
-    "chinese": "直的"
+    "chinese": "直的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "strange",
     "pos": "adj.",
-    "chinese": "奇怪的"
+    "chinese": "奇怪的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "stranger",
     "pos": "n.",
-    "chinese": "陌生人"
+    "chinese": "陌生人",
+    "topic": "People"
   },
   {
     "word": "strawberry",
     "pos": "n.",
-    "chinese": "草莓"
+    "chinese": "草莓",
+    "topic": "Food & Drinks"
   },
   {
     "word": "street",
     "pos": "n.",
-    "chinese": "街道"
+    "chinese": "街道",
+    "topic": "Transportation & Travel"
   },
   {
     "word": "string",
     "pos": "n.",
-    "chinese": "繩子；弦"
+    "chinese": "繩子；弦",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "strong",
     "pos": "adj.",
-    "chinese": "強壯的"
+    "chinese": "強壯的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "student",
     "pos": "n.",
-    "chinese": "學生"
+    "chinese": "學生",
+    "topic": "School"
   },
   {
     "word": "study",
     "pos": "v./n.",
-    "chinese": "學習；書房"
+    "chinese": "學習；書房",
+    "topic": "Daily Activities"
   },
   {
     "word": "stupid",
     "pos": "adj.",
-    "chinese": "愚蠢的"
+    "chinese": "愚蠢的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "subject",
     "pos": "n.",
-    "chinese": "科目；主題"
+    "chinese": "科目；主題",
+    "topic": "School"
   },
   {
     "word": "successful",
     "pos": "adj.",
-    "chinese": "成功的"
+    "chinese": "成功的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "sugar",
     "pos": "n.",
-    "chinese": "糖"
+    "chinese": "糖",
+    "topic": "Food & Drinks"
   },
   {
     "word": "summer",
     "pos": "n.",
-    "chinese": "夏天"
+    "chinese": "夏天",
+    "topic": "Time & Calendar"
   },
   {
     "word": "sun",
     "pos": "n.",
-    "chinese": "太陽"
+    "chinese": "太陽",
+    "topic": "Nature & Weather"
   },
   {
     "word": "Sunday",
     "pos": "n.",
-    "chinese": "星期日"
+    "chinese": "星期日",
+    "topic": "Time & Calendar"
   },
   {
     "word": "sunny",
     "pos": "adj.",
-    "chinese": "晴天的"
+    "chinese": "晴天的",
+    "topic": "Nature & Weather"
   },
   {
     "word": "supermarket",
     "pos": "n.",
-    "chinese": "超市"
+    "chinese": "超市",
+    "topic": "Shopping & Money"
   },
   {
     "word": "sure",
     "pos": "adj./adv.",
-    "chinese": "確定的；當然"
+    "chinese": "確定的；當然",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "surf",
     "pos": "v.",
-    "chinese": "衝浪；上網"
+    "chinese": "衝浪；上網",
+    "topic": "Daily Activities"
   },
   {
     "word": "surprise",
     "pos": "n./v.",
-    "chinese": "驚喜；使驚訝"
+    "chinese": "驚喜；使驚訝",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "surprised",
     "pos": "adj.",
-    "chinese": "感到驚訝的"
+    "chinese": "感到驚訝的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "sweater",
     "pos": "n.",
-    "chinese": "毛衣"
+    "chinese": "毛衣",
+    "topic": "Clothing"
   },
   {
     "word": "sweet",
     "pos": "adj.",
-    "chinese": "甜的"
+    "chinese": "甜的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "swim",
     "pos": "v.",
-    "chinese": "游泳"
+    "chinese": "游泳",
+    "topic": "Daily Activities"
   },
   {
     "word": "swing",
     "pos": "v./n.",
-    "chinese": "盪鞦韆；鞦韆"
+    "chinese": "盪鞦韆；鞦韆",
+    "topic": "Sports & Recreation"
   },
   {
     "word": "table",
     "pos": "n.",
-    "chinese": "桌子；表格"
+    "chinese": "桌子；表格",
+    "topic": "Housing"
   },
   {
     "word": "tail",
     "pos": "n.",
-    "chinese": "尾巴"
+    "chinese": "尾巴",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "Taiwan",
     "pos": "n.",
-    "chinese": "台灣"
+    "chinese": "台灣",
+    "topic": "Places & Directions"
   },
   {
     "word": "take",
     "pos": "v.",
-    "chinese": "拿；帶；花費"
+    "chinese": "拿；帶；花費",
+    "topic": "Daily Activities"
   },
   {
     "word": "talk",
     "pos": "v./n.",
-    "chinese": "談話"
+    "chinese": "談話",
+    "topic": "Daily Activities"
   },
   {
     "word": "tall",
     "pos": "adj.",
-    "chinese": "高的"
+    "chinese": "高的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "tape",
     "pos": "n.",
-    "chinese": "膠帶；錄音帶"
+    "chinese": "膠帶；錄音帶",
+    "topic": "Housing"
   },
   {
     "word": "taste",
     "pos": "v./n.",
-    "chinese": "嚐；味道"
+    "chinese": "嚐；味道",
+    "topic": "Daily Activities"
   },
   {
     "word": "taxi",
     "pos": "n.",
-    "chinese": "計程車"
+    "chinese": "計程車",
+    "topic": "Transportation & Travel"
   },
   {
     "word": "tea",
     "pos": "n.",
-    "chinese": "茶"
+    "chinese": "茶",
+    "topic": "Food & Drinks"
   },
   {
     "word": "teach",
     "pos": "v.",
-    "chinese": "教"
+    "chinese": "教",
+    "topic": "Daily Activities"
   },
   {
     "word": "teacher",
     "pos": "n.",
-    "chinese": "老師"
+    "chinese": "老師",
+    "topic": "Work & Occupations"
   },
   {
     "word": "team",
     "pos": "n.",
-    "chinese": "隊伍"
+    "chinese": "隊伍",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "teenager",
     "pos": "n.",
-    "chinese": "青少年"
+    "chinese": "青少年",
+    "topic": "People"
   },
   {
     "word": "telephone",
     "pos": "n.",
-    "chinese": "電話"
+    "chinese": "電話",
+    "topic": "Communication & Technology"
   },
   {
     "word": "television",
     "pos": "n.",
-    "chinese": "電視"
+    "chinese": "電視",
+    "topic": "Communication & Technology"
   },
   {
     "word": "tell",
     "pos": "v.",
-    "chinese": "告訴"
+    "chinese": "告訴",
+    "topic": "Daily Activities"
   },
   {
     "word": "temple",
     "pos": "n.",
-    "chinese": "廟宇"
+    "chinese": "廟宇",
+    "topic": "Places & Directions"
   },
   {
     "word": "ten",
     "pos": "num.",
-    "chinese": "十"
+    "chinese": "十",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "tennis",
     "pos": "n.",
-    "chinese": "網球"
+    "chinese": "網球",
+    "topic": "Sports & Recreation"
   },
   {
     "word": "terrible",
     "pos": "adj.",
-    "chinese": "糟糕的；可怕的"
+    "chinese": "糟糕的；可怕的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "test",
     "pos": "n./v.",
-    "chinese": "測驗"
+    "chinese": "測驗",
+    "topic": "School"
   },
   {
     "word": "than",
     "pos": "conj./prep.",
-    "chinese": "比"
+    "chinese": "比",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "thank",
     "pos": "v.",
-    "chinese": "感謝"
+    "chinese": "感謝",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "that",
     "pos": "pron./adj./conj.",
-    "chinese": "那；那個"
+    "chinese": "那；那個",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "the",
     "pos": "art.",
-    "chinese": "定冠詞"
+    "chinese": "定冠詞",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "theater",
     "pos": "n.",
-    "chinese": "劇院；電影院"
+    "chinese": "劇院；電影院",
+    "topic": "Places & Directions"
   },
   {
     "word": "then",
     "pos": "adv./conj.",
-    "chinese": "那時；然後"
+    "chinese": "那時；然後",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "there",
     "pos": "adv.",
-    "chinese": "那裡"
+    "chinese": "那裡",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "these",
     "pos": "pron./adj.",
-    "chinese": "這些"
+    "chinese": "這些",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "they",
     "pos": "pron.",
-    "chinese": "他們"
+    "chinese": "他們",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "thick",
     "pos": "adj.",
-    "chinese": "厚的"
+    "chinese": "厚的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "thin",
     "pos": "adj.",
-    "chinese": "薄的；瘦的"
+    "chinese": "薄的；瘦的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "thing",
     "pos": "n.",
-    "chinese": "事情；東西"
+    "chinese": "事情；東西",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "think",
     "pos": "v.",
-    "chinese": "思考；認為"
+    "chinese": "思考；認為",
+    "topic": "Daily Activities"
   },
   {
     "word": "third",
     "pos": "adj./n.",
-    "chinese": "第三"
+    "chinese": "第三",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "thirsty",
     "pos": "adj.",
-    "chinese": "口渴的"
+    "chinese": "口渴的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "thirteen",
     "pos": "num.",
-    "chinese": "十三"
+    "chinese": "十三",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "thirty",
     "pos": "num.",
-    "chinese": "三十"
+    "chinese": "三十",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "this",
     "pos": "pron./adj.",
-    "chinese": "這；這個"
+    "chinese": "這；這個",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "those",
     "pos": "pron./adj.",
-    "chinese": "那些"
+    "chinese": "那些",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "though",
     "pos": "conj./adv.",
-    "chinese": "雖然；不過"
+    "chinese": "雖然；不過",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "thousand",
     "pos": "num.",
-    "chinese": "千"
+    "chinese": "千",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "three",
     "pos": "num.",
-    "chinese": "三"
+    "chinese": "三",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "throat",
     "pos": "n.",
-    "chinese": "喉嚨"
+    "chinese": "喉嚨",
+    "topic": "Body"
   },
   {
     "word": "through",
     "pos": "prep./adv.",
-    "chinese": "通過；穿越"
+    "chinese": "通過；穿越",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "throw",
     "pos": "v.",
-    "chinese": "丟擲"
+    "chinese": "丟擲",
+    "topic": "Daily Activities"
   },
   {
     "word": "Thursday",
     "pos": "n.",
-    "chinese": "星期四"
+    "chinese": "星期四",
+    "topic": "Time & Calendar"
   },
   {
     "word": "ticket",
     "pos": "n.",
-    "chinese": "票"
+    "chinese": "票",
+    "topic": "Transportation & Travel"
   },
   {
     "word": "tidy",
     "pos": "adj./v.",
-    "chinese": "整齊的；整理"
+    "chinese": "整齊的；整理",
+    "topic": "Personal characteristics"
   },
   {
     "word": "tie",
     "pos": "n./v.",
-    "chinese": "領帶；綁；平局"
+    "chinese": "領帶；綁；平局",
+    "topic": "Clothing"
   },
   {
     "word": "tiger",
     "pos": "n.",
-    "chinese": "老虎"
+    "chinese": "老虎",
+    "topic": "Animals"
   },
   {
     "word": "time",
     "pos": "n.",
-    "chinese": "時間；次數"
+    "chinese": "時間；次數",
+    "topic": "Time & Calendar"
   },
   {
     "word": "tip",
     "pos": "n./v.",
-    "chinese": "小費；提示"
+    "chinese": "小費；提示",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "tired",
     "pos": "adj.",
-    "chinese": "疲倦的"
+    "chinese": "疲倦的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "to",
     "pos": "prep.",
-    "chinese": "到；給"
+    "chinese": "到；給",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "toast",
     "pos": "n./v.",
-    "chinese": "吐司；乾杯"
+    "chinese": "吐司；乾杯",
+    "topic": "Food & Drinks"
   },
   {
     "word": "today",
     "pos": "n./adv.",
-    "chinese": "今天"
+    "chinese": "今天",
+    "topic": "Time & Calendar"
   },
   {
     "word": "toe",
     "pos": "n.",
-    "chinese": "腳趾"
+    "chinese": "腳趾",
+    "topic": "Body"
   },
   {
     "word": "together",
     "pos": "adv.",
-    "chinese": "一起"
+    "chinese": "一起",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "tomato",
     "pos": "n.",
-    "chinese": "番茄"
+    "chinese": "番茄",
+    "topic": "Food & Drinks"
   },
   {
     "word": "tomorrow",
     "pos": "n./adv.",
-    "chinese": "明天"
+    "chinese": "明天",
+    "topic": "Time & Calendar"
   },
   {
     "word": "tonight",
     "pos": "n./adv.",
-    "chinese": "今晚"
+    "chinese": "今晚",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "too",
     "pos": "adv.",
-    "chinese": "也；太"
+    "chinese": "也；太",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "tool",
     "pos": "n.",
-    "chinese": "工具"
+    "chinese": "工具",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "tooth",
     "pos": "n.",
-    "chinese": "牙齒"
+    "chinese": "牙齒",
+    "topic": "Body"
   },
   {
     "word": "top",
     "pos": "n./adj.",
-    "chinese": "頂部；最高的"
+    "chinese": "頂部；最高的",
+    "topic": "Places & Directions"
   },
   {
     "word": "topic",
     "pos": "n.",
-    "chinese": "主題"
+    "chinese": "主題",
+    "topic": "School"
   },
   {
     "word": "total",
     "pos": "n./adj.",
-    "chinese": "總計"
+    "chinese": "總計",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "touch",
     "pos": "v./n.",
-    "chinese": "觸碰"
+    "chinese": "觸碰",
+    "topic": "Daily Activities"
   },
   {
     "word": "towel",
     "pos": "n.",
-    "chinese": "毛巾"
+    "chinese": "毛巾",
+    "topic": "Housing"
   },
   {
     "word": "town",
     "pos": "n.",
-    "chinese": "城鎮"
+    "chinese": "城鎮",
+    "topic": "Places & Directions"
   },
   {
     "word": "toy",
     "pos": "n.",
-    "chinese": "玩具"
+    "chinese": "玩具",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "traffic",
     "pos": "n.",
-    "chinese": "交通"
+    "chinese": "交通",
+    "topic": "Transportation & Travel"
   },
   {
     "word": "train",
     "pos": "n./v.",
-    "chinese": "火車；訓練"
+    "chinese": "火車；訓練",
+    "topic": "Transportation & Travel"
   },
   {
     "word": "trash",
     "pos": "n.",
-    "chinese": "垃圾"
+    "chinese": "垃圾",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "treat",
     "pos": "v./n.",
-    "chinese": "對待；招待"
+    "chinese": "對待；招待",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "tree",
     "pos": "n.",
-    "chinese": "樹"
+    "chinese": "樹",
+    "topic": "Nature & Weather"
   },
   {
     "word": "trick",
     "pos": "n./v.",
-    "chinese": "把戲；欺騙"
+    "chinese": "把戲；欺騙",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "trip",
     "pos": "n.",
-    "chinese": "旅行"
+    "chinese": "旅行",
+    "topic": "Transportation & Travel"
   },
   {
     "word": "trouble",
     "pos": "n./v.",
-    "chinese": "麻煩"
+    "chinese": "麻煩",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "truck",
     "pos": "n.",
-    "chinese": "卡車"
+    "chinese": "卡車",
+    "topic": "Transportation & Travel"
   },
   {
     "word": "true",
     "pos": "adj.",
-    "chinese": "真實的"
+    "chinese": "真實的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "try",
     "pos": "v.",
-    "chinese": "嘗試"
+    "chinese": "嘗試",
+    "topic": "Daily Activities"
   },
   {
     "word": "T-shirt",
     "pos": "n.",
-    "chinese": "T恤"
+    "chinese": "T恤",
+    "topic": "Clothing"
   },
   {
     "word": "Tuesday",
     "pos": "n.",
-    "chinese": "星期二"
+    "chinese": "星期二",
+    "topic": "Time & Calendar"
   },
   {
     "word": "turn",
     "pos": "v./n.",
-    "chinese": "轉；輪流"
+    "chinese": "轉；輪流",
+    "topic": "Daily Activities"
   },
   {
     "word": "turtle",
     "pos": "n.",
-    "chinese": "烏龜"
+    "chinese": "烏龜",
+    "topic": "Animals"
   },
   {
     "word": "twelve",
     "pos": "num.",
-    "chinese": "十二"
+    "chinese": "十二",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "twenty",
     "pos": "num.",
-    "chinese": "二十"
+    "chinese": "二十",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "twice",
     "pos": "adv.",
-    "chinese": "兩次"
+    "chinese": "兩次",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "two",
     "pos": "num.",
-    "chinese": "二"
+    "chinese": "二",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "type",
     "pos": "n./v.",
-    "chinese": "類型；打字"
+    "chinese": "類型；打字",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "typhoon",
     "pos": "n.",
-    "chinese": "颱風"
+    "chinese": "颱風",
+    "topic": "Nature & Weather"
   },
   {
     "word": "ugly",
     "pos": "adj.",
-    "chinese": "醜的"
+    "chinese": "醜的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "umbrella",
     "pos": "n.",
-    "chinese": "雨傘"
+    "chinese": "雨傘",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "uncle",
     "pos": "n.",
-    "chinese": "叔叔；伯伯"
+    "chinese": "叔叔；伯伯",
+    "topic": "Family"
   },
   {
     "word": "under",
     "pos": "prep.",
-    "chinese": "在…下面"
+    "chinese": "在…下面",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "understand",
     "pos": "v.",
-    "chinese": "了解"
+    "chinese": "了解",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "unhappy",
     "pos": "adj.",
-    "chinese": "不快樂的"
+    "chinese": "不快樂的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "uniform",
     "pos": "n.",
-    "chinese": "制服"
+    "chinese": "制服",
+    "topic": "Clothing"
   },
   {
     "word": "until",
     "pos": "prep./conj.",
-    "chinese": "直到"
+    "chinese": "直到",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "up",
     "pos": "adv./prep.",
-    "chinese": "向上"
+    "chinese": "向上",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "upload",
     "pos": "v.",
-    "chinese": "上傳"
+    "chinese": "上傳",
+    "topic": "Communication & Technology"
   },
   {
     "word": "USA",
     "pos": "n.",
-    "chinese": "美國"
+    "chinese": "美國",
+    "topic": "Places & Directions"
   },
   {
     "word": "use",
     "pos": "v./n.",
-    "chinese": "使用"
+    "chinese": "使用",
+    "topic": "Daily Activities"
   },
   {
     "word": "useful",
     "pos": "adj.",
-    "chinese": "有用的"
+    "chinese": "有用的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "usually",
     "pos": "adv.",
-    "chinese": "通常"
+    "chinese": "通常",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "vacation",
     "pos": "n.",
-    "chinese": "假期"
+    "chinese": "假期",
+    "topic": "Sports & Recreation"
   },
   {
     "word": "vegetable",
     "pos": "n.",
-    "chinese": "蔬菜"
+    "chinese": "蔬菜",
+    "topic": "Food & Drinks"
   },
   {
     "word": "very",
     "pos": "adv.",
-    "chinese": "非常"
+    "chinese": "非常",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "video",
     "pos": "n.",
-    "chinese": "影片"
+    "chinese": "影片",
+    "topic": "Communication & Technology"
   },
   {
     "word": "violin",
     "pos": "n.",
-    "chinese": "小提琴"
+    "chinese": "小提琴",
+    "topic": "Sports & Recreation"
   },
   {
     "word": "visit",
     "pos": "v./n.",
-    "chinese": "拜訪"
+    "chinese": "拜訪",
+    "topic": "Daily Activities"
   },
   {
     "word": "visitor",
     "pos": "n.",
-    "chinese": "訪客"
+    "chinese": "訪客",
+    "topic": "People"
   },
   {
     "word": "voice",
     "pos": "n.",
-    "chinese": "聲音"
+    "chinese": "聲音",
+    "topic": "Communication & Technology"
   },
   {
     "word": "wait",
     "pos": "v.",
-    "chinese": "等待"
+    "chinese": "等待",
+    "topic": "Daily Activities"
   },
   {
     "word": "waiter",
     "pos": "n.",
-    "chinese": "男服務生"
+    "chinese": "男服務生",
+    "topic": "Work & Occupations"
   },
   {
     "word": "waitress",
     "pos": "n.",
-    "chinese": "女服務生"
+    "chinese": "女服務生",
+    "topic": "Work & Occupations"
   },
   {
     "word": "wake",
     "pos": "v.",
-    "chinese": "醒來；叫醒"
+    "chinese": "醒來；叫醒",
+    "topic": "Daily Activities"
   },
   {
     "word": "walk",
     "pos": "v./n.",
-    "chinese": "走路"
+    "chinese": "走路",
+    "topic": "Daily Activities"
   },
   {
     "word": "wall",
     "pos": "n.",
-    "chinese": "牆"
+    "chinese": "牆",
+    "topic": "Housing"
   },
   {
     "word": "wallet",
     "pos": "n.",
-    "chinese": "皮夾"
+    "chinese": "皮夾",
+    "topic": "Shopping & Money"
   },
   {
     "word": "want",
     "pos": "v.",
-    "chinese": "想要"
+    "chinese": "想要",
+    "topic": "Daily Activities"
   },
   {
     "word": "warm",
     "pos": "adj.",
-    "chinese": "溫暖的"
+    "chinese": "溫暖的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "wash",
     "pos": "v.",
-    "chinese": "洗"
+    "chinese": "洗",
+    "topic": "Daily Activities"
   },
   {
     "word": "watch",
     "pos": "v./n.",
-    "chinese": "觀看；手錶"
+    "chinese": "觀看；手錶",
+    "topic": "Daily Activities"
   },
   {
     "word": "water",
     "pos": "n.",
-    "chinese": "水"
+    "chinese": "水",
+    "topic": "Nature & Weather"
   },
   {
     "word": "watermelon",
     "pos": "n.",
-    "chinese": "西瓜"
+    "chinese": "西瓜",
+    "topic": "Food & Drinks"
   },
   {
     "word": "wave",
     "pos": "v./n.",
-    "chinese": "揮手；波浪"
+    "chinese": "揮手；波浪",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "way",
     "pos": "n.",
-    "chinese": "方法；路途"
+    "chinese": "方法；路途",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "we",
     "pos": "pron.",
-    "chinese": "我們"
+    "chinese": "我們",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "weak",
     "pos": "adj.",
-    "chinese": "虛弱的"
+    "chinese": "虛弱的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "wear",
     "pos": "v.",
-    "chinese": "穿戴"
+    "chinese": "穿戴",
+    "topic": "Daily Activities"
   },
   {
     "word": "weather",
     "pos": "n.",
-    "chinese": "天氣"
+    "chinese": "天氣",
+    "topic": "Nature & Weather"
   },
   {
     "word": "Wednesday",
     "pos": "n.",
-    "chinese": "星期三"
+    "chinese": "星期三",
+    "topic": "Time & Calendar"
   },
   {
     "word": "week",
     "pos": "n.",
-    "chinese": "週"
+    "chinese": "週",
+    "topic": "Time & Calendar"
   },
   {
     "word": "weekend",
     "pos": "n.",
-    "chinese": "週末"
+    "chinese": "週末",
+    "topic": "Time & Calendar"
   },
   {
     "word": "welcome",
     "pos": "v./adj./interj.",
-    "chinese": "歡迎"
+    "chinese": "歡迎",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "well",
     "pos": "adv./adj./interj.",
-    "chinese": "好；井"
+    "chinese": "好；井",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "west",
     "pos": "n./adj.",
-    "chinese": "西方"
+    "chinese": "西方",
+    "topic": "Places & Directions"
   },
   {
     "word": "wet",
     "pos": "adj.",
-    "chinese": "濕的"
+    "chinese": "濕的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "what",
     "pos": "pron./adj.",
-    "chinese": "什麼"
+    "chinese": "什麼",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "when",
     "pos": "adv./conj.",
-    "chinese": "什麼時候；當"
+    "chinese": "什麼時候；當",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "where",
     "pos": "adv./conj.",
-    "chinese": "哪裡"
+    "chinese": "哪裡",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "whether",
     "pos": "conj.",
-    "chinese": "是否"
+    "chinese": "是否",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "which",
     "pos": "pron./adj.",
-    "chinese": "哪一個"
+    "chinese": "哪一個",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "while",
     "pos": "conj./n.",
-    "chinese": "當…時候；一會兒"
+    "chinese": "當…時候；一會兒",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "white",
     "pos": "adj./n.",
-    "chinese": "白色的"
+    "chinese": "白色的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "who",
     "pos": "pron.",
-    "chinese": "誰"
+    "chinese": "誰",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "whose",
     "pos": "pron.",
-    "chinese": "誰的"
+    "chinese": "誰的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "why",
     "pos": "adv.",
-    "chinese": "為什麼"
+    "chinese": "為什麼",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "wide",
     "pos": "adj.",
-    "chinese": "寬的"
+    "chinese": "寬的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "wife",
     "pos": "n.",
-    "chinese": "妻子"
+    "chinese": "妻子",
+    "topic": "Family"
   },
   {
     "word": "will",
     "pos": "modal v.",
-    "chinese": "將要；願意"
+    "chinese": "將要；願意",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "win",
     "pos": "v.",
-    "chinese": "贏"
+    "chinese": "贏",
+    "topic": "Daily Activities"
   },
   {
     "word": "wind",
     "pos": "n.",
-    "chinese": "風"
+    "chinese": "風",
+    "topic": "Nature & Weather"
   },
   {
     "word": "window",
     "pos": "n.",
-    "chinese": "窗戶"
+    "chinese": "窗戶",
+    "topic": "Housing"
   },
   {
     "word": "windy",
     "pos": "adj.",
-    "chinese": "有風的"
+    "chinese": "有風的",
+    "topic": "Nature & Weather"
   },
   {
     "word": "winter",
     "pos": "n.",
-    "chinese": "冬天"
+    "chinese": "冬天",
+    "topic": "Time & Calendar"
   },
   {
     "word": "wise",
     "pos": "adj.",
-    "chinese": "聰明的；有智慧的"
+    "chinese": "聰明的；有智慧的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "wish",
     "pos": "v./n.",
-    "chinese": "希望；願望"
+    "chinese": "希望；願望",
+    "topic": "Daily Activities"
   },
   {
     "word": "with",
     "pos": "prep.",
-    "chinese": "和；用"
+    "chinese": "和；用",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "without",
     "pos": "prep.",
-    "chinese": "沒有"
+    "chinese": "沒有",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "woman",
     "pos": "n.",
-    "chinese": "女人"
+    "chinese": "女人",
+    "topic": "People"
   },
   {
     "word": "wonderful",
     "pos": "adj.",
-    "chinese": "很棒的"
+    "chinese": "很棒的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "word",
     "pos": "n.",
-    "chinese": "字；話"
+    "chinese": "字；話",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "work",
     "pos": "v./n.",
-    "chinese": "工作；運作"
+    "chinese": "工作；運作",
+    "topic": "Daily Activities"
   },
   {
     "word": "workbook",
     "pos": "n.",
-    "chinese": "作業本"
+    "chinese": "作業本",
+    "topic": "School"
   },
   {
     "word": "worker",
     "pos": "n.",
-    "chinese": "工人"
+    "chinese": "工人",
+    "topic": "Work & Occupations"
   },
   {
     "word": "world",
     "pos": "n.",
-    "chinese": "世界"
+    "chinese": "世界",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "worry",
     "pos": "v./n.",
-    "chinese": "擔心"
+    "chinese": "擔心",
+    "topic": "Daily Activities"
   },
   {
     "word": "write",
     "pos": "v.",
-    "chinese": "寫"
+    "chinese": "寫",
+    "topic": "Daily Activities"
   },
   {
     "word": "writer",
     "pos": "n.",
-    "chinese": "作家"
+    "chinese": "作家",
+    "topic": "Work & Occupations"
   },
   {
     "word": "wrong",
     "pos": "adj./adv.",
-    "chinese": "錯的"
+    "chinese": "錯的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "yard",
     "pos": "n.",
-    "chinese": "院子；碼"
+    "chinese": "院子；碼",
+    "topic": "Housing"
   },
   {
     "word": "year",
     "pos": "n.",
-    "chinese": "年"
+    "chinese": "年",
+    "topic": "Time & Calendar"
   },
   {
     "word": "yellow",
     "pos": "adj./n.",
-    "chinese": "黃色的"
+    "chinese": "黃色的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "yes",
     "pos": "adv./interj.",
-    "chinese": "是的"
+    "chinese": "是的",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "yesterday",
     "pos": "n./adv.",
-    "chinese": "昨天"
+    "chinese": "昨天",
+    "topic": "Time & Calendar"
   },
   {
     "word": "yet",
     "pos": "adv./conj.",
-    "chinese": "還沒；但是"
+    "chinese": "還沒；但是",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "you",
     "pos": "pron.",
-    "chinese": "你；你們"
+    "chinese": "你；你們",
+    "topic": "Grammar & Function Words"
   },
   {
     "word": "young",
     "pos": "adj.",
-    "chinese": "年輕的"
+    "chinese": "年輕的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "yummy",
     "pos": "adj.",
-    "chinese": "好吃的"
+    "chinese": "好吃的",
+    "topic": "Personal characteristics"
   },
   {
     "word": "zebra",
     "pos": "n.",
-    "chinese": "斑馬"
+    "chinese": "斑馬",
+    "topic": "Animals"
   },
   {
     "word": "zero",
     "pos": "num./n.",
-    "chinese": "零"
+    "chinese": "零",
+    "topic": "Numbers & Quantities"
   },
   {
     "word": "zoo",
     "pos": "n.",
-    "chinese": "動物園"
+    "chinese": "動物園",
+    "topic": "Animals"
   }
 ]

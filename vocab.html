@@ -26,6 +26,32 @@
     <button class="vtab" onclick="switchTab('stats')">學習統計</button>
   </div>
 
+  <!-- 主題分類列 -->
+  <div class="topic-filter" id="topicFilter">
+    <button class="topic-btn active" onclick="setTopic('')">📚 全部主題</button>
+    <button class="topic-btn" onclick="setTopic('People')">👥 人物</button>
+    <button class="topic-btn" onclick="setTopic('Personal characteristics')">💡 個人特質</button>
+    <button class="topic-btn" onclick="setTopic('Body')">🦴 身體</button>
+    <button class="topic-btn" onclick="setTopic('Clothing')">👕 衣物</button>
+    <button class="topic-btn" onclick="setTopic('Food & Drinks')">🍎 食物飲料</button>
+    <button class="topic-btn" onclick="setTopic('Housing')">🏠 住所</button>
+    <button class="topic-btn" onclick="setTopic('Family')">👨‍👩‍👧 家庭</button>
+    <button class="topic-btn" onclick="setTopic('Health')">🏥 健康</button>
+    <button class="topic-btn" onclick="setTopic('School')">🏫 學校</button>
+    <button class="topic-btn" onclick="setTopic('Work & Occupations')">💼 工作職業</button>
+    <button class="topic-btn" onclick="setTopic('Transportation & Travel')">🚌 交通旅遊</button>
+    <button class="topic-btn" onclick="setTopic('Sports & Recreation')">⚽ 運動休閒</button>
+    <button class="topic-btn" onclick="setTopic('Nature & Weather')">🌿 自然天氣</button>
+    <button class="topic-btn" onclick="setTopic('Animals')">🐾 動物</button>
+    <button class="topic-btn" onclick="setTopic('Time & Calendar')">📅 時間日曆</button>
+    <button class="topic-btn" onclick="setTopic('Numbers & Quantities')">🔢 數字量詞</button>
+    <button class="topic-btn" onclick="setTopic('Places & Directions')">📍 地點方向</button>
+    <button class="topic-btn" onclick="setTopic('Communication & Technology')">💻 通訊科技</button>
+    <button class="topic-btn" onclick="setTopic('Shopping & Money')">🛒 購物金錢</button>
+    <button class="topic-btn" onclick="setTopic('Daily Activities')">🌟 日常活動</button>
+    <button class="topic-btn" onclick="setTopic('Grammar & Function Words')">📝 文法功能詞</button>
+  </div>
+
   <div class="vocab-filter">
     <button class="filter-btn active" onclick="setFilter('all')">全部</button>
     <button class="filter-btn" onclick="setFilter('new')">未學習</button>
@@ -135,6 +161,19 @@
     </div>
   </div>
 </main>
+
+  <!-- 推薦資源 -->
+  <div class="recommend-section">
+    <h3>🔗 推薦資源</h3>
+    <a href="https://andyjunyi.github.io/voc-935/" target="_blank" class="recommend-card">
+      <div class="recommend-icon">🌐</div>
+      <div class="recommend-info">
+        <div class="recommend-title">935字彙練習網站</div>
+        <div class="recommend-desc">鄭博仁老師製作 · 含打字練習、句子重組等多元模式</div>
+      </div>
+      <div class="recommend-arrow">→</div>
+    </a>
+  </div>
 
 <script src="js/storage.js"></script>
 <script src="js/vocab.js"></script>

@@ -6,6 +6,7 @@ let fcIndex = 0;
 let fcFlipped = false;
 let currentFilter = 'all';
 let currentSearch = '';
+let currentTopic = '';
 
 // 測驗
 let quizWords = [];
@@ -53,12 +54,22 @@ function doSearch() {
   applyFilter();
 }
 
+function setTopic(topic) {
+  currentTopic = topic;
+  document.querySelectorAll('.topic-btn').forEach(el => {
+    el.classList.toggle('active', el.getAttribute('onclick') === `setTopic('${topic}')` || (topic === '' && el.getAttribute('onclick') === "setTopic('')"));
+  });
+  fcIndex = 0;
+  applyFilter();
+}
+
 function applyFilter() {
   filteredWords = allWords.filter(w => {
     const d = Storage.getWordData(w.word);
     const statusMatch = currentFilter === 'all' || d.status === currentFilter || (currentFilter==='new' && d.status==='new');
     const searchMatch = !currentSearch || w.word.toLowerCase().includes(currentSearch) || w.chinese.includes(currentSearch);
-    return statusMatch && searchMatch;
+    const topicMatch = !currentTopic || w.topic === currentTopic;
+    return statusMatch && searchMatch && topicMatch;
   });
   fcIndex = 0;
   renderFlashcard();
