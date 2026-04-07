@@ -3,6 +3,7 @@
     "id": 1,
     "type": "single",
     "passage": null,
+    "passageImage": "data/images/111-q01.jpg",
     "question": "Look at the picture. The woman is putting ____ on the cake.",
     "options": {
       "A": "candles",
