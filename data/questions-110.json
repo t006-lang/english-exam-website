@@ -366,6 +366,7 @@
   {
     "id": 29,
     "type": "passage",
+    "passageImage": "data/images/110-q29.jpg",
     "passage": "Dear Traveler,\nYou have bought an NFR ticket online for a train that runs between White\nWater City and Cloud City.\nWe are sorry to tell you that, because of the typhoon last month, the Sand\nTown – Spring Town line will be closed between August 14 and 28 2016. During\nthis time, some trains will change lines and will not stop at a few stations.\nThere will be free buses to take travelers to these stations. Please check below\nfor the changes. Visit http://www.nfr.gov/ for more information.\nWe wish you a nice summer.\nLena Muller\nNational Formosa Railway\n1. Trains that run between Green City and Cloud\nCity will take the Smoke Town – Spring Town\nline, and will stop at every station. Below are\nthe trains that will change lines. ____ White Water City\nTrain   New Line (from 8/14 to 8/28)\nGoing RL101 White Water City \u001f Cloud City\nSouth RL102 White Water City \u001f Spring Town ____ Green City\nRL103 Green City \u001f Cloud City ____ Sand Town\nGoing RL201 Spring Town \u001f Green City ____ Gray Village ____ Smoke Town\nNorth RL202 Cloud City \u001f Green City\nBlack Town ____ Hill Town\n2. The free buses for the Sand Town – Spring\nTown line will wait at Green City (going south) ____ Spring Town\nand Spring Town (going north) stations. No\nCloud City\nstop at Gray Village.\nline 路線\n8",
     "question": "Why does National Formosa Railway write this letter?",
     "options": {
@@ -379,6 +380,7 @@
   {
     "id": 30,
     "type": "passage",
+    "passageImage": "data/images/110-q29.jpg",
     "passage": "Dear Traveler,\nYou have bought an NFR ticket online for a train that runs between White\nWater City and Cloud City.\nWe are sorry to tell you that, because of the typhoon last month, the Sand\nTown – Spring Town line will be closed between August 14 and 28 2016. During\nthis time, some trains will change lines and will not stop at a few stations.\nThere will be free buses to take travelers to these stations. Please check below\nfor the changes. Visit http://www.nfr.gov/ for more information.\nWe wish you a nice summer.\nLena Muller\nNational Formosa Railway\n1. Trains that run between Green City and Cloud\nCity will take the Smoke Town – Spring Town\nline, and will stop at every station. Below are\nthe trains that will change lines. ____ White Water City\nTrain   New Line (from 8/14 to 8/28)\nGoing RL101 White Water City \u001f Cloud City\nSouth RL102 White Water City \u001f Spring Town ____ Green City\nRL103 Green City \u001f Cloud City ____ Sand Town\nGoing RL201 Spring Town \u001f Green City ____ Gray Village ____ Smoke Town\nNorth RL202 Cloud City \u001f Green City\nBlack Town ____ Hill Town\n2. The free buses for the Sand Town – Spring\nTown line will wait at Green City (going south) ____ Spring Town\nand Spring Town (going north) stations. No\nCloud City\nstop at Gray Village.\nline 路線\n8",
     "question": "What is true about NFR’s trains between August 14 and 28 2016?",
     "options": {
@@ -392,6 +394,7 @@
   {
     "id": 31,
     "type": "passage",
+    "passageImage": "data/images/110-q29.jpg",
     "passage": "Dear Traveler,\nYou have bought an NFR ticket online for a train that runs between White\nWater City and Cloud City.\nWe are sorry to tell you that, because of the typhoon last month, the Sand\nTown – Spring Town line will be closed between August 14 and 28 2016. During\nthis time, some trains will change lines and will not stop at a few stations.\nThere will be free buses to take travelers to these stations. Please check below\nfor the changes. Visit http://www.nfr.gov/ for more information.\nWe wish you a nice summer.\nLena Muller\nNational Formosa Railway\n1. Trains that run between Green City and Cloud\nCity will take the Smoke Town – Spring Town\nline, and will stop at every station. Below are\nthe trains that will change lines. ____ White Water City\nTrain   New Line (from 8/14 to 8/28)\nGoing RL101 White Water City \u001f Cloud City\nSouth RL102 White Water City \u001f Spring Town ____ Green City\nRL103 Green City \u001f Cloud City ____ Sand Town\nGoing RL201 Spring Town \u001f Green City ____ Gray Village ____ Smoke Town\nNorth RL202 Cloud City \u001f Green City\nBlack Town ____ Hill Town\n2. The free buses for the Sand Town – Spring\nTown line will wait at Green City (going south) ____ Spring Town\nand Spring Town (going north) stations. No\nCloud City\nstop at Gray Village.\nline 路線\n8",
     "question": "James lives in Smoke Town. He wants to go to Black Town on August 19. How can he get there?",
     "options": {
