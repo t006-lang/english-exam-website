@@ -11,7 +11,7 @@
       "D": "plane"
     },
     "answer": "D",
-    "passageImage": "data/images/114-q01.jpg"
+    "passageImage": "data/images/114-q01.png"
   },
   {
     "id": 2,
@@ -285,7 +285,7 @@
       "D": "He is getting married to Jenny."
     },
     "answer": "A",
-    "passageImage": "data/images/114-q22.jpg"
+    "passageImage": "data/images/114-q22.png"
   },
   {
     "id": 23,
@@ -299,7 +299,7 @@
       "D": "\u0007Alisa says she doesn’t care what we have for lunch but also doesn’t like the restaurant"
     },
     "answer": "C",
-    "passageImage": "data/images/114-q22.jpg"
+    "passageImage": "data/images/114-q22.png"
   },
   {
     "id": 24,
@@ -313,7 +313,7 @@
       "D": "Move around the city by metro as much as you want."
     },
     "answer": "D",
-    "passageImage": "data/images/114-q24.jpg"
+    "passageImage": "data/images/114-q24.png"
   },
   {
     "id": 25,
@@ -327,7 +327,7 @@
       "D": "A 1-day Card for Zones 1-2 and a Weekend Card for Zones 1-2."
     },
     "answer": "C",
-    "passageImage": "data/images/114-q24.jpg"
+    "passageImage": "data/images/114-q24.png"
   },
   {
     "id": 26,
@@ -381,8 +381,8 @@
     },
     "answer": "C",
     "passageImage": [
-      "data/images/114-q29a.jpg",
-      "data/images/114-q29b.jpg"
+      "data/images/114-q29a.png",
+      "data/images/114-q29b.png"
     ]
   },
   {
@@ -398,8 +398,8 @@
     },
     "answer": "D",
     "passageImage": [
-      "data/images/114-q29a.jpg",
-      "data/images/114-q29b.jpg"
+      "data/images/114-q29a.png",
+      "data/images/114-q29b.png"
     ]
   },
   {
@@ -415,8 +415,8 @@
     },
     "answer": "B",
     "passageImage": [
-      "data/images/114-q29a.jpg",
-      "data/images/114-q29b.jpg"
+      "data/images/114-q29a.png",
+      "data/images/114-q29b.png"
     ]
   },
   {
@@ -470,7 +470,7 @@
       "D": "The story of a famous UK electricity worker from the 1970s."
     },
     "answer": "C",
-    "passageImage": "data/images/114-q35.jpg"
+    "passageImage": "data/images/114-q35.png"
   },
   {
     "id": 36,
@@ -484,7 +484,7 @@
       "D": "They did not care whether their job might hurt people’s health."
     },
     "answer": "C",
-    "passageImage": "data/images/114-q35.jpg"
+    "passageImage": "data/images/114-q35.png"
   },
   {
     "id": 37,
@@ -498,7 +498,7 @@
       "D": "To show that the government and the electricity workers both lost their fights."
     },
     "answer": "C",
-    "passageImage": "data/images/114-q35.jpg"
+    "passageImage": "data/images/114-q35.png"
   },
   {
     "id": 38,

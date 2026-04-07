@@ -3,7 +3,7 @@
     "id": 1,
     "type": "single",
     "passage": null,
-    "passageImage": "data/images/111-q01.jpg",
+    "passageImage": "data/images/111-q01.png",
     "question": "Look at the picture. The woman is putting ____ on the cake.",
     "options": {
       "A": "candles",
@@ -272,7 +272,7 @@
       "D": "The opening of their 20th store in the USA."
     },
     "answer": "C",
-    "passageImage": "data/images/111-q21.jpg"
+    "passageImage": "data/images/111-q21.png"
   },
   {
     "id": 22,
@@ -286,12 +286,12 @@
       "D": "Another picture of the tea cup."
     },
     "answer": "C",
-    "passageImage": ["data/images/111-q21.jpg", "data/images/111-q22.jpg"]
+    "passageImage": ["data/images/111-q21.png", "data/images/111-q22.png"]
   },
   {
     "id": 23,
     "type": "passage",
-    "passageImage": "data/images/111-q23.jpg",
+    "passageImage": "data/images/111-q23.png",
     "passage": "Below is an infographic.\ninfographic 資訊圖表\n4",
     "question": "What can we learn about sugar from the infographic?",
     "options": {
@@ -305,7 +305,7 @@
   {
     "id": 24,
     "type": "passage",
-    "passageImage": "data/images/111-q23.jpg",
+    "passageImage": "data/images/111-q23.png",
     "passage": "Below is an infographic.\ninfographic 資訊圖表\n4",
     "question": "What can be a reason why the list of “Sugar that is hidden in foods and drinks” is put in the infographic?",
     "options": {
@@ -345,7 +345,7 @@
   {
     "id": 27,
     "type": "passage",
-    "passageImage": "data/images/111-q27.jpg",
+    "passageImage": "data/images/111-q27.png",
     "passage": "Tabata training is a very popular way of exercising these days. It doesn’t take\nmuch time or space, and it burns calories faster than other ways of exercising.\nThe idea of Tabata training is simple: exercise for 20 seconds, rest for 10 seconds,\nand then repeat (at least eight times). The moves for the 20-second exercise are not\ndifficult to learn. Jumping jacks, high knees, squats, and planks are some of the most\ncommon moves. You can decide yourself what moves to do in your Tabata training.\nFor example, you can do more leg exercises if you want strong legs.\nOne great thing about Tabata training is that your body will keep burning\ncalories for at least an hour after 4 minutes of Tabata training. But to have this\nwonderful “afterburn,” you need to exercise really hard during each 20 seconds.\nIf you seldom exercise or have heart problems, this exercise may not be good for\nyou. But for people who enjoy exercising but are too busy to go to the gym, Tabata\ntraining might just be the answer.\ncalorie 卡路里(熱量單位)",
     "question": "Which idea is talked about in the first paragraph of the reading?",
     "options": {
@@ -359,7 +359,7 @@
   {
     "id": 28,
     "type": "passage",
-    "passageImage": "data/images/111-q27.jpg",
+    "passageImage": "data/images/111-q27.png",
     "passage": "Tabata training is a very popular way of exercising these days. It doesn’t take\nmuch time or space, and it burns calories faster than other ways of exercising.\nThe idea of Tabata training is simple: exercise for 20 seconds, rest for 10 seconds,\nand then repeat (at least eight times). The moves for the 20-second exercise are not\ndifficult to learn. Jumping jacks, high knees, squats, and planks are some of the most\ncommon moves. You can decide yourself what moves to do in your Tabata training.\nFor example, you can do more leg exercises if you want strong legs.\nOne great thing about Tabata training is that your body will keep burning\ncalories for at least an hour after 4 minutes of Tabata training. But to have this\nwonderful “afterburn,” you need to exercise really hard during each 20 seconds.\nIf you seldom exercise or have heart problems, this exercise may not be good for\nyou. But for people who enjoy exercising but are too busy to go to the gym, Tabata\ntraining might just be the answer.\ncalorie 卡路里(熱量單位)",
     "question": "Who might find that Tabata training is right for them?",
     "options": {
@@ -373,7 +373,7 @@
   {
     "id": 29,
     "type": "passage",
-    "passageImage": "data/images/111-q27.jpg",
+    "passageImage": "data/images/111-q27.png",
     "passage": "Tabata training is a very popular way of exercising these days. It doesn’t take\nmuch time or space, and it burns calories faster than other ways of exercising.\nThe idea of Tabata training is simple: exercise for 20 seconds, rest for 10 seconds,\nand then repeat (at least eight times). The moves for the 20-second exercise are not\ndifficult to learn. Jumping jacks, high knees, squats, and planks are some of the most\ncommon moves. You can decide yourself what moves to do in your Tabata training.\nFor example, you can do more leg exercises if you want strong legs.\nOne great thing about Tabata training is that your body will keep burning\ncalories for at least an hour after 4 minutes of Tabata training. But to have this\nwonderful “afterburn,” you need to exercise really hard during each 20 seconds.\nIf you seldom exercise or have heart problems, this exercise may not be good for\nyou. But for people who enjoy exercising but are too busy to go to the gym, Tabata\ntraining might just be the answer.\ncalorie 卡路里(熱量單位)",
     "question": "Which is true about Tabata training?",
     "options": {
@@ -387,7 +387,7 @@
   {
     "id": 30,
     "type": "passage",
-    "passageImage": "data/images/111-q30.jpg",
+    "passageImage": "data/images/111-q30.png",
     "passage": "The problem of long working hours is a real headache in our country. It\nkills many people every year (see Figure 1), and many companies are trying\nto change that. They have at least one “No Overtime Day” in a week, and it\nis often Wednesday. On “No Overtime Day,” workers are asked to leave their\noffices before 8 p.m. At 8 p.m., companies play the song “There’s Always\nTomorrow” and turn off all the lights.\nHowever, after the workers walk out of their offices, they don’t go home.\nSome go back later, turn on their table lamps, and keep working, and others\nfind somewhere else to work until very late at night. Restaurants and coffee\nshops are busier on Wednesday evenings, and they have started selling drinks\nand meals for these workers.\nBut why do these people keep working? A study shows that workers who\nwork more hours often have a bigger chance to get paid more and rise higher\nin their companies. This is true for both men and women (see Figure 2).\nWorking long hours has become a way to show that people are hard-working.\nClearly, this must be changed before the problem gets any worse.\nFigure 1\nFigure 2\naverage 平均\n8",
     "question": "There are four important points in the report: a. What “No Overtime Day” is b. Why “No Overtime Day” fails c. Why there is “No Overtime Day” in the country d. How workers deal with “No Overtime Day” How are they ordered in the report?  order 排序",
     "options": {
@@ -401,7 +401,7 @@
   {
     "id": 31,
     "type": "passage",
-    "passageImage": "data/images/111-q30.jpg",
+    "passageImage": "data/images/111-q30.png",
     "passage": "The problem of long working hours is a real headache in our country. It\nkills many people every year (see Figure 1), and many companies are trying\nto change that. They have at least one “No Overtime Day” in a week, and it\nis often Wednesday. On “No Overtime Day,” workers are asked to leave their\noffices before 8 p.m. At 8 p.m., companies play the song “There’s Always\nTomorrow” and turn off all the lights.\nHowever, after the workers walk out of their offices, they don’t go home.\nSome go back later, turn on their table lamps, and keep working, and others\nfind somewhere else to work until very late at night. Restaurants and coffee\nshops are busier on Wednesday evenings, and they have started selling drinks\nand meals for these workers.\nBut why do these people keep working? A study shows that workers who\nwork more hours often have a bigger chance to get paid more and rise higher\nin their companies. This is true for both men and women (see Figure 2).\nWorking long hours has become a way to show that people are hard-working.\nClearly, this must be changed before the problem gets any worse.\nFigure 1\nFigure 2\naverage 平均\n8",
     "question": "What does this mean in the report?",
     "options": {
@@ -415,7 +415,7 @@
   {
     "id": 32,
     "type": "passage",
-    "passageImage": "data/images/111-q30.jpg",
+    "passageImage": "data/images/111-q30.png",
     "passage": "The problem of long working hours is a real headache in our country. It\nkills many people every year (see Figure 1), and many companies are trying\nto change that. They have at least one “No Overtime Day” in a week, and it\nis often Wednesday. On “No Overtime Day,” workers are asked to leave their\noffices before 8 p.m. At 8 p.m., companies play the song “There’s Always\nTomorrow” and turn off all the lights.\nHowever, after the workers walk out of their offices, they don’t go home.\nSome go back later, turn on their table lamps, and keep working, and others\nfind somewhere else to work until very late at night. Restaurants and coffee\nshops are busier on Wednesday evenings, and they have started selling drinks\nand meals for these workers.\nBut why do these people keep working? A study shows that workers who\nwork more hours often have a bigger chance to get paid more and rise higher\nin their companies. This is true for both men and women (see Figure 2).\nWorking long hours has become a way to show that people are hard-working.\nClearly, this must be changed before the problem gets any worse.\nFigure 1\nFigure 2\naverage 平均\n8",
     "question": "What can we learn from Figure 1 and Figure 2?",
     "options": {
@@ -429,7 +429,7 @@
   {
     "id": 33,
     "type": "passage",
-    "passageImage": ["data/images/111-q33.jpg", "data/images/111-q33b.jpg"],
+    "passageImage": ["data/images/111-q33.png", "data/images/111-q33b.png"],
     "passage": "http://www.aab.com/news/language-and-power-756315\nLanguage and Power: Cameroon’s Story\nBy Elisa Grant, 2 Oct 2017\nIn the modern world, being able to speak English\nis often a way to get power. However, this is not\ntrue for English speakers in Cameroon. To know\nwhy things are different in this African country,\nwe need to go back one hundred years.\nIn 1919, Kamerun (the name of Cameroon at\nthe time) was cut into two parts: one belonged\nto France, and the other belonged to the UK. In\n1960, the French Cameroon became the Republic of Cameroun, and the UK’s\npart joined it in 1961. The new country changed its name to the Federal\nRepublic of Cameroon. Although both French and English are Cameroon’s\nofficial languages, only around 20% of its people speak English. Also, the\ngovernment has been in French speakers’ hands since the two parts became\none country.\nFor a long time, Cameroon’s English speakers have felt they are not welcome\nin their own country. For example, it is very difficult for them to find jobs\nin the government, and they are often asked to speak French in business and\nat official events. They have become more resentful at the government and\ndecided to fight for themselves. Since last year, the English speakers have\ntried to build their own country. Yesterday, they said in a public meeting\nthat they were not part of Cameroon anymore. They are now a new country,\n“Ambazonia.” When the police tried to stop the meeting, at least eight people\nwere killed.\nRead more\nofficial 官方的   government 政府\n10",
     "question": "Which map is most likely the map of Cameroon in 1962?  likely 可能",
     "options": {},
@@ -438,7 +438,7 @@
   {
     "id": 34,
     "type": "passage",
-    "passageImage": "data/images/111-q33.jpg",
+    "passageImage": "data/images/111-q33.png",
     "passage": "http://www.aab.com/news/language-and-power-756315\nLanguage and Power: Cameroon’s Story\nBy Elisa Grant, 2 Oct 2017\nIn the modern world, being able to speak English\nis often a way to get power. However, this is not\ntrue for English speakers in Cameroon. To know\nwhy things are different in this African country,\nwe need to go back one hundred years.\nIn 1919, Kamerun (the name of Cameroon at\nthe time) was cut into two parts: one belonged\nto France, and the other belonged to the UK. In\n1960, the French Cameroon became the Republic of Cameroun, and the UK’s\npart joined it in 1961. The new country changed its name to the Federal\nRepublic of Cameroon. Although both French and English are Cameroon’s\nofficial languages, only around 20% of its people speak English. Also, the\ngovernment has been in French speakers’ hands since the two parts became\none country.\nFor a long time, Cameroon’s English speakers have felt they are not welcome\nin their own country. For example, it is very difficult for them to find jobs\nin the government, and they are often asked to speak French in business and\nat official events. They have become more resentful at the government and\ndecided to fight for themselves. Since last year, the English speakers have\ntried to build their own country. Yesterday, they said in a public meeting\nthat they were not part of Cameroon anymore. They are now a new country,\n“Ambazonia.” When the police tried to stop the meeting, at least eight people\nwere killed.\nRead more\nofficial 官方的   government 政府\n10",
     "question": "What does resentful mean in the reading?",
     "options": {
@@ -452,7 +452,7 @@
   {
     "id": 35,
     "type": "passage",
-    "passageImage": "data/images/111-q33.jpg",
+    "passageImage": "data/images/111-q33.png",
     "passage": "http://www.aab.com/news/language-and-power-756315\nLanguage and Power: Cameroon’s Story\nBy Elisa Grant, 2 Oct 2017\nIn the modern world, being able to speak English\nis often a way to get power. However, this is not\ntrue for English speakers in Cameroon. To know\nwhy things are different in this African country,\nwe need to go back one hundred years.\nIn 1919, Kamerun (the name of Cameroon at\nthe time) was cut into two parts: one belonged\nto France, and the other belonged to the UK. In\n1960, the French Cameroon became the Republic of Cameroun, and the UK’s\npart joined it in 1961. The new country changed its name to the Federal\nRepublic of Cameroon. Although both French and English are Cameroon’s\nofficial languages, only around 20% of its people speak English. Also, the\ngovernment has been in French speakers’ hands since the two parts became\none country.\nFor a long time, Cameroon’s English speakers have felt they are not welcome\nin their own country. For example, it is very difficult for them to find jobs\nin the government, and they are often asked to speak French in business and\nat official events. They have become more resentful at the government and\ndecided to fight for themselves. Since last year, the English speakers have\ntried to build their own country. Yesterday, they said in a public meeting\nthat they were not part of Cameroon anymore. They are now a new country,\n“Ambazonia.” When the police tried to stop the meeting, at least eight people\nwere killed.\nRead more\nofficial 官方的   government 政府\n10",
     "question": "What does Cameroon’s government most likely think of Ambazonia?",
     "options": {
@@ -466,7 +466,7 @@
   {
     "id": 36,
     "type": "passage",
-    "passageImage": "data/images/111-q33.jpg",
+    "passageImage": "data/images/111-q33.png",
     "passage": "http://www.aab.com/news/language-and-power-756315\nLanguage and Power: Cameroon’s Story\nBy Elisa Grant, 2 Oct 2017\nIn the modern world, being able to speak English\nis often a way to get power. However, this is not\ntrue for English speakers in Cameroon. To know\nwhy things are different in this African country,\nwe need to go back one hundred years.\nIn 1919, Kamerun (the name of Cameroon at\nthe time) was cut into two parts: one belonged\nto France, and the other belonged to the UK. In\n1960, the French Cameroon became the Republic of Cameroun, and the UK’s\npart joined it in 1961. The new country changed its name to the Federal\nRepublic of Cameroon. Although both French and English are Cameroon’s\nofficial languages, only around 20% of its people speak English. Also, the\ngovernment has been in French speakers’ hands since the two parts became\none country.\nFor a long time, Cameroon’s English speakers have felt they are not welcome\nin their own country. For example, it is very difficult for them to find jobs\nin the government, and they are often asked to speak French in business and\nat official events. They have become more resentful at the government and\ndecided to fight for themselves. Since last year, the English speakers have\ntried to build their own country. Yesterday, they said in a public meeting\nthat they were not part of Cameroon anymore. They are now a new country,\n“Ambazonia.” When the police tried to stop the meeting, at least eight people\nwere killed.\nRead more\nofficial 官方的   government 政府\n10",
     "question": "What does Elisa Grant try to tell readers by talking about the history of Cameroon?",
     "options": {
@@ -480,7 +480,7 @@
   {
     "id": 37,
     "type": "passage",
-    "passageImage": "data/images/111-q37.jpg",
+    "passageImage": "data/images/111-q37.png",
     "passage": "THE SOUTHEND TRAIL has been popular with nature lovers for years.\nThe 120-km trail passes beautiful lakes, crosses rivers, and goes through\nmountains and hills. This gives bird lovers some of the best places for\nbirdwatching. The trail also takes you to the Southend Museum and to two\nfamous castles, Edward Castle and\nSloan Castle.\nIt’s best to plan one day for one part\nof the trail and start your hike early\nin the morning, because each part\ntakes at least seven hours. If you\ndon’t want to walk, you can bike, but\nmake sure you stay on the main trail,\nbecause the side trails are not wide\nenough for biking.\nThere are two types of lodging\nfor visitors. Camping is popular in\nsummer, but it is only allowed on a few campgrounds (see the map). A more\ncomfortable one is to stay at a hotel in one of the towns. You can find some\nvery nice ones that also have breakfast.\ntrail 步道",
     "question": "What is recommended to people who are visiting the Southend Trail?",
     "options": {
@@ -494,7 +494,7 @@
   {
     "id": 38,
     "type": "passage",
-    "passageImage": "data/images/111-q37.jpg",
+    "passageImage": "data/images/111-q37.png",
     "passage": "THE SOUTHEND TRAIL has been popular with nature lovers for years.\nThe 120-km trail passes beautiful lakes, crosses rivers, and goes through\nmountains and hills. This gives bird lovers some of the best places for\nbirdwatching. The trail also takes you to the Southend Museum and to two\nfamous castles, Edward Castle and\nSloan Castle.\nIt’s best to plan one day for one part\nof the trail and start your hike early\nin the morning, because each part\ntakes at least seven hours. If you\ndon’t want to walk, you can bike, but\nmake sure you stay on the main trail,\nbecause the side trails are not wide\nenough for biking.\nThere are two types of lodging\nfor visitors. Camping is popular in\nsummer, but it is only allowed on a few campgrounds (see the map). A more\ncomfortable one is to stay at a hotel in one of the towns. You can find some\nvery nice ones that also have breakfast.\ntrail 步道",
     "question": "What does lodging mean in the reading?",
     "options": {
@@ -508,7 +508,7 @@
   {
     "id": 39,
     "type": "passage",
-    "passageImage": "data/images/111-q37.jpg",
+    "passageImage": "data/images/111-q37.png",
     "passage": "THE SOUTHEND TRAIL has been popular with nature lovers for years.\nThe 120-km trail passes beautiful lakes, crosses rivers, and goes through\nmountains and hills. This gives bird lovers some of the best places for\nbirdwatching. The trail also takes you to the Southend Museum and to two\nfamous castles, Edward Castle and\nSloan Castle.\nIt’s best to plan one day for one part\nof the trail and start your hike early\nin the morning, because each part\ntakes at least seven hours. If you\ndon’t want to walk, you can bike, but\nmake sure you stay on the main trail,\nbecause the side trails are not wide\nenough for biking.\nThere are two types of lodging\nfor visitors. Camping is popular in\nsummer, but it is only allowed on a few campgrounds (see the map). A more\ncomfortable one is to stay at a hotel in one of the towns. You can find some\nvery nice ones that also have breakfast.\ntrail 步道",
     "question": "Kaylen will start his trip from Cove. He plans to visit one of the old castles. He also wants to go birdwatching near the river. Which parts of the trail should Kaylen go on?",
     "options": {
@@ -522,7 +522,7 @@
   {
     "id": 40,
     "type": "passage",
-    "passageImage": "data/images/111-q40.jpg",
+    "passageImage": "data/images/111-q40.png",
     "passage": "English words are made of 26 letters, and palindromes and anagrams are two kinds\nof word games about spelling. A palindrome is a word or a sentence that reads the\nsame from left to right or from right to left, 40 , “eye,” “Bob,” “my gym,” and\n“Was it a car or a cat I saw?” An anagram of a word or words is made by putting the\nletters of the word or words in a different way. Look at the words and their anagrams\nbelow. Can you think of other possible anagrams of these words?\nAnagrams are often longer words that don’t really mean anything but are fun to\nsay. Sometimes they can even mean something 42 , like when a common word,\n“restaurant,” becomes “Eat rats, run!”\nActually, palindromes and anagrams are 43 . Palindromes can be used to learn\nmathematics and make music. Anagrams are also a good way to hide something. In\nhistory, people often hid their important studies in anagrams. Can you think of any\nother way to use them?",
     "question": "",
     "options": {
@@ -536,7 +536,7 @@
   {
     "id": 41,
     "type": "passage",
-    "passageImage": "data/images/111-q40.jpg",
+    "passageImage": "data/images/111-q40.png",
     "passage": "English words are made of 26 letters, and palindromes and anagrams are two kinds\nof word games about spelling. A palindrome is a word or a sentence that reads the\nsame from left to right or from right to left, 40 , “eye,” “Bob,” “my gym,” and\n“Was it a car or a cat I saw?” An anagram of a word or words is made by putting the\nletters of the word or words in a different way. Look at the words and their anagrams\nbelow. Can you think of other possible anagrams of these words?\nAnagrams are often longer words that don’t really mean anything but are fun to\nsay. Sometimes they can even mean something 42 , like when a common word,\n“restaurant,” becomes “Eat rats, run!”\nActually, palindromes and anagrams are 43 . Palindromes can be used to learn\nmathematics and make music. Anagrams are also a good way to hide something. In\nhistory, people often hid their important studies in anagrams. Can you think of any\nother way to use them?",
     "question": "",
     "options": {
@@ -550,7 +550,7 @@
   {
     "id": 42,
     "type": "passage",
-    "passageImage": "data/images/111-q40.jpg",
+    "passageImage": "data/images/111-q40.png",
     "passage": "English words are made of 26 letters, and palindromes and anagrams are two kinds\nof word games about spelling. A palindrome is a word or a sentence that reads the\nsame from left to right or from right to left, 40 , “eye,” “Bob,” “my gym,” and\n“Was it a car or a cat I saw?” An anagram of a word or words is made by putting the\nletters of the word or words in a different way. Look at the words and their anagrams\nbelow. Can you think of other possible anagrams of these words?\nAnagrams are often longer words that don’t really mean anything but are fun to\nsay. Sometimes they can even mean something 42 , like when a common word,\n“restaurant,” becomes “Eat rats, run!”\nActually, palindromes and anagrams are 43 . Palindromes can be used to learn\nmathematics and make music. Anagrams are also a good way to hide something. In\nhistory, people often hid their important studies in anagrams. Can you think of any\nother way to use them?",
     "question": "",
     "options": {
@@ -564,7 +564,7 @@
   {
     "id": 43,
     "type": "passage",
-    "passageImage": "data/images/111-q40.jpg",
+    "passageImage": "data/images/111-q40.png",
     "passage": "English words are made of 26 letters, and palindromes and anagrams are two kinds\nof word games about spelling. A palindrome is a word or a sentence that reads the\nsame from left to right or from right to left, 40 , “eye,” “Bob,” “my gym,” and\n“Was it a car or a cat I saw?” An anagram of a word or words is made by putting the\nletters of the word or words in a different way. Look at the words and their anagrams\nbelow. Can you think of other possible anagrams of these words?\nAnagrams are often longer words that don’t really mean anything but are fun to\nsay. Sometimes they can even mean something 42 , like when a common word,\n“restaurant,” becomes “Eat rats, run!”\nActually, palindromes and anagrams are 43 . Palindromes can be used to learn\nmathematics and make music. Anagrams are also a good way to hide something. In\nhistory, people often hid their important studies in anagrams. Can you think of any\nother way to use them?",
     "question": "",
     "options": {

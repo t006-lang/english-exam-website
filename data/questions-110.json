@@ -3,7 +3,7 @@
     "id": 1,
     "type": "single",
     "passage": null,
-    "passageImage": "data/images/110-q01.jpg",
+    "passageImage": "data/images/110-q01.png",
     "question": "In the picture, the boy is ____ the old man.",
     "options": {
       "A": "smiling at",
@@ -185,7 +185,7 @@
   {
     "id": 15,
     "type": "passage",
-    "passageImage": "data/images/110-q15.jpg",
+    "passageImage": "data/images/110-q15.png",
     "passage": "We’ve prepared many wonderful surprises for you at e-BeautiMed, BeautiMed’s\nonline store!\nSurprise 1 ____ Join “BeautiMed Friend” online for free and get 2000\nBeautiMed points!\nSurprise 2 ____ Already a “BeautiMed Friend” ? Come collect your free\ngift by entering your “BeautiMed Friend” card number at\ne-BeautiMed before 8/31.\nSurprise 3 ____ Get 500 BeautiMed points by shopping at e-BeautiMed and\nyou’ll get 500 more points if you spend more than $1,000.\nSurprise 4 ____ Shop at e-BeautiMed during 7/1-8/31 and you may win $5,000\nor free movie tickets!\nSurprise 5 ____ Invite a friend to join “BeautiMed Friend” and you both can\nget 1000 points each!\nenter 輸入",
     "question": "What is this ad for?",
     "options": {
@@ -199,7 +199,7 @@
   {
     "id": 16,
     "type": "passage",
-    "passageImage": "data/images/110-q15.jpg",
+    "passageImage": "data/images/110-q15.png",
     "passage": "We’ve prepared many wonderful surprises for you at e-BeautiMed, BeautiMed’s\nonline store!\nSurprise 1 ____ Join “BeautiMed Friend” online for free and get 2000\nBeautiMed points!\nSurprise 2 ____ Already a “BeautiMed Friend” ? Come collect your free\ngift by entering your “BeautiMed Friend” card number at\ne-BeautiMed before 8/31.\nSurprise 3 ____ Get 500 BeautiMed points by shopping at e-BeautiMed and\nyou’ll get 500 more points if you spend more than $1,000.\nSurprise 4 ____ Shop at e-BeautiMed during 7/1-8/31 and you may win $5,000\nor free movie tickets!\nSurprise 5 ____ Invite a friend to join “BeautiMed Friend” and you both can\nget 1000 points each!\nenter 輸入",
     "question": "What will NOT get you BeautiMed points?",
     "options": {
@@ -213,7 +213,7 @@
   {
     "id": 17,
     "type": "passage",
-    "passageImage": "data/images/110-q17.jpg",
+    "passageImage": "data/images/110-q17.png",
     "passage": "Joey: Lynn, have you tried Caldron? I’ve heard that restaurant is good.\nLynn: I have. I went there once for Tom’s party.\nJoey: And?\nLynn: Well, I never thought I would have to cook for myself when eating out.\nJoey: But it’s fun to cook your own food.\nLynn: I don’t see any fun in that. Besides, I want nice food.\nJoey: So you didn’t like the food there?\nLynn: Everything tasted the same. I mean, they were all cooked in the same boiling\npot. How could they taste different? I just kept throwing strange things into\nthe pot. I didn’t even know what half the things were made of.\nJoey: Don’t worry. Everything should be safe to eat after a hot bath in the pot.\nAnd you didn’t get sick after that, right? Besides, you tried something\ndifferent there. Still a good experience, I think?\nLynn: I don’t think we share the same idea of good experiences.",
     "question": "Lynn took some photos at Tom’s party. Which is most likely one of them?",
     "options": {
@@ -250,7 +250,7 @@
   {
     "id": 20,
     "type": "passage",
-    "passageImage": "data/images/110-q20.jpg",
+    "passageImage": "data/images/110-q20.png",
     "passage": "Below is a page from Katie’s diary.\nDear Diary, ____ June 7, 2011\nI was very sad to hear what happened to Woollie yesterday.\nWoollie was my favorite sheep. I have a storybook about Woollie.\nIt says when Woollie was four, he ran away from Mr. Armstrong’s\nfarm, and it took Mr. Armstrong six years to find Woollie. But\nWoollie had grown so much fleece that he didn’t even look like a\nsheep. Mr. Armstrong decided to cut his fleece on TV so everyone\ncould see. Daddy said this happened on the day I was born.\nWoollie’s fleece weighed 27 kg, and could make clothes for 20 large\nmen. I asked Daddy if his favorite vest was made from Woollie’s\nfleece. Daddy said no, because Woollie’s fleece was sold to collect\nmoney for sick kids. In the storybook, Woollie was taken to see\nMs. Stella Clark, the leader of our city then. They even had tea\ntogether. Daddy said Woollie did meet Ms. Clark, but he wasn’t\nsure if they had tea. Daddy said Woollie was put down because he\nwas too sick and there was no way to help him. I cried. I hope\nWoollie will be happy up there in the sky.\nfleece 羊毛 weigh 重達",
     "question": "Which picture of Woollie and Ms. Clark did Katie talk about in her diary?",
     "options": {},
@@ -272,7 +272,7 @@
   {
     "id": 22,
     "type": "passage",
-    "passageImage": "data/images/110-q22.jpg",
+    "passageImage": "data/images/110-q22.png",
     "passage": "Here’s The Piano Lesson, one of Henri\nMatisse’s most famous paintings. The boy in\nthe picture is the painter’s son, Pierre. In the\npicture, Pierre looks quite serious. Why? Well,\nlook at the yellow candle on the red piano. It’s\nalmost burned down. So maybe Pierre has\nalready practiced for hours. And Matisse uses a\nlot of gray, not a very fun color, right? It shows\nhow the poor kid feels, don’t you think?\nOn the top right corner, you can see a woman\nsitting straight on a seat. Is she Pierre’s piano\nteacher? Or his mother? Well, if you’re a\nMatisse fan, you’ll know this is in fact another\npainting by him, Woman on a High Stool. Interesting, right? Matisse likes to do that\na lot.  In fact, there’s another work by Matisse in the picture.  Did you find it?  Right!\nThe sculpture on the bottom left corner!\nMatisse painted this picture in 1916. Pierre was already 16 then, but the artist\npainted his son much younger than he really was. Pierre\nhad gone away to be a soldier, and Matisse didn’t know\nwhether he would come back. Maybe this is a worried\nfather’s way to remember the good old days.\nsculpture 雕像",
     "question": "What can we learn about The Piano Lesson from the reading?",
     "options": {
@@ -286,7 +286,7 @@
   {
     "id": 23,
     "type": "passage",
-    "passageImage": "data/images/110-q22.jpg",
+    "passageImage": "data/images/110-q22.png",
     "passage": "Here’s The Piano Lesson, one of Henri\nMatisse’s most famous paintings. The boy in\nthe picture is the painter’s son, Pierre. In the\npicture, Pierre looks quite serious. Why? Well,\nlook at the yellow candle on the red piano. It’s\nalmost burned down. So maybe Pierre has\nalready practiced for hours. And Matisse uses a\nlot of gray, not a very fun color, right? It shows\nhow the poor kid feels, don’t you think?\nOn the top right corner, you can see a woman\nsitting straight on a seat. Is she Pierre’s piano\nteacher? Or his mother? Well, if you’re a\nMatisse fan, you’ll know this is in fact another\npainting by him, Woman on a High Stool. Interesting, right? Matisse likes to do that\na lot.  In fact, there’s another work by Matisse in the picture.  Did you find it?  Right!\nThe sculpture on the bottom left corner!\nMatisse painted this picture in 1916. Pierre was already 16 then, but the artist\npainted his son much younger than he really was. Pierre\nhad gone away to be a soldier, and Matisse didn’t know\nwhether he would come back. Maybe this is a worried\nfather’s way to remember the good old days.\nsculpture 雕像",
     "question": "What does do that mean in the reading?",
     "options": {
@@ -300,7 +300,7 @@
   {
     "id": 24,
     "type": "passage",
-    "passageImage": "data/images/110-q22.jpg",
+    "passageImage": "data/images/110-q22.png",
     "passage": "Here’s The Piano Lesson, one of Henri\nMatisse’s most famous paintings. The boy in\nthe picture is the painter’s son, Pierre. In the\npicture, Pierre looks quite serious. Why? Well,\nlook at the yellow candle on the red piano. It’s\nalmost burned down. So maybe Pierre has\nalready practiced for hours. And Matisse uses a\nlot of gray, not a very fun color, right? It shows\nhow the poor kid feels, don’t you think?\nOn the top right corner, you can see a woman\nsitting straight on a seat. Is she Pierre’s piano\nteacher? Or his mother? Well, if you’re a\nMatisse fan, you’ll know this is in fact another\npainting by him, Woman on a High Stool. Interesting, right? Matisse likes to do that\na lot.  In fact, there’s another work by Matisse in the picture.  Did you find it?  Right!\nThe sculpture on the bottom left corner!\nMatisse painted this picture in 1916. Pierre was already 16 then, but the artist\npainted his son much younger than he really was. Pierre\nhad gone away to be a soldier, and Matisse didn’t know\nwhether he would come back. Maybe this is a worried\nfather’s way to remember the good old days.\nsculpture 雕像",
     "question": "What is NOT used in the reading to refer to Henri Matisse? ____  refer to 指稱",
     "options": {
@@ -366,7 +366,7 @@
   {
     "id": 29,
     "type": "passage",
-    "passageImage": "data/images/110-q29.jpg",
+    "passageImage": "data/images/110-q29.png",
     "passage": "Dear Traveler,\nYou have bought an NFR ticket online for a train that runs between White\nWater City and Cloud City.\nWe are sorry to tell you that, because of the typhoon last month, the Sand\nTown – Spring Town line will be closed between August 14 and 28 2016. During\nthis time, some trains will change lines and will not stop at a few stations.\nThere will be free buses to take travelers to these stations. Please check below\nfor the changes. Visit http://www.nfr.gov/ for more information.\nWe wish you a nice summer.\nLena Muller\nNational Formosa Railway\n1. Trains that run between Green City and Cloud\nCity will take the Smoke Town – Spring Town\nline, and will stop at every station. Below are\nthe trains that will change lines. ____ White Water City\nTrain   New Line (from 8/14 to 8/28)\nGoing RL101 White Water City \u001f Cloud City\nSouth RL102 White Water City \u001f Spring Town ____ Green City\nRL103 Green City \u001f Cloud City ____ Sand Town\nGoing RL201 Spring Town \u001f Green City ____ Gray Village ____ Smoke Town\nNorth RL202 Cloud City \u001f Green City\nBlack Town ____ Hill Town\n2. The free buses for the Sand Town – Spring\nTown line will wait at Green City (going south) ____ Spring Town\nand Spring Town (going north) stations. No\nCloud City\nstop at Gray Village.\nline 路線\n8",
     "question": "Why does National Formosa Railway write this letter?",
     "options": {
@@ -380,7 +380,7 @@
   {
     "id": 30,
     "type": "passage",
-    "passageImage": "data/images/110-q29.jpg",
+    "passageImage": "data/images/110-q29.png",
     "passage": "Dear Traveler,\nYou have bought an NFR ticket online for a train that runs between White\nWater City and Cloud City.\nWe are sorry to tell you that, because of the typhoon last month, the Sand\nTown – Spring Town line will be closed between August 14 and 28 2016. During\nthis time, some trains will change lines and will not stop at a few stations.\nThere will be free buses to take travelers to these stations. Please check below\nfor the changes. Visit http://www.nfr.gov/ for more information.\nWe wish you a nice summer.\nLena Muller\nNational Formosa Railway\n1. Trains that run between Green City and Cloud\nCity will take the Smoke Town – Spring Town\nline, and will stop at every station. Below are\nthe trains that will change lines. ____ White Water City\nTrain   New Line (from 8/14 to 8/28)\nGoing RL101 White Water City \u001f Cloud City\nSouth RL102 White Water City \u001f Spring Town ____ Green City\nRL103 Green City \u001f Cloud City ____ Sand Town\nGoing RL201 Spring Town \u001f Green City ____ Gray Village ____ Smoke Town\nNorth RL202 Cloud City \u001f Green City\nBlack Town ____ Hill Town\n2. The free buses for the Sand Town – Spring\nTown line will wait at Green City (going south) ____ Spring Town\nand Spring Town (going north) stations. No\nCloud City\nstop at Gray Village.\nline 路線\n8",
     "question": "What is true about NFR’s trains between August 14 and 28 2016?",
     "options": {
@@ -394,7 +394,7 @@
   {
     "id": 31,
     "type": "passage",
-    "passageImage": "data/images/110-q29.jpg",
+    "passageImage": "data/images/110-q29.png",
     "passage": "Dear Traveler,\nYou have bought an NFR ticket online for a train that runs between White\nWater City and Cloud City.\nWe are sorry to tell you that, because of the typhoon last month, the Sand\nTown – Spring Town line will be closed between August 14 and 28 2016. During\nthis time, some trains will change lines and will not stop at a few stations.\nThere will be free buses to take travelers to these stations. Please check below\nfor the changes. Visit http://www.nfr.gov/ for more information.\nWe wish you a nice summer.\nLena Muller\nNational Formosa Railway\n1. Trains that run between Green City and Cloud\nCity will take the Smoke Town – Spring Town\nline, and will stop at every station. Below are\nthe trains that will change lines. ____ White Water City\nTrain   New Line (from 8/14 to 8/28)\nGoing RL101 White Water City \u001f Cloud City\nSouth RL102 White Water City \u001f Spring Town ____ Green City\nRL103 Green City \u001f Cloud City ____ Sand Town\nGoing RL201 Spring Town \u001f Green City ____ Gray Village ____ Smoke Town\nNorth RL202 Cloud City \u001f Green City\nBlack Town ____ Hill Town\n2. The free buses for the Sand Town – Spring\nTown line will wait at Green City (going south) ____ Spring Town\nand Spring Town (going north) stations. No\nCloud City\nstop at Gray Village.\nline 路線\n8",
     "question": "James lives in Smoke Town. He wants to go to Black Town on August 19. How can he get there?",
     "options": {
@@ -408,7 +408,7 @@
   {
     "id": 32,
     "type": "passage",
-    "passageImage": "data/images/110-q32.jpg",
+    "passageImage": "data/images/110-q32.png",
     "passage": "SYRIA\nDarayya\nIn Darayya, a city in Syria, there’s a library, and it has 15,000 books on almost\nevery subject you can think of. However, it is different from any libraries you know:\nIt is a secret underground library, and only people in Darayya know where it is.\nOver the years, war has shaken Darayya badly. Every day, houses are bombed\nand people are killed. Stores are closed one after another, and so are schools. To\nhelp the kids in Darayya with their learning, Anas Ahmad, a 19-year-old student, and\nhis friends decided to build a library. They built the library under the ground to keep\nit safe from bombing. But it is dangerous to collect books for the library. Often,\nAhmad and his friends look for books in houses that were bombed. They need to be\ncareful because they may be killed in another bombing.\nYou may ask, “In a place like Darayya, would people be interested in books?”\n“Just like the body needs food, the mind needs books,” says one library user. In the\nlibrary, people enjoy their time of reading and forget about the terrible world above,\nso their life doesn’t seem so hard. Through reading, they are able to dream of a\nbetter life after war.\nwar 戰爭 bomb 轟炸 seem 彷彿",
     "question": "Below are the ideas that are talked about in the reading. a. The problems Darayya has. b. How Darayya’s library was started. c. What makes Darayya’s library special. d. How Darayya’s library helps people there. In what order does the writer put his ideas in the reading? ____  order 順序",
     "options": {
@@ -422,7 +422,7 @@
   {
     "id": 33,
     "type": "passage",
-    "passageImage": "data/images/110-q32.jpg",
+    "passageImage": "data/images/110-q32.png",
     "passage": "SYRIA\nDarayya\nIn Darayya, a city in Syria, there’s a library, and it has 15,000 books on almost\nevery subject you can think of. However, it is different from any libraries you know:\nIt is a secret underground library, and only people in Darayya know where it is.\nOver the years, war has shaken Darayya badly. Every day, houses are bombed\nand people are killed. Stores are closed one after another, and so are schools. To\nhelp the kids in Darayya with their learning, Anas Ahmad, a 19-year-old student, and\nhis friends decided to build a library. They built the library under the ground to keep\nit safe from bombing. But it is dangerous to collect books for the library. Often,\nAhmad and his friends look for books in houses that were bombed. They need to be\ncareful because they may be killed in another bombing.\nYou may ask, “In a place like Darayya, would people be interested in books?”\n“Just like the body needs food, the mind needs books,” says one library user. In the\nlibrary, people enjoy their time of reading and forget about the terrible world above,\nso their life doesn’t seem so hard. Through reading, they are able to dream of a\nbetter life after war.\nwar 戰爭 bomb 轟炸 seem 彷彿",
     "question": "Why do people in Darayya go to the library even during the war?",
     "options": {
@@ -436,7 +436,7 @@
   {
     "id": 34,
     "type": "passage",
-    "passageImage": "data/images/110-q32.jpg",
+    "passageImage": "data/images/110-q32.png",
     "passage": "SYRIA\nDarayya\nIn Darayya, a city in Syria, there’s a library, and it has 15,000 books on almost\nevery subject you can think of. However, it is different from any libraries you know:\nIt is a secret underground library, and only people in Darayya know where it is.\nOver the years, war has shaken Darayya badly. Every day, houses are bombed\nand people are killed. Stores are closed one after another, and so are schools. To\nhelp the kids in Darayya with their learning, Anas Ahmad, a 19-year-old student, and\nhis friends decided to build a library. They built the library under the ground to keep\nit safe from bombing. But it is dangerous to collect books for the library. Often,\nAhmad and his friends look for books in houses that were bombed. They need to be\ncareful because they may be killed in another bombing.\nYou may ask, “In a place like Darayya, would people be interested in books?”\n“Just like the body needs food, the mind needs books,” says one library user. In the\nlibrary, people enjoy their time of reading and forget about the terrible world above,\nso their life doesn’t seem so hard. Through reading, they are able to dream of a\nbetter life after war.\nwar 戰爭 bomb 轟炸 seem 彷彿",
     "question": "What do we know about Darayya’s library?",
     "options": {

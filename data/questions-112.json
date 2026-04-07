@@ -3,7 +3,7 @@
     "id": 1,
     "type": "single",
     "passage": null,
-    "passageImage": "data/images/112-q01.jpg",
+    "passageImage": "data/images/112-q01.png",
     "question": "Look at the picture. The man is holding a ____ of grapes in his hands.",
     "options": {
       "A": "bag",
@@ -311,7 +311,7 @@
       "D": "$160."
     },
     "answer": "B",
-    "passageImage": "data/images/112-q24.jpg"
+    "passageImage": "data/images/112-q24.png"
   },
   {
     "id": 25,
@@ -325,7 +325,7 @@
       "D": "2:00 pm, August 28."
     },
     "answer": "B",
-    "passageImage": ["data/images/112-q24.jpg", "data/images/112-q25.jpg"]
+    "passageImage": ["data/images/112-q24.png", "data/images/112-q25.png"]
   },
   {
     "id": 26,
@@ -339,7 +339,7 @@
       "D": "Put it back in its nest if it is not hurt and has few feathers."
     },
     "answer": "A",
-    "passageImage": "data/images/112-q26.jpg"
+    "passageImage": "data/images/112-q26.png"
   },
   {
     "id": 27,
@@ -353,7 +353,7 @@
       "D": "They leave them behind and move to a new nest."
     },
     "answer": "A",
-    "passageImage": "data/images/112-q26.jpg"
+    "passageImage": "data/images/112-q26.png"
   },
   {
     "id": 28,
@@ -367,7 +367,7 @@
       "D": "Factories do not have enough trucks to carry food to stores."
     },
     "answer": "C",
-    "passageImage": "data/images/112-q28.jpg"
+    "passageImage": "data/images/112-q28.png"
   },
   {
     "id": 29,
@@ -381,7 +381,7 @@
       "D": "South & Southeast Asia has a higher percentage of food waste at Stage 4 than the"
     },
     "answer": "D",
-    "passageImage": "data/images/112-q28.jpg"
+    "passageImage": "data/images/112-q28.png"
   },
   {
     "id": 30,
