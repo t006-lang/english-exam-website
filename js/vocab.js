@@ -45,7 +45,7 @@ function switchTab(tab) {
 
 function setFilter(f) {
   currentFilter = f;
-  document.querySelectorAll('.filter-btn').forEach((el,i) => el.classList.toggle('active', ['all','new','learning','learned'][i]===f));
+  document.querySelectorAll('.status-btn').forEach((el,i) => el.classList.toggle('active', ['all','new','learning','learned'][i]===f));
   applyFilter();
 }
 
@@ -56,7 +56,7 @@ function doSearch() {
 
 function setTopic(topic) {
   currentTopic = topic;
-  document.querySelectorAll('.topic-btn').forEach(el => {
+  document.querySelectorAll('.topic-chip').forEach(el => {
     el.classList.toggle('active', el.getAttribute('onclick') === `setTopic('${topic}')` || (topic === '' && el.getAttribute('onclick') === "setTopic('')"));
   });
   fcIndex = 0;
@@ -313,10 +313,10 @@ function renderStats() {
   }
   const max = Math.max(...days.map(d=>d.learned), 1);
   document.getElementById('weeklyBars').innerHTML = days.map(d => `
-    <div class="weekly-bar-item">
-      <div class="weekly-bar" style="height:${Math.round(d.learned/max*60)}px"></div>
-      <div class="weekly-label">${d.date}</div>
-      <div class="weekly-val">${d.learned}</div>
+    <div class="week-item">
+      <div class="week-bar" style="height:${Math.round(d.learned/max*60)}px"></div>
+      <div class="week-date">${d.date}</div>
+      <div class="week-val">${d.learned}</div>
     </div>`).join('');
 }
 

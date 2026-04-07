@@ -18,8 +18,8 @@
   </div>
 </header>
 
-<main>
-  <div class="vocab-tabs">
+<main class="page">
+  <div class="vtab-bar">
     <button class="vtab active" onclick="switchTab('flashcard')">單字卡</button>
     <button class="vtab" onclick="switchTab('quiz')">測驗</button>
     <button class="vtab" onclick="switchTab('smart')">智慧複習 <span id="reviewBadge" class="badge"></span></button>
@@ -27,114 +27,120 @@
   </div>
 
   <!-- 主題分類列 -->
-  <div class="topic-filter" id="topicFilter">
-    <button class="topic-btn active" onclick="setTopic('')">📚 全部主題</button>
-    <button class="topic-btn" onclick="setTopic('People')">👥 人物</button>
-    <button class="topic-btn" onclick="setTopic('Personal characteristics')">💡 個人特質</button>
-    <button class="topic-btn" onclick="setTopic('Body')">🦴 身體</button>
-    <button class="topic-btn" onclick="setTopic('Clothing')">👕 衣物</button>
-    <button class="topic-btn" onclick="setTopic('Food & Drinks')">🍎 食物飲料</button>
-    <button class="topic-btn" onclick="setTopic('Housing')">🏠 住所</button>
-    <button class="topic-btn" onclick="setTopic('Family')">👨‍👩‍👧 家庭</button>
-    <button class="topic-btn" onclick="setTopic('Health')">🏥 健康</button>
-    <button class="topic-btn" onclick="setTopic('School')">🏫 學校</button>
-    <button class="topic-btn" onclick="setTopic('Work & Occupations')">💼 工作職業</button>
-    <button class="topic-btn" onclick="setTopic('Transportation & Travel')">🚌 交通旅遊</button>
-    <button class="topic-btn" onclick="setTopic('Sports & Recreation')">⚽ 運動休閒</button>
-    <button class="topic-btn" onclick="setTopic('Nature & Weather')">🌿 自然天氣</button>
-    <button class="topic-btn" onclick="setTopic('Animals')">🐾 動物</button>
-    <button class="topic-btn" onclick="setTopic('Time & Calendar')">📅 時間日曆</button>
-    <button class="topic-btn" onclick="setTopic('Numbers & Quantities')">🔢 數字量詞</button>
-    <button class="topic-btn" onclick="setTopic('Places & Directions')">📍 地點方向</button>
-    <button class="topic-btn" onclick="setTopic('Communication & Technology')">💻 通訊科技</button>
-    <button class="topic-btn" onclick="setTopic('Shopping & Money')">🛒 購物金錢</button>
-    <button class="topic-btn" onclick="setTopic('Daily Activities')">🌟 日常活動</button>
-    <button class="topic-btn" onclick="setTopic('Grammar & Function Words')">📝 文法功能詞</button>
+  <div class="topic-scroll" id="topicFilter">
+    <button class="topic-chip active" onclick="setTopic('')">📚 全部主題</button>
+    <button class="topic-chip" onclick="setTopic('People')">👥 人物</button>
+    <button class="topic-chip" onclick="setTopic('Personal characteristics')">💡 個人特質</button>
+    <button class="topic-chip" onclick="setTopic('Body')">🦴 身體</button>
+    <button class="topic-chip" onclick="setTopic('Clothing')">👕 衣物</button>
+    <button class="topic-chip" onclick="setTopic('Food & Drinks')">🍎 食物飲料</button>
+    <button class="topic-chip" onclick="setTopic('Housing')">🏠 住所</button>
+    <button class="topic-chip" onclick="setTopic('Family')">👨‍👩‍👧 家庭</button>
+    <button class="topic-chip" onclick="setTopic('Health')">🏥 健康</button>
+    <button class="topic-chip" onclick="setTopic('School')">🏫 學校</button>
+    <button class="topic-chip" onclick="setTopic('Work & Occupations')">💼 工作職業</button>
+    <button class="topic-chip" onclick="setTopic('Transportation & Travel')">🚌 交通旅遊</button>
+    <button class="topic-chip" onclick="setTopic('Sports & Recreation')">⚽ 運動休閒</button>
+    <button class="topic-chip" onclick="setTopic('Nature & Weather')">🌿 自然天氣</button>
+    <button class="topic-chip" onclick="setTopic('Animals')">🐾 動物</button>
+    <button class="topic-chip" onclick="setTopic('Time & Calendar')">📅 時間日曆</button>
+    <button class="topic-chip" onclick="setTopic('Numbers & Quantities')">🔢 數字量詞</button>
+    <button class="topic-chip" onclick="setTopic('Places & Directions')">📍 地點方向</button>
+    <button class="topic-chip" onclick="setTopic('Communication & Technology')">💻 通訊科技</button>
+    <button class="topic-chip" onclick="setTopic('Shopping & Money')">🛒 購物金錢</button>
+    <button class="topic-chip" onclick="setTopic('Daily Activities')">🌟 日常活動</button>
+    <button class="topic-chip" onclick="setTopic('Grammar & Function Words')">📝 文法功能詞</button>
   </div>
 
-  <div class="vocab-filter">
-    <button class="filter-btn active" onclick="setFilter('all')">全部</button>
-    <button class="filter-btn" onclick="setFilter('new')">未學習</button>
-    <button class="filter-btn" onclick="setFilter('learning')">學習中</button>
-    <button class="filter-btn" onclick="setFilter('learned')">已熟悉</button>
+  <div class="status-filter">
+    <button class="status-btn active" onclick="setFilter('all')">全部</button>
+    <button class="status-btn" onclick="setFilter('new')">未學習</button>
+    <button class="status-btn" onclick="setFilter('learning')">學習中</button>
+    <button class="status-btn" onclick="setFilter('learned')">已熟悉</button>
     <input type="text" id="searchBox" placeholder="搜尋單字…" oninput="doSearch()" class="search-input">
   </div>
 
   <!-- 單字卡 -->
   <div id="tabFlashcard" class="tab-content">
-    <div class="card-progress"><span id="fcProgress">0 / 0</span></div>
-    <div class="flashcard-wrap">
+    <div class="fc-meta"><span id="fcProgress">0 / 0</span></div>
+    <div class="fc-wrap">
       <div class="flashcard" id="flashcard" onclick="flipCard()">
         <div class="card-front" id="cardFront">
-          <div class="card-word" id="fcWord"></div>
-          <div class="card-pos" id="fcPos"></div>
-          <div class="card-hint">點擊翻面</div>
+          <div class="fc-word" id="fcWord"></div>
+          <div class="fc-pos" id="fcPos"></div>
+          <div class="fc-hint">點擊翻面</div>
         </div>
         <div class="card-back" id="cardBack" style="display:none">
-          <div class="card-chinese" id="fcChinese"></div>
-          <div class="card-word-small" id="fcWordSmall"></div>
+          <div class="fc-chinese" id="fcChinese"></div>
+          <div class="fc-word-sm" id="fcWordSmall"></div>
         </div>
       </div>
     </div>
-    <div class="card-actions">
-      <button class="btn-wrong" onclick="markStatus('new')">✗ 不熟</button>
-      <button class="btn-nav" onclick="fcPrev()">← 上一個</button>
-      <button class="btn-nav" onclick="fcNext()">下一個 →</button>
-      <button class="btn-learned" onclick="markStatus('learned')">✓ 記住了</button>
+    <div class="fc-actions">
+      <button class="btn btn-danger btn-sm" onclick="markStatus('new')">✗ 不熟</button>
+      <button class="btn btn-ghost" onclick="fcPrev()">← 上一個</button>
+      <button class="btn btn-ghost" onclick="fcNext()">下一個 →</button>
+      <button class="btn btn-success btn-sm" onclick="markStatus('learned')">✓ 記住了</button>
     </div>
   </div>
 
   <!-- 測驗 -->
   <div id="tabQuiz" class="tab-content" style="display:none">
-    <div class="quiz-wrap" id="quizWrap">
-      <div class="quiz-score">本輪：<span id="quizScore">0</span>/<span id="quizTotal">0</span></div>
-      <div class="quiz-qword" id="quizWord"></div>
-      <div class="quiz-options" id="quizOptions"></div>
-      <button class="btn-primary" id="btnNextQuiz" onclick="nextQuizQ()" style="display:none">下一題</button>
+    <div id="quizWrap">
+      <div class="quiz-score-bar">本輪：<strong><span id="quizScore">0</span>/<span id="quizTotal">0</span></strong></div>
+      <div class="quiz-word-card">
+        <div class="quiz-word" id="quizWord"></div>
+      </div>
+      <div class="quiz-opts" id="quizOptions"></div>
+      <div style="text-align:center">
+        <button class="btn btn-primary" id="btnNextQuiz" onclick="nextQuizQ()" style="display:none">下一題</button>
+      </div>
     </div>
-    <div class="quiz-end" id="quizEnd" style="display:none">
-      <h3>本輪結果</h3>
-      <div class="quiz-end-score" id="quizEndScore"></div>
-      <button class="btn-primary" onclick="startQuiz()">再來一輪</button>
+    <div class="quiz-result" id="quizEnd" style="display:none">
+      <div style="font-size:15px;color:var(--text-2);margin-bottom:8px">本輪結果</div>
+      <div class="quiz-result-score" id="quizEndScore"></div>
+      <button class="btn btn-primary" onclick="startQuiz()">再來一輪</button>
     </div>
   </div>
 
   <!-- 智慧複習 -->
   <div id="tabSmart" class="tab-content" style="display:none">
-    <div class="smart-header">
-      <p>今日需複習：<strong id="reviewCount">0</strong> 個單字</p>
-      <p class="smart-desc">根據記憶曲線，以下單字需要複習</p>
+    <div class="smart-info">
+      <div class="smart-num" id="reviewCount">0</div>
+      <div class="smart-label">今日需複習單字</div>
+      <div style="font-size:13px;color:var(--text-3);margin-top:4px">根據記憶曲線，以下單字需要複習</div>
     </div>
     <div id="smartWrap">
-      <div class="flashcard-wrap">
+      <div class="fc-wrap">
         <div class="flashcard" id="smartCard" onclick="flipSmartCard()">
           <div class="card-front" id="smartFront">
-            <div class="card-word" id="smWord"></div>
-            <div class="card-pos" id="smPos"></div>
-            <div class="card-hint">點擊翻面</div>
+            <div class="fc-word" id="smWord"></div>
+            <div class="fc-pos" id="smPos"></div>
+            <div class="fc-hint">點擊翻面</div>
           </div>
           <div class="card-back" id="smartBack" style="display:none">
-            <div class="card-chinese" id="smChinese"></div>
-            <div class="card-word-small" id="smWordSmall"></div>
+            <div class="fc-chinese" id="smChinese"></div>
+            <div class="fc-word-sm" id="smWordSmall"></div>
           </div>
         </div>
       </div>
       <div class="smart-counter">第 <span id="smCurrent">1</span> / <span id="smTotal">1</span> 個</div>
       <div class="smart-actions" id="smartActions" style="display:none">
-        <button class="btn-wrong" onclick="smartReview('forgot')">😟 忘了</button>
-        <button class="btn-secondary" onclick="smartReview('vague')">🤔 模糊</button>
-        <button class="btn-learned" onclick="smartReview('remember')">😊 記得</button>
+        <button class="btn btn-danger btn-sm" onclick="smartReview('forgot')">😟 忘了</button>
+        <button class="btn btn-ghost" onclick="smartReview('vague')">🤔 模糊</button>
+        <button class="btn btn-success btn-sm" onclick="smartReview('remember')">😊 記得</button>
       </div>
     </div>
-    <div id="smartDone" style="display:none">
-      <div class="smart-done-msg">🎉 今天的複習完成了！</div>
-      <button class="btn-primary" onclick="loadSmartReview()">重新載入</button>
+    <div class="smart-done" id="smartDone" style="display:none">
+      <span class="smart-done-emoji">🎉</span>
+      <div class="smart-done-msg">今天的複習完成了！</div>
+      <button class="btn btn-primary" onclick="loadSmartReview()">重新載入</button>
     </div>
   </div>
 
   <!-- 學習統計 -->
   <div id="tabStats" class="tab-content" style="display:none">
-    <div class="stats-grid">
+    <div class="stats-4grid">
       <div class="stats-card">
         <div class="stats-num" id="stNew">0</div>
         <div class="stats-label">未學習</div>
@@ -152,28 +158,33 @@
         <div class="stats-label">總單字數</div>
       </div>
     </div>
-    <div class="pie-section">
+    <div class="pie-wrap">
       <canvas id="pieChart" width="200" height="200"></canvas>
+      <div class="pie-legend">
+        <div class="legend-item"><span class="legend-dot" style="background:#94a3b8"></span>未學習</div>
+        <div class="legend-item"><span class="legend-dot" style="background:#60a5fa"></span>學習中</div>
+        <div class="legend-item"><span class="legend-dot" style="background:#34d399"></span>已熟悉</div>
+      </div>
     </div>
-    <div class="history-section">
-      <h3>最近7天</h3>
-      <div id="weeklyBars" class="weekly-bars"></div>
+    <div class="week-section">
+      <h3>最近 7 天學習</h3>
+      <div id="weeklyBars" class="week-bars"></div>
     </div>
   </div>
-</main>
 
   <!-- 推薦資源 -->
-  <div class="recommend-section">
-    <h3>🔗 推薦資源</h3>
-    <a href="https://andyjunyi.github.io/voc-935/" target="_blank" class="recommend-card">
-      <div class="recommend-icon">🌐</div>
-      <div class="recommend-info">
-        <div class="recommend-title">935字彙練習網站</div>
-        <div class="recommend-desc">鄭博仁老師製作 · 含打字練習、句子重組等多元模式</div>
+  <div class="recommend-wrap">
+    <div class="recommend-title">🔗 推薦資源</div>
+    <a href="https://andyjunyi.github.io/voc-935/" target="_blank" class="recommend-link">
+      <span class="recommend-logo">🌐</span>
+      <div>
+        <div class="recommend-name">935字彙練習網站</div>
+        <div class="recommend-sub">鄭博仁老師製作 · 含打字練習、句子重組等多元模式</div>
       </div>
-      <div class="recommend-arrow">→</div>
+      <span class="recommend-arr">→</span>
     </a>
   </div>
+</main>
 
 <script src="js/storage.js"></script>
 <script src="js/vocab.js"></script>

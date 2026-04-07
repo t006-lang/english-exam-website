@@ -18,47 +18,50 @@
   </div>
 </header>
 
-<main class="home-main">
-  <section class="hero">
-    <h1>會考英語練習</h1>
-    <p class="subtitle">國中教育會考英語閱讀 · 107-114年歷屆試題 · 1200核心單字</p>
+<main class="page">
+  <section class="hero-section">
+    <span class="hero-label">國中教育會考</span>
+    <h1 class="hero-title">英語閱讀<span>練習平台</span></h1>
+    <p class="hero-subtitle">107–114 年歷屆試題 · 1200 核心單字 · 智慧間隔複習</p>
   </section>
 
-  <section class="stats-bar" id="statsBar">
-    <div class="stat-item"><span class="stat-num" id="statExams">0</span><span class="stat-label">次練習</span></div>
-    <div class="stat-item"><span class="stat-num" id="statAvg">-</span><span class="stat-label">平均正確率</span></div>
-    <div class="stat-item"><span class="stat-num" id="statWrong">0</span><span class="stat-label">錯題待複習</span></div>
-    <div class="stat-item"><span class="stat-num" id="statWords">0</span><span class="stat-label">單字已學會</span></div>
-  </section>
+  <div class="stats-row" id="statsBar">
+    <div class="stat-card"><span class="stat-num" id="statExams">0</span><span class="stat-label">次練習</span></div>
+    <div class="stat-card"><span class="stat-num" id="statAvg">-</span><span class="stat-label">平均正確率</span></div>
+    <div class="stat-card"><span class="stat-num" id="statWrong">0</span><span class="stat-label">錯題待複習</span></div>
+    <div class="stat-card"><span class="stat-num" id="statWords">0</span><span class="stat-label">單字已學會</span></div>
+  </div>
 
-  <section class="main-cards">
-    <a href="exam.html" class="main-card card-exam">
-      <div class="card-icon">📝</div>
-      <h2>歷屆試題</h2>
-      <p>107-114年 · 逐題作答 · 即時解析 · 錯題收集</p>
-      <div class="card-modes">
-        <span class="mode-tag">年份練習</span>
-        <span class="mode-tag">模擬考</span>
-        <span class="mode-tag">錯題練習</span>
-        <span class="mode-tag">自訂練習</span>
+  <div class="feature-grid">
+    <a href="exam.html" class="feature-card feature-card-exam">
+      <span class="feature-icon">📝</span>
+      <div class="feature-title">歷屆試題</div>
+      <div class="feature-desc">107–114 年逐題作答，即時解析，自動收集錯題，支援模擬考計時模式。</div>
+      <div class="feature-tags">
+        <span class="chip chip-primary">年份練習</span>
+        <span class="chip chip-primary">模擬考</span>
+        <span class="chip chip-primary">錯題練習</span>
+        <span class="chip chip-primary">自訂練習</span>
       </div>
     </a>
-    <a href="vocab.html" class="main-card card-vocab">
-      <div class="card-icon">🔤</div>
-      <h2>1200單字</h2>
-      <p>翻牌記憶 · 四選一測驗 · 智慧間隔複習</p>
-      <div class="card-modes">
-        <span class="mode-tag">單字卡</span>
-        <span class="mode-tag">測驗</span>
-        <span class="mode-tag">智慧複習</span>
-        <span class="mode-tag">學習統計</span>
+    <a href="vocab.html" class="feature-card feature-card-vocab">
+      <span class="feature-icon">🔤</span>
+      <div class="feature-title">1200 單字</div>
+      <div class="feature-desc">依教育部主題分類，翻牌記憶、四選一測驗，SM-2 智慧間隔複習。</div>
+      <div class="feature-tags">
+        <span class="chip chip-warning">單字卡</span>
+        <span class="chip chip-warning">測驗</span>
+        <span class="chip chip-warning">智慧複習</span>
+        <span class="chip chip-warning">學習統計</span>
       </div>
     </a>
-  </section>
+  </div>
 
-  <section class="recent-section" id="recentSection" style="display:none">
-    <h3>最近練習</h3>
-    <div id="recentList"></div>
+  <section id="recentSection" style="display:none">
+    <div class="section-header">
+      <span class="section-title">📋 最近練習</span>
+    </div>
+    <div class="recent-list" id="recentList"></div>
   </section>
 </main>
 
@@ -74,13 +77,17 @@
   if (history.length > 0) {
     document.getElementById('recentSection').style.display = '';
     const list = document.getElementById('recentList');
-    list.innerHTML = history.map(h => `
-      <div class="recent-item">
+    list.innerHTML = history.map(h => {
+      const pct = Math.round(h.score / h.total * 100);
+      const gradeClass = pct >= 80 ? 'grade-a' : pct >= 60 ? 'grade-b' : 'grade-c';
+      const modeLabel = h.mode === 'mock' ? '模擬考' : h.mode === 'wrong' ? '錯題練習' : h.mode === 'custom' ? '自訂練習' : '年份練習';
+      return `<div class="recent-card">
         <span class="recent-year">${h.year}年</span>
-        <span class="recent-mode">${h.mode === 'mock' ? '模擬考' : h.mode === 'wrong' ? '錯題練習' : '年份練習'}</span>
-        <span class="recent-score ${h.score/h.total >= 0.8 ? 'grade-a' : h.score/h.total >= 0.6 ? 'grade-b' : 'grade-c'}">${h.score}/${h.total} (${Math.round(h.score/h.total*100)}%)</span>
+        <span class="recent-mode">${modeLabel}</span>
+        <span class="recent-score ${gradeClass}">${h.score}/${h.total} (${pct}%)</span>
         <span class="recent-date">${h.date}</span>
-      </div>`).join('');
+      </div>`;
+    }).join('');
   }
 </script>
 </body>

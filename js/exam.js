@@ -159,7 +159,7 @@ function renderQ() {
       else if (letter === chosen) cls += ' opt-wrong';
     }
     return `<button class="${cls}" onclick="selectAnswer('${letter}')" ${chosen ? 'disabled' : ''}>
-      <span class="opt-letter">${letter}</span>
+      <span class="option-letter">${letter}</span>
       <span class="opt-text">${q.options[letter]}</span>
     </button>`;
   }).join('');
@@ -168,9 +168,10 @@ function renderQ() {
   const fb = document.getElementById('feedbackBox');
   if (answers[current]) {
     const correct = answers[current] === q.answer;
+    fb.className = 'feedback-card ' + (correct ? 'feedback-correct' : 'feedback-wrong');
     fb.innerHTML = correct
-      ? `<span class="fb-correct">✓ 答對了！正確答案是 ${q.answer}</span>`
-      : `<span class="fb-wrong">✗ 答錯了！正確答案是 <strong>${q.answer}</strong>：${q.options[q.answer]}</span>`;
+      ? `✓ 答對了！正確答案是 ${q.answer}`
+      : `✗ 答錯了！正確答案是 <strong>${q.answer}</strong>：${q.options[q.answer]}`;
     show('feedbackBox');
     show('btnNext');
   } else {
@@ -241,7 +242,7 @@ function showResult() {
   const gradeCls = pct >= 80 ? 'grade-a' : pct >= 60 ? 'grade-b' : 'grade-c';
   const gradeEl = document.getElementById('resultGrade');
   gradeEl.textContent = grade;
-  gradeEl.className = 'result-grade ' + gradeCls;
+  gradeEl.className = 'result-grade-tag grade-tag-' + (pct >= 80 ? 'a' : pct >= 60 ? 'b' : 'c');
 
   // 弱點分析
   const singles = questions.filter(q => q.type === 'single');
@@ -255,14 +256,14 @@ function showResult() {
     else { pTotal++; if(answers[i]===q.answer) pCorr++; }
   });
   document.getElementById('analysisGrid').innerHTML = `
-    <div class="analysis-item">
+    <div class="analysis-row">
       <div class="analysis-label">單題</div>
-      <div class="analysis-bar-wrap"><div class="analysis-bar" style="width:${sTotal?Math.round(sCorr/sTotal*100):0}%"></div></div>
+      <div class="analysis-track"><div class="analysis-fill" style="width:${sTotal?Math.round(sCorr/sTotal*100):0}%"></div></div>
       <div class="analysis-val">${sCorr}/${sTotal}</div>
     </div>
-    <div class="analysis-item">
+    <div class="analysis-row">
       <div class="analysis-label">題組</div>
-      <div class="analysis-bar-wrap"><div class="analysis-bar" style="width:${pTotal?Math.round(pCorr/pTotal*100):0}%"></div></div>
+      <div class="analysis-track"><div class="analysis-fill" style="width:${pTotal?Math.round(pCorr/pTotal*100):0}%"></div></div>
       <div class="analysis-val">${pCorr}/${pTotal}</div>
     </div>`;
 
@@ -274,7 +275,7 @@ function showResult() {
       return `<div class="wrong-item">
         <span class="wrong-qnum">第 ${q.id} 題</span>
         <span class="wrong-qtext">${q.question.slice(0,60)}${q.question.length>60?'…':''}</span>
-        <span class="wrong-ans">你選：<strong class="wrong-mark">${answers[i]}</strong> 正確：<strong class="correct-mark">${q.answer}</strong></span>
+        <span class="wrong-ans">你選：<strong class="mark-wrong">${answers[i]}</strong> 正確：<strong class="mark-correct">${q.answer}</strong></span>
       </div>`;
     }).join('');
     document.getElementById('btnRetryWrong').style.display = '';
