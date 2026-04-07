@@ -10,7 +10,8 @@
       "C": "a sign",
       "D": "an umbrella"
     },
-    "answer": "A"
+    "answer": "A",
+    "passageImage": "data/images/113-q01.jpg"
   },
   {
     "id": 2,
