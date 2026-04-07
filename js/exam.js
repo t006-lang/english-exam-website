@@ -170,6 +170,16 @@ function renderQ() {
   document.getElementById('qText').textContent = q.question;
   renderQNav();
 
+  // 題目圖片（選項本身是圖片時）
+  const qImgBox = document.getElementById('questionImageBox');
+  if (q.questionImage) {
+    qImgBox.innerHTML = `<img src="${q.questionImage}" alt="題目圖片" class="passage-img" onerror="this.outerHTML='<div class=\\'passage-img-missing\\'>⚠️ 圖片尚未上傳（${q.questionImage}）</div>'">`;
+    qImgBox.style.display = '';
+  } else {
+    qImgBox.innerHTML = '';
+    qImgBox.style.display = 'none';
+  }
+
   // 段落
   const pb = document.getElementById('passageBox');
   const passageCol = document.getElementById('passageCol');
