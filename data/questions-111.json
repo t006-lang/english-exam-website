@@ -412,7 +412,14 @@
       "D": "The opening of their 20th store in the USA."
     },
     "answer": "C",
-    "passageImage": "data/images/111-q21.png"
+    "passageImage": "data/images/111-q21.png",
+    "questionZh": "Tea-Rock在慶祝什麼？",
+    "optionsZh": {
+      "A": "他們在20個國家的銷售成績。",
+      "B": "他們第20種茶的推出。",
+      "C": "他們成立20週年。",
+      "D": "他們在美國的第20家店開幕。"
+    }
   },
   {
     "id": 22,
@@ -429,7 +436,14 @@
     "passageImage": [
       "data/images/111-q21.png",
       "data/images/111-q22.png"
-    ]
+    ],
+    "questionZh": "這是Jason要寄給Tea-Rock 20的明信片。在寄出之前，他還需要填寫什麼？",
+    "optionsZh": {
+      "A": "他的年齡。",
+      "B": "他的地址。",
+      "C": "他的生日。",
+      "D": "另一張茶杯的圖片。"
+    }
   },
   {
     "id": 23,
@@ -443,7 +457,14 @@
       "C": "Taiwan eats more sugar for each person than the US does.",
       "D": "400 ml of rice milk has less sugar than 400 ml of grape juice."
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "從這張資訊圖表中，我們對糖可以學到什麼？",
+    "optionsZh": {
+      "A": "66公克的冰淇淋中含有4公克的糖。",
+      "B": "女性每天可以攝取和男性一樣多的糖。",
+      "C": "台灣每人的糖攝取量比美國多。",
+      "D": "400毫升的米漿含有的糖比400毫升的葡萄汁少。"
+    }
   },
   {
     "id": 24,
@@ -457,7 +478,14 @@
       "C": "To tell us that we often have more sugar than we can without knowing it.",
       "D": "To let us know how much sugar is enough to make foods and drinks taste good."
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "資訊圖表中列出「隱藏在食物和飲料中的糖」可能是什麼原因？",
+    "optionsZh": {
+      "A": "幫助我們了解糖如何傷害身體。",
+      "B": "顯示哪些食物和飲料受到兒童歡迎。",
+      "C": "告訴我們我們常常在不知情的情況下攝取超量的糖。",
+      "D": "讓我們知道要讓食物和飲料好吃需要多少糖。"
+    }
   },
   {
     "id": 25,
@@ -470,7 +498,14 @@
       "C": "To meet new friends who have the same interests.",
       "D": "To share her works and tell people how they are made."
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "Darrell為什麼告訴Marina去Pinterest？",
+    "optionsZh": {
+      "A": "為她的作業找一些範例。",
+      "B": "購買美術課所需的物品。",
+      "C": "認識有相同興趣的新朋友。",
+      "D": "分享她的作品並告訴人們製作方式。"
+    }
   },
   {
     "id": 26,
@@ -483,7 +518,14 @@
       "C": "You learn everything about it.",
       "D": "You spend all your life learning it."
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "「從A到Z學習某事」是什麼意思？",
+    "optionsZh": {
+      "A": "你可以隨時學習它。",
+      "B": "你在烘焙課上學習它。",
+      "C": "你學習關於它的一切。",
+      "D": "你花一輩子學習它。"
+    }
   },
   {
     "id": 27,
@@ -497,7 +539,14 @@
       "C": "Who first had the idea of Tabata training.",
       "D": "How often you should do Tabata training."
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "文章第一段談論了什麼觀念？",
+    "optionsZh": {
+      "A": "你應該如何進行Tabata訓練。",
+      "B": "Tabata訓練的最佳時間是什麼。",
+      "C": "誰最早想到Tabata訓練的概念。",
+      "D": "你應該多常進行Tabata訓練。"
+    }
   },
   {
     "id": 28,
@@ -511,7 +560,14 @@
       "C": "People who want to fix their heart problems.",
       "D": "People who already have a habit of exercising."
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "哪些人可能覺得Tabata訓練適合自己？",
+    "optionsZh": {
+      "A": "喜歡團體運動的人。",
+      "B": "想開始運動的人。",
+      "C": "想改善心臟問題的人。",
+      "D": "已有運動習慣的人。"
+    }
   },
   {
     "id": 29,
@@ -525,7 +581,14 @@
       "C": "You need a large space to do the exercises.",
       "D": "You cannot rest between moves if you want the afterburn."
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "關於Tabata訓練，哪一項是正確的？",
+    "optionsZh": {
+      "A": "動作很難學。",
+      "B": "你可以自由選擇動作。",
+      "C": "你需要很大的空間做運動。",
+      "D": "如果想要後燃效果，動作之間不能休息。"
+    }
   },
   {
     "id": 30,
@@ -539,7 +602,14 @@
       "C": "cabd.",
       "D": "cadb."
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "報告中有四個重點，它們在報告中的順序是什麼？",
+    "optionsZh": {
+      "A": "acdb",
+      "B": "adcb",
+      "C": "cabd",
+      "D": "cadb"
+    }
   },
   {
     "id": 31,
@@ -553,7 +623,14 @@
       "C": "Workers do not go home when they walk out of the office.",
       "D": "\u0007The number of workers who get paid more and rise higher in the company."
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "報告中的「this」是什麼意思？",
+    "optionsZh": {
+      "A": "工人展現努力工作的方式。",
+      "B": "餐廳和咖啡廳營業到深夜。",
+      "C": "工人走出辦公室後並沒有回家。",
+      "D": "在公司加薪和升職的工人數量。"
+    }
   },
   {
     "id": 32,
@@ -567,7 +644,14 @@
       "C": "\u0007Men usually have a bigger chance to get paid more and rise higher when they",
       "D": "\u0007Men and women have almost the same chance to get paid more and rise higher"
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "從圖一和圖二中，我們可以學到什麼？",
+    "optionsZh": {
+      "A": "2014年長時間工作殺死的女性比男性多。",
+      "B": "長時間工作每年殺死越來越多的工人。",
+      "C": "男性通常比女性更有機會加薪和升職。",
+      "D": "男性和女性加薪和升職的機會幾乎相同。"
+    }
   },
   {
     "id": 33,
@@ -577,7 +661,14 @@
     "passage": "http://www.aab.com/news/language-and-power-756315\nLanguage and Power: Cameroon’s Story\nBy Elisa Grant, 2 Oct 2017\nIn the modern world, being able to speak English\nis often a way to get power. However, this is not\ntrue for English speakers in Cameroon. To know\nwhy things are different in this African country,\nwe need to go back one hundred years.\nIn 1919, Kamerun (the name of Cameroon at\nthe time) was cut into two parts: one belonged\nto France, and the other belonged to the UK. In\n1960, the French Cameroon became the Republic of Cameroun, and the UK’s\npart joined it in 1961. The new country changed its name to the Federal\nRepublic of Cameroon. Although both French and English are Cameroon’s\nofficial languages, only around 20% of its people speak English. Also, the\ngovernment has been in French speakers’ hands since the two parts became\none country.\nFor a long time, Cameroon’s English speakers have felt they are not welcome\nin their own country. For example, it is very difficult for them to find jobs\nin the government, and they are often asked to speak French in business and\nat official events. They have become more resentful at the government and\ndecided to fight for themselves. Since last year, the English speakers have\ntried to build their own country. Yesterday, they said in a public meeting\nthat they were not part of Cameroon anymore. They are now a new country,\n“Ambazonia.” When the police tried to stop the meeting, at least eight people\nwere killed.\nRead more\nofficial 官方的   government 政府\n10",
     "question": "Which map is most likely the map of Cameroon in 1962?  likely 可能",
     "options": {},
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "下列哪張地圖最有可能是1962年的喀麥隆地圖？",
+    "optionsZh": {
+      "A": "選項A",
+      "B": "選項B",
+      "C": "選項C",
+      "D": "選項D"
+    }
   },
   {
     "id": 34,
@@ -591,7 +682,14 @@
       "C": "Careful.",
       "D": "Worried."
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "文章中「resentful」是什麼意思？",
+    "optionsZh": {
+      "A": "悲傷的。",
+      "B": "憤怒的。",
+      "C": "謹慎的。",
+      "D": "擔心的。"
+    }
   },
   {
     "id": 35,
@@ -605,7 +703,14 @@
       "C": "It does not want to be part of Ambazonia.",
       "D": "It does not agree that Ambazonia is a country."
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "喀麥隆政府對Ambazonia最有可能持什麼態度？",
+    "optionsZh": {
+      "A": "它計劃與Ambazonia做生意。",
+      "B": "它需要Ambazonia的資金和幫助。",
+      "C": "它不想成為Ambazonia的一部分。",
+      "D": "它不認為Ambazonia是一個國家。"
+    }
   },
   {
     "id": 36,
@@ -619,7 +724,14 @@
       "C": "Why the two parts of Cameroon became one country.",
       "D": "Why only 20% of the people in Cameroon speak English."
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "Elisa Grant藉由談論喀麥隆的歷史想告訴讀者什麼？",
+    "optionsZh": {
+      "A": "為什麼說英語是獲取權力的方式。",
+      "B": "為什麼喀麥隆的英語使用者權力較少。",
+      "C": "為什麼喀麥隆的兩個地區成為一個國家。",
+      "D": "為什麼喀麥隆只有20%的人說英語。"
+    }
   },
   {
     "id": 37,
@@ -633,7 +745,14 @@
       "C": "Hiking one part of the trail a day.",
       "D": "Visiting the museum in the morning."
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "建議前往Southend Trail的遊客做什麼？",
+    "optionsZh": {
+      "A": "在支線上露營。",
+      "B": "沿支線騎自行車。",
+      "C": "每天只走步道的一個部分。",
+      "D": "上午參觀博物館。"
+    }
   },
   {
     "id": 38,
@@ -647,7 +766,14 @@
       "C": "A time for visiting.",
       "D": "A way of moving around."
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "文章中「lodging」是什麼意思？",
+    "optionsZh": {
+      "A": "一頓飯。",
+      "B": "一個住宿的地方。",
+      "C": "一個參觀的時間。",
+      "D": "一種移動方式。"
+    }
   },
   {
     "id": 39,
@@ -661,7 +787,14 @@
       "C": "Parts 2 and 3.",
       "D": "Parts 4 and 4a."
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "Kaylen從Cove出發，計劃參觀一座古城堡，並在河附近賞鳥。他應該走哪幾段步道？",
+    "optionsZh": {
+      "A": "第1和第2部分。",
+      "B": "第1和第2a部分。",
+      "C": "第2和第3部分。",
+      "D": "第4和第4a部分。"
+    }
   },
   {
     "id": 40,
@@ -675,7 +808,14 @@
       "C": "of course",
       "D": "for example"
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "請選出填入空格的最佳答案。",
+    "optionsZh": {
+      "A": "事實上",
+      "B": "起初",
+      "C": "當然",
+      "D": "舉例來說"
+    }
   },
   {
     "id": 41,
@@ -689,7 +829,14 @@
       "C": "it makes",
       "D": "me steak"
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "請選出填入空格的最佳答案。",
+    "optionsZh": {
+      "A": "take sit",
+      "B": "Ms Easy",
+      "C": "it makes",
+      "D": "me steak"
+    }
   },
   {
     "id": 42,
@@ -703,7 +850,14 @@
       "C": "delicious",
       "D": "important"
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "請選出填入空格的最佳答案。",
+    "optionsZh": {
+      "A": "奇怪的",
+      "B": "困難的",
+      "C": "美味的",
+      "D": "重要的"
+    }
   },
   {
     "id": 43,
@@ -717,6 +871,13 @@
       "C": "not so popular as before",
       "D": "not first used to learn words"
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "請選出填入空格的最佳答案。",
+    "optionsZh": {
+      "A": "不只是遊戲",
+      "B": "常在公開場合玩",
+      "C": "沒以前流行",
+      "D": "不是最早用來學習單字的"
+    }
   }
 ]

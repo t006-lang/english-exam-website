@@ -431,7 +431,14 @@
       "C": "To ask the police for help.",
       "D": "To buy food for his brother."
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "Philip為什麼出門？",
+    "optionsZh": {
+      "A": "去見一位女士。",
+      "B": "去找他的父親。",
+      "C": "去向警察求助。",
+      "D": "去為他的弟弟買食物。"
+    }
   },
   {
     "id": 23,
@@ -444,7 +451,14 @@
       "C": "The police didn’t believe what he said.",
       "D": "Philip and his brother went out at night."
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "Philip的父親為什麼生氣？",
+    "optionsZh": {
+      "A": "他忘記帶鑰匙了。",
+      "B": "那位女士在躲著他。",
+      "C": "警察不相信他說的話。",
+      "D": "Philip和他弟弟晚上外出了。"
+    }
   },
   {
     "id": 24,
@@ -458,7 +472,14 @@
       "D": "7:00pm."
     },
     "answer": "C",
-    "passageImage": "data/images/113-q24.png"
+    "passageImage": "data/images/113-q24.png",
+    "questionZh": "Kevin要去Baker's Kitchen買一些新鮮麵包。他喜歡白麵包，媽媽喜歡農場麵包，爸爸喜歡貝果，妹妹只吃哈拉麵包。他最早可以在什麼時間為全家買到這些麵包？",
+    "optionsZh": {
+      "A": "上午11:00。",
+      "B": "下午4:00。",
+      "C": "下午5:00。",
+      "D": "下午7:00。"
+    }
   },
   {
     "id": 25,
@@ -472,7 +493,14 @@
       "D": "Its members can save $100 when they shop on Fridays."
     },
     "answer": "B",
-    "passageImage": "data/images/113-q24.png"
+    "passageImage": "data/images/113-q24.png",
+    "questionZh": "關於Baker's Kitchen，我們知道什麼？",
+    "optionsZh": {
+      "A": "它每週開放五天。",
+      "B": "關門前一小時麵包半價。",
+      "C": "可頌和椒鹽捲餅在週末販售。",
+      "D": "會員週五購物可省100元。"
+    }
   },
   {
     "id": 26,
@@ -486,7 +514,14 @@
       "D": "Parking in Garden Square and walking to the festival."
     },
     "answer": "A",
-    "passageImage": "data/images/113-q26.png"
+    "passageImage": "data/images/113-q26.png",
+    "questionZh": "建議想參觀節慶的人做什麼？",
+    "optionsZh": {
+      "A": "使用免費的節慶巴士服務。",
+      "B": "在週末參觀節慶。",
+      "C": "從Fox Street進入Satyr's Park。",
+      "D": "停車在Garden Square再步行到節慶。"
+    }
   },
   {
     "id": 27,
@@ -500,7 +535,14 @@
       "D": "The nearest metro station to the farmers’ market is the Koala Street Station."
     },
     "answer": "D",
-    "passageImage": "data/images/113-q26.png"
+    "passageImage": "data/images/113-q26.png",
+    "questionZh": "從地圖中，我們對農夫市集可以學到什麼？",
+    "optionsZh": {
+      "A": "農夫市集緊鄰花卉市場。",
+      "B": "農夫市集和節慶在同一個街區。",
+      "C": "可以搭乘157號公車到Puppy Street前往農夫市集。",
+      "D": "離農夫市集最近的捷運站是Koala Street站。"
+    }
   },
   {
     "id": 28,
@@ -513,7 +555,14 @@
       "C": "They like to make friends.",
       "D": "They don’t like new things."
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "Yan和Chang的朋友最有可能認為他們是什麼樣的人？",
+    "optionsZh": {
+      "A": "他們喜歡美食。",
+      "B": "他們不喜歡分享。",
+      "C": "他們喜歡交朋友。",
+      "D": "他們不喜歡新事物。"
+    }
   },
   {
     "id": 29,
@@ -526,7 +575,14 @@
       "C": "Lunch.",
       "D": "One of Chang’s ducks or chickens."
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "第二個故事中的「it」是什麼？",
+    "optionsZh": {
+      "A": "一把大刀。",
+      "B": "那匹馬。",
+      "C": "午餐。",
+      "D": "Chang的一隻鴨子或雞。"
+    }
   },
   {
     "id": 30,
@@ -539,7 +595,14 @@
       "C": "To explain Chen’s love for books.",
       "D": "To show why bookstores are important."
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "作者為什麼在文章中提到醫生和健康中心？",
+    "optionsZh": {
+      "A": "說明Chen的服務。",
+      "B": "談論Chen的未來計畫。",
+      "C": "說明Chen對書籍的熱愛。",
+      "D": "說明書店的重要性。"
+    }
   },
   {
     "id": 31,
@@ -552,7 +615,14 @@
       "C": "It gives people hope to follow their dreams.",
       "D": "It helps people think of special moments in the past."
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "在他舉的例子中，為什麼Chen Bing-Hong的工作很重要？",
+    "optionsZh": {
+      "A": "它讓人們有機會得到書作為禮物。",
+      "B": "它幫人們省下買新書的錢。",
+      "C": "它給予人們追求夢想的希望。",
+      "D": "它幫助人們回想起過去的特別時刻。"
+    }
   },
   {
     "id": 32,
@@ -565,7 +635,14 @@
       "C": "Finding books that are long lost.",
       "D": "Changing his bookstore into a library."
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "他的魔力是什麼？",
+    "optionsZh": {
+      "A": "修復書籍。",
+      "B": "讓書的主人微笑。",
+      "C": "找到失蹤已久的書。",
+      "D": "將他的書店改造成圖書館。"
+    }
   },
   {
     "id": 33,
@@ -579,7 +656,14 @@
       "C": "To help Austrians learn about the war in Syria.",
       "D": "To help refugees go back to their home countries."
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "根據文章，Rohla和Kreytenberg為什麼開設Habibi & Hawara？",
+    "optionsZh": {
+      "A": "幫助難民在奧地利過得更好。",
+      "B": "籌集資金幫助敘利亞打仗。",
+      "C": "幫助奧地利人了解敘利亞的戰爭。",
+      "D": "幫助難民回到自己的祖國。"
+    }
   },
   {
     "id": 34,
@@ -593,7 +677,14 @@
       "C": "It has cooking classes in Syrian food.",
       "D": "It is an important meeting place for Syrians."
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "關於Habibi & Hawara，我們可以學到什麼？",
+    "optionsZh": {
+      "A": "它從敘利亞遷移到奧地利。",
+      "B": "它最終可能會賣給員工。",
+      "C": "它有敘利亞料理課程。",
+      "D": "它是敘利亞人的重要聚會場所。"
+    }
   },
   {
     "id": 35,
@@ -607,7 +698,14 @@
       "C": "They cannot speak for others.",
       "D": "They do not notice something."
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "「beg to differ」是什麼意思？",
+    "optionsZh": {
+      "A": "他們不同意。",
+      "B": "他們看起來不同。",
+      "C": "他們不能代替他人發言。",
+      "D": "他們沒有注意到某事。"
+    }
   },
   {
     "id": 36,
@@ -620,7 +718,14 @@
       "C": "They have had some bad experiences with it.",
       "D": "They are one of the first people who have done it."
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "當某人是某事的「advocate」時是什麼意思？",
+    "optionsZh": {
+      "A": "他們說很多但做得很少。",
+      "B": "他們認為這是好事，應該去做。",
+      "C": "他們對此有一些不好的經歷。",
+      "D": "他們是最早做這件事的人之一。"
+    }
   },
   {
     "id": 37,
@@ -633,7 +738,14 @@
       "C": "It eats its babies when it cannot find food.",
       "D": "It is the first extinct animal that people studied."
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "Smith書中那隻已滅絕的青蛙有什麼特別之處？",
+    "optionsZh": {
+      "A": "它能在骯髒的環境中生存。",
+      "B": "它可能有助於解決健康問題。",
+      "C": "找不到食物時會吃掉自己的後代。",
+      "D": "它是人們研究的第一種已滅絕的動物。"
+    }
   },
   {
     "id": 38,
@@ -646,7 +758,14 @@
       "C": "To make her idea clearer.",
       "D": "To invite people to take action."
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "Ellen Zimmer為什麼引用Dr. Solomon Wang的話？",
+    "optionsZh": {
+      "A": "開展新話題。",
+      "B": "分享一個大夢想。",
+      "C": "讓她的觀點更清楚。",
+      "D": "邀請人們採取行動。"
+    }
   },
   {
     "id": 39,
@@ -659,7 +778,14 @@
       "C": "It is not possible.",
       "D": "It is not dangerous."
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "Ellen Zimmer對於讓已滅絕的動物復活最有可能持什麼看法？",
+    "optionsZh": {
+      "A": "這是可能的。",
+      "B": "這是危險的。",
+      "C": "這是不可能的。",
+      "D": "這是不危險的。"
+    }
   },
   {
     "id": 40,
@@ -673,7 +799,14 @@
       "C": "may bring some problems",
       "D": "is not welcomed by everyone"
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "請選出填入空格的最佳答案。",
+    "optionsZh": {
+      "A": "不是一個新想法",
+      "B": "一直沒有很大用處",
+      "C": "可能帶來一些問題",
+      "D": "不受每個人歡迎"
+    }
   },
   {
     "id": 41,
@@ -687,7 +820,14 @@
       "C": "Denver",
       "D": "Pittsburgh"
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "請選出填入空格的最佳答案。",
+    "optionsZh": {
+      "A": "波特蘭",
+      "B": "紐約",
+      "C": "丹佛",
+      "D": "匹茲堡"
+    }
   },
   {
     "id": 42,
@@ -701,7 +841,14 @@
       "C": "began social distancing a second time",
       "D": "had the most days of social distancing"
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "請選出填入空格的最佳答案。",
+    "optionsZh": {
+      "A": "死亡人數較高",
+      "B": "太早停止社交距離措施",
+      "C": "再次開始實施社交距離措施",
+      "D": "實施社交距離的天數最多"
+    }
   },
   {
     "id": 43,
@@ -715,6 +862,13 @@
       "C": "However",
       "D": "For example"
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "請選出填入空格的最佳答案。",
+    "optionsZh": {
+      "A": "此外",
+      "B": "起初",
+      "C": "然而",
+      "D": "舉例來說"
+    }
   }
 ]

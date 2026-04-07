@@ -472,7 +472,14 @@
       "D": "$160."
     },
     "answer": "B",
-    "passageImage": "data/images/112-q24.png"
+    "passageImage": "data/images/112-q24.png",
+    "questionZh": "Amy在集滿15顆星後和媽媽去了Four Seasons' Kitchen。她們點了兩份Garden Sandwich、一份Autumn Wind和一份Winter Snow。使用星星後，她們付了多少錢？",
+    "optionsZh": {
+      "A": "290元。",
+      "B": "230元。",
+      "C": "220元。",
+      "D": "160元。"
+    }
   },
   {
     "id": 25,
@@ -489,7 +496,14 @@
     "passageImage": [
       "data/images/112-q24.png",
       "data/images/112-q25.png"
-    ]
+    ],
+    "questionZh": "Amy想在八月帶朋友去Four Seasons' Kitchen，她看了月曆選擇時間。她可以選擇哪個日期和時間？",
+    "optionsZh": {
+      "A": "8月1日晚上8:30。",
+      "B": "8月11日下午5:00。",
+      "C": "8月13日下午3:00。",
+      "D": "8月28日下午2:00。"
+    }
   },
   {
     "id": 26,
@@ -503,7 +517,14 @@
       "D": "Put it back in its nest if it is not hurt and has few feathers."
     },
     "answer": "A",
-    "passageImage": "data/images/112-q26.png"
+    "passageImage": "data/images/112-q26.png",
+    "questionZh": "根據筆記，哪種方式是錯誤的幫助掉出巢的小鳥的方法？",
+    "optionsZh": {
+      "A": "帶去醫院前先餵食它。",
+      "B": "如果它沒有受傷且有羽毛，就讓它自己待著。",
+      "C": "如果找不到它的巢，就打電話給動物中心。",
+      "D": "如果它沒有受傷但羽毛很少，就把它放回巢中。"
+    }
   },
   {
     "id": 27,
@@ -517,7 +538,14 @@
       "D": "They leave them behind and move to a new nest."
     },
     "answer": "A",
-    "passageImage": "data/images/112-q26.png"
+    "passageImage": "data/images/112-q26.png",
+    "questionZh": "根據筆記，如果嬰兒鳥身上有人的氣味，鳥類父母會怎麼做？",
+    "optionsZh": {
+      "A": "繼續照顧它們。",
+      "B": "把它們推出巢外。",
+      "C": "清理它們直到氣味消失。",
+      "D": "拋棄它們並搬到新巢。"
+    }
   },
   {
     "id": 28,
@@ -531,7 +559,14 @@
       "D": "Factories do not have enough trucks to carry food to stores."
     },
     "answer": "C",
-    "passageImage": "data/images/112-q28.png"
+    "passageImage": "data/images/112-q28.png",
+    "questionZh": "根據文章，食物浪費的原因之一是什麼？",
+    "optionsZh": {
+      "A": "商店不知道如何妥善包裝食物。",
+      "B": "農民沒有足夠的機器來收成食物。",
+      "C": "卡車上沒有冰箱可以保持食物新鮮。",
+      "D": "工廠沒有足夠的卡車將食物運送到商店。"
+    }
   },
   {
     "id": 29,
@@ -545,7 +580,14 @@
       "D": "South & Southeast Asia has a higher percentage of food waste at Stage 4 than the"
     },
     "answer": "D",
-    "passageImage": "data/images/112-q28.png"
+    "passageImage": "data/images/112-q28.png",
+    "questionZh": "關於世界三個地區每個階段的食物浪費，哪一項是正確的？",
+    "optionsZh": {
+      "A": "每個地區最高比例的食物浪費發生在第5階段。",
+      "B": "歐洲在第3階段的食物浪費比例低於其他兩個地區。",
+      "C": "北美和大洋洲在第1階段的食物浪費比例高於其他兩個地區。",
+      "D": "南亞和東南亞在第4階段的食物浪費比例高於其他兩個地區。"
+    }
   },
   {
     "id": 30,
@@ -558,7 +600,14 @@
       "C": "It flies behind the raindrop and pushes it away.",
       "D": "It rides on the raindrop and lands on the ground."
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "蚊子在雨中使用的技巧是什麼？",
+    "optionsZh": {
+      "A": "它快速抖動身體甩掉水分。",
+      "B": "它跟著雨滴落下然後滾開。",
+      "C": "它飛到雨滴後方把它推開。",
+      "D": "它騎在雨滴上然後落地。"
+    }
   },
   {
     "id": 31,
@@ -571,7 +620,14 @@
       "C": "It is as big as a raindrop.",
       "D": "It is strong enough to fight the force of a raindrop."
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "是什麼讓蚊子在雨中安然無恙？",
+    "optionsZh": {
+      "A": "它非常輕。",
+      "B": "它身上沒有毛。",
+      "C": "它和雨滴一樣大。",
+      "D": "它夠強壯，能抵抗雨滴的衝擊力。"
+    }
   },
   {
     "id": 32,
@@ -584,7 +640,14 @@
       "C": "When it is hit by raindrops too many times.",
       "D": "When it drops for more than 6 cm in the rain."
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "蚊子在雨中什麼時候會有危險？",
+    "optionsZh": {
+      "A": "當它飛得太靠近地面時。",
+      "B": "當雨下得太大太快時。",
+      "C": "當它被雨滴打到太多次時。",
+      "D": "當它在雨中下降超過6公分時。"
+    }
   },
   {
     "id": 33,
@@ -597,7 +660,14 @@
       "C": "How “For Elise” became popular.",
       "D": "Why Beethoven wrote “For Elise.”"
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "文章中的三個故事都在談論什麼？",
+    "optionsZh": {
+      "A": "貝多芬真正的戀人是誰。",
+      "B": "誰把《給愛麗絲》彈得最好。",
+      "C": "《給愛麗絲》如何變得廣為人知。",
+      "D": "貝多芬為什麼寫《給愛麗絲》。"
+    }
   },
   {
     "id": 34,
@@ -610,7 +680,14 @@
       "C": "The manuscript was found after Beethoven died.",
       "D": "The manuscript is now kept by the city of Vienna."
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "從文章中，我們對《給愛麗絲》有什麼了解？",
+    "optionsZh": {
+      "A": "它最初出現在歌劇《費德里奧》中。",
+      "B": "真正的「愛麗絲」是Elise Barensfeld。",
+      "C": "手稿是在貝多芬去世後才被發現的。",
+      "D": "手稿現在由維也納市保管。"
+    }
   },
   {
     "id": 35,
@@ -623,7 +700,14 @@
       "C": "Therese Malfatti changed “For Elise” to “For Therese.”",
       "D": "Elise Barensfeld was Beethoven’s student."
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "從故事中，我們對三位女性有什麼了解？",
+    "optionsZh": {
+      "A": "她們的朋友都叫她們「愛麗絲」。",
+      "B": "Elisabeth Röckel是貝多芬的好友。",
+      "C": "Therese Malfatti把《給愛麗絲》改成《給泰瑞絲》。",
+      "D": "Elise Barensfeld是貝多芬的學生。"
+    }
   },
   {
     "id": 36,
@@ -636,7 +720,14 @@
       "C": "Children should learn about their gender from playing with toys.",
       "D": "We should not let gender decide which toys children can play with."
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "Jesse Cohen在文章中討論了什麼觀念？",
+    "optionsZh": {
+      "A": "並非所有類型的玩具都對兒童學習有幫助。",
+      "B": "父母應該給孩子適合其年齡的玩具。",
+      "C": "兒童應該透過玩玩具了解自己的性別。",
+      "D": "我們不應該讓性別決定孩子可以玩什麼玩具。"
+    }
   },
   {
     "id": 37,
@@ -649,7 +740,14 @@
       "C": "Children may not be able to learn from playing with toys.",
       "D": "Children may miss the chance to find out what they really like."
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "在第三段中，Jesse Cohen為什麼認為「這條規則對孩子不好」？",
+    "optionsZh": {
+      "A": "孩子可能不願意和別人分享玩具。",
+      "B": "孩子可能對遵守規則有錯誤的認識。",
+      "C": "孩子可能無法從玩玩具中學習。",
+      "D": "孩子可能錯過發現自己真正喜好的機會。"
+    }
   },
   {
     "id": 38,
@@ -662,7 +760,14 @@
       "C": "“Some doctors worry that children may use the same kind of thinking when they look for",
       "D": "“If they do, they may miss something more important than just getting a chance to play"
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "在文章中，Jesse Cohen談完一個觀點後，常常舉例說明。下列第三段的哪一句是作為例子使用的？",
+    "optionsZh": {
+      "A": "「然而，這條規則對孩子不好。」",
+      "B": "「玩偶有助於早期語言發展，積木玩具有助於學習數學...」",
+      "C": "「一些醫生擔心孩子在尋找...時可能會用同樣的思維。」",
+      "D": "「如果他們這樣做，他們可能會錯過比獲得玩耍機會更重要的東西。」"
+    }
   },
   {
     "id": 39,
@@ -675,7 +780,14 @@
       "C": "Marie Colvin’s schooldays at Yale.",
       "D": "Marie Colvin’s experiences in Homs."
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "這篇文章主要是關於什麼的？",
+    "optionsZh": {
+      "A": "Marie Colvin的戰地報導。",
+      "B": "Marie Colvin的職業生涯。",
+      "C": "Marie Colvin在耶魯大學的求學歲月。",
+      "D": "Marie Colvin在霍姆斯的經歷。"
+    }
   },
   {
     "id": 40,
@@ -688,7 +800,14 @@
       "C": "They are able to understand how other people feel.",
       "D": "They are good at helping people change their own lives."
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "「有同理心」是什麼意思？",
+    "optionsZh": {
+      "A": "他們擅長拍攝戰地照片。",
+      "B": "他們喜歡閱讀別人的生命故事。",
+      "C": "他們能夠理解他人的感受。",
+      "D": "他們擅長幫助人們改變自己的生活。"
+    }
   },
   {
     "id": 41,
@@ -701,7 +820,14 @@
       "C": "She was killed in Homs when she was interviewing soldiers there for her report.",
       "D": "She was not sure what to do in the future until she worked for the Sunday Times."
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "關於Marie Colvin，哪一項是正確的？",
+    "optionsZh": {
+      "A": "在耶魯大學的學習機會讓她離開了在中東的工作。",
+      "B": "在斯里蘭卡的經歷沒有改變她的報導方式。",
+      "C": "她在霍姆斯採訪當地士兵時被殺。",
+      "D": "她直到為《星期日泰晤士報》工作後才知道未來要做什麼。"
+    }
   },
   {
     "id": 42,
@@ -714,7 +840,14 @@
       "C": "why different languages are spoken",
       "D": "what words are often spelled differently"
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "請選出填入空格的最佳答案。",
+    "optionsZh": {
+      "A": "事物的名稱是什麼",
+      "B": "運動是如何進行的",
+      "C": "為什麼使用不同的語言",
+      "D": "哪些詞彙的拼法常常不同"
+    }
   },
   {
     "id": 43,
@@ -727,6 +860,13 @@
       "C": "where they grew up",
       "D": "whether they are men or women"
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "請選出填入空格的最佳答案。",
+    "optionsZh": {
+      "A": "他們的年齡",
+      "B": "他們說話的對象",
+      "C": "他們成長的地方",
+      "D": "他們是男性還是女性"
+    }
   }
 ]

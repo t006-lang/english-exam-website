@@ -292,7 +292,14 @@
       "C": "Inviting people to share their shopping experience at e-BeautiMed.",
       "D": "Letting people know what is on sale at e-BeautiMed from 7/1 to 8/31."
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "這則廣告是關於什麼的？",
+    "optionsZh": {
+      "A": "教人如何使用BeautiMed點數。",
+      "B": "告訴人們現在可以在網路上購買BeautiMed。",
+      "C": "邀請人們分享在e-BeautiMed的購物體驗。",
+      "D": "讓人們知道e-BeautiMed從7/1到8/31的特賣商品。"
+    }
   },
   {
     "id": 16,
@@ -306,7 +313,14 @@
       "C": "Inviting a friend to join “BeautiMed Friend.”",
       "D": "Entering the “BeautiMed Friend” card number."
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "哪項行為不會讓你獲得BeautiMed點數？",
+    "optionsZh": {
+      "A": "在e-BeautiMed購物。",
+      "B": "在線上加入「BeautiMed Friend」。",
+      "C": "邀請朋友加入「BeautiMed Friend」。",
+      "D": "輸入「BeautiMed Friend」的卡號。"
+    }
   },
   {
     "id": 17,
@@ -317,7 +331,14 @@
     "options": {
       "B": " likely 可能"
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "Lynn在Tom的派對上拍了一些照片。下列哪一張最有可能是其中一張？",
+    "optionsZh": {
+      "A": "選項A",
+      "B": "選項B",
+      "C": "選項C",
+      "D": "選項D"
+    }
   },
   {
     "id": 18,
@@ -330,7 +351,14 @@
       "C": "She did not enjoy the food at Caldron.",
       "D": "She changed Joey’s idea about Caldron."
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "從對話中，我們對Lynn有什麼了解？",
+    "optionsZh": {
+      "A": "她不做飯。",
+      "B": "她喜歡嘗試新食物。",
+      "C": "她不喜歡Caldron的食物。",
+      "D": "她改變了Joey對Caldron的看法。"
+    }
   },
   {
     "id": 19,
@@ -343,7 +371,14 @@
       "C": "Woollie was sick when he ran away.",
       "D": "Woollie looked strange without his fleece."
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "從Katie的日記中，我們對Woollie有什麼了解？",
+    "optionsZh": {
+      "A": "Woollie比Katie年長。",
+      "B": "Woollie被帶去探望生病的孩子。",
+      "C": "Woollie逃跑時生病了。",
+      "D": "Woollie沒有羊毛時看起來很奇怪。"
+    }
   },
   {
     "id": 20,
@@ -352,7 +387,14 @@
     "passage": "Below is a page from Katie’s diary.\nDear Diary, ____ June 7, 2011\nI was very sad to hear what happened to Woollie yesterday.\nWoollie was my favorite sheep. I have a storybook about Woollie.\nIt says when Woollie was four, he ran away from Mr. Armstrong’s\nfarm, and it took Mr. Armstrong six years to find Woollie. But\nWoollie had grown so much fleece that he didn’t even look like a\nsheep. Mr. Armstrong decided to cut his fleece on TV so everyone\ncould see. Daddy said this happened on the day I was born.\nWoollie’s fleece weighed 27 kg, and could make clothes for 20 large\nmen. I asked Daddy if his favorite vest was made from Woollie’s\nfleece. Daddy said no, because Woollie’s fleece was sold to collect\nmoney for sick kids. In the storybook, Woollie was taken to see\nMs. Stella Clark, the leader of our city then. They even had tea\ntogether. Daddy said Woollie did meet Ms. Clark, but he wasn’t\nsure if they had tea. Daddy said Woollie was put down because he\nwas too sick and there was no way to help him. I cried. I hope\nWoollie will be happy up there in the sky.\nfleece 羊毛 weigh 重達",
     "question": "Which picture of Woollie and Ms. Clark did Katie talk about in her diary?",
     "options": {},
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "Katie在日記中談到了哪張Woollie和Clark女士的照片？",
+    "optionsZh": {
+      "A": "選項A",
+      "B": "選項B",
+      "C": "選項C",
+      "D": "選項D"
+    }
   },
   {
     "id": 21,
@@ -365,7 +407,14 @@
       "C": "He died.",
       "D": "He became famous."
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "Woollie被放下來之後發生了什麼事？",
+    "optionsZh": {
+      "A": "他被賣掉了。",
+      "B": "他下落不明。",
+      "C": "他死了。",
+      "D": "他變得有名了。"
+    }
   },
   {
     "id": 22,
@@ -379,7 +428,14 @@
       "C": "Matisse uses yellow and red to show that his son was happy.",
       "D": "The candle on the piano shows that the piano lesson has just begun."
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "從文章中，我們對《鋼琴課》這幅畫有什麼了解？",
+    "optionsZh": {
+      "A": "Matisse在兒子離家時畫了這幅畫。",
+      "B": "坐在男孩背後椅子上的女人是他的母親。",
+      "C": "Matisse用黃色和紅色來表現他的兒子很快樂。",
+      "D": "鋼琴上的蠟燭顯示鋼琴課剛剛開始。"
+    }
   },
   {
     "id": 23,
@@ -393,7 +449,14 @@
       "C": "Use a lot of fun colors in his art works.",
       "D": "Put his earlier art work in a new painting."
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "文章中「do that」是什麼意思？",
+    "optionsZh": {
+      "A": "把家人放進他的畫作中。",
+      "B": "畫畫來紀念美好的舊時光。",
+      "C": "在作品中使用許多有趣的顏色。",
+      "D": "把他早期的畫作放進新的作品中。"
+    }
   },
   {
     "id": 24,
@@ -407,7 +470,14 @@
       "C": "The poor kid.",
       "D": "A worried father."
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "文章中哪個說法不是用來指稱Henri Matisse的？",
+    "optionsZh": {
+      "A": "那位藝術家。",
+      "B": "那位畫家。",
+      "C": "那個可憐的孩子。",
+      "D": "一位憂心的父親。"
+    }
   },
   {
     "id": 25,
@@ -420,7 +490,14 @@
       "C": "Why Confucius was seen as a great teacher.",
       "D": "How teachers today feel about Teachers’ Day."
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "文章中討論了什麼觀念？",
+    "optionsZh": {
+      "A": "現在如何慶祝教師節。",
+      "B": "教師節最初為何被慶祝。",
+      "C": "孔子為何被視為偉大的老師。",
+      "D": "今天的老師對教師節有什麼感受。"
+    }
   },
   {
     "id": 26,
@@ -433,7 +510,14 @@
       "C": "It has been celebrated in Nanjing for over 2,500 years.",
       "D": "Teachers decided to celebrate it on Confucius’s birthday."
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "根據文章，關於教師節哪一項是正確的？",
+    "optionsZh": {
+      "A": "它曾經在不同的日期被慶祝。",
+      "B": "它是由學生為老師發起的。",
+      "C": "它在南京已被慶祝超過2500年。",
+      "D": "老師們決定在孔子的生日慶祝它。"
+    }
   },
   {
     "id": 27,
@@ -446,7 +530,14 @@
       "C": "Not everyone heard about the decision.",
       "D": "Not everyone remembered the decision."
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "文章中「not everyone hailed this decision」是什麼意思？",
+    "optionsZh": {
+      "A": "不是每個人都在意這個決定。",
+      "B": "不是每個人都歡迎這個決定。",
+      "C": "不是每個人都聽說過這個決定。",
+      "D": "不是每個人都記得這個決定。"
+    }
   },
   {
     "id": 28,
@@ -459,7 +550,14 @@
       "C": "To tell a piece of history that few people know about.",
       "D": "To give an example of an idea that is hard to understand."
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "作者引用「那就是我們開始在孔子的真實生日慶祝教師節的時候」是為了什麼目的？",
+    "optionsZh": {
+      "A": "談論一個沒有人注意到的問題。",
+      "B": "分享一個不常見的有趣經歷。",
+      "C": "講述一段鮮為人知的歷史。",
+      "D": "舉一個難以理解的概念的例子。"
+    }
   },
   {
     "id": 29,
@@ -473,7 +571,14 @@
       "C": "It will open a new train line in August.",
       "D": "Some of its trains will run on different lines."
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "國立福爾摩沙鐵路為什麼寫這封信？",
+    "optionsZh": {
+      "A": "火車票有優惠活動。",
+      "B": "七月將有一條鐵路線停駛。",
+      "C": "八月將開通一條新的鐵路線。",
+      "D": "部分火車將在不同路線上行駛。"
+    }
   },
   {
     "id": 30,
@@ -487,7 +592,14 @@
       "C": "People can take the free buses to any station on the Sand Town - Spring Town line.",
       "D": "People can go to Hill Town on any train that runs between Green City and Cloud City."
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "關於2016年8月14日至28日NFR的火車，哪一項是正確的？",
+    "optionsZh": {
+      "A": "沒有火車會停靠Spring Town站。",
+      "B": "換線的火車都會停靠Cloud City站。",
+      "C": "乘客可以搭乘免費巴士前往Sand Town至Spring Town線上的任何車站。",
+      "D": "乘客可以搭乘Green City至Cloud City之間的任何火車前往Hill Town。"
+    }
   },
   {
     "id": 31,
@@ -501,7 +613,14 @@
       "C": "Take Train RL102 to Spring Town, get off there, and take Train RL201.",
       "D": "Take Train RL101 to Cloud City, get off there, and take the free bus."
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "James住在Smoke Town，他想在8月19日前往Black Town，他應該怎麼去？",
+    "optionsZh": {
+      "A": "搭RL202號火車到Green City下車，再搭免費巴士。",
+      "B": "搭RL103號火車到Green City下車，再搭免費巴士。",
+      "C": "搭RL102號火車到Spring Town下車，再搭RL201號火車。",
+      "D": "搭RL101號火車到Cloud City下車，再搭免費巴士。"
+    }
   },
   {
     "id": 32,
@@ -515,7 +634,14 @@
       "C": "a c b d.",
       "D": "c a b d."
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "以下是文章中討論的觀點順序，作者以什麼順序呈現？",
+    "optionsZh": {
+      "A": "c b a d",
+      "B": "b a d c",
+      "C": "a c b d",
+      "D": "c a b d"
+    }
   },
   {
     "id": 33,
@@ -529,7 +655,14 @@
       "C": "They want to learn how to win the war.",
       "D": "Their school teachers give lessons there."
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "為什麼Darayya的人們在戰爭期間仍去圖書館？",
+    "optionsZh": {
+      "A": "他們可以得到免費食物。",
+      "B": "他們在閱讀中找到喜悅與希望。",
+      "C": "他們想學習如何贏得戰爭。",
+      "D": "他們的學校老師在那裡授課。"
+    }
   },
   {
     "id": 34,
@@ -543,7 +676,14 @@
       "C": "It was built to remember people who died in the war.",
       "D": "Most of its books are collected from outside of Darayya."
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "關於Darayya的圖書館，我們知道什麼？",
+    "optionsZh": {
+      "A": "它是在戰爭期間建造的。",
+      "B": "它曾多次遭到轟炸。",
+      "C": "它是為紀念戰爭中犧牲的人而建的。",
+      "D": "館內大多數書籍是從Darayya以外收集來的。"
+    }
   },
   {
     "id": 35,
@@ -556,7 +696,14 @@
       "C": "Mosman Garden",
       "D": "Northbank Park"
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "請選出填入空格的最佳答案。",
+    "optionsZh": {
+      "A": "Victor Zoo",
+      "B": "Carlton City",
+      "C": "Mosman Garden",
+      "D": "Northbank Park"
+    }
   },
   {
     "id": 36,
@@ -569,7 +716,14 @@
       "C": "we should be fine if the rain isn’t too heavy",
       "D": "we will let you know if we’ll still have the party"
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "請選出填入空格的最佳答案。",
+    "optionsZh": {
+      "A": "如果這種情況發生，我們有備案",
+      "B": "我們可以等雨停",
+      "C": "如果雨不太大，我們應該沒問題",
+      "D": "如果我們還是要辦派對，會通知你"
+    }
   },
   {
     "id": 37,
@@ -582,7 +736,14 @@
       "C": "lucky",
       "D": "strong"
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "請選出填入空格的最佳答案。",
+    "optionsZh": {
+      "A": "瘋狂的",
+      "B": "好的",
+      "C": "幸運的",
+      "D": "強壯的"
+    }
   },
   {
     "id": 38,
@@ -595,7 +756,14 @@
       "C": "were all coming",
       "D": "would all come"
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "請選出填入空格的最佳答案。",
+    "optionsZh": {
+      "A": "都要來（現在進行式）",
+      "B": "都已來（現在完成式）",
+      "C": "都要來（過去進行式）",
+      "D": "都會來（過去假設）"
+    }
   },
   {
     "id": 39,
@@ -608,7 +776,14 @@
       "C": "the last",
       "D": "the other"
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "請選出填入空格的最佳答案。",
+    "optionsZh": {
+      "A": "另一個",
+      "B": "一個",
+      "C": "最後一個",
+      "D": "另一個（三者之一）"
+    }
   },
   {
     "id": 40,
@@ -621,7 +796,14 @@
       "C": "had",
       "D": "would"
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "請選出填入空格的最佳答案。",
+    "optionsZh": {
+      "A": "有（現在式）",
+      "B": "做了（過去式）",
+      "C": "有了（過去式）",
+      "D": "將會（假設語氣）"
+    }
   },
   {
     "id": 41,
@@ -634,6 +816,13 @@
       "C": "would try",
       "D": "will try"
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "請選出填入空格的最佳答案。",
+    "optionsZh": {
+      "A": "正在嘗試（過去進行式）",
+      "B": "嘗試（原形）",
+      "C": "會嘗試（過去假設）",
+      "D": "將嘗試（未來式）"
+    }
   }
 ]
