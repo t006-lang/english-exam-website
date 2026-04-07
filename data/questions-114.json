@@ -379,7 +379,10 @@
       "D": "Treat others the way we want to be treated."
     },
     "answer": "C",
-    "passageImage": "data/images/114-q29.jpg"
+    "passageImage": [
+      "data/images/114-q29a.jpg",
+      "data/images/114-q29b.jpg"
+    ]
   },
   {
     "id": 30,
@@ -393,7 +396,10 @@
       "D": "They used statues to show how strong they were."
     },
     "answer": "D",
-    "passageImage": "data/images/114-q29.jpg"
+    "passageImage": [
+      "data/images/114-q29a.jpg",
+      "data/images/114-q29b.jpg"
+    ]
   },
   {
     "id": 31,
@@ -407,7 +413,10 @@
       "D": "Understand how important trees were."
     },
     "answer": "B",
-    "passageImage": "data/images/114-q29.jpg"
+    "passageImage": [
+      "data/images/114-q29a.jpg",
+      "data/images/114-q29b.jpg"
+    ]
   },
   {
     "id": 32,

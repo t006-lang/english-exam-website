@@ -149,7 +149,10 @@ function renderQ() {
   // 段落
   const pb = document.getElementById('passageBox');
   if (q.passageImage) {
-    pb.innerHTML = `<img src="${q.passageImage}" alt="題組圖表" class="passage-img" onerror="this.parentElement.innerHTML='<div class=\\'passage-img-missing\\'>⚠️ 圖片尚未上傳（${q.passageImage}）</div>'">`;
+    const imgs = Array.isArray(q.passageImage) ? q.passageImage : [q.passageImage];
+    pb.innerHTML = imgs.map(src =>
+      `<img src="${src}" alt="題組圖表" class="passage-img" onerror="this.outerHTML='<div class=\\'passage-img-missing\\'>⚠️ 圖片尚未上傳（${src}）</div>'">`
+    ).join('');
     show('passageBox');
   } else if (q.passage) {
     pb.textContent = q.passage;
