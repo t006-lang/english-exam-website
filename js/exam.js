@@ -150,9 +150,13 @@ function renderQ() {
   const pb = document.getElementById('passageBox');
   if (q.passageImage) {
     const imgs = Array.isArray(q.passageImage) ? q.passageImage : [q.passageImage];
-    pb.innerHTML = imgs.map(src =>
+    let html = imgs.map(src =>
       `<img src="${src}" alt="題組圖表" class="passage-img" onerror="this.outerHTML='<div class=\\'passage-img-missing\\'>⚠️ 圖片尚未上傳（${src}）</div>'">`
     ).join('');
+    if (q.passage) {
+      html += `<div class="passage-text">${q.passage.replace(/\n/g, '<br>')}</div>`;
+    }
+    pb.innerHTML = html;
     show('passageBox');
   } else if (q.passage) {
     pb.textContent = q.passage;
