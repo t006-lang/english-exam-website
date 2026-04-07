@@ -3,7 +3,7 @@
     "id": 1,
     "type": "single",
     "passage": null,
-    "question": "Look at the picture. There is ____ under the door.",
+    "question": "Look at the picture. The man is holding a ____ of grapes in his hands.",
     "options": {
       "A": "bag",
       "B": "basket",
@@ -16,7 +16,7 @@
     "id": 2,
     "type": "single",
     "passage": null,
-    "question": "My ____ hurts so much that I cannot even turn my head.",
+    "question": "Dennis enjoys ____ in public. He is proud of his beautiful voice.",
     "options": {
       "A": "dancing",
       "B": "drawing",
@@ -29,7 +29,7 @@
     "id": 3,
     "type": "single",
     "passage": null,
-    "question": "Our school basketball team won the national game last night. We are so ____ them.",
+    "question": "Mrs. Johnson can’t hear very well. If you need to talk to her, you must ____ .",
     "options": {
       "A": "explain",
       "B": "hurry",
@@ -42,7 +42,7 @@
     "id": 4,
     "type": "single",
     "passage": null,
-    "question": "Tomorrow is Sam’s last day in the office.  Nobody knows why he decided to ____ .",
+    "question": "People got very excited when they watched Ms. Smith ____ at the party.",
     "options": {
       "A": "danced",
       "B": "dancing",
@@ -55,7 +55,7 @@
     "id": 5,
     "type": "single",
     "passage": null,
-    "question": "It’s not a good idea to go mountain climbing in this bad ____ . We should wait until the typhoon goes away.",
+    "question": "I tried on these shoes in several different ____ , and I thought the white pair looked best on me.",
     "options": {
       "A": "colors",
       "B": "prices",
@@ -68,7 +68,7 @@
     "id": 6,
     "type": "single",
     "passage": null,
-    "question": "Chris loves walking with Anna on snowy days, but Anna hates ____ very much.",
+    "question": "Rex did not feel the earthquake this morning. He ____ in the park at the time.",
     "options": {
       "A": "jogged",
       "B": "was jogging",
@@ -81,7 +81,7 @@
     "id": 7,
     "type": "single",
     "passage": null,
-    "question": "Lora likes to eat bananas that are already a little brown on the outside, and so ____ I.",
+    "question": "Mr. Lee has worked in the same store for ten years; he’s never thought about ____ his job.",
     "options": {
       "A": "changing",
       "B": "finding",
@@ -94,7 +94,7 @@
     "id": 8,
     "type": "single",
     "passage": null,
-    "question": "Your refrigerator shouldn’t be making loud noises now, but if it ____ does, just give me a call and I’ll come check it again.",
+    "question": "I didn’t take the bus today because it was ____ . All the seats were taken and a lot of students were standing.",
     "options": {
       "A": "dirty",
       "B": "fast",
@@ -107,7 +107,7 @@
     "id": 9,
     "type": "single",
     "passage": null,
-    "question": "After winning money in the card game, Jay decided to try again. He felt that he might also be ____ a second time.",
+    "question": "Don’t go away when you’re cooking, ____ the food might burn.",
     "options": {
       "A": "but",
       "B": "if",
@@ -120,7 +120,7 @@
     "id": 10,
     "type": "single",
     "passage": null,
-    "question": "The knife doesn’t cut very well. It’s not as ____ as before.",
+    "question": "Jerry wanted to know ____ he was kicked off the soccer team, but no one gave him a good reason.",
     "options": {
       "A": "where",
       "B": "when",
@@ -133,7 +133,7 @@
     "id": 11,
     "type": "single",
     "passage": null,
-    "question": "John will stay with his sister until he ____ an apartment.",
+    "question": "Jenny is already forty, doesn’t have a job and often makes trouble for her parents. To them, she is really a(n) ____ .",
     "options": {
       "A": "daughter",
       "B": "example",
@@ -159,7 +159,7 @@
     "id": 13,
     "type": "single",
     "passage": null,
-    "question": "The temple sits alone in the mountains at a height of 3,000m ____ sea level.",
+    "question": "Doraemon, a blue Japanese robot cat, has hated mice since his ears ____ by a mouse.",
     "options": {
       "A": "bit",
       "B": "bite",
@@ -172,7 +172,7 @@
     "id": 14,
     "type": "single",
     "passage": null,
-    "question": "Patty spent several days planning to invite Charlie to dinner, ____ she couldn’t say a word when they met.",
+    "question": "If we play some interesting games in class, there ____ more fun in learning English.",
     "options": {
       "A": "are",
       "B": "has",
@@ -185,7 +185,7 @@
     "id": 15,
     "type": "single",
     "passage": null,
-    "question": "I can’t tell you what I think of the movie because I ____ it. I’ll probably watch it this Saturday.",
+    "question": "The ____ of this shop was so bad; I never got any answer after I emailed them my questions.",
     "options": {
       "A": "item",
       "B": "business",
@@ -198,7 +198,7 @@
     "id": 16,
     "type": "single",
     "passage": null,
-    "question": "The new guy at the help desk answers calls like a ____ . There are no ups and downs in his voice and you can’t tell if he is happy or sad.",
+    "question": "It’s not easy to see those islands clearly from here on sunny days, and it’s even less to see them on cloudy days.",
     "options": {
       "A": "difficult",
       "B": "lucky",
@@ -211,7 +211,7 @@
     "id": 17,
     "type": "single",
     "passage": null,
-    "question": "Jasmine planned to spend her summer in the country, but right after she got there, she started to ____ the noise in the city.",
+    "question": "Do you remember the CD I was looking for for months? I ____ found it in a small shop. Look, here it is!",
     "options": {
       "A": "almost",
       "B": "even",
@@ -224,7 +224,7 @@
     "id": 18,
     "type": "single",
     "passage": null,
-    "question": "“Bad traffic” is perhaps the ____ excuse for being late when your boss knows it only takes you five minutes to walk to work.",
+    "question": "Business at Jane’s shop has not been good these days. And the new supermarket across the street only makes things ____ .",
     "options": {
       "A": "easier",
       "B": "worse",
@@ -237,7 +237,7 @@
     "id": 19,
     "type": "single",
     "passage": null,
-    "question": "The housework in Mr. and Mrs. Wang’s family ____ between them and their kids. Everyone’s got their own job to do.",
+    "question": "Scott wasn’t sure if the young woman before him was ____ pulled him out of a car on fire.",
     "options": {
       "A": "who",
       "B": "the one",
@@ -250,7 +250,7 @@
     "id": 20,
     "type": "single",
     "passage": null,
-    "question": "I want to find another dentist because ____ pulled out a good tooth last time I went to him.",
+    "question": "I ____ swimming for several years before I went to this high school. I gave it up because of heavy schoolwork.",
     "options": {
       "A": "have practiced",
       "B": "am practicing",
@@ -263,7 +263,7 @@
     "id": 21,
     "type": "single",
     "passage": null,
-    "question": "Mom:\u0007 Linda, you’ve been playing computer games all evening!  Have you finished your report? Linda:\u0007 Well, ____ most of it this afternoon, and I’ll finish it by Friday.",
+    "question": "Frank Kane is so good in the movie that many people ____ he will win the best actor prize.",
     "options": {
       "A": "expect",
       "B": "forget",
@@ -276,7 +276,7 @@
     "id": 22,
     "type": "single",
     "passage": null,
-    "question": "The new medicine that just came out on the market thousands of lives.",
+    "question": "The new medicine that just came out on the market ____ thousands of lives.",
     "options": {
       "A": "and saved",
       "B": "has saved",
@@ -302,7 +302,7 @@
     "id": 24,
     "type": "passage",
     "passage": null,
-    "question": "Amy went to Four Seasons’ Kitchen with her mother after she collected 15 stars. They ordered two Garden Sandwiches, an Autumn Wind, and a Winter Snow. After using the stars, how much did they pay for their meals?",
+    "question": "Amy went to Four Seasons’ Kitchen with her mother after she collected 15 stars.  They ordered two Garden Sandwiches, an Autumn Wind, and a Winter Snow. After using the stars, how much did they pay for their meals?",
     "options": {
       "A": "$290.",
       "B": "$230.",
@@ -315,7 +315,7 @@
     "id": 25,
     "type": "passage",
     "passage": null,
-    "question": "Amy wants to bring her friends to Four Seasons’ Kitchen in August. She looks at her calendar to pick a time to go there. Which are the time and date she  calendar 月曆 can choose?",
+    "question": "Amy wants to bring her friends to Four Seasons’ Kitchen in August.  She looks at her calendar to pick a time to go there. Which are the time and date she  calendar 月曆 can choose?",
     "options": {
       "A": "8:30 pm, August 1.",
       "B": "5:00 pm, August 11.",
@@ -327,7 +327,7 @@
   {
     "id": 26,
     "type": "passage",
-    "passage": " nest 鳥巢        feather 羽毛",
+    "passage": " nest 鳥巢 ____ feather 羽毛",
     "question": "According to the notes, which is the WRONG way to help a baby bird that is out of its nest?",
     "options": {
       "A": "Feed it before you take it to a hospital.",
@@ -340,7 +340,7 @@
   {
     "id": 27,
     "type": "passage",
-    "passage": " nest 鳥巢        feather 羽毛",
+    "passage": " nest 鳥巢 ____ feather 羽毛",
     "question": "According to the notes, what do birds do if their babies have the smell of people on them?",
     "options": {
       "A": "They keep taking care of them.",
@@ -353,7 +353,7 @@
   {
     "id": 28,
     "type": "passage",
-    "passage": " stage 階段   waste 浪費   percentage 百分比\n\n            5",
+    "passage": " stage 階段   waste 浪費   percentage 百分比\n\n____ 5",
     "question": "According to the reading, which is one of the reasons for food waste?",
     "options": {
       "A": "Stores do not know how to pack food well.",
@@ -366,7 +366,7 @@
   {
     "id": 29,
     "type": "passage",
-    "passage": " stage 階段   waste 浪費   percentage 百分比\n\n            5",
+    "passage": " stage 階段   waste 浪費   percentage 百分比\n\n____ 5",
     "question": "Which is true about food waste at each stage in the three parts of the world?",
     "options": {
       "A": "For each area, the highest percentage of food waste happens at Stage 5.",
@@ -379,7 +379,7 @@
   {
     "id": 30,
     "type": "passage",
-    "passage": "Sometimes when the rain falls hard and fast on you, it might hurt a little.\n  But what happens when it hits a mosquito? A 2012 study says when a\n  raindrop falls on a mosquito, it’s like when a bus hits a person. Besides,\n  the little insect is hit by a raindrop about once every 20 seconds.\n  So why don’t we see many dead mosquitoes after it rains?\n\n  A mosquito is as big as a raindrop, but it is much lighter — 0.002 g only. This saves its life\n  in raindrop attacks. Because the mosquito is so light, when it is hit by a raindrop, it won’t\n  experience a force that is strong enough to kill it.\n\n  The study also found that when a mosquito is hit by a raindrop, the insect is pushed by\n  the raindrop and falls together with it. But the mosquito doesn’t get wet easily because it\n  is covered with hairs which keep off water.  After dropping about 6 cm, it will roll off the\n  raindrop and fly away.\n\n  However, this trick isn’t always successful.  If the mosquito flies too low when it is hit by the\n  raindrop, it won’t have time to fly off.  Then it will hit the ground and meet its death.\n\n                                                                                   force 力量",
+    "passage": "Sometimes when the rain falls hard and fast on you, it might hurt a little.\n  But what happens when it hits a mosquito? A 2012 study says when a\n  raindrop falls on a mosquito, it’s like when a bus hits a person. Besides,\n  the little insect is hit by a raindrop about once every 20 seconds.\n  So why don’t we see many dead mosquitoes after it rains?\n\n  A mosquito is as big as a raindrop, but it is much lighter — 0.002 g only. This saves its life\n  in raindrop attacks. Because the mosquito is so light, when it is hit by a raindrop, it won’t\n  experience a force that is strong enough to kill it.\n\n  The study also found that when a mosquito is hit by a raindrop, the insect is pushed by\n  the raindrop and falls together with it. But the mosquito doesn’t get wet easily because it\n  is covered with hairs which keep off water.  After dropping about 6 cm, it will roll off the\n  raindrop and fly away.\n\n  However, this trick isn’t always successful.  If the mosquito flies too low when it is hit by the\n  raindrop, it won’t have time to fly off.  Then it will hit the ground and meet its death.\n\n____  force 力量",
     "question": "What is the trick that the mosquito uses in rain?",
     "options": {
       "A": "It shakes its body fast enough to get water off.",
@@ -392,7 +392,7 @@
   {
     "id": 31,
     "type": "passage",
-    "passage": "Sometimes when the rain falls hard and fast on you, it might hurt a little.\n  But what happens when it hits a mosquito? A 2012 study says when a\n  raindrop falls on a mosquito, it’s like when a bus hits a person. Besides,\n  the little insect is hit by a raindrop about once every 20 seconds.\n  So why don’t we see many dead mosquitoes after it rains?\n\n  A mosquito is as big as a raindrop, but it is much lighter — 0.002 g only. This saves its life\n  in raindrop attacks. Because the mosquito is so light, when it is hit by a raindrop, it won’t\n  experience a force that is strong enough to kill it.\n\n  The study also found that when a mosquito is hit by a raindrop, the insect is pushed by\n  the raindrop and falls together with it. But the mosquito doesn’t get wet easily because it\n  is covered with hairs which keep off water.  After dropping about 6 cm, it will roll off the\n  raindrop and fly away.\n\n  However, this trick isn’t always successful.  If the mosquito flies too low when it is hit by the\n  raindrop, it won’t have time to fly off.  Then it will hit the ground and meet its death.\n\n                                                                                   force 力量",
+    "passage": "Sometimes when the rain falls hard and fast on you, it might hurt a little.\n  But what happens when it hits a mosquito? A 2012 study says when a\n  raindrop falls on a mosquito, it’s like when a bus hits a person. Besides,\n  the little insect is hit by a raindrop about once every 20 seconds.\n  So why don’t we see many dead mosquitoes after it rains?\n\n  A mosquito is as big as a raindrop, but it is much lighter — 0.002 g only. This saves its life\n  in raindrop attacks. Because the mosquito is so light, when it is hit by a raindrop, it won’t\n  experience a force that is strong enough to kill it.\n\n  The study also found that when a mosquito is hit by a raindrop, the insect is pushed by\n  the raindrop and falls together with it. But the mosquito doesn’t get wet easily because it\n  is covered with hairs which keep off water.  After dropping about 6 cm, it will roll off the\n  raindrop and fly away.\n\n  However, this trick isn’t always successful.  If the mosquito flies too low when it is hit by the\n  raindrop, it won’t have time to fly off.  Then it will hit the ground and meet its death.\n\n____  force 力量",
     "question": "What keeps a mosquito safe in the rain?",
     "options": {
       "A": "It is very light.",
@@ -405,7 +405,7 @@
   {
     "id": 32,
     "type": "passage",
-    "passage": "Sometimes when the rain falls hard and fast on you, it might hurt a little.\n  But what happens when it hits a mosquito? A 2012 study says when a\n  raindrop falls on a mosquito, it’s like when a bus hits a person. Besides,\n  the little insect is hit by a raindrop about once every 20 seconds.\n  So why don’t we see many dead mosquitoes after it rains?\n\n  A mosquito is as big as a raindrop, but it is much lighter — 0.002 g only. This saves its life\n  in raindrop attacks. Because the mosquito is so light, when it is hit by a raindrop, it won’t\n  experience a force that is strong enough to kill it.\n\n  The study also found that when a mosquito is hit by a raindrop, the insect is pushed by\n  the raindrop and falls together with it. But the mosquito doesn’t get wet easily because it\n  is covered with hairs which keep off water.  After dropping about 6 cm, it will roll off the\n  raindrop and fly away.\n\n  However, this trick isn’t always successful.  If the mosquito flies too low when it is hit by the\n  raindrop, it won’t have time to fly off.  Then it will hit the ground and meet its death.\n\n                                                                                   force 力量",
+    "passage": "Sometimes when the rain falls hard and fast on you, it might hurt a little.\n  But what happens when it hits a mosquito? A 2012 study says when a\n  raindrop falls on a mosquito, it’s like when a bus hits a person. Besides,\n  the little insect is hit by a raindrop about once every 20 seconds.\n  So why don’t we see many dead mosquitoes after it rains?\n\n  A mosquito is as big as a raindrop, but it is much lighter — 0.002 g only. This saves its life\n  in raindrop attacks. Because the mosquito is so light, when it is hit by a raindrop, it won’t\n  experience a force that is strong enough to kill it.\n\n  The study also found that when a mosquito is hit by a raindrop, the insect is pushed by\n  the raindrop and falls together with it. But the mosquito doesn’t get wet easily because it\n  is covered with hairs which keep off water.  After dropping about 6 cm, it will roll off the\n  raindrop and fly away.\n\n  However, this trick isn’t always successful.  If the mosquito flies too low when it is hit by the\n  raindrop, it won’t have time to fly off.  Then it will hit the ground and meet its death.\n\n____  force 力量",
     "question": "When would it be dangerous for a mosquito in the rain?",
     "options": {
       "A": "When it flies too close to the ground.",
@@ -418,7 +418,7 @@
   {
     "id": 33,
     "type": "passage",
-    "passage": "You probably have heard Beethoven’s famous piano piece “For Elise,”\n  but do you know who “Elise” was?\n\n  One story is that Elise was Elisabeth Röckel. She once sang in\n  Beethoven’s opera Fidelio, and the two became very good friends.\n  Beethoven called her “Elise.”  When Röckel was leaving the city of\n  Vienna, Beethoven wrote “For Elise” to say goodbye to her.  Another\n  story is that Elise was Therese Malfatti. Beethoven was in love with\n  her.  He wrote a piece for her and put “For Therese” on the manuscript.  Malfatti kept the\n  manuscript and left it to her family when she died. Later, a man copied the manuscript\n  and wrote “For Elise” by mistake.  There is another possible Elise: Elise Barensfeld.  She\n  learned the piano from Malfatti, the same Malfatti in the second story. To help Malfatti,\n  Beethoven wrote the piece for her to use to teach Barensfeld.\n\n  These are just some guesses about who Elise was. We may never know the right answer.\n  No one knew about the piece until 1867, when the manuscript was found. This was 40 years\n  after Beethoven’s death, so he wasn’t around to tell us who Elise was. Only one thing is for\n  sure: “For Elise” will always be enjoyed.                    opera 歌劇 manuscript 手稿\n                                                          ",
+    "passage": "You probably have heard Beethoven’s famous piano piece “For Elise,”\n  but do you know who “Elise” was?\n\n  One story is that Elise was Elisabeth Röckel. She once sang in\n  Beethoven’s opera Fidelio, and the two became very good friends.\n  Beethoven called her “Elise.”  When Röckel was leaving the city of\n  Vienna, Beethoven wrote “For Elise” to say goodbye to her.  Another\n  story is that Elise was Therese Malfatti. Beethoven was in love with\n  her.  He wrote a piece for her and put “For Therese” on the manuscript.  Malfatti kept the\n  manuscript and left it to her family when she died. Later, a man copied the manuscript\n  and wrote “For Elise” by mistake.  There is another possible Elise: Elise Barensfeld.  She\n  learned the piano from Malfatti, the same Malfatti in the second story. To help Malfatti,\n  Beethoven wrote the piece for her to use to teach Barensfeld.\n\n  These are just some guesses about who Elise was. We may never know the right answer.\n  No one knew about the piece until 1867, when the manuscript was found. This was 40 years\n  after Beethoven’s death, so he wasn’t around to tell us who Elise was. Only one thing is for\n  sure: “For Elise” will always be enjoyed. ____ opera 歌劇 manuscript 手稿\n____ ",
     "question": "What do the three stories in the reading all talk about?",
     "options": {
       "A": "Who Beethoven’s true love was.",
@@ -431,7 +431,7 @@
   {
     "id": 34,
     "type": "passage",
-    "passage": "You probably have heard Beethoven’s famous piano piece “For Elise,”\n  but do you know who “Elise” was?\n\n  One story is that Elise was Elisabeth Röckel. She once sang in\n  Beethoven’s opera Fidelio, and the two became very good friends.\n  Beethoven called her “Elise.”  When Röckel was leaving the city of\n  Vienna, Beethoven wrote “For Elise” to say goodbye to her.  Another\n  story is that Elise was Therese Malfatti. Beethoven was in love with\n  her.  He wrote a piece for her and put “For Therese” on the manuscript.  Malfatti kept the\n  manuscript and left it to her family when she died. Later, a man copied the manuscript\n  and wrote “For Elise” by mistake.  There is another possible Elise: Elise Barensfeld.  She\n  learned the piano from Malfatti, the same Malfatti in the second story. To help Malfatti,\n  Beethoven wrote the piece for her to use to teach Barensfeld.\n\n  These are just some guesses about who Elise was. We may never know the right answer.\n  No one knew about the piece until 1867, when the manuscript was found. This was 40 years\n  after Beethoven’s death, so he wasn’t around to tell us who Elise was. Only one thing is for\n  sure: “For Elise” will always be enjoyed.                    opera 歌劇 manuscript 手稿\n                                                          ",
+    "passage": "You probably have heard Beethoven’s famous piano piece “For Elise,”\n  but do you know who “Elise” was?\n\n  One story is that Elise was Elisabeth Röckel. She once sang in\n  Beethoven’s opera Fidelio, and the two became very good friends.\n  Beethoven called her “Elise.”  When Röckel was leaving the city of\n  Vienna, Beethoven wrote “For Elise” to say goodbye to her.  Another\n  story is that Elise was Therese Malfatti. Beethoven was in love with\n  her.  He wrote a piece for her and put “For Therese” on the manuscript.  Malfatti kept the\n  manuscript and left it to her family when she died. Later, a man copied the manuscript\n  and wrote “For Elise” by mistake.  There is another possible Elise: Elise Barensfeld.  She\n  learned the piano from Malfatti, the same Malfatti in the second story. To help Malfatti,\n  Beethoven wrote the piece for her to use to teach Barensfeld.\n\n  These are just some guesses about who Elise was. We may never know the right answer.\n  No one knew about the piece until 1867, when the manuscript was found. This was 40 years\n  after Beethoven’s death, so he wasn’t around to tell us who Elise was. Only one thing is for\n  sure: “For Elise” will always be enjoyed. ____ opera 歌劇 manuscript 手稿\n____ ",
     "question": "What do we know about “For Elise” from the reading?",
     "options": {
       "A": "It first appeared in the opera Fidelio.",
@@ -444,7 +444,7 @@
   {
     "id": 35,
     "type": "passage",
-    "passage": "You probably have heard Beethoven’s famous piano piece “For Elise,”\n  but do you know who “Elise” was?\n\n  One story is that Elise was Elisabeth Röckel. She once sang in\n  Beethoven’s opera Fidelio, and the two became very good friends.\n  Beethoven called her “Elise.”  When Röckel was leaving the city of\n  Vienna, Beethoven wrote “For Elise” to say goodbye to her.  Another\n  story is that Elise was Therese Malfatti. Beethoven was in love with\n  her.  He wrote a piece for her and put “For Therese” on the manuscript.  Malfatti kept the\n  manuscript and left it to her family when she died. Later, a man copied the manuscript\n  and wrote “For Elise” by mistake.  There is another possible Elise: Elise Barensfeld.  She\n  learned the piano from Malfatti, the same Malfatti in the second story. To help Malfatti,\n  Beethoven wrote the piece for her to use to teach Barensfeld.\n\n  These are just some guesses about who Elise was. We may never know the right answer.\n  No one knew about the piece until 1867, when the manuscript was found. This was 40 years\n  after Beethoven’s death, so he wasn’t around to tell us who Elise was. Only one thing is for\n  sure: “For Elise” will always be enjoyed.                    opera 歌劇 manuscript 手稿\n                                                          ",
+    "passage": "You probably have heard Beethoven’s famous piano piece “For Elise,”\n  but do you know who “Elise” was?\n\n  One story is that Elise was Elisabeth Röckel. She once sang in\n  Beethoven’s opera Fidelio, and the two became very good friends.\n  Beethoven called her “Elise.”  When Röckel was leaving the city of\n  Vienna, Beethoven wrote “For Elise” to say goodbye to her.  Another\n  story is that Elise was Therese Malfatti. Beethoven was in love with\n  her.  He wrote a piece for her and put “For Therese” on the manuscript.  Malfatti kept the\n  manuscript and left it to her family when she died. Later, a man copied the manuscript\n  and wrote “For Elise” by mistake.  There is another possible Elise: Elise Barensfeld.  She\n  learned the piano from Malfatti, the same Malfatti in the second story. To help Malfatti,\n  Beethoven wrote the piece for her to use to teach Barensfeld.\n\n  These are just some guesses about who Elise was. We may never know the right answer.\n  No one knew about the piece until 1867, when the manuscript was found. This was 40 years\n  after Beethoven’s death, so he wasn’t around to tell us who Elise was. Only one thing is for\n  sure: “For Elise” will always be enjoyed. ____ opera 歌劇 manuscript 手稿\n____ ",
     "question": "What can we learn about the three women from the stories?",
     "options": {
       "A": "They were called “Elise” by their friends.",
@@ -457,7 +457,7 @@
   {
     "id": 36,
     "type": "passage",
-    "passage": "Which would you give a boy for his birthday, a toy truck or a doll? If you choose the\n     truck, well, you’re not alone. Most people think that some toys are for boys and some\n     are for girls. We might pick building toys for boys and kitchen toys for girls. But why\n     do we do this? Are boys and girls really born with different interests in toys?\n\n     No, they are not. Children start to show different interests in toys at age three, but\n     only because at this time, they begin to learn about gender and to follow what others\n     of their gender do. If you give a girl kitchen toys, she will think they are girls’ toys\n     because she sees other girls playing with them. But if you give a girl a toy car and\n     show her a group of girls who are playing with cars, she’ll play with the toy car and\n     think it is a girls’ toy. This “watch and follow” habit often becomes a rule for both\n     boys and girls in choosing the “right” toys.\n\n     However, this rule can be bad for children. Different toys teach children different\n     things. Dolls help with their early language use, and building toys are good for\n     learning math and science. By playing with different toys, children can find out what\n     they are interested in or what they are good at. If they only play one kind of toy, they\n     may lose this important chance. They may also get a wrong idea about what boys\n     or girls are able to do. Some doctors worry that children may use the same kind of\n     thinking when they look for jobs in the future. If they do, they may miss something\n     more important than just getting a chance to play with different toys. They may miss\n     many, perhaps better, chances in life.\n\n                                                                              gender 性別",
+    "passage": "Which would you give a boy for his birthday, a toy truck or a doll? If you choose the\n____ truck, well, you’re not alone. Most people think that some toys are for boys and some\n____ are for girls. We might pick building toys for boys and kitchen toys for girls. But why\n____ do we do this? Are boys and girls really born with different interests in toys?\n\n____ No, they are not. Children start to show different interests in toys at age three, but\n____ only because at this time, they begin to learn about gender and to follow what others\n____ of their gender do. If you give a girl kitchen toys, she will think they are girls’ toys\n____ because she sees other girls playing with them. But if you give a girl a toy car and\n____ show her a group of girls who are playing with cars, she’ll play with the toy car and\n____ think it is a girls’ toy. This “watch and follow” habit often becomes a rule for both\n____ boys and girls in choosing the “right” toys.\n\n____ However, this rule can be bad for children. Different toys teach children different\n____ things. Dolls help with their early language use, and building toys are good for\n____ learning math and science. By playing with different toys, children can find out what\n____ they are interested in or what they are good at. If they only play one kind of toy, they\n____ may lose this important chance. They may also get a wrong idea about what boys\n____ or girls are able to do. Some doctors worry that children may use the same kind of\n____ thinking when they look for jobs in the future. If they do, they may miss something\n____ more important than just getting a chance to play with different toys. They may miss\n____ many, perhaps better, chances in life.\n\n____  gender 性別",
     "question": "What idea does Jesse Cohen talk about in the reading?",
     "options": {
       "A": "Not all kinds of toys are helpful for children’s learning.",
@@ -470,7 +470,7 @@
   {
     "id": 37,
     "type": "passage",
-    "passage": "Which would you give a boy for his birthday, a toy truck or a doll? If you choose the\n     truck, well, you’re not alone. Most people think that some toys are for boys and some\n     are for girls. We might pick building toys for boys and kitchen toys for girls. But why\n     do we do this? Are boys and girls really born with different interests in toys?\n\n     No, they are not. Children start to show different interests in toys at age three, but\n     only because at this time, they begin to learn about gender and to follow what others\n     of their gender do. If you give a girl kitchen toys, she will think they are girls’ toys\n     because she sees other girls playing with them. But if you give a girl a toy car and\n     show her a group of girls who are playing with cars, she’ll play with the toy car and\n     think it is a girls’ toy. This “watch and follow” habit often becomes a rule for both\n     boys and girls in choosing the “right” toys.\n\n     However, this rule can be bad for children. Different toys teach children different\n     things. Dolls help with their early language use, and building toys are good for\n     learning math and science. By playing with different toys, children can find out what\n     they are interested in or what they are good at. If they only play one kind of toy, they\n     may lose this important chance. They may also get a wrong idea about what boys\n     or girls are able to do. Some doctors worry that children may use the same kind of\n     thinking when they look for jobs in the future. If they do, they may miss something\n     more important than just getting a chance to play with different toys. They may miss\n     many, perhaps better, chances in life.\n\n                                                                              gender 性別",
+    "passage": "Which would you give a boy for his birthday, a toy truck or a doll? If you choose the\n____ truck, well, you’re not alone. Most people think that some toys are for boys and some\n____ are for girls. We might pick building toys for boys and kitchen toys for girls. But why\n____ do we do this? Are boys and girls really born with different interests in toys?\n\n____ No, they are not. Children start to show different interests in toys at age three, but\n____ only because at this time, they begin to learn about gender and to follow what others\n____ of their gender do. If you give a girl kitchen toys, she will think they are girls’ toys\n____ because she sees other girls playing with them. But if you give a girl a toy car and\n____ show her a group of girls who are playing with cars, she’ll play with the toy car and\n____ think it is a girls’ toy. This “watch and follow” habit often becomes a rule for both\n____ boys and girls in choosing the “right” toys.\n\n____ However, this rule can be bad for children. Different toys teach children different\n____ things. Dolls help with their early language use, and building toys are good for\n____ learning math and science. By playing with different toys, children can find out what\n____ they are interested in or what they are good at. If they only play one kind of toy, they\n____ may lose this important chance. They may also get a wrong idea about what boys\n____ or girls are able to do. Some doctors worry that children may use the same kind of\n____ thinking when they look for jobs in the future. If they do, they may miss something\n____ more important than just getting a chance to play with different toys. They may miss\n____ many, perhaps better, chances in life.\n\n____  gender 性別",
     "question": "In the third paragraph, why does Jesse Cohen think “this rule can be bad for children”?",
     "options": {
       "A": "Children may not want to share their toys with others.",
@@ -483,7 +483,7 @@
   {
     "id": 38,
     "type": "passage",
-    "passage": "Which would you give a boy for his birthday, a toy truck or a doll? If you choose the\n     truck, well, you’re not alone. Most people think that some toys are for boys and some\n     are for girls. We might pick building toys for boys and kitchen toys for girls. But why\n     do we do this? Are boys and girls really born with different interests in toys?\n\n     No, they are not. Children start to show different interests in toys at age three, but\n     only because at this time, they begin to learn about gender and to follow what others\n     of their gender do. If you give a girl kitchen toys, she will think they are girls’ toys\n     because she sees other girls playing with them. But if you give a girl a toy car and\n     show her a group of girls who are playing with cars, she’ll play with the toy car and\n     think it is a girls’ toy. This “watch and follow” habit often becomes a rule for both\n     boys and girls in choosing the “right” toys.\n\n     However, this rule can be bad for children. Different toys teach children different\n     things. Dolls help with their early language use, and building toys are good for\n     learning math and science. By playing with different toys, children can find out what\n     they are interested in or what they are good at. If they only play one kind of toy, they\n     may lose this important chance. They may also get a wrong idea about what boys\n     or girls are able to do. Some doctors worry that children may use the same kind of\n     thinking when they look for jobs in the future. If they do, they may miss something\n     more important than just getting a chance to play with different toys. They may miss\n     many, perhaps better, chances in life.\n\n                                                                              gender 性別",
+    "passage": "Which would you give a boy for his birthday, a toy truck or a doll? If you choose the\n____ truck, well, you’re not alone. Most people think that some toys are for boys and some\n____ are for girls. We might pick building toys for boys and kitchen toys for girls. But why\n____ do we do this? Are boys and girls really born with different interests in toys?\n\n____ No, they are not. Children start to show different interests in toys at age three, but\n____ only because at this time, they begin to learn about gender and to follow what others\n____ of their gender do. If you give a girl kitchen toys, she will think they are girls’ toys\n____ because she sees other girls playing with them. But if you give a girl a toy car and\n____ show her a group of girls who are playing with cars, she’ll play with the toy car and\n____ think it is a girls’ toy. This “watch and follow” habit often becomes a rule for both\n____ boys and girls in choosing the “right” toys.\n\n____ However, this rule can be bad for children. Different toys teach children different\n____ things. Dolls help with their early language use, and building toys are good for\n____ learning math and science. By playing with different toys, children can find out what\n____ they are interested in or what they are good at. If they only play one kind of toy, they\n____ may lose this important chance. They may also get a wrong idea about what boys\n____ or girls are able to do. Some doctors worry that children may use the same kind of\n____ thinking when they look for jobs in the future. If they do, they may miss something\n____ more important than just getting a chance to play with different toys. They may miss\n____ many, perhaps better, chances in life.\n\n____  gender 性別",
     "question": "In the reading, after Jesse Cohen talks about an idea, he often gives an example to make it clear. Below are four of the sentences in the third paragraph. Which is used as an example?",
     "options": {
       "A": "“However, this rule can be bad for children.”",
@@ -496,7 +496,7 @@
   {
     "id": 39,
     "type": "passage",
-    "passage": "Marie Colvin was a world-famous war reporter. She was born in New York, USA,\n  in 1956 and died in Homs, Syria, in 2012.\n       When she was a student at Yale University, Colvin decided that she wanted to be a\n  reporter in the future. She joined the Sunday Times, a UK newspaper, in 1985 and soon\n  became its Middle East reporter. Besides the Middle East, she also reported from other\n  parts of the world: Chechnya, Kosovo and Sri Lanka, for example.  When she was reporting\n  on the war in Sri Lanka, she lost her left eye. But that never stopped her. She still went to\n  dangerous places that few reporters wanted to visit and stayed when others left.\n       Colvin showed great empathy in her stories.  For her, war reporting was not just some\n  quick interviews and a few photos. She wrote about real people and their real lives. Her\n  writing made you feel so strongly about these people’s stories, just like they were your own.\n  She hoped that through her work the world would understand what really happened in war,\n  and would take action to stop the fighting.\n       On February 22, 2012, the day after she gave her report on the war in Homs, Colvin\n  was killed when the house she was staying in was attacked. She always knew what price a\n  war reporter might have to pay. She already lost an eye before. This time, she gave her life\n  to the work she could not give up — telling the true stories to the world.\n                                                                                 war 戰爭",
+    "passage": "Marie Colvin was a world-famous war reporter. She was born in New York, USA,\n  in 1956 and died in Homs, Syria, in 2012.\n____ When she was a student at Yale University, Colvin decided that she wanted to be a\n  reporter in the future. She joined the Sunday Times, a UK newspaper, in 1985 and soon\n  became its Middle East reporter. Besides the Middle East, she also reported from other\n  parts of the world: Chechnya, Kosovo and Sri Lanka, for example.  When she was reporting\n  on the war in Sri Lanka, she lost her left eye. But that never stopped her. She still went to\n  dangerous places that few reporters wanted to visit and stayed when others left.\n____ Colvin showed great empathy in her stories.  For her, war reporting was not just some\n  quick interviews and a few photos. She wrote about real people and their real lives. Her\n  writing made you feel so strongly about these people’s stories, just like they were your own.\n  She hoped that through her work the world would understand what really happened in war,\n  and would take action to stop the fighting.\n____ On February 22, 2012, the day after she gave her report on the war in Homs, Colvin\n  was killed when the house she was staying in was attacked. She always knew what price a\n  war reporter might have to pay. She already lost an eye before. This time, she gave her life\n  to the work she could not give up — telling the true stories to the world.\n____  war 戰爭",
     "question": "What is the reading mostly about?",
     "options": {
       "A": "Marie Colvin’s war reports.",
@@ -509,7 +509,7 @@
   {
     "id": 40,
     "type": "passage",
-    "passage": "Marie Colvin was a world-famous war reporter. She was born in New York, USA,\n  in 1956 and died in Homs, Syria, in 2012.\n       When she was a student at Yale University, Colvin decided that she wanted to be a\n  reporter in the future. She joined the Sunday Times, a UK newspaper, in 1985 and soon\n  became its Middle East reporter. Besides the Middle East, she also reported from other\n  parts of the world: Chechnya, Kosovo and Sri Lanka, for example.  When she was reporting\n  on the war in Sri Lanka, she lost her left eye. But that never stopped her. She still went to\n  dangerous places that few reporters wanted to visit and stayed when others left.\n       Colvin showed great empathy in her stories.  For her, war reporting was not just some\n  quick interviews and a few photos. She wrote about real people and their real lives. Her\n  writing made you feel so strongly about these people’s stories, just like they were your own.\n  She hoped that through her work the world would understand what really happened in war,\n  and would take action to stop the fighting.\n       On February 22, 2012, the day after she gave her report on the war in Homs, Colvin\n  was killed when the house she was staying in was attacked. She always knew what price a\n  war reporter might have to pay. She already lost an eye before. This time, she gave her life\n  to the work she could not give up — telling the true stories to the world.\n                                                                                 war 戰爭",
+    "passage": "Marie Colvin was a world-famous war reporter. She was born in New York, USA,\n  in 1956 and died in Homs, Syria, in 2012.\n____ When she was a student at Yale University, Colvin decided that she wanted to be a\n  reporter in the future. She joined the Sunday Times, a UK newspaper, in 1985 and soon\n  became its Middle East reporter. Besides the Middle East, she also reported from other\n  parts of the world: Chechnya, Kosovo and Sri Lanka, for example.  When she was reporting\n  on the war in Sri Lanka, she lost her left eye. But that never stopped her. She still went to\n  dangerous places that few reporters wanted to visit and stayed when others left.\n____ Colvin showed great empathy in her stories.  For her, war reporting was not just some\n  quick interviews and a few photos. She wrote about real people and their real lives. Her\n  writing made you feel so strongly about these people’s stories, just like they were your own.\n  She hoped that through her work the world would understand what really happened in war,\n  and would take action to stop the fighting.\n____ On February 22, 2012, the day after she gave her report on the war in Homs, Colvin\n  was killed when the house she was staying in was attacked. She always knew what price a\n  war reporter might have to pay. She already lost an eye before. This time, she gave her life\n  to the work she could not give up — telling the true stories to the world.\n____  war 戰爭",
     "question": "What does it mean when someone has empathy?",
     "options": {
       "A": "They are good at taking war photos.",
@@ -522,7 +522,7 @@
   {
     "id": 41,
     "type": "passage",
-    "passage": "Marie Colvin was a world-famous war reporter. She was born in New York, USA,\n  in 1956 and died in Homs, Syria, in 2012.\n       When she was a student at Yale University, Colvin decided that she wanted to be a\n  reporter in the future. She joined the Sunday Times, a UK newspaper, in 1985 and soon\n  became its Middle East reporter. Besides the Middle East, she also reported from other\n  parts of the world: Chechnya, Kosovo and Sri Lanka, for example.  When she was reporting\n  on the war in Sri Lanka, she lost her left eye. But that never stopped her. She still went to\n  dangerous places that few reporters wanted to visit and stayed when others left.\n       Colvin showed great empathy in her stories.  For her, war reporting was not just some\n  quick interviews and a few photos. She wrote about real people and their real lives. Her\n  writing made you feel so strongly about these people’s stories, just like they were your own.\n  She hoped that through her work the world would understand what really happened in war,\n  and would take action to stop the fighting.\n       On February 22, 2012, the day after she gave her report on the war in Homs, Colvin\n  was killed when the house she was staying in was attacked. She always knew what price a\n  war reporter might have to pay. She already lost an eye before. This time, she gave her life\n  to the work she could not give up — telling the true stories to the world.\n                                                                                 war 戰爭",
+    "passage": "Marie Colvin was a world-famous war reporter. She was born in New York, USA,\n  in 1956 and died in Homs, Syria, in 2012.\n____ When she was a student at Yale University, Colvin decided that she wanted to be a\n  reporter in the future. She joined the Sunday Times, a UK newspaper, in 1985 and soon\n  became its Middle East reporter. Besides the Middle East, she also reported from other\n  parts of the world: Chechnya, Kosovo and Sri Lanka, for example.  When she was reporting\n  on the war in Sri Lanka, she lost her left eye. But that never stopped her. She still went to\n  dangerous places that few reporters wanted to visit and stayed when others left.\n____ Colvin showed great empathy in her stories.  For her, war reporting was not just some\n  quick interviews and a few photos. She wrote about real people and their real lives. Her\n  writing made you feel so strongly about these people’s stories, just like they were your own.\n  She hoped that through her work the world would understand what really happened in war,\n  and would take action to stop the fighting.\n____ On February 22, 2012, the day after she gave her report on the war in Homs, Colvin\n  was killed when the house she was staying in was attacked. She always knew what price a\n  war reporter might have to pay. She already lost an eye before. This time, she gave her life\n  to the work she could not give up — telling the true stories to the world.\n____  war 戰爭",
     "question": "Which is true about Marie Colvin?",
     "options": {
       "A": "The chance to study at Yale made her leave her job in the Middle East.",
@@ -535,7 +535,7 @@
   {
     "id": 42,
     "type": "passage",
-    "passage": "Speaking American is a great book!\n     Lucia Leisure ★★★★★\n     I just love Josh Katz’s new book! It’s about 42 in different parts of the US.\n     The information in the book was collected from the quiz that Katz built on the\n     website in 2013. The quiz asked what words people use for something, and their\n     answers showed interesting facts. For example, there are different names for\n     sports shoes. In most parts of the US, people say “tennis shoes.” In the northeast\n     of the country, people wear “sneakers.” In some towns, “tennis shoes” and\n     “sneakers” become “gym shoes.”\n\n     The use of words tells us where people are from, like Katz’s book says. But in\n     my experience, it also shows 43 . My family has lived in New York since my\n     grandparents. It’s not surprising that I say “sneakers.” But my grandfather says\n     “plimsolls,” and my daughter says “kicks” or “vans.” Maybe Katz can study this\n     difference for his next book.\n\n                                                                           website 網站",
+    "passage": "Speaking American is a great book!\n____ Lucia Leisure ★★★★★\n____ I just love Josh Katz’s new book! It’s about 42 in different parts of the US.\n____ The information in the book was collected from the quiz that Katz built on the\n____ website in 2013. The quiz asked what words people use for something, and their\n____ answers showed interesting facts. For example, there are different names for\n____ sports shoes. In most parts of the US, people say “tennis shoes.” In the northeast\n____ of the country, people wear “sneakers.” In some towns, “tennis shoes” and\n____ “sneakers” become “gym shoes.”\n\n____ The use of words tells us where people are from, like Katz’s book says. But in\n____ my experience, it also shows 43 . My family has lived in New York since my\n____ grandparents. It’s not surprising that I say “sneakers.” But my grandfather says\n____ “plimsolls,” and my daughter says “kicks” or “vans.” Maybe Katz can study this\n____ difference for his next book.\n\n____  website 網站",
     "question": "",
     "options": {
       "A": "what things are called",
@@ -548,7 +548,7 @@
   {
     "id": 43,
     "type": "passage",
-    "passage": "Speaking American is a great book!\n     Lucia Leisure ★★★★★\n     I just love Josh Katz’s new book! It’s about 42 in different parts of the US.\n     The information in the book was collected from the quiz that Katz built on the\n     website in 2013. The quiz asked what words people use for something, and their\n     answers showed interesting facts. For example, there are different names for\n     sports shoes. In most parts of the US, people say “tennis shoes.” In the northeast\n     of the country, people wear “sneakers.” In some towns, “tennis shoes” and\n     “sneakers” become “gym shoes.”\n\n     The use of words tells us where people are from, like Katz’s book says. But in\n     my experience, it also shows 43 . My family has lived in New York since my\n     grandparents. It’s not surprising that I say “sneakers.” But my grandfather says\n     “plimsolls,” and my daughter says “kicks” or “vans.” Maybe Katz can study this\n     difference for his next book.\n\n                                                                           website 網站",
+    "passage": "Speaking American is a great book!\n____ Lucia Leisure ★★★★★\n____ I just love Josh Katz’s new book! It’s about 42 in different parts of the US.\n____ The information in the book was collected from the quiz that Katz built on the\n____ website in 2013. The quiz asked what words people use for something, and their\n____ answers showed interesting facts. For example, there are different names for\n____ sports shoes. In most parts of the US, people say “tennis shoes.” In the northeast\n____ of the country, people wear “sneakers.” In some towns, “tennis shoes” and\n____ “sneakers” become “gym shoes.”\n\n____ The use of words tells us where people are from, like Katz’s book says. But in\n____ my experience, it also shows 43 . My family has lived in New York since my\n____ grandparents. It’s not surprising that I say “sneakers.” But my grandfather says\n____ “plimsolls,” and my daughter says “kicks” or “vans.” Maybe Katz can study this\n____ difference for his next book.\n\n____  website 網站",
     "question": "",
     "options": {
       "A": "how old they are",
