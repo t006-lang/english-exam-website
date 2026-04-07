@@ -275,7 +275,7 @@
   {
     "id": 22,
     "type": "passage",
-    "passage": "【注意：本題組含圖片/表格，無法在網頁上顯示，請參閱紙本試題。】",
+    "passage": null,
     "question": "What do we know about Mark from the dialogue?",
     "options": {
       "A": "He made Linda unhappy.",
@@ -283,12 +283,13 @@
       "C": "He did not like Linda’s cake.",
       "D": "He is getting married to Jenny."
     },
-    "answer": "A"
+    "answer": "A",
+    "passageImage": "data/images/114-q22.jpg"
   },
   {
     "id": 23,
     "type": "passage",
-    "passage": "【注意：本題組含圖片/表格，無法在網頁上顯示，請參閱紙本試題。】",
+    "passage": null,
     "question": "Which is most likely an example of stealing someone＇ ____ s thunder? ____  likely 可能",
     "options": {
       "A": "Dennis never changes his mind except when his wife tells him to.",
@@ -296,7 +297,8 @@
       "C": "Jeff tells everyone he’ll move abroad when Ivy is still telling them about her baby.",
       "D": "\u0007Alisa says she doesn’t care what we have for lunch but also doesn’t like the restaurant"
     },
-    "answer": "C"
+    "answer": "C",
+    "passageImage": "data/images/114-q22.jpg"
   },
   {
     "id": 24,

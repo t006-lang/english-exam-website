@@ -299,6 +299,15 @@ img { max-width: 100%; }
   max-height: 300px; overflow-y: auto; white-space: pre-wrap;
   border: 1px solid var(--border); border-left: 4px solid var(--accent);
 }
+.passage-img {
+  max-width: 100%; border-radius: var(--radius-md);
+  display: block; margin: 0 auto;
+}
+.passage-img-missing {
+  text-align: center; padding: 20px;
+  color: var(--text-3); font-size: 13px;
+  background: var(--bg); border-radius: var(--radius-sm);
+}
 .question-card {
   background: var(--surface); border-radius: var(--radius-lg);
   padding: 24px; box-shadow: var(--shadow-sm); border: 1px solid var(--border);

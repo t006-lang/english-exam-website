@@ -301,7 +301,7 @@
   {
     "id": 24,
     "type": "passage",
-    "passage": "【注意：本題組含圖片/表格，無法在網頁上顯示，請參閱紙本試題。】",
+    "passage": null,
     "question": "Kevin is going to buy some fresh bread at Baker’s Kitchen. He loves white bread, his mom likes farm bread, his father enjoys bagels, and his sister eats only challah. Which is the earliest possible time for him to get all these breads for his family?",
     "options": {
       "A": "11:00am.",
@@ -309,12 +309,13 @@
       "C": "5:00pm.",
       "D": "7:00pm."
     },
-    "answer": "C"
+    "answer": "C",
+    "passageImage": "data/images/113-q24.jpg"
   },
   {
     "id": 25,
     "type": "passage",
-    "passage": "【注意：本題組含圖片/表格，無法在網頁上顯示，請參閱紙本試題。】",
+    "passage": null,
     "question": "What do we know about Baker’s Kitchen?",
     "options": {
       "A": "It is open five days a week.",
@@ -322,12 +323,13 @@
       "C": "Its croissants and pretzels are sold on weekends.",
       "D": "Its members can save $100 when they shop on Fridays."
     },
-    "answer": "B"
+    "answer": "B",
+    "passageImage": "data/images/113-q24.jpg"
   },
   {
     "id": 26,
     "type": "passage",
-    "passage": "【注意：本題組含圖片/表格，無法在網頁上顯示，請參閱紙本試題。】",
+    "passage": null,
     "question": "What is recommended to people who want to visit the festival? ____  recommend 推薦",
     "options": {
       "A": "Using the free festival bus service.",
@@ -335,12 +337,13 @@
       "C": "Entering Satyr’s Park from Fox Street.",
       "D": "Parking in Garden Square and walking to the festival."
     },
-    "answer": "A"
+    "answer": "A",
+    "passageImage": "data/images/113-q26.jpg"
   },
   {
     "id": 27,
     "type": "passage",
-    "passage": "【注意：本題組含圖片/表格，無法在網頁上顯示，請參閱紙本試題。】",
+    "passage": null,
     "question": "What can we learn about the farmers’ market from the map?",
     "options": {
       "A": "The farmers’ market is next to the flower market.",
@@ -348,7 +351,8 @@
       "C": "You can go to the farmers’ market by taking Bus No. 157 to Puppy Street.",
       "D": "The nearest metro station to the farmers’ market is the Koala Street Station."
     },
-    "answer": "D"
+    "answer": "D",
+    "passageImage": "data/images/113-q26.jpg"
   },
   {
     "id": 28,

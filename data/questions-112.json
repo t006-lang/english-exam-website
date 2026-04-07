@@ -301,7 +301,7 @@
   {
     "id": 24,
     "type": "passage",
-    "passage": "【注意：本題組含圖片/表格，無法在網頁上顯示，請參閱紙本試題。】",
+    "passage": null,
     "question": "Amy went to Four Seasons’ Kitchen with her mother after she collected 15 stars.  They ordered two Garden Sandwiches, an Autumn Wind, and a Winter Snow. After using the stars, how much did they pay for their meals?",
     "options": {
       "A": "$290.",
@@ -309,12 +309,13 @@
       "C": "$220.",
       "D": "$160."
     },
-    "answer": "B"
+    "answer": "B",
+    "passageImage": "data/images/112-q24.jpg"
   },
   {
     "id": 25,
     "type": "passage",
-    "passage": "【注意：本題組含圖片/表格，無法在網頁上顯示，請參閱紙本試題。】",
+    "passage": null,
     "question": "Amy wants to bring her friends to Four Seasons’ Kitchen in August.  She looks at her calendar to pick a time to go there. Which are the time and date she  calendar 月曆 can choose?",
     "options": {
       "A": "8:30 pm, August 1.",
@@ -322,12 +323,13 @@
       "C": "3:00 pm, August 13.",
       "D": "2:00 pm, August 28."
     },
-    "answer": "B"
+    "answer": "B",
+    "passageImage": "data/images/112-q24.jpg"
   },
   {
     "id": 26,
     "type": "passage",
-    "passage": "【注意：本題組含圖片/表格，無法在網頁上顯示，請參閱紙本試題。】",
+    "passage": null,
     "question": "According to the notes, which is the WRONG way to help a baby bird that is out of its nest?",
     "options": {
       "A": "Feed it before you take it to a hospital.",
@@ -335,12 +337,13 @@
       "C": "Call the animal center if you can’t find its nest.",
       "D": "Put it back in its nest if it is not hurt and has few feathers."
     },
-    "answer": "A"
+    "answer": "A",
+    "passageImage": "data/images/112-q26.jpg"
   },
   {
     "id": 27,
     "type": "passage",
-    "passage": "【注意：本題組含圖片/表格，無法在網頁上顯示，請參閱紙本試題。】",
+    "passage": null,
     "question": "According to the notes, what do birds do if their babies have the smell of people on them?",
     "options": {
       "A": "They keep taking care of them.",
@@ -348,12 +351,13 @@
       "C": "They clean them until the smell goes away.",
       "D": "They leave them behind and move to a new nest."
     },
-    "answer": "A"
+    "answer": "A",
+    "passageImage": "data/images/112-q26.jpg"
   },
   {
     "id": 28,
     "type": "passage",
-    "passage": "【注意：本題組含圖片/表格，無法在網頁上顯示，請參閱紙本試題。】",
+    "passage": null,
     "question": "According to the reading, which is one of the reasons for food waste?",
     "options": {
       "A": "Stores do not know how to pack food well.",
@@ -361,12 +365,13 @@
       "C": "There is no refrigerator on the truck to keep food fresh.",
       "D": "Factories do not have enough trucks to carry food to stores."
     },
-    "answer": "C"
+    "answer": "C",
+    "passageImage": "data/images/112-q28.jpg"
   },
   {
     "id": 29,
     "type": "passage",
-    "passage": "【注意：本題組含圖片/表格，無法在網頁上顯示，請參閱紙本試題。】",
+    "passage": null,
     "question": "Which is true about food waste at each stage in the three parts of the world?",
     "options": {
       "A": "For each area, the highest percentage of food waste happens at Stage 5.",
@@ -374,7 +379,8 @@
       "C": "North America & Oceania has a higher percentage of food waste at Stage 1 than",
       "D": "South & Southeast Asia has a higher percentage of food waste at Stage 4 than the"
     },
-    "answer": "D"
+    "answer": "D",
+    "passageImage": "data/images/112-q28.jpg"
   },
   {
     "id": 30,

@@ -223,7 +223,7 @@
   {
     "id": 18,
     "type": "passage",
-    "passage": "City Sight Bus\nwww.citysightbus.org\n&HQWUDO\u00036WDWLRQ\n)DUPHUV熎\u0003%ULGJH\n4XHHQ\u0003\n0DUJXHULWH熎V\u0003\n3DUN\n(DVW\u0010(QG\u0003\n:HVWVLGH\u0003&KXUFK ____ 7HPSOH\n6WDUOLJKW\u0003\n*DUGHQ ____ .LQJ\u0003+HQU\\熎V\u0003&DVWOH\n\n*UDQG\u0003&DVWOH\u0003\n*UHDW\u0003$JH\u0003 ____ RI\u0003.LQJ\u0003&KDUOHV\n7KHDWHU\n/RYHUVĬ\u0003 ____ .LQJ\u0003+HQU\\熎V\u0003\n%ULGJH ____ *DUGHQ\n\n&LW\\\u00036TXDUH\n\n.LQJ\u0003-DPHV熎\u0003&DVWOH\n\nOPENING HOURS\nHigh Season (April to September): 9:00 – 18:00 every day\nLow Season (October to March): 9:00 – 17:00 every day\nTICKET PRICES\nLine A ( ____ ): $20 each person\nLine B ( ____ ): $18 each person\nTHINGS YOU SHOULD KNOW\nBuses for both lines leave every hour from Central Station.\nLine A takes one hour; Line B takes 50 minutes.\nIf you are taking your pet with you, please buy a seat for it at half price.\nSave 10% if you buy tickets on the Internet.\nSave 10% if you buy tickets for both lines.\nGo to www.citysightbus.org for more information.",
+    "passage": null,
     "question": "Which is true about City Sight Bus tickets?",
     "options": {
       "A": "It costs less to buy tickets on the Internet.",
@@ -231,12 +231,13 @@
       "C": "Tickets are more expensive in the high season.",
       "D": "People save 10% if they buy two tickets for the same line."
     },
-    "answer": "A"
+    "answer": "A",
+    "passageImage": "data/images/108-q18.jpg"
   },
   {
     "id": 19,
     "type": "passage",
-    "passage": "City Sight Bus\nwww.citysightbus.org\n&HQWUDO\u00036WDWLRQ\n)DUPHUV熎\u0003%ULGJH\n4XHHQ\u0003\n0DUJXHULWH熎V\u0003\n3DUN\n(DVW\u0010(QG\u0003\n:HVWVLGH\u0003&KXUFK ____ 7HPSOH\n6WDUOLJKW\u0003\n*DUGHQ ____ .LQJ\u0003+HQU\\熎V\u0003&DVWOH\n\n*UDQG\u0003&DVWOH\u0003\n*UHDW\u0003$JH\u0003 ____ RI\u0003.LQJ\u0003&KDUOHV\n7KHDWHU\n/RYHUVĬ\u0003 ____ .LQJ\u0003+HQU\\熎V\u0003\n%ULGJH ____ *DUGHQ\n\n&LW\\\u00036TXDUH\n\n.LQJ\u0003-DPHV熎\u0003&DVWOH\n\nOPENING HOURS\nHigh Season (April to September): 9:00 – 18:00 every day\nLow Season (October to March): 9:00 – 17:00 every day\nTICKET PRICES\nLine A ( ____ ): $20 each person\nLine B ( ____ ): $18 each person\nTHINGS YOU SHOULD KNOW\nBuses for both lines leave every hour from Central Station.\nLine A takes one hour; Line B takes 50 minutes.\nIf you are taking your pet with you, please buy a seat for it at half price.\nSave 10% if you buy tickets on the Internet.\nSave 10% if you buy tickets for both lines.\nGo to www.citysightbus.org for more information.",
+    "passage": null,
     "question": "Which is true about the bus lines?",
     "options": {
       "A": "Line B takes more time.",
@@ -244,7 +245,8 @@
       "C": "Both lines leave from Central Station.",
       "D": "There are more gardens to see on Line A."
     },
-    "answer": "C"
+    "answer": "C",
+    "passageImage": "data/images/108-q18.jpg"
   },
   {
     "id": 20,

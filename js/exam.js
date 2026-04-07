@@ -148,8 +148,15 @@ function renderQ() {
 
   // 段落
   const pb = document.getElementById('passageBox');
-  if (q.passage) { pb.textContent = q.passage; show('passageBox'); }
-  else hide('passageBox');
+  if (q.passageImage) {
+    pb.innerHTML = `<img src="${q.passageImage}" alt="題組圖表" class="passage-img" onerror="this.parentElement.innerHTML='<div class=\\'passage-img-missing\\'>⚠️ 圖片尚未上傳（${q.passageImage}）</div>'">`;
+    show('passageBox');
+  } else if (q.passage) {
+    pb.textContent = q.passage;
+    show('passageBox');
+  } else {
+    hide('passageBox');
+  }
 
   // 選項
   const grid = document.getElementById('optionsGrid');

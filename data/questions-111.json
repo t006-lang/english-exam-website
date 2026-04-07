@@ -262,7 +262,7 @@
   {
     "id": 21,
     "type": "passage",
-    "passage": "【注意：本題組含圖片/表格，無法在網頁上顯示，請參閱紙本試題。】",
+    "passage": null,
     "question": "What does Tea-Rock celebrate?",
     "options": {
       "A": "Their sales in 20 countries.",
@@ -270,12 +270,13 @@
       "C": "Their 20th year of business.",
       "D": "The opening of their 20th store in the USA."
     },
-    "answer": "C"
+    "answer": "C",
+    "passageImage": "data/images/111-q21.jpg"
   },
   {
     "id": 22,
     "type": "passage",
-    "passage": "【注意：本題組含圖片/表格，無法在網頁上顯示，請參閱紙本試題。】",
+    "passage": null,
     "question": "Here is the postcard Jason is going to send to Tea-Rock 20. What else does he need to put on the postcard before he sends it?",
     "options": {
       "A": "His age.",
@@ -283,7 +284,8 @@
       "C": "His birthday.",
       "D": "Another picture of the tea cup."
     },
-    "answer": "C"
+    "answer": "C",
+    "passageImage": "data/images/111-q21.jpg"
   },
   {
     "id": 23,
