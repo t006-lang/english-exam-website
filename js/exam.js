@@ -311,14 +311,15 @@ function showResult() {
 
   const total = questions.length;
 
-  // 統計：solved = 答對（無論幾次），otherwise = 未解出
+  // 統計：正確率只計算「第一次就答對」的題數
   const wrongIds = [];
   let correct = 0;
   questions.forEach((q, i) => {
     const state = answers[i];
     const year = q._year || currentYear;
+    const firstTryCorrect = state && state.solved && state.tries.length === 1;
+    if (firstTryCorrect) correct++;
     if (state && state.solved) {
-      correct++;
       Storage.markCorrect(year, q.id);
     } else {
       wrongIds.push(i);
@@ -342,9 +343,10 @@ function showResult() {
   // 弱點分析
   let sCorr = 0, sTotal = 0, pCorr = 0, pTotal = 0;
   questions.forEach((q, i) => {
-    const solved = answers[i]?.solved;
-    if (q.type === 'single') { sTotal++; if (solved) sCorr++; }
-    else { pTotal++; if (solved) pCorr++; }
+    const state = answers[i];
+    const firstTry = state && state.solved && state.tries.length === 1;
+    if (q.type === 'single') { sTotal++; if (firstTry) sCorr++; }
+    else { pTotal++; if (firstTry) pCorr++; }
   });
   document.getElementById('analysisGrid').innerHTML = `
     <div class="analysis-row">
