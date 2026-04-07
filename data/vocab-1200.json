@@ -243,7 +243,8 @@
     "word": "answer",
     "pos": "n./v.",
     "chinese": "答案；回答",
-    "topic": "School"
+    "topic": "School",
+    "example": "She raised her hand to answer the teacher's question."
   },
   {
     "word": "ant",
@@ -305,7 +306,8 @@
     "word": "arm",
     "pos": "n.",
     "chinese": "手臂",
-    "topic": "Body"
+    "topic": "Body",
+    "example": "She broke her arm when she fell off the bike."
   },
   {
     "word": "around",
@@ -323,7 +325,8 @@
     "word": "art",
     "pos": "n.",
     "chinese": "藝術",
-    "topic": "School"
+    "topic": "School",
+    "example": "She loves art class because she likes to draw and paint."
   },
   {
     "word": "as",
@@ -359,7 +362,8 @@
     "word": "aunt",
     "pos": "n.",
     "chinese": "阿姨；姑姑",
-    "topic": "Family"
+    "topic": "Family",
+    "example": "My aunt baked cookies for us every Sunday."
   },
   {
     "word": "autumn",
@@ -377,13 +381,15 @@
     "word": "baby",
     "pos": "n.",
     "chinese": "嬰兒",
-    "topic": "Family"
+    "topic": "Family",
+    "example": "The baby smiled when she saw her mother."
   },
   {
     "word": "back",
     "pos": "n./adv./adj.",
     "chinese": "背部；後面；回來",
-    "topic": "Body"
+    "topic": "Body",
+    "example": "My back hurts after sitting for a long time."
   },
   {
     "word": "bad",
@@ -593,7 +599,8 @@
     "word": "belt",
     "pos": "n.",
     "chinese": "皮帶",
-    "topic": "Clothing"
+    "topic": "Clothing",
+    "example": "He forgot to wear a belt and his pants kept falling down."
   },
   {
     "word": "bench",
@@ -654,7 +661,8 @@
     "word": "blackboard",
     "pos": "n.",
     "chinese": "黑板",
-    "topic": "School"
+    "topic": "School",
+    "example": "The teacher wrote the math problem on the blackboard."
   },
   {
     "word": "blank",
@@ -702,7 +710,8 @@
     "word": "body",
     "pos": "n.",
     "chinese": "身體",
-    "topic": "Body"
+    "topic": "Body",
+    "example": "Exercise is good for your body and mind."
   },
   {
     "word": "boil",
@@ -842,7 +851,8 @@
     "word": "brother",
     "pos": "n.",
     "chinese": "兄弟",
-    "topic": "Family"
+    "topic": "Family",
+    "example": "My brother is two years older than me."
   },
   {
     "word": "brown",
@@ -991,7 +1001,8 @@
     "word": "cap",
     "pos": "n.",
     "chinese": "帽子（無邊）",
-    "topic": "Clothing"
+    "topic": "Clothing",
+    "example": "He wore a baseball cap to block the sun."
   },
   {
     "word": "car",
@@ -1088,7 +1099,8 @@
     "word": "chalk",
     "pos": "n.",
     "chinese": "粉筆",
-    "topic": "School"
+    "topic": "School",
+    "example": "The teacher used yellow chalk to draw a map."
   },
   {
     "word": "chance",
@@ -1144,7 +1156,8 @@
     "word": "child",
     "pos": "n.",
     "chinese": "小孩",
-    "topic": "Family"
+    "topic": "Family",
+    "example": "Every child needs love and care."
   },
   {
     "word": "China",
@@ -1217,19 +1230,22 @@
     "word": "class",
     "pos": "n.",
     "chinese": "班級；課",
-    "topic": "School"
+    "topic": "School",
+    "example": "Our class has thirty students."
   },
   {
     "word": "classmate",
     "pos": "n.",
     "chinese": "同班同學",
-    "topic": "School"
+    "topic": "School",
+    "example": "My classmate helped me when I didn't understand the lesson."
   },
   {
     "word": "classroom",
     "pos": "n.",
     "chinese": "教室",
-    "topic": "School"
+    "topic": "School",
+    "example": "We cleaned the classroom after school."
   },
   {
     "word": "clean",
@@ -1271,7 +1287,8 @@
     "word": "clothes",
     "pos": "n.",
     "chinese": "衣服",
-    "topic": "Clothing"
+    "topic": "Clothing",
+    "example": "She packed her clothes in a big suitcase."
   },
   {
     "word": "cloud",
@@ -1289,13 +1306,15 @@
     "word": "club",
     "pos": "n.",
     "chinese": "社團；俱樂部",
-    "topic": "School"
+    "topic": "School",
+    "example": "She joined the English club to practice speaking."
   },
   {
     "word": "coat",
     "pos": "n.",
     "chinese": "外套",
-    "topic": "Clothing"
+    "topic": "Clothing",
+    "example": "She put on her coat before going outside."
   },
   {
     "word": "coffee",
@@ -1308,7 +1327,8 @@
     "word": "cold",
     "pos": "adj./n.",
     "chinese": "冷的；感冒",
-    "topic": "Health"
+    "topic": "Health",
+    "example": "I caught a cold and had to stay home from school."
   },
   {
     "word": "collect",
@@ -1387,7 +1407,8 @@
     "word": "copy",
     "pos": "v./n.",
     "chinese": "複製；副本",
-    "topic": "School"
+    "topic": "School",
+    "example": "Please copy the sentences from the board into your notebook."
   },
   {
     "word": "corner",
@@ -1429,13 +1450,15 @@
     "word": "course",
     "pos": "n.",
     "chinese": "課程；當然",
-    "topic": "School"
+    "topic": "School",
+    "example": "He is taking a cooking course on weekends."
   },
   {
     "word": "cousin",
     "pos": "n.",
     "chinese": "堂（表）兄弟姊妹",
-    "topic": "Family"
+    "topic": "Family",
+    "example": "I played with my cousins during the holiday."
   },
   {
     "word": "cover",
@@ -1514,7 +1537,8 @@
     "word": "daughter",
     "pos": "n.",
     "chinese": "女兒",
-    "topic": "Family"
+    "topic": "Family",
+    "example": "She is a loving daughter who always helps her parents."
   },
   {
     "word": "day",
@@ -1568,7 +1592,8 @@
     "word": "define",
     "pos": "v.",
     "chinese": "定義",
-    "topic": "School"
+    "topic": "School",
+    "example": "Can you define the word 'courage' in your own words?"
   },
   {
     "word": "delicious",
@@ -1598,7 +1623,8 @@
     "word": "dictionary",
     "pos": "n.",
     "chinese": "字典",
-    "topic": "School"
+    "topic": "School",
+    "example": "Look up the word in the dictionary if you don't know it."
   },
   {
     "word": "die",
@@ -1793,7 +1819,8 @@
     "word": "ear",
     "pos": "n.",
     "chinese": "耳朵",
-    "topic": "Body"
+    "topic": "Body",
+    "example": "He put his hands over his ears because the music was too loud."
   },
   {
     "word": "early",
@@ -1872,7 +1899,8 @@
     "word": "elementary school",
     "pos": "n.",
     "chinese": "小學",
-    "topic": "School"
+    "topic": "School",
+    "example": "I made my best friend in elementary school."
   },
   {
     "word": "elephant",
@@ -1915,7 +1943,8 @@
     "word": "English",
     "pos": "n./adj.",
     "chinese": "英語；英語的",
-    "topic": "School"
+    "topic": "School",
+    "example": "She studies English every evening to improve her skills."
   },
   {
     "word": "enjoy",
@@ -1945,7 +1974,8 @@
     "word": "eraser",
     "pos": "n.",
     "chinese": "橡皮擦",
-    "topic": "School"
+    "topic": "School",
+    "example": "He used an eraser to fix his spelling mistake."
   },
   {
     "word": "error",
@@ -1999,7 +2029,8 @@
     "word": "example",
     "pos": "n.",
     "chinese": "例子",
-    "topic": "School"
+    "topic": "School",
+    "example": "The teacher gave an example to help us understand."
   },
   {
     "word": "excellent",
@@ -2035,7 +2066,8 @@
     "word": "exercise",
     "pos": "n./v.",
     "chinese": "運動；練習",
-    "topic": "School"
+    "topic": "School",
+    "example": "We do exercise every morning before class."
   },
   {
     "word": "expect",
@@ -2065,13 +2097,15 @@
     "word": "eye",
     "pos": "n.",
     "chinese": "眼睛",
-    "topic": "Body"
+    "topic": "Body",
+    "example": "She has beautiful brown eyes."
   },
   {
     "word": "face",
     "pos": "n./v.",
     "chinese": "臉；面對",
-    "topic": "Body"
+    "topic": "Body",
+    "example": "He washed his face before going to bed."
   },
   {
     "word": "fact",
@@ -2101,7 +2135,8 @@
     "word": "family",
     "pos": "n.",
     "chinese": "家庭",
-    "topic": "Family"
+    "topic": "Family",
+    "example": "We have dinner together as a family every evening."
   },
   {
     "word": "famous",
@@ -2149,7 +2184,8 @@
     "word": "father",
     "pos": "n.",
     "chinese": "父親",
-    "topic": "Family"
+    "topic": "Family",
+    "example": "My father taught me how to ride a bike."
   },
   {
     "word": "favorite",
@@ -2185,7 +2221,8 @@
     "word": "fever",
     "pos": "n.",
     "chinese": "發燒",
-    "topic": "Health"
+    "topic": "Health",
+    "example": "The doctor said I had a fever and should rest."
   },
   {
     "word": "few",
@@ -2245,7 +2282,8 @@
     "word": "finger",
     "pos": "n.",
     "chinese": "手指",
-    "topic": "Body"
+    "topic": "Body",
+    "example": "She cut her finger while cooking."
   },
   {
     "word": "finish",
@@ -2331,7 +2369,8 @@
     "word": "foot",
     "pos": "n.",
     "chinese": "腳；英尺",
-    "topic": "Body"
+    "topic": "Body",
+    "example": "My foot hurts because my shoes are too tight."
   },
   {
     "word": "for",
@@ -2570,7 +2609,8 @@
     "word": "glove",
     "pos": "n.",
     "chinese": "手套",
-    "topic": "Clothing"
+    "topic": "Clothing",
+    "example": "He wore gloves to keep his hands warm."
   },
   {
     "word": "glue",
@@ -2620,7 +2660,8 @@
     "word": "grade",
     "pos": "n.",
     "chinese": "年級；成績",
-    "topic": "School"
+    "topic": "School",
+    "example": "He got a good grade on his English test."
   },
   {
     "word": "gram",
@@ -2632,13 +2673,15 @@
     "word": "grandfather",
     "pos": "n.",
     "chinese": "祖父",
-    "topic": "Family"
+    "topic": "Family",
+    "example": "My grandfather tells great stories about the old days."
   },
   {
     "word": "grandmother",
     "pos": "n.",
     "chinese": "祖母",
-    "topic": "Family"
+    "topic": "Family",
+    "example": "My grandmother makes the best soup in the world."
   },
   {
     "word": "grape",
@@ -2718,7 +2761,8 @@
     "word": "gym",
     "pos": "n.",
     "chinese": "體育館",
-    "topic": "School"
+    "topic": "School",
+    "example": "We play basketball in the gym on rainy days."
   },
   {
     "word": "habit",
@@ -2730,7 +2774,8 @@
     "word": "hair",
     "pos": "n.",
     "chinese": "頭髮",
-    "topic": "Body"
+    "topic": "Body",
+    "example": "She has long black hair."
   },
   {
     "word": "half",
@@ -2762,7 +2807,8 @@
     "word": "hand",
     "pos": "n.",
     "chinese": "手",
-    "topic": "Body"
+    "topic": "Body",
+    "example": "Wash your hands before you eat."
   },
   {
     "word": "handsome",
@@ -2804,7 +2850,8 @@
     "word": "hat",
     "pos": "n.",
     "chinese": "帽子（有邊）",
-    "topic": "Clothing"
+    "topic": "Clothing",
+    "example": "She wore a wide hat to protect herself from the sun."
   },
   {
     "word": "hate",
@@ -2828,25 +2875,29 @@
     "word": "head",
     "pos": "n.",
     "chinese": "頭",
-    "topic": "Body"
+    "topic": "Body",
+    "example": "He hit his head on the door and it really hurt."
   },
   {
     "word": "headache",
     "pos": "n.",
     "chinese": "頭痛",
-    "topic": "Health"
+    "topic": "Health",
+    "example": "I have a headache from staring at the screen too long."
   },
   {
     "word": "health",
     "pos": "n.",
     "chinese": "健康",
-    "topic": "Health"
+    "topic": "Health",
+    "example": "Good health is more important than money."
   },
   {
     "word": "healthy",
     "pos": "adj.",
     "chinese": "健康的",
-    "topic": "Health"
+    "topic": "Health",
+    "example": "Eating vegetables and exercising keeps you healthy."
   },
   {
     "word": "hear",
@@ -2858,7 +2909,8 @@
     "word": "heart",
     "pos": "n.",
     "chinese": "心臟；心",
-    "topic": "Body"
+    "topic": "Body",
+    "example": "Exercise makes your heart stronger."
   },
   {
     "word": "heat",
@@ -2876,7 +2928,8 @@
     "word": "height",
     "pos": "n.",
     "chinese": "高度",
-    "topic": "Body"
+    "topic": "Body",
+    "example": "His height is 170 centimeters."
   },
   {
     "word": "hello",
@@ -2949,7 +3002,8 @@
     "word": "history",
     "pos": "n.",
     "chinese": "歷史",
-    "topic": "School"
+    "topic": "School",
+    "example": "We are learning about World War II in history class."
   },
   {
     "word": "hit",
@@ -2985,7 +3039,8 @@
     "word": "homework",
     "pos": "n.",
     "chinese": "作業",
-    "topic": "School"
+    "topic": "School",
+    "example": "She finished her homework before dinner."
   },
   {
     "word": "honest",
@@ -3101,7 +3156,8 @@
     "word": "husband",
     "pos": "n.",
     "chinese": "丈夫",
-    "topic": "Family"
+    "topic": "Family",
+    "example": "Her husband cooked dinner for her birthday."
   },
   {
     "word": "I",
@@ -3229,7 +3285,8 @@
     "word": "jacket",
     "pos": "n.",
     "chinese": "夾克",
-    "topic": "Clothing"
+    "topic": "Clothing",
+    "example": "Don't forget your jacket—it's cold outside."
   },
   {
     "word": "January",
@@ -3241,7 +3298,8 @@
     "word": "jeans",
     "pos": "n.",
     "chinese": "牛仔褲",
-    "topic": "Clothing"
+    "topic": "Clothing",
+    "example": "He wears jeans to school almost every day."
   },
   {
     "word": "job",
@@ -3302,7 +3360,8 @@
     "word": "junior high school",
     "pos": "n.",
     "chinese": "國中",
-    "topic": "School"
+    "topic": "School",
+    "example": "I am a student at a junior high school."
   },
   {
     "word": "just",
@@ -3380,7 +3439,8 @@
     "word": "knee",
     "pos": "n.",
     "chinese": "膝蓋",
-    "topic": "Body"
+    "topic": "Body",
+    "example": "She hurt her knee during the basketball game."
   },
   {
     "word": "knife",
@@ -3512,7 +3572,8 @@
     "word": "leg",
     "pos": "n.",
     "chinese": "腿",
-    "topic": "Body"
+    "topic": "Body",
+    "example": "He broke his leg and had to use crutches."
   },
   {
     "word": "lemon",
@@ -3537,7 +3598,8 @@
     "word": "lesson",
     "pos": "n.",
     "chinese": "課；教訓",
-    "topic": "School"
+    "topic": "School",
+    "example": "Today's lesson is about the present perfect tense."
   },
   {
     "word": "let",
@@ -3604,7 +3666,8 @@
     "word": "lip",
     "pos": "n.",
     "chinese": "嘴唇",
-    "topic": "Body"
+    "topic": "Body",
+    "example": "She put on lip balm because her lips were dry."
   },
   {
     "word": "list",
@@ -3773,7 +3836,8 @@
     "word": "marker",
     "pos": "n.",
     "chinese": "麥克筆",
-    "topic": "School"
+    "topic": "School",
+    "example": "The teacher used a red marker to correct our work."
   },
   {
     "word": "market",
@@ -3791,13 +3855,15 @@
     "word": "mask",
     "pos": "n.",
     "chinese": "口罩；面具",
-    "topic": "Clothing"
+    "topic": "Clothing",
+    "example": "Everyone wore a mask on the bus."
   },
   {
     "word": "math",
     "pos": "n.",
     "chinese": "數學",
-    "topic": "School"
+    "topic": "School",
+    "example": "Math is my favorite subject."
   },
   {
     "word": "matter",
@@ -3847,7 +3913,8 @@
     "word": "medicine",
     "pos": "n.",
     "chinese": "藥；醫學",
-    "topic": "Health"
+    "topic": "Health",
+    "example": "The doctor gave me medicine for my cough."
   },
   {
     "word": "medium",
@@ -4011,7 +4078,8 @@
     "word": "mother",
     "pos": "n.",
     "chinese": "母親",
-    "topic": "Family"
+    "topic": "Family",
+    "example": "My mother always knows when something is wrong."
   },
   {
     "word": "motorcycle",
@@ -4036,7 +4104,8 @@
     "word": "mouth",
     "pos": "n.",
     "chinese": "嘴巴",
-    "topic": "Body"
+    "topic": "Body",
+    "example": "Don't talk with food in your mouth."
   },
   {
     "word": "move",
@@ -4102,7 +4171,8 @@
     "word": "nail",
     "pos": "n.",
     "chinese": "指甲；釘子",
-    "topic": "Body"
+    "topic": "Body",
+    "example": "She painted her nails red."
   },
   {
     "word": "name",
@@ -4132,7 +4202,8 @@
     "word": "neck",
     "pos": "n.",
     "chinese": "脖子",
-    "topic": "Body"
+    "topic": "Body",
+    "example": "My neck is stiff from looking at the screen all day."
   },
   {
     "word": "need",
@@ -4253,7 +4324,8 @@
     "word": "nose",
     "pos": "n.",
     "chinese": "鼻子",
-    "topic": "Body"
+    "topic": "Body",
+    "example": "He blew his nose because he had a cold."
   },
   {
     "word": "not",
@@ -4489,7 +4561,8 @@
     "word": "pants",
     "pos": "n.",
     "chinese": "褲子",
-    "topic": "Clothing"
+    "topic": "Clothing",
+    "example": "She bought a new pair of pants for the trip."
   },
   {
     "word": "papaya",
@@ -4508,7 +4581,8 @@
     "word": "parent",
     "pos": "n.",
     "chinese": "父母",
-    "topic": "Family"
+    "topic": "Family",
+    "example": "My parents both work hard for our family."
   },
   {
     "word": "park",
@@ -4556,7 +4630,8 @@
     "word": "PE",
     "pos": "n.",
     "chinese": "體育",
-    "topic": "School"
+    "topic": "School",
+    "example": "We play volleyball in PE class."
   },
   {
     "word": "peach",
@@ -4582,7 +4657,8 @@
     "word": "pencil",
     "pos": "n.",
     "chinese": "鉛筆",
-    "topic": "School"
+    "topic": "School",
+    "example": "She sharpened her pencil before the test."
   },
   {
     "word": "people",
@@ -4663,7 +4739,8 @@
     "word": "pin",
     "pos": "n./v.",
     "chinese": "大頭針；別住",
-    "topic": "Clothing"
+    "topic": "Clothing",
+    "example": "She used a pin to keep her scarf in place."
   },
   {
     "word": "pink",
@@ -4972,7 +5049,8 @@
     "word": "question",
     "pos": "n.",
     "chinese": "問題",
-    "topic": "School"
+    "topic": "School",
+    "example": "The teacher asked a question and nobody answered."
   },
   {
     "word": "quick",
@@ -5058,7 +5136,8 @@
     "word": "read",
     "pos": "v.",
     "chinese": "閱讀",
-    "topic": "School"
+    "topic": "School",
+    "example": "He reads a book every night before sleeping."
   },
   {
     "word": "ready",
@@ -5100,7 +5179,8 @@
     "word": "relative",
     "pos": "n.",
     "chinese": "親戚",
-    "topic": "Family"
+    "topic": "Family",
+    "example": "We visited our relatives during the Lunar New Year."
   },
   {
     "word": "remember",
@@ -5356,7 +5436,8 @@
     "word": "science",
     "pos": "n.",
     "chinese": "科學",
-    "topic": "School"
+    "topic": "School",
+    "example": "We did a fun experiment in science class."
   },
   {
     "word": "scooter",
@@ -5440,13 +5521,15 @@
     "word": "senior high school",
     "pos": "n.",
     "chinese": "高中",
-    "topic": "School"
+    "topic": "School",
+    "example": "She wants to go to a good senior high school."
   },
   {
     "word": "sentence",
     "pos": "n.",
     "chinese": "句子",
-    "topic": "School"
+    "topic": "School",
+    "example": "Write three sentences about your weekend."
   },
   {
     "word": "September",
@@ -5549,13 +5632,15 @@
     "word": "shirt",
     "pos": "n.",
     "chinese": "襯衫",
-    "topic": "Clothing"
+    "topic": "Clothing",
+    "example": "He ironed his shirt before the job interview."
   },
   {
     "word": "shoe",
     "pos": "n.",
     "chinese": "鞋子",
-    "topic": "Clothing"
+    "topic": "Clothing",
+    "example": "She couldn't find her left shoe anywhere."
   },
   {
     "word": "shop",
@@ -5579,7 +5664,8 @@
     "word": "shorts",
     "pos": "n.",
     "chinese": "短褲",
-    "topic": "Clothing"
+    "topic": "Clothing",
+    "example": "He wore shorts because the weather was hot."
   },
   {
     "word": "should",
@@ -5591,7 +5677,8 @@
     "word": "shoulder",
     "pos": "n.",
     "chinese": "肩膀",
-    "topic": "Body"
+    "topic": "Body",
+    "example": "She carried her bag on her shoulder."
   },
   {
     "word": "shout",
@@ -5621,13 +5708,15 @@
     "word": "sick",
     "pos": "adj.",
     "chinese": "生病的",
-    "topic": "Health"
+    "topic": "Health",
+    "example": "She stayed home because she felt sick."
   },
   {
     "word": "side",
     "pos": "n.",
     "chinese": "側面；邊",
-    "topic": "Body"
+    "topic": "Body",
+    "example": "She slept on her side all night."
   },
   {
     "word": "sidewalk",
@@ -5681,7 +5770,8 @@
     "word": "sister",
     "pos": "n.",
     "chinese": "姊妹",
-    "topic": "Family"
+    "topic": "Family",
+    "example": "My sister and I share a bedroom."
   },
   {
     "word": "sit",
@@ -5717,7 +5807,8 @@
     "word": "skirt",
     "pos": "n.",
     "chinese": "裙子",
-    "topic": "Clothing"
+    "topic": "Clothing",
+    "example": "She wore a blue skirt to the school concert."
   },
   {
     "word": "sky",
@@ -5821,7 +5912,8 @@
     "word": "socks",
     "pos": "n.",
     "chinese": "短襪",
-    "topic": "Clothing"
+    "topic": "Clothing",
+    "example": "He always wears mismatched socks."
   },
   {
     "word": "sofa",
@@ -5869,7 +5961,8 @@
     "word": "son",
     "pos": "n.",
     "chinese": "兒子",
-    "topic": "Family"
+    "topic": "Family",
+    "example": "They have one son and two daughters."
   },
   {
     "word": "song",
@@ -5887,7 +5980,8 @@
     "word": "sore",
     "pos": "adj.",
     "chinese": "疼痛的",
-    "topic": "Health"
+    "topic": "Health",
+    "example": "My legs are sore after the long run."
   },
   {
     "word": "sorry",
@@ -5936,7 +6030,8 @@
     "word": "spell",
     "pos": "v./n.",
     "chinese": "拼寫",
-    "topic": "School"
+    "topic": "School",
+    "example": "Can you spell the word 'beautiful'?"
   },
   {
     "word": "spend",
@@ -6034,7 +6129,8 @@
     "word": "stomach",
     "pos": "n.",
     "chinese": "胃；肚子",
-    "topic": "Health"
+    "topic": "Health",
+    "example": "I have a stomachache because I ate too much."
   },
   {
     "word": "stop",
@@ -6101,7 +6197,8 @@
     "word": "student",
     "pos": "n.",
     "chinese": "學生",
-    "topic": "School"
+    "topic": "School",
+    "example": "Every student in our class passed the test."
   },
   {
     "word": "study",
@@ -6119,7 +6216,8 @@
     "word": "subject",
     "pos": "n.",
     "chinese": "科目；主題",
-    "topic": "School"
+    "topic": "School",
+    "example": "English is the subject I work hardest on."
   },
   {
     "word": "successful",
@@ -6192,7 +6290,8 @@
     "word": "sweater",
     "pos": "n.",
     "chinese": "毛衣",
-    "topic": "Clothing"
+    "topic": "Clothing",
+    "example": "She knitted a sweater for her little brother."
   },
   {
     "word": "sweet",
@@ -6343,7 +6442,8 @@
     "word": "test",
     "pos": "n./v.",
     "chinese": "測驗",
-    "topic": "School"
+    "topic": "School",
+    "example": "We have a math test on Friday."
   },
   {
     "word": "than",
@@ -6481,7 +6581,8 @@
     "word": "throat",
     "pos": "n.",
     "chinese": "喉嚨",
-    "topic": "Body"
+    "topic": "Body",
+    "example": "I have a sore throat and it hurts to swallow."
   },
   {
     "word": "through",
@@ -6517,7 +6618,8 @@
     "word": "tie",
     "pos": "n./v.",
     "chinese": "領帶；綁；平局",
-    "topic": "Clothing"
+    "topic": "Clothing",
+    "example": "He wore a tie to the school graduation."
   },
   {
     "word": "tiger",
@@ -6567,7 +6669,8 @@
     "word": "toe",
     "pos": "n.",
     "chinese": "腳趾",
-    "topic": "Body"
+    "topic": "Body",
+    "example": "He stubbed his toe on the chair."
   },
   {
     "word": "together",
@@ -6610,7 +6713,8 @@
     "word": "tooth",
     "pos": "n.",
     "chinese": "牙齒",
-    "topic": "Body"
+    "topic": "Body",
+    "example": "You should brush your teeth twice a day."
   },
   {
     "word": "top",
@@ -6622,7 +6726,8 @@
     "word": "topic",
     "pos": "n.",
     "chinese": "主題",
-    "topic": "School"
+    "topic": "School",
+    "example": "The topic of today's reading is recycling."
   },
   {
     "word": "total",
@@ -6724,7 +6829,8 @@
     "word": "T-shirt",
     "pos": "n.",
     "chinese": "T恤",
-    "topic": "Clothing"
+    "topic": "Clothing",
+    "example": "He bought a T-shirt with a funny picture on it."
   },
   {
     "word": "Tuesday",
@@ -6797,7 +6903,8 @@
     "word": "uncle",
     "pos": "n.",
     "chinese": "叔叔；伯伯",
-    "topic": "Family"
+    "topic": "Family",
+    "example": "My uncle takes me fishing every summer."
   },
   {
     "word": "under",
@@ -6821,7 +6928,8 @@
     "word": "uniform",
     "pos": "n.",
     "chinese": "制服",
-    "topic": "Clothing"
+    "topic": "Clothing",
+    "example": "All students must wear their school uniform every day."
   },
   {
     "word": "until",
@@ -7141,7 +7249,8 @@
     "word": "wife",
     "pos": "n.",
     "chinese": "妻子",
-    "topic": "Family"
+    "topic": "Family",
+    "example": "He bought flowers for his wife on their anniversary."
   },
   {
     "word": "will",
@@ -7231,7 +7340,8 @@
     "word": "workbook",
     "pos": "n.",
     "chinese": "作業本",
-    "topic": "School"
+    "topic": "School",
+    "example": "Please open your workbook to page twenty."
   },
   {
     "word": "worker",
