@@ -148,6 +148,7 @@ function renderQ() {
 
   // 段落
   const pb = document.getElementById('passageBox');
+  pb.scrollTop = 0;
   if (q.passageImage) {
     const imgs = Array.isArray(q.passageImage) ? q.passageImage : [q.passageImage];
     let html = imgs.map(src =>
