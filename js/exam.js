@@ -325,25 +325,19 @@ function getHint(q, attemptNum) {
     return '再試一次！注意每個選項的意思';
   }
 
-  // ── 閱讀題：原本邏輯 ──
+  // ── 題組：同單題三層邏輯 ──
   if (attemptNum === 1) {
-    const kw = extractKeywords(q.question);
-    return kw
-      ? `再試一次！注意題目關鍵字：<strong>${kw}</strong>`
-      : '再試一次！仔細重讀題目';
+    // 第一次答錯：題目中文翻譯
+    return q.questionZh
+      ? `💡 題目翻譯：${q.questionZh}`
+      : '再試一次！仔細重讀題目與文章';
   }
-  if (attemptNum === 2) {
-    if (q.passage) {
-      const clue = findPassageClue(q.passage, q.options[q.answer]);
-      return clue
-        ? `提示：文章中提到「<em>${clue}</em>」，找找看與答案的關係`
-        : '提示：答案線索在文章裡，請重新仔細閱讀';
-    } else {
-      const half = Math.ceil(q.options[q.answer].length / 2);
-      return `提示：正確選項開頭是「${q.options[q.answer].slice(0, half)}…」`;
-    }
-  }
-  return '';
+  // 第二次答錯：正確答案選項中文翻譯
+  const ansZh = q.optionsZh?.[q.answer];
+  return ansZh
+    ? `💡 正確答案的意思是：${ansZh}`
+    : '再試一次！答案線索在文章裡';
+
 }
 
 function extractKeywords(text) {

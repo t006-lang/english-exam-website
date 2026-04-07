@@ -391,7 +391,14 @@
       "C": "He bit people.",
       "D": "He ate too much."
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "Rex發生了什麼事？",
+    "optionsZh": {
+      "A": "他迷路了。",
+      "B": "他受傷了。",
+      "C": "他咬人。",
+      "D": "他吃太多了。"
+    }
   },
   {
     "id": 21,
@@ -404,7 +411,14 @@
       "C": "By taking him to see a doctor.",
       "D": "By looking for a new home for him."
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "作者如何幫助Rex？",
+    "optionsZh": {
+      "A": "打電話給警察。",
+      "B": "讓他運動。",
+      "C": "帶他去看醫生。",
+      "D": "幫他尋找新家。"
+    }
   },
   {
     "id": 22,
@@ -418,7 +432,14 @@
       "D": "He is getting married to Jenny."
     },
     "answer": "A",
-    "passageImage": "data/images/114-q22.png"
+    "passageImage": "data/images/114-q22.png",
+    "questionZh": "從對話中，我們對Mark有什麼了解？",
+    "optionsZh": {
+      "A": "他讓Linda不開心。",
+      "B": "他正在找新工作。",
+      "C": "他不喜歡Linda的蛋糕。",
+      "D": "他要和Jenny結婚了。"
+    }
   },
   {
     "id": 23,
@@ -432,7 +453,14 @@
       "D": "\u0007Alisa says she doesn’t care what we have for lunch but also doesn’t like the restaurant"
     },
     "answer": "C",
-    "passageImage": "data/images/114-q22.png"
+    "passageImage": "data/images/114-q22.png",
+    "questionZh": "下列哪一個最有可能是「搶別人風頭」的例子？",
+    "optionsZh": {
+      "A": "Dennis從不改變主意，除非他太太叫他這麼做。",
+      "B": "Melisa告訴Tom她會去派對，卻告訴媽媽她會留在家裡。",
+      "C": "當Ivy還在告訴大家她的嬰兒消息時，Jeff卻宣布他要移居海外。",
+      "D": "Alisa說她不在乎我們午餐吃什麼，但又不喜歡那家餐廳。"
+    }
   },
   {
     "id": 24,
@@ -446,7 +474,14 @@
       "D": "Move around the city by metro as much as you want."
     },
     "answer": "D",
-    "passageImage": "data/images/114-q24.png"
+    "passageImage": "data/images/114-q24.png",
+    "questionZh": "你可以用White Lake City Card做什麼？",
+    "optionsZh": {
+      "A": "兒童火車票享有八折優惠。",
+      "B": "免費參觀市內任何公立博物館。",
+      "C": "搭火車前往三個區域以外的地方。",
+      "D": "無限次搭乘地鐵在市區移動。"
+    }
   },
   {
     "id": 25,
@@ -460,7 +495,14 @@
       "D": "A 1-day Card for Zones 1-2 and a Weekend Card for Zones 1-2."
     },
     "answer": "C",
-    "passageImage": "data/images/114-q24.png"
+    "passageImage": "data/images/114-q24.png",
+    "questionZh": "Stacy要去White Lake City，住在White Lake Main Station附近的飯店。她想週五參觀White Lake City歷史博物館，週六去看White Lake。如果她打算購買City Card，哪個選擇對她最划算？",
+    "optionsZh": {
+      "A": "第一區三日卡。",
+      "B": "第一至三區週末卡。",
+      "C": "第一區一日卡＋第一至二區週末卡。",
+      "D": "第一至二區一日卡＋第一至二區週末卡。"
+    }
   },
   {
     "id": 26,
@@ -473,7 +515,14 @@
       "C": "A vacation farm.",
       "D": "A family restaurant."
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "Rolling Acres是什麼？",
+    "optionsZh": {
+      "A": "一座動物園。",
+      "B": "一個露營區。",
+      "C": "一座度假農場。",
+      "D": "一間家庭餐廳。"
+    }
   },
   {
     "id": 27,
@@ -486,7 +535,14 @@
       "C": "Why Libby’s grandparents started Rolling Acres.",
       "D": "What the Larson family’s plans are for Rolling Acres."
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "從第一段我們可以學到什麼？",
+    "optionsZh": {
+      "A": "Libby在Rolling Acres做些什麼。",
+      "B": "訪客對Rolling Acres的看法。",
+      "C": "Libby的祖父母為什麼創辦Rolling Acres。",
+      "D": "Larson家族對Rolling Acres的計畫。"
+    }
   },
   {
     "id": 28,
@@ -499,7 +555,14 @@
       "C": "Making excuses for failing to do something difficult.",
       "D": "Giving up something important to do something else."
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "「做出犧牲」是什麼意思？",
+    "optionsZh": {
+      "A": "學習賺錢並明智地使用它。",
+      "B": "了解家人不同的面向。",
+      "C": "為做不到困難的事找藉口。",
+      "D": "放棄重要的事去做另一件事。"
+    }
   },
   {
     "id": 29,
@@ -516,7 +579,14 @@
     "passageImage": [
       "data/images/114-q29a.png",
       "data/images/114-q29b.png"
-    ]
+    ],
+    "questionZh": "這部漫畫告訴我們什麼？",
+    "optionsZh": {
+      "A": "趁還能的時候享受生活。",
+      "B": "遵循古老的生活方式。",
+      "C": "在為時已晚之前拯救我們的地球。",
+      "D": "以我們希望被對待的方式對待他人。"
+    }
   },
   {
     "id": 30,
@@ -533,7 +603,14 @@
     "passageImage": [
       "data/images/114-q29a.png",
       "data/images/114-q29b.png"
-    ]
+    ],
+    "questionZh": "從漫畫中，我們對這些人有什麼了解？",
+    "optionsZh": {
+      "A": "他們在打鬥前先生火。",
+      "B": "他們一直為了土地和植物而戰。",
+      "C": "他們在大火旁向雕像祈禱。",
+      "D": "他們用雕像來展示自己的強大。"
+    }
   },
   {
     "id": 31,
@@ -550,7 +627,14 @@
     "passageImage": [
       "data/images/114-q29a.png",
       "data/images/114-q29b.png"
-    ]
+    ],
+    "questionZh": "第7格圖片中的「did it」是什麼意思？",
+    "optionsZh": {
+      "A": "倒在地上。",
+      "B": "砍倒最後的樹木。",
+      "C": "把雕像移到戰場上。",
+      "D": "明白樹木有多重要。"
+    }
   },
   {
     "id": 32,
@@ -563,7 +647,14 @@
       "C": "Why IKEA furniture is so famous.",
       "D": "If anyone shared his IKEA experience."
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "Ariely在摺紙研究中想找出什麼？",
+    "optionsZh": {
+      "A": "他是否能阻止IKEA效應。",
+      "B": "為什麼人們喜歡摺紙。",
+      "C": "為什麼IKEA家具那麼有名。",
+      "D": "是否有人有相同的IKEA經驗。"
+    }
   },
   {
     "id": 33,
@@ -576,7 +667,14 @@
       "C": "Builders knew others would not pay as much for the origami as they would.",
       "D": "Buyers would spend more on builders’ origami after knowing how they were made."
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "關於摺紙研究，下列哪一項是正確的？",
+    "optionsZh": {
+      "A": "買方願意為製作者的摺紙花的錢比製作者少。",
+      "B": "製作者和買方需要共同決定摺紙的價格。",
+      "C": "製作者知道別人不會付和他們一樣多的錢。",
+      "D": "買方在了解製作過程後，願意花更多錢購買摺紙。"
+    }
   },
   {
     "id": 34,
@@ -589,7 +687,14 @@
       "C": "Give Mia her favorite candy after she eats vegetables.",
       "D": "Ask Mia what vegetables she likes and cook them for her."
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "Jerry無法讓女兒Mia多吃蔬菜，每次嘗試都以吵鬧收場。如果Jerry想利用IKEA效應讓Mia多吃蔬菜，他應該怎麼做？",
+    "optionsZh": {
+      "A": "告訴Mia他專門為她煮蔬菜。",
+      "B": "請Mia幫忙一起為她的餐點烹煮蔬菜。",
+      "C": "在Mia吃完蔬菜後給她最愛的糖果。",
+      "D": "詢問Mia喜歡什麼蔬菜，然後為她烹煮。"
+    }
   },
   {
     "id": 35,
@@ -603,7 +708,14 @@
       "D": "The story of a famous UK electricity worker from the 1970s."
     },
     "answer": "C",
-    "passageImage": "data/images/114-q35.png"
+    "passageImage": "data/images/114-q35.png",
+    "questionZh": "這篇文章主要在說什麼？",
+    "optionsZh": {
+      "A": "用圖片說故事的技巧。",
+      "B": "電力為人們生活帶來的改變。",
+      "C": "一張英國電力工人照片背後的歷史。",
+      "D": "一位1970年代知名英國電力工人的故事。"
+    }
   },
   {
     "id": 36,
@@ -617,7 +729,14 @@
       "D": "They did not care whether their job might hurt people’s health."
     },
     "answer": "C",
-    "passageImage": "data/images/114-q35.png"
+    "passageImage": "data/images/114-q35.png",
+    "questionZh": "在1970年代的英國，人們對英國電力工人最可能有什麼看法？",
+    "optionsZh": {
+      "A": "他們不夠勇敢，無法解決自己的問題。",
+      "B": "他們像機器人一樣工作，從不學習改變。",
+      "C": "他們要求太多，不知道何時該停止。",
+      "D": "他們不在乎工作是否可能傷害人們的健康。"
+    }
   },
   {
     "id": 37,
@@ -631,7 +750,14 @@
       "D": "To show that the government and the electricity workers both lost their fights."
     },
     "answer": "C",
-    "passageImage": "data/images/114-q35.png"
+    "passageImage": "data/images/114-q35.png",
+    "questionZh": "作者為什麼在最後一句的「dark」這個詞加上引號？",
+    "optionsZh": {
+      "A": "表示「黑暗」時期其實並不黑暗。",
+      "B": "告訴讀者這個詞是政府說的。",
+      "C": "同時代表沒有燈光的日子和人們艱難的生活。",
+      "D": "說明政府和電力工人都輸了各自的鬥爭。"
+    }
   },
   {
     "id": 38,
@@ -644,7 +770,14 @@
       "C": "has started",
       "D": "will start"
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "請選出填入空格的最佳答案。",
+    "optionsZh": {
+      "A": "開始（現在式）",
+      "B": "開始了（過去式）",
+      "C": "已開始（現在完成式）",
+      "D": "將開始（未來式）"
+    }
   },
   {
     "id": 39,
@@ -657,7 +790,14 @@
       "C": "he couldn’t stop thinking about two things",
       "D": "he did two things that would change his life"
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "請選出填入空格的最佳答案。",
+    "optionsZh": {
+      "A": "他對兩件事感到相當害怕",
+      "B": "他仍然無法理解兩件事",
+      "C": "他無法停止思考兩件事",
+      "D": "他做了兩件將改變他生命的事"
+    }
   },
   {
     "id": 40,
@@ -670,7 +810,14 @@
       "C": "should not be about him, but about his mom",
       "D": "should not be celebrated for just one day, but for nine months"
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "請選出填入空格的最佳答案。",
+    "optionsZh": {
+      "A": "應該花在幫助他的媽媽上",
+      "B": "應該是歡迎新開始的時刻",
+      "C": "不應該是關於他，而是關於他的媽媽",
+      "D": "不應該只慶祝一天，而是應該慶祝九個月"
+    }
   },
   {
     "id": 41,
@@ -683,7 +830,14 @@
       "C": "only",
       "D": "other"
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "請選出填入空格的最佳答案。",
+    "optionsZh": {
+      "A": "第一個",
+      "B": "最後一個",
+      "C": "唯一的",
+      "D": "另一個"
+    }
   },
   {
     "id": 42,
@@ -696,7 +850,14 @@
       "C": "made him change his mind",
       "D": "made him give up baking"
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "請選出填入空格的最佳答案。",
+    "optionsZh": {
+      "A": "讓他頭痛",
+      "B": "讓他心情愉快",
+      "C": "讓他改變主意",
+      "D": "讓他放棄烘焙"
+    }
   },
   {
     "id": 43,
@@ -709,6 +870,13 @@
       "C": "has given",
       "D": "gave"
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "請選出填入空格的最佳答案。",
+    "optionsZh": {
+      "A": "即將給（未來計畫）",
+      "B": "給（現在式）",
+      "C": "已給（現在完成式）",
+      "D": "給了（過去式）"
+    }
   }
 ]
