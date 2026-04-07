@@ -303,7 +303,7 @@
   {
     "id": 24,
     "type": "passage",
-    "passage": "Buy a White Lake City Card When You’re in the City\nWith any of the Cards, you can\n- visit the city by metro, bus, or train as many times as you want. *\n- take one child under 12 with you for free.\n- save 20% on tickets to public museums.\n \u0007The 1-day, 3-day, and 5-day Cards are for trips from Monday to Friday, and the\nWeekend Card is for trips on weekends and holidays.\n Check the map and buy the right Card for the zones you’ll be entering.\nCard ____ Zone 1 Zones 1-2 ____ Zones 1-3\n1-day ____ $20 ____ $40 ____ $60\n3-day ____ $40 ____ $60 ____ $80\n5-day ____ $50 ____ $80 ____ $110\nWeekend ____ $30 ____ $50 ____ $80\n* The Cards are only for trips inside the three zones.\nⓐ White Lake Main Station\nⓑ Museum of White Lake City History\nⓒ Museum of Modern Art\nⓓ White Lake\nⓔ White Lake Castle\nⓕ White Lake Airport\nzone 區",
+    "passage": null,
     "question": "What can you do with a White Lake City Card?",
     "options": {
       "A": "Save 20% on children’s train tickets.",
@@ -311,12 +311,13 @@
       "C": "Take a train to places out of the three zones.",
       "D": "Move around the city by metro as much as you want."
     },
-    "answer": "D"
+    "answer": "D",
+    "passageImage": "data/images/114-q24.jpg"
   },
   {
     "id": 25,
     "type": "passage",
-    "passage": "Buy a White Lake City Card When You’re in the City\nWith any of the Cards, you can\n- visit the city by metro, bus, or train as many times as you want. *\n- take one child under 12 with you for free.\n- save 20% on tickets to public museums.\n \u0007The 1-day, 3-day, and 5-day Cards are for trips from Monday to Friday, and the\nWeekend Card is for trips on weekends and holidays.\n Check the map and buy the right Card for the zones you’ll be entering.\nCard ____ Zone 1 Zones 1-2 ____ Zones 1-3\n1-day ____ $20 ____ $40 ____ $60\n3-day ____ $40 ____ $60 ____ $80\n5-day ____ $50 ____ $80 ____ $110\nWeekend ____ $30 ____ $50 ____ $80\n* The Cards are only for trips inside the three zones.\nⓐ White Lake Main Station\nⓑ Museum of White Lake City History\nⓒ Museum of Modern Art\nⓓ White Lake\nⓔ White Lake Castle\nⓕ White Lake Airport\nzone 區",
+    "passage": null,
     "question": "Stacy is going to White Lake City and is staying at a hotel near the White Lake Main Station.  She wants to visit the Museum of White Lake City History on Friday and see White Lake on Saturday.  If she plans to buy (a) White Lake City Card(s), which of the four choices will be best for her and cost her the least?",
     "options": {
       "A": "A 3-day Card for Zone 1.",
@@ -324,7 +325,8 @@
       "C": "A 1-day Card for Zone 1 and a Weekend Card for Zones 1-2.",
       "D": "A 1-day Card for Zones 1-2 and a Weekend Card for Zones 1-2."
     },
-    "answer": "C"
+    "answer": "C",
+    "passageImage": "data/images/114-q24.jpg"
   },
   {
     "id": 26,
