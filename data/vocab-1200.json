@@ -249,7 +249,8 @@
     "word": "ant",
     "pos": "n.",
     "chinese": "螞蟻",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "Ants are small but very strong."
   },
   {
     "word": "any",
@@ -285,7 +286,8 @@
     "word": "apple",
     "pos": "n.",
     "chinese": "蘋果",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "I eat an apple every day to stay healthy."
   },
   {
     "word": "April",
@@ -423,7 +425,8 @@
     "word": "banana",
     "pos": "n.",
     "chinese": "香蕉",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "She put a banana in her school bag for a snack."
   },
   {
     "word": "band",
@@ -459,7 +462,8 @@
     "word": "bat",
     "pos": "n.",
     "chinese": "球棒；蝙蝠",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "Bats sleep during the day and fly at night."
   },
   {
     "word": "bath",
@@ -489,13 +493,15 @@
     "word": "bean",
     "pos": "n.",
     "chinese": "豆子",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "My mom cooked beans and rice for dinner."
   },
   {
     "word": "bear",
     "pos": "n./v.",
     "chinese": "熊；忍受",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "We saw a bear at the zoo."
   },
   {
     "word": "beautiful",
@@ -531,13 +537,15 @@
     "word": "bee",
     "pos": "n.",
     "chinese": "蜜蜂",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "Bees make honey and help flowers grow."
   },
   {
     "word": "beef",
     "pos": "n.",
     "chinese": "牛肉",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "He ordered a beef sandwich at the restaurant."
   },
   {
     "word": "before",
@@ -621,7 +629,8 @@
     "word": "bird",
     "pos": "n.",
     "chinese": "鳥",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "A bird was singing in the tree outside my window."
   },
   {
     "word": "birthday",
@@ -795,7 +804,8 @@
     "word": "bread",
     "pos": "n.",
     "chinese": "麵包",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "We need to buy bread at the store."
   },
   {
     "word": "break",
@@ -807,7 +817,8 @@
     "word": "breakfast",
     "pos": "n.",
     "chinese": "早餐",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "I always have breakfast before going to school."
   },
   {
     "word": "bridge",
@@ -861,7 +872,8 @@
     "word": "bun",
     "pos": "n.",
     "chinese": "小圓麵包",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "She ate a bun with butter for breakfast."
   },
   {
     "word": "burn",
@@ -903,13 +915,15 @@
     "word": "butter",
     "pos": "n.",
     "chinese": "奶油",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "He spread butter on his toast."
   },
   {
     "word": "butterfly",
     "pos": "n.",
     "chinese": "蝴蝶",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "A beautiful butterfly landed on the flower."
   },
   {
     "word": "button",
@@ -933,7 +947,8 @@
     "word": "cake",
     "pos": "n.",
     "chinese": "蛋糕",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "Mom made a chocolate cake for my birthday."
   },
   {
     "word": "call",
@@ -969,7 +984,8 @@
     "word": "candy",
     "pos": "n.",
     "chinese": "糖果",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "The children got candy on Halloween."
   },
   {
     "word": "cap",
@@ -1023,7 +1039,8 @@
     "word": "cat",
     "pos": "n.",
     "chinese": "貓",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "My cat sleeps on my bed every night."
   },
   {
     "word": "catch",
@@ -1113,13 +1130,15 @@
     "word": "cheese",
     "pos": "n.",
     "chinese": "起司",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "I like cheese on my sandwich."
   },
   {
     "word": "chicken",
     "pos": "n.",
     "chinese": "雞；雞肉",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "We had fried chicken for dinner last night."
   },
   {
     "word": "child",
@@ -1143,7 +1162,8 @@
     "word": "chocolate",
     "pos": "n.",
     "chinese": "巧克力",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "She gave me a piece of chocolate after class."
   },
   {
     "word": "choice",
@@ -1281,7 +1301,8 @@
     "word": "coffee",
     "pos": "n.",
     "chinese": "咖啡",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "My dad drinks coffee every morning."
   },
   {
     "word": "cold",
@@ -1353,7 +1374,8 @@
     "word": "cookie",
     "pos": "n.",
     "chinese": "餅乾",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "Grandma baked cookies for us."
   },
   {
     "word": "cool",
@@ -1425,7 +1447,8 @@
     "word": "cow",
     "pos": "n.",
     "chinese": "牛",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "The farmer has ten cows on his farm."
   },
   {
     "word": "crazy",
@@ -1611,7 +1634,8 @@
     "word": "dinner",
     "pos": "n.",
     "chinese": "晚餐",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "Our family always eats dinner together."
   },
   {
     "word": "dirty",
@@ -1641,7 +1665,8 @@
     "word": "dog",
     "pos": "n.",
     "chinese": "狗",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "My dog runs to the door when I come home."
   },
   {
     "word": "doll",
@@ -1749,7 +1774,8 @@
     "word": "duck",
     "pos": "n.",
     "chinese": "鴨子",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "The ducks were swimming in the lake."
   },
   {
     "word": "during",
@@ -1815,7 +1841,8 @@
     "word": "egg",
     "pos": "n.",
     "chinese": "蛋",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "I had two eggs for breakfast."
   },
   {
     "word": "eight",
@@ -1851,7 +1878,8 @@
     "word": "elephant",
     "pos": "n.",
     "chinese": "大象",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "The elephant is the biggest land animal."
   },
   {
     "word": "eleven",
@@ -2241,7 +2269,8 @@
     "word": "fish",
     "pos": "n./v.",
     "chinese": "魚；釣魚",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "We went fishing by the river on Saturday."
   },
   {
     "word": "fisherman",
@@ -2289,7 +2318,8 @@
     "word": "food",
     "pos": "n.",
     "chinese": "食物",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "The food at that restaurant is very good."
   },
   {
     "word": "fool",
@@ -2355,7 +2385,8 @@
     "word": "fox",
     "pos": "n.",
     "chinese": "狐狸",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "The fox ran quickly into the forest."
   },
   {
     "word": "free",
@@ -2391,13 +2422,15 @@
     "word": "fries",
     "pos": "n.",
     "chinese": "薯條",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "He ordered a burger and fries."
   },
   {
     "word": "frog",
     "pos": "n.",
     "chinese": "青蛙",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "We heard frogs singing near the pond at night."
   },
   {
     "word": "from",
@@ -2415,7 +2448,8 @@
     "word": "fruit",
     "pos": "n.",
     "chinese": "水果",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "Eating fruit is good for your health."
   },
   {
     "word": "fry",
@@ -2487,7 +2521,8 @@
     "word": "ghost",
     "pos": "n.",
     "chinese": "鬼",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "The children dressed as ghosts for Halloween."
   },
   {
     "word": "giant",
@@ -2553,7 +2588,8 @@
     "word": "goat",
     "pos": "n.",
     "chinese": "山羊",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "The goat ate the grass on the hillside."
   },
   {
     "word": "god",
@@ -2577,7 +2613,8 @@
     "word": "goose",
     "pos": "n.",
     "chinese": "鵝",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "A goose walked across the park."
   },
   {
     "word": "grade",
@@ -2607,7 +2644,8 @@
     "word": "grape",
     "pos": "n.",
     "chinese": "葡萄",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "She bought a bag of grapes at the market."
   },
   {
     "word": "grass",
@@ -2655,7 +2693,8 @@
     "word": "guava",
     "pos": "n.",
     "chinese": "芭樂",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "Guava is a popular fruit in Taiwan."
   },
   {
     "word": "guess",
@@ -2709,13 +2748,15 @@
     "word": "ham",
     "pos": "n.",
     "chinese": "火腿",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "I made a ham and cheese sandwich."
   },
   {
     "word": "hamburger",
     "pos": "n.",
     "chinese": "漢堡",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "We had hamburgers at the school picnic."
   },
   {
     "word": "hand",
@@ -2859,7 +2900,8 @@
     "word": "hen",
     "pos": "n.",
     "chinese": "母雞",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "The hen laid three eggs this morning."
   },
   {
     "word": "here",
@@ -2967,7 +3009,8 @@
     "word": "horse",
     "pos": "n.",
     "chinese": "馬",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "She learned to ride a horse last summer."
   },
   {
     "word": "hospital",
@@ -2985,7 +3028,8 @@
     "word": "hot dog",
     "pos": "n.",
     "chinese": "熱狗",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "He ate a hot dog at the baseball game."
   },
   {
     "word": "hotel",
@@ -3075,7 +3119,8 @@
     "word": "ice cream",
     "pos": "n.",
     "chinese": "冰淇淋",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "Let's get ice cream after school."
   },
   {
     "word": "idea",
@@ -3111,7 +3156,8 @@
     "word": "insect",
     "pos": "n.",
     "chinese": "昆蟲",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "There are many kinds of insects in the garden."
   },
   {
     "word": "inside",
@@ -3231,7 +3277,8 @@
     "word": "juice",
     "pos": "n.",
     "chinese": "果汁",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "She drinks orange juice every morning."
   },
   {
     "word": "July",
@@ -3471,7 +3518,8 @@
     "word": "lemon",
     "pos": "n.",
     "chinese": "檸檬",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "I put lemon in my tea."
   },
   {
     "word": "lend",
@@ -3549,7 +3597,8 @@
     "word": "lion",
     "pos": "n.",
     "chinese": "獅子",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "The lion is called the king of animals."
   },
   {
     "word": "lip",
@@ -3645,7 +3694,8 @@
     "word": "lunch",
     "pos": "n.",
     "chinese": "午餐",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "We have lunch at noon at school."
   },
   {
     "word": "machine",
@@ -3777,7 +3827,8 @@
     "word": "meal",
     "pos": "n.",
     "chinese": "餐",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "Dinner is my favorite meal of the day."
   },
   {
     "word": "mean",
@@ -3789,7 +3840,8 @@
     "word": "meat",
     "pos": "n.",
     "chinese": "肉",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "He doesn't eat meat because he is a vegetarian."
   },
   {
     "word": "medicine",
@@ -3849,7 +3901,8 @@
     "word": "milk",
     "pos": "n.",
     "chinese": "牛奶",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "Children should drink milk every day."
   },
   {
     "word": "million",
@@ -3915,7 +3968,8 @@
     "word": "monkey",
     "pos": "n.",
     "chinese": "猴子",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "The monkey jumped from tree to tree."
   },
   {
     "word": "month",
@@ -3975,7 +4029,8 @@
     "word": "mouse",
     "pos": "n.",
     "chinese": "老鼠；滑鼠",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "The cat chased the mouse around the house."
   },
   {
     "word": "mouth",
@@ -4179,7 +4234,8 @@
     "word": "noodle",
     "pos": "n.",
     "chinese": "麵條",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "I love eating noodles in the winter."
   },
   {
     "word": "noon",
@@ -4299,7 +4355,8 @@
     "word": "oil",
     "pos": "n.",
     "chinese": "油",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "She cooked the vegetables in a little oil."
   },
   {
     "word": "OK",
@@ -4353,7 +4410,8 @@
     "word": "orange",
     "pos": "n./adj.",
     "chinese": "柳橙；橘色",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "He peeled an orange and shared it with his sister."
   },
   {
     "word": "order",
@@ -4437,7 +4495,8 @@
     "word": "papaya",
     "pos": "n.",
     "chinese": "木瓜",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "Papaya is sweet and good for digestion."
   },
   {
     "word": "paper",
@@ -4503,13 +4562,15 @@
     "word": "peach",
     "pos": "n.",
     "chinese": "桃子",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "She picked a ripe peach from the tree."
   },
   {
     "word": "pear",
     "pos": "n.",
     "chinese": "梨子",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "A pear a day keeps the doctor away."
   },
   {
     "word": "pen",
@@ -4545,7 +4606,8 @@
     "word": "pet",
     "pos": "n.",
     "chinese": "寵物",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "My pet rabbit is white and very cute."
   },
   {
     "word": "photo",
@@ -4581,7 +4643,8 @@
     "word": "pie",
     "pos": "n.",
     "chinese": "派",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "Grandma baked an apple pie for us."
   },
   {
     "word": "piece",
@@ -4593,7 +4656,8 @@
     "word": "pig",
     "pos": "n.",
     "chinese": "豬",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "The pig rolled in the mud on the farm."
   },
   {
     "word": "pin",
@@ -4617,7 +4681,8 @@
     "word": "pizza",
     "pos": "n.",
     "chinese": "披薩",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "We ordered pizza for the class party."
   },
   {
     "word": "place",
@@ -4731,7 +4796,8 @@
     "word": "popcorn",
     "pos": "n.",
     "chinese": "爆米花",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "We ate popcorn while watching the movie."
   },
   {
     "word": "popular",
@@ -4743,7 +4809,8 @@
     "word": "pork",
     "pos": "n.",
     "chinese": "豬肉",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "This noodle soup is made with pork."
   },
   {
     "word": "possible",
@@ -4935,7 +5002,8 @@
     "word": "rabbit",
     "pos": "n.",
     "chinese": "兔子",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "The rabbit has long ears and a short tail."
   },
   {
     "word": "race",
@@ -4977,7 +5045,8 @@
     "word": "rat",
     "pos": "n.",
     "chinese": "老鼠",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "The rat ran out when we turned on the light."
   },
   {
     "word": "reach",
@@ -5079,7 +5148,8 @@
     "word": "rice",
     "pos": "n.",
     "chinese": "米飯",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "Rice is the main food in Taiwan."
   },
   {
     "word": "rich",
@@ -5217,7 +5287,8 @@
     "word": "salad",
     "pos": "n.",
     "chinese": "沙拉",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "She made a fresh salad with tomatoes and lettuce."
   },
   {
     "word": "sale",
@@ -5235,7 +5306,8 @@
     "word": "salt",
     "pos": "n.",
     "chinese": "鹽",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "Don't add too much salt to your food."
   },
   {
     "word": "same",
@@ -5247,7 +5319,8 @@
     "word": "sandwich",
     "pos": "n.",
     "chinese": "三明治",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "I made a tuna sandwich for lunch."
   },
   {
     "word": "Saturday",
@@ -5457,7 +5530,8 @@
     "word": "sheep",
     "pos": "n.",
     "chinese": "羊",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "The farmer has a large flock of sheep."
   },
   {
     "word": "shine",
@@ -5709,13 +5783,15 @@
     "word": "snack",
     "pos": "n.",
     "chinese": "點心",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "He had a small snack before dinner."
   },
   {
     "word": "snake",
     "pos": "n.",
     "chinese": "蛇",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "He saw a snake in the grass and ran away."
   },
   {
     "word": "snow",
@@ -5829,7 +5905,8 @@
     "word": "soup",
     "pos": "n.",
     "chinese": "湯",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "Mom made chicken soup when I was sick."
   },
   {
     "word": "south",
@@ -5871,7 +5948,8 @@
     "word": "spider",
     "pos": "n.",
     "chinese": "蜘蛛",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "A spider was building a web in the corner."
   },
   {
     "word": "spoon",
@@ -5943,7 +6021,8 @@
     "word": "steak",
     "pos": "n.",
     "chinese": "牛排",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "Dad grilled a steak for our special dinner."
   },
   {
     "word": "still",
@@ -5997,7 +6076,8 @@
     "word": "strawberry",
     "pos": "n.",
     "chinese": "草莓",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "I like strawberry ice cream the best."
   },
   {
     "word": "street",
@@ -6051,7 +6131,8 @@
     "word": "sugar",
     "pos": "n.",
     "chinese": "糖",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "Try not to eat too much sugar."
   },
   {
     "word": "summer",
@@ -6189,7 +6270,8 @@
     "word": "tea",
     "pos": "n.",
     "chinese": "茶",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "My grandma drinks green tea every afternoon."
   },
   {
     "word": "teach",
@@ -6441,7 +6523,8 @@
     "word": "tiger",
     "pos": "n.",
     "chinese": "老虎",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "The tiger is a fast and powerful animal."
   },
   {
     "word": "time",
@@ -6471,7 +6554,8 @@
     "word": "toast",
     "pos": "n./v.",
     "chinese": "吐司；乾杯",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "I had toast and eggs for breakfast."
   },
   {
     "word": "today",
@@ -6495,7 +6579,8 @@
     "word": "tomato",
     "pos": "n.",
     "chinese": "番茄",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "She added tomatoes to the salad."
   },
   {
     "word": "tomorrow",
@@ -6657,7 +6742,8 @@
     "word": "turtle",
     "pos": "n.",
     "chinese": "烏龜",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "The turtle walked slowly across the road."
   },
   {
     "word": "twelve",
@@ -6789,7 +6875,8 @@
     "word": "vegetable",
     "pos": "n.",
     "chinese": "蔬菜",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "You should eat vegetables every day."
   },
   {
     "word": "very",
@@ -6903,7 +6990,8 @@
     "word": "watermelon",
     "pos": "n.",
     "chinese": "西瓜",
-    "topic": "Food & Drinks"
+    "topic": "Food & Drinks",
+    "example": "We ate watermelon on the hot summer day."
   },
   {
     "word": "wave",
@@ -7239,7 +7327,8 @@
     "word": "zebra",
     "pos": "n.",
     "chinese": "斑馬",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "A zebra has black and white stripes."
   },
   {
     "word": "zero",
@@ -7251,6 +7340,7 @@
     "word": "zoo",
     "pos": "n.",
     "chinese": "動物園",
-    "topic": "Animals"
+    "topic": "Animals",
+    "example": "We went to the zoo and saw many animals."
   }
 ]

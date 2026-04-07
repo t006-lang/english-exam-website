@@ -108,49 +108,15 @@ function speakWord() {
   window.speechSynthesis.speak(utt);
 }
 
-// ── 例句（Free Dictionary API）──────────────────────────────
+// ── 例句（從 JSON 資料讀取）──────────────────────────────────
 
-const exampleCache = {};
-
-async function loadExample(word) {
+function loadExample(word) {
   const el = document.getElementById('fcExample');
   if (!el) return;
-
-  // 詞組或含特殊字元的單字跳過
-  if (word.includes(' ') || word.includes('/')) {
-    el.innerHTML = '';
-    return;
-  }
-
-  if (exampleCache[word] !== undefined) {
-    el.innerHTML = exampleCache[word];
-    return;
-  }
-
-  try {
-    const res = await fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${encodeURIComponent(word)}`);
-    if (!res.ok) {
-      exampleCache[word] = '';
-      el.innerHTML = '';
-      return;
-    }
-    const data = await res.json();
-    // 搜尋所有 meanings 的所有 definitions，取第一個有 example 的
-    let example = '';
-    outer: for (const entry of data) {
-      for (const meaning of entry.meanings || []) {
-        for (const def of meaning.definitions || []) {
-          if (def.example) { example = def.example; break outer; }
-        }
-      }
-    }
-    const html = example
-      ? `<div class="fc-example-text">📖 ${example}</div>`
-      : '';
-    exampleCache[word] = html;
-    el.innerHTML = html;
-  } catch(e) {
-    exampleCache[word] = '';
+  const w = filteredWords[fcIndex];
+  if (w && w.example) {
+    el.innerHTML = `<div class="fc-example-text">📖 ${w.example}</div>`;
+  } else {
     el.innerHTML = '';
   }
 }
@@ -166,8 +132,8 @@ function flipCard() {
   fcFlipped = !fcFlipped;
   document.getElementById('cardFront').style.display = fcFlipped ? 'none' : '';
   document.getElementById('cardBack').style.display = fcFlipped ? '' : 'none';
-  if (fcFlipped && filteredWords[fcIndex]) {
-    loadExample(filteredWords[fcIndex].word);
+  if (fcFlipped) {
+    loadExample();
   }
 }
 
