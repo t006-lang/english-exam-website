@@ -286,7 +286,7 @@
       "D": "Another picture of the tea cup."
     },
     "answer": "C",
-    "passageImage": "data/images/111-q21.jpg"
+    "passageImage": ["data/images/111-q21.jpg", "data/images/111-q22.jpg"]
   },
   {
     "id": 23,
