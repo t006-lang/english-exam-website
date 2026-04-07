@@ -2,12 +2,14 @@
 
 let questions = [];      // 當前題目集
 let current = 0;         // 當前題目索引
-let answers = {};        // { index: 'A'/'B'/'C'/'D' }
+// answers[i] = { tries: string[], solved: boolean }
+//   tries  : 所有嘗試（含錯誤），依序記錄
+//   solved : 是否已答對
+let answers = {};
 let mode = 'year';       // year | mock | wrong | custom
 let currentYear = null;
 let mockTimer = null;
 let mockSeconds = 3600;
-let wrongIds = [];       // 答錯的索引陣列
 
 // ── 模式選擇 ────────────────────────────────────────────────
 
@@ -43,7 +45,6 @@ async function startExam(year) {
   if (!data) return;
   questions = data;
   answers = {};
-  wrongIds = [];
   current = 0;
   hide('screenSelect');
   show('screenExam');
@@ -59,7 +60,6 @@ async function startWrongPractice() {
   const keys = Object.keys(w);
   if (keys.length === 0) { alert('目前沒有錯題！繼續加油！'); return; }
 
-  // 按年份分組載入
   const byYear = {};
   keys.forEach(k => {
     const [y, id] = k.split('-');
@@ -79,7 +79,7 @@ async function startWrongPractice() {
 
   if (questions.length === 0) return;
   shuffle(questions);
-  answers = {}; wrongIds = []; current = 0;
+  answers = {}; current = 0;
   hide('screenSelect'); show('screenExam');
   document.getElementById('examLabel').textContent = '錯題練習';
   hide('examTimer');
@@ -99,7 +99,7 @@ async function startCustomExam() {
   }
   shuffle(pool);
   questions = pool.slice(0, count);
-  answers = {}; wrongIds = []; current = 0;
+  answers = {}; current = 0;
   currentYear = checked[0];
   hide('screenSelect'); show('screenExam');
   document.getElementById('examLabel').textContent = '自訂練習';
@@ -137,6 +137,9 @@ function renderQ() {
   const q = questions[current];
   if (!q) return;
   const total = questions.length;
+  const state = answers[current] || { tries: [], solved: false };
+  const gaveUp = !state.solved && state.tries.length >= 3;
+  const done = state.solved || gaveUp;
 
   document.getElementById('examCounter').textContent = `第 ${current+1} / ${total} 題`;
   document.getElementById('progressBar').style.width = `${(current+1)/total*100}%`;
@@ -152,58 +155,79 @@ function renderQ() {
   const grid = document.getElementById('optionsGrid');
   grid.innerHTML = ['A','B','C','D'].map(letter => {
     if (!q.options[letter]) return '';
-    const chosen = answers[current];
     let cls = 'option-btn';
-    if (chosen) {
+    let disabled = false;
+
+    if (done) {
+      // 題目結束：顯示正確答案與所有錯誤嘗試
+      disabled = true;
       if (letter === q.answer) cls += ' opt-correct';
-      else if (letter === chosen) cls += ' opt-wrong';
+      else if (state.tries.includes(letter)) cls += ' opt-wrong';
+    } else {
+      // 作答中：已嘗試且錯誤的選項鎖定變紅
+      if (state.tries.includes(letter)) {
+        cls += ' opt-wrong';
+        disabled = true;
+      }
     }
-    return `<button class="${cls}" onclick="selectAnswer('${letter}')" ${chosen ? 'disabled' : ''}>
+
+    return `<button class="${cls}" onclick="selectAnswer('${letter}')" ${disabled ? 'disabled' : ''}>
       <span class="option-letter">${letter}</span>
       <span class="opt-text">${q.options[letter]}</span>
     </button>`;
   }).join('');
 
-  // 回饋
+  // 回饋 / 提示
   const fb = document.getElementById('feedbackBox');
-  if (answers[current]) {
-    const correct = answers[current] === q.answer;
-    fb.className = 'feedback-card ' + (correct ? 'feedback-correct' : 'feedback-wrong');
-    fb.innerHTML = correct
-      ? `✓ 答對了！正確答案是 ${q.answer}`
-      : `✗ 答錯了！正確答案是 <strong>${q.answer}</strong>：${q.options[q.answer]}`;
+  if (state.solved) {
+    fb.className = 'feedback-card feedback-correct';
+    const tries = state.tries.length;
+    fb.innerHTML = tries === 1
+      ? '✓ 一次答對！繼續保持！'
+      : `✓ 答對了！共嘗試 ${tries} 次`;
     show('feedbackBox');
-    show('btnNext');
+  } else if (gaveUp) {
+    fb.className = 'feedback-card feedback-wrong';
+    fb.innerHTML = `💡 答案揭曉：正確答案是 <strong>${q.answer}</strong>　${q.options[q.answer]}`;
+    show('feedbackBox');
+  } else if (state.tries.length > 0) {
+    fb.className = 'feedback-card feedback-wrong';
+    fb.innerHTML = getHint(q, state.tries.length);
+    show('feedbackBox');
   } else {
     hide('feedbackBox');
+  }
+
+  // 下一題按鈕：只有答對或揭曉後才出現
+  if (done) {
+    show('btnNext');
+    document.getElementById('btnNext').textContent =
+      current === total - 1 ? '查看結果 →' : '下一題 →';
+  } else {
     hide('btnNext');
   }
 
   // 上一題按鈕
   document.getElementById('btnPrev').style.visibility = current > 0 ? 'visible' : 'hidden';
-
-  // 最後一題：改顯示「查看結果」
-  if (current === total - 1 && answers[current]) {
-    document.getElementById('btnNext').textContent = '查看結果 →';
-  } else {
-    document.getElementById('btnNext').textContent = '下一題 →';
-  }
 }
 
 // ── 作答 ────────────────────────────────────────────────────
 
 function selectAnswer(letter) {
-  if (answers[current] !== undefined) return;
   const q = questions[current];
-  answers[current] = letter;
+  const state = answers[current] || { tries: [], solved: false };
 
-  const year = q._year || currentYear;
-  if (letter !== q.answer) {
-    wrongIds.push(current);
-    Storage.markWrong(year, q.id);
-  } else {
-    Storage.markCorrect(year, q.id);
+  // 已結束或已嘗試此選項：忽略
+  if (state.solved || state.tries.length >= 3) return;
+  if (state.tries.includes(letter)) return;
+
+  state.tries.push(letter);
+
+  if (letter === q.answer) {
+    state.solved = true;
   }
+
+  answers[current] = state;
   renderQ();
 }
 
@@ -219,51 +243,118 @@ function prevQ() {
   renderQ();
 }
 
+// ── 提示產生 ────────────────────────────────────────────────
+
+function getHint(q, attemptNum) {
+  if (attemptNum === 1) {
+    const kw = extractKeywords(q.question);
+    return kw
+      ? `再試一次！注意題目關鍵字：<strong>${kw}</strong>`
+      : '再試一次！仔細重讀題目';
+  }
+  if (attemptNum === 2) {
+    if (q.passage) {
+      const clue = findPassageClue(q.passage, q.options[q.answer]);
+      return clue
+        ? `提示：文章中提到「<em>${clue}</em>」，找找看與答案的關係`
+        : '提示：答案線索在文章裡，請重新仔細閱讀';
+    } else {
+      const half = Math.ceil(q.options[q.answer].length / 2);
+      return `提示：正確選項開頭是「${q.options[q.answer].slice(0, half)}…」`;
+    }
+  }
+  // attemptNum >= 3：由 renderQ 顯示揭曉訊息，不走這裡
+  return '';
+}
+
+function extractKeywords(text) {
+  const stop = new Set([
+    'the','a','an','is','are','was','were','be','been','being',
+    'have','has','had','do','does','did','will','would','could',
+    'should','may','might','can','that','this','these','those',
+    'it','its','in','on','at','to','for','of','with','by','from',
+    'as','and','but','or','not','no','so','than','too','very',
+    'just','what','how','when','where','which','who','he','she',
+    'they','we','you','i','his','her','their','our','your','my',
+    'him','them','us','me','then','also','about','after','before',
+    'into','over','only','more','most','some','such'
+  ]);
+  const words = text.replace(/[^a-zA-Z\s]/g, ' ').toLowerCase().split(/\s+/);
+  const unique = [...new Set(words.filter(w => w.length > 3 && !stop.has(w)))];
+  return unique.slice(0, 3).join('、') || null;
+}
+
+function findPassageClue(passage, correctOption) {
+  const optWords = correctOption.toLowerCase()
+    .replace(/[^a-z\s]/g, '').split(/\s+/).filter(w => w.length > 3);
+  const sentences = passage
+    .split(/(?<=[.!?])\s+|\n/)
+    .map(s => s.trim()).filter(s => s.length > 10);
+
+  let best = null, bestScore = 0;
+  sentences.forEach(s => {
+    const lower = s.toLowerCase();
+    const score = optWords.filter(w => lower.includes(w)).length;
+    if (score > bestScore) { bestScore = score; best = s; }
+  });
+
+  if (best && bestScore > 0) {
+    return best.length > 55 ? best.slice(0, 55) + '…' : best;
+  }
+  return null;
+}
+
 // ── 結果 ────────────────────────────────────────────────────
 
 function showResult() {
   if (mockTimer) clearInterval(mockTimer);
 
   const total = questions.length;
-  const answered = Object.keys(answers).length;
-  const correct = Object.values(answers).filter((a,i) => a === questions[i].answer).length;
-  const pct = Math.round(correct/total*100);
 
-  // 儲存結果
-  const year = currentYear;
+  // 統計：solved = 答對（無論幾次），otherwise = 未解出
+  const wrongIds = [];
+  let correct = 0;
+  questions.forEach((q, i) => {
+    const state = answers[i];
+    const year = q._year || currentYear;
+    if (state && state.solved) {
+      correct++;
+      Storage.markCorrect(year, q.id);
+    } else {
+      wrongIds.push(i);
+      Storage.markWrong(year, q.id);
+    }
+  });
+
+  const pct = Math.round(correct / total * 100);
+
   Storage.addExamResult({
-    year, mode, score: correct, total,
+    year: currentYear, mode, score: correct, total,
     wrongIds: wrongIds.map(i => questions[i].id)
   });
 
-  // 分數顯示
+  // 分數
   document.getElementById('resultScore').textContent = `${correct} / ${total} (${pct}%)`;
-  const grade = pct >= 80 ? '精熟 ⭐' : pct >= 60 ? '基礎 👍' : '待加強 💪';
-  const gradeCls = pct >= 80 ? 'grade-a' : pct >= 60 ? 'grade-b' : 'grade-c';
   const gradeEl = document.getElementById('resultGrade');
-  gradeEl.textContent = grade;
+  gradeEl.textContent = pct >= 80 ? '精熟 ⭐' : pct >= 60 ? '基礎 👍' : '待加強 💪';
   gradeEl.className = 'result-grade-tag grade-tag-' + (pct >= 80 ? 'a' : pct >= 60 ? 'b' : 'c');
 
   // 弱點分析
-  const singles = questions.filter(q => q.type === 'single');
-  const passages = questions.filter(q => q.type === 'passage');
-  const singleCorrect = singles.filter((_,i) => answers[questions.indexOf(singles[i])] === singles[i]?.answer).length;
-
-  // 簡化計算：遍歷所有答題
   let sCorr = 0, sTotal = 0, pCorr = 0, pTotal = 0;
   questions.forEach((q, i) => {
-    if (q.type === 'single') { sTotal++; if(answers[i]===q.answer) sCorr++; }
-    else { pTotal++; if(answers[i]===q.answer) pCorr++; }
+    const solved = answers[i]?.solved;
+    if (q.type === 'single') { sTotal++; if (solved) sCorr++; }
+    else { pTotal++; if (solved) pCorr++; }
   });
   document.getElementById('analysisGrid').innerHTML = `
     <div class="analysis-row">
       <div class="analysis-label">單題</div>
-      <div class="analysis-track"><div class="analysis-fill" style="width:${sTotal?Math.round(sCorr/sTotal*100):0}%"></div></div>
+      <div class="analysis-track"><div class="analysis-fill" style="width:${sTotal ? Math.round(sCorr/sTotal*100) : 0}%"></div></div>
       <div class="analysis-val">${sCorr}/${sTotal}</div>
     </div>
     <div class="analysis-row">
       <div class="analysis-label">題組</div>
-      <div class="analysis-track"><div class="analysis-fill" style="width:${pTotal?Math.round(pCorr/pTotal*100):0}%"></div></div>
+      <div class="analysis-track"><div class="analysis-fill" style="width:${pTotal ? Math.round(pCorr/pTotal*100) : 0}%"></div></div>
       <div class="analysis-val">${pCorr}/${pTotal}</div>
     </div>`;
 
@@ -272,10 +363,15 @@ function showResult() {
   if (wrongIds.length > 0) {
     document.getElementById('wrongList').innerHTML = wrongIds.map(i => {
       const q = questions[i];
+      const state = answers[i];
+      const triedLetters = state?.tries || [];
       return `<div class="wrong-item">
         <span class="wrong-qnum">第 ${q.id} 題</span>
         <span class="wrong-qtext">${q.question.slice(0,60)}${q.question.length>60?'…':''}</span>
-        <span class="wrong-ans">你選：<strong class="mark-wrong">${answers[i]}</strong> 正確：<strong class="mark-correct">${q.answer}</strong></span>
+        <span class="wrong-ans">
+          你選：<strong class="mark-wrong">${triedLetters.join('、') || '未作答'}</strong>
+          　正確：<strong class="mark-correct">${q.answer}</strong>
+        </span>
       </div>`;
     }).join('');
     document.getElementById('btnRetryWrong').style.display = '';
@@ -289,9 +385,10 @@ function showResult() {
 }
 
 function retryWrong() {
-  const wrongQs = wrongIds.map(i => questions[i]);
+  // 重新練習本次未答對的題目
+  const wrongQs = questions.filter((_, i) => !(answers[i]?.solved));
   questions = wrongQs;
-  answers = {}; wrongIds = []; current = 0;
+  answers = {}; current = 0;
   mode = 'wrong';
   hide('screenResult'); show('screenExam');
   hide('examTimer');
@@ -308,9 +405,9 @@ function exitExam() {
 function show(id) { document.getElementById(id).style.display = ''; }
 function hide(id) { document.getElementById(id).style.display = 'none'; }
 function shuffle(arr) {
-  for (let i=arr.length-1;i>0;i--) {
-    const j=Math.floor(Math.random()*(i+1));
-    [arr[i],arr[j]]=[arr[j],arr[i]];
+  for (let i = arr.length-1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i+1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
   }
 }
 

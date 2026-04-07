@@ -327,11 +327,13 @@ img { max-width: 100%; }
 .option-btn.opt-wrong .option-letter   { color: var(--error); }
 
 .feedback-card {
-  margin-top: 14px; padding: 12px 16px;
+  margin-top: 14px; padding: 14px 18px;
   border-radius: var(--radius-md); font-size: 14px; font-weight: 600;
+  line-height: 1.7;
 }
 .feedback-correct { background: var(--success-bg); color: #2D6B47; border: 1px solid #A8D4B8; }
-.feedback-wrong   { background: var(--error-bg); color: #8B2020; border: 1px solid #E4B0AC; }
+.feedback-wrong   { background: var(--warning-bg); color: #6B4000; border: 1px solid #D4B07A; }
+.feedback-card em { font-style: italic; color: var(--primary-dark); }
 
 .exam-nav { display: flex; justify-content: space-between; align-items: center; margin-top: 16px; }
 
