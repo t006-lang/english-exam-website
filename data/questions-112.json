@@ -325,7 +325,7 @@
       "D": "2:00 pm, August 28."
     },
     "answer": "B",
-    "passageImage": "data/images/112-q24.jpg"
+    "passageImage": ["data/images/112-q24.jpg", "data/images/112-q25.jpg"]
   },
   {
     "id": 26,
