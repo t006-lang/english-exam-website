@@ -185,6 +185,7 @@
   {
     "id": 15,
     "type": "passage",
+    "passageImage": "data/images/110-q15.jpg",
     "passage": "We’ve prepared many wonderful surprises for you at e-BeautiMed, BeautiMed’s\nonline store!\nSurprise 1 ____ Join “BeautiMed Friend” online for free and get 2000\nBeautiMed points!\nSurprise 2 ____ Already a “BeautiMed Friend” ? Come collect your free\ngift by entering your “BeautiMed Friend” card number at\ne-BeautiMed before 8/31.\nSurprise 3 ____ Get 500 BeautiMed points by shopping at e-BeautiMed and\nyou’ll get 500 more points if you spend more than $1,000.\nSurprise 4 ____ Shop at e-BeautiMed during 7/1-8/31 and you may win $5,000\nor free movie tickets!\nSurprise 5 ____ Invite a friend to join “BeautiMed Friend” and you both can\nget 1000 points each!\nenter 輸入",
     "question": "What is this ad for?",
     "options": {
@@ -198,6 +199,7 @@
   {
     "id": 16,
     "type": "passage",
+    "passageImage": "data/images/110-q15.jpg",
     "passage": "We’ve prepared many wonderful surprises for you at e-BeautiMed, BeautiMed’s\nonline store!\nSurprise 1 ____ Join “BeautiMed Friend” online for free and get 2000\nBeautiMed points!\nSurprise 2 ____ Already a “BeautiMed Friend” ? Come collect your free\ngift by entering your “BeautiMed Friend” card number at\ne-BeautiMed before 8/31.\nSurprise 3 ____ Get 500 BeautiMed points by shopping at e-BeautiMed and\nyou’ll get 500 more points if you spend more than $1,000.\nSurprise 4 ____ Shop at e-BeautiMed during 7/1-8/31 and you may win $5,000\nor free movie tickets!\nSurprise 5 ____ Invite a friend to join “BeautiMed Friend” and you both can\nget 1000 points each!\nenter 輸入",
     "question": "What will NOT get you BeautiMed points?",
     "options": {
