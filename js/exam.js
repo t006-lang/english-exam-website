@@ -302,6 +302,21 @@ function prevQ() {
 // ── 提示產生 ────────────────────────────────────────────────
 
 function getHint(q, attemptNum) {
+  // ── 單題：中文提示 ──
+  if (q.type === 'single') {
+    if (attemptNum === 1) {
+      return q.questionZh
+        ? `提示：${q.questionZh}`
+        : '再試一次！仔細重讀題目';
+    }
+    // attemptNum 2 或 3
+    const answerZh = q.optionsZh?.[q.answer];
+    return answerZh
+      ? `正確答案的意思是：<strong>${answerZh}</strong>`
+      : `提示：正確答案是「${q.options[q.answer]}」`;
+  }
+
+  // ── 閱讀題：原本邏輯 ──
   if (attemptNum === 1) {
     const kw = extractKeywords(q.question);
     return kw
@@ -319,7 +334,6 @@ function getHint(q, attemptNum) {
       return `提示：正確選項開頭是「${q.options[q.answer].slice(0, half)}…」`;
     }
   }
-  // attemptNum >= 3：由 renderQ 顯示揭曉訊息，不走這裡
   return '';
 }
 
