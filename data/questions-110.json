@@ -213,6 +213,7 @@
   {
     "id": 17,
     "type": "passage",
+    "passageImage": "data/images/110-q17.jpg",
     "passage": "Joey: Lynn, have you tried Caldron? I’ve heard that restaurant is good.\nLynn: I have. I went there once for Tom’s party.\nJoey: And?\nLynn: Well, I never thought I would have to cook for myself when eating out.\nJoey: But it’s fun to cook your own food.\nLynn: I don’t see any fun in that. Besides, I want nice food.\nJoey: So you didn’t like the food there?\nLynn: Everything tasted the same. I mean, they were all cooked in the same boiling\npot. How could they taste different? I just kept throwing strange things into\nthe pot. I didn’t even know what half the things were made of.\nJoey: Don’t worry. Everything should be safe to eat after a hot bath in the pot.\nAnd you didn’t get sick after that, right? Besides, you tried something\ndifferent there. Still a good experience, I think?\nLynn: I don’t think we share the same idea of good experiences.",
     "question": "Lynn took some photos at Tom’s party. Which is most likely one of them?",
     "options": {
