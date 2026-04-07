@@ -3,6 +3,7 @@
     "id": 1,
     "type": "single",
     "passage": null,
+    "passageImage": "data/images/110-q01.jpg",
     "question": "In the picture, the boy is ____ the old man.",
     "options": {
       "A": "smiling at",
