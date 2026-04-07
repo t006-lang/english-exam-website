@@ -92,17 +92,22 @@
     </div>
     <div class="progress-track"><div class="progress-fill" id="progressBar"></div></div>
 
-    <div id="passageBox" class="passage-card" style="display:none"></div>
-    <div class="question-card">
-      <div class="q-label" id="qNum"></div>
-      <div class="q-text" id="qText"></div>
-      <div class="options-list" id="optionsGrid"></div>
-      <div class="feedback-card" id="feedbackBox" style="display:none"></div>
-    </div>
-
-    <div class="exam-nav">
-      <button class="btn btn-ghost" id="btnPrev" onclick="prevQ()">← 上一題</button>
-      <button class="btn btn-primary" id="btnNext" onclick="nextQ()" style="display:none">下一題 →</button>
+    <div class="exam-body" id="examBody">
+      <div class="exam-passage-col" id="passageCol" style="display:none">
+        <div id="passageBox" class="passage-card"></div>
+      </div>
+      <div class="exam-question-col">
+        <div class="question-card">
+          <div class="q-label" id="qNum"></div>
+          <div class="q-text" id="qText"></div>
+          <div class="options-list" id="optionsGrid"></div>
+          <div class="feedback-card" id="feedbackBox" style="display:none"></div>
+        </div>
+        <div class="exam-nav">
+          <button class="btn btn-ghost" id="btnPrev" onclick="prevQ()">← 上一題</button>
+          <button class="btn btn-primary" id="btnNext" onclick="nextQ()" style="display:none">下一題 →</button>
+        </div>
+      </div>
     </div>
   </div>
 

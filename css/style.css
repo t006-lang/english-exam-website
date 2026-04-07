@@ -292,12 +292,26 @@ img { max-width: 100%; }
 .progress-track { background: var(--border); border-radius: 4px; height: 6px; margin-bottom: 16px; overflow: hidden; }
 .progress-fill  { background: linear-gradient(90deg, var(--primary), var(--accent)); height: 6px; border-radius: 4px; transition: width .4s; }
 
+/* ── Two-column passage layout ── */
+.exam-body { display: flex; flex-direction: column; gap: 14px; }
+.exam-body.two-col { flex-direction: row; align-items: flex-start; gap: 20px; }
+.exam-passage-col {
+  flex: 1 1 50%; min-width: 0;
+  position: sticky; top: 80px;
+  max-height: calc(100vh - 120px); overflow-y: auto;
+}
+.exam-question-col { flex: 1 1 50%; min-width: 0; }
+@media(max-width: 700px) {
+  .exam-body.two-col { flex-direction: column; }
+  .exam-passage-col { position: static; max-height: none; }
+}
+
 .passage-card {
   background: var(--surface-2); border-radius: var(--radius-md);
   border-left: 4px solid var(--accent); padding: 16px 18px;
-  margin-bottom: 14px; font-size: 14px; line-height: 1.9;
-  max-height: 300px; overflow-y: auto; white-space: pre-wrap;
+  font-size: 14px; line-height: 1.9;
   border: 1px solid var(--border); border-left: 4px solid var(--accent);
+  white-space: pre-wrap;
 }
 .passage-img {
   max-width: 100%; border-radius: var(--radius-md);

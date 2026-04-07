@@ -148,6 +148,8 @@ function renderQ() {
 
   // 段落
   const pb = document.getElementById('passageBox');
+  const passageCol = document.getElementById('passageCol');
+  const examBody = document.getElementById('examBody');
   pb.scrollTop = 0;
   if (q.passageImage) {
     const imgs = Array.isArray(q.passageImage) ? q.passageImage : [q.passageImage];
@@ -158,12 +160,15 @@ function renderQ() {
       html += `<div class="passage-text">${q.passage.replace(/\n/g, '<br>')}</div>`;
     }
     pb.innerHTML = html;
-    show('passageBox');
+    passageCol.style.display = '';
+    examBody.classList.add('two-col');
   } else if (q.passage) {
     pb.textContent = q.passage;
-    show('passageBox');
+    passageCol.style.display = '';
+    examBody.classList.add('two-col');
   } else {
-    hide('passageBox');
+    passageCol.style.display = 'none';
+    examBody.classList.remove('two-col');
   }
 
   // 選項
