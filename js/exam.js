@@ -244,7 +244,11 @@ function renderQ() {
     show('feedbackBox');
   } else if (gaveUp) {
     fb.className = 'feedback-card feedback-wrong';
-    fb.innerHTML = `💡 答案揭曉：正確答案是 <strong>${q.answer}</strong>　${q.options[q.answer]}`;
+    if (q.type === 'single' && q.optionsZh?.[q.answer]) {
+      fb.innerHTML = `💡 正確答案 <strong>${q.answer}</strong> 的意思是：<strong>${q.optionsZh[q.answer]}</strong>`;
+    } else {
+      fb.innerHTML = `💡 答案揭曉：正確答案是 <strong>${q.answer}</strong>　${q.options[q.answer]}`;
+    }
     show('feedbackBox');
   } else if (state.tries.length > 0) {
     fb.className = 'feedback-card feedback-wrong';
@@ -305,15 +309,20 @@ function getHint(q, attemptNum) {
   // ── 單題：中文提示 ──
   if (q.type === 'single') {
     if (attemptNum === 1) {
+      // 第一次答錯：題目中文翻譯
       return q.questionZh
-        ? `提示：${q.questionZh}`
+        ? `💡 題目翻譯：${q.questionZh}`
         : '再試一次！仔細重讀題目';
     }
-    // attemptNum 2 或 3
-    const answerZh = q.optionsZh?.[q.answer];
-    return answerZh
-      ? `正確答案的意思是：<strong>${answerZh}</strong>`
-      : `提示：正確答案是「${q.options[q.answer]}」`;
+    // 第二次答錯：四個選項的中文翻譯
+    if (q.optionsZh) {
+      const rows = ['A','B','C','D']
+        .filter(l => q.options[l] && q.optionsZh[l])
+        .map(l => `<span class="hint-opt"><strong>${l}</strong>　${q.optionsZh[l]}</span>`)
+        .join('');
+      return `💡 選項中文翻譯：<div class="hint-opts-grid">${rows}</div>`;
+    }
+    return '再試一次！注意每個選項的意思';
   }
 
   // ── 閱讀題：原本邏輯 ──

@@ -379,6 +379,10 @@ img { max-width: 100%; }
 .feedback-wrong   { background: var(--warning-bg); color: #6B4000; border: 1px solid #D4B07A; }
 .feedback-card em { font-style: italic; color: var(--primary-dark); }
 
+.hint-opts-grid { display: flex; flex-direction: column; gap: 4px; margin-top: 8px; font-weight: 400; }
+.hint-opt { display: flex; align-items: baseline; gap: 6px; font-size: 13px; }
+.hint-opt strong { min-width: 16px; font-weight: 700; }
+
 .exam-nav { display: flex; justify-content: space-between; align-items: center; margin-top: 16px; }
 
 /* ── Result page ── */

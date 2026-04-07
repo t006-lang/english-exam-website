@@ -11,7 +11,14 @@
       "C": "plates",
       "D": "strawberries"
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "看圖片。這位女士正在把___放在蛋糕上。",
+    "optionsZh": {
+      "A": "蠟燭",
+      "B": "叉子",
+      "C": "盤子",
+      "D": "草莓"
+    }
   },
   {
     "id": 2,
@@ -24,7 +31,14 @@
       "C": "if",
       "D": "because"
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "電影兩點開始，___我們一點四十五分在電影院碰面吧。",
+    "optionsZh": {
+      "A": "所以",
+      "B": "或是",
+      "C": "如果",
+      "D": "因為"
+    }
   },
   {
     "id": 3,
@@ -37,7 +51,14 @@
       "C": "lights",
       "D": "music"
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "Peter怕黑。他甚至睡覺時都把___開著。",
+    "optionsZh": {
+      "A": "電腦",
+      "B": "電扇",
+      "C": "燈",
+      "D": "音樂"
+    }
   },
   {
     "id": 4,
@@ -50,7 +71,14 @@
       "C": "popular",
       "D": "rich"
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "Pam是一位___棒球球員；她的球迷比隊上任何其他球員都多。",
+    "optionsZh": {
+      "A": "無趣的",
+      "B": "體重重的",
+      "C": "受歡迎的",
+      "D": "富有的"
+    }
   },
   {
     "id": 5,
@@ -63,7 +91,14 @@
       "C": "hoped to",
       "D": "used to"
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "我沒做功課，所以老師說我___放學後留下來完成它。",
+    "optionsZh": {
+      "A": "未能",
+      "B": "必須",
+      "C": "希望能",
+      "D": "以前習慣"
+    }
   },
   {
     "id": 6,
@@ -76,7 +111,14 @@
       "C": "rule",
       "D": "trick"
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "Kevin的錢只夠買包包或鞋子其中一個。因為他兩個都喜歡，這是個難以做出的___。",
+    "optionsZh": {
+      "A": "選擇",
+      "B": "禮物",
+      "C": "規定",
+      "D": "把戲"
+    }
   },
   {
     "id": 7,
@@ -89,7 +131,14 @@
       "C": "safe",
       "D": "special"
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "對我們來說，回答那道數學題很___，因為我們已經做過很多次同類型的題目了。",
+    "optionsZh": {
+      "A": "普通的",
+      "B": "容易的",
+      "C": "安全的",
+      "D": "特別的"
+    }
   },
   {
     "id": 8,
@@ -102,7 +151,14 @@
       "C": "preparing",
       "D": "prepared"
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "雖然為十個人___一頓豐盛的晚餐花了我很多時間，但我很高興大家都喜歡。",
+    "optionsZh": {
+      "A": "準備（原形）",
+      "B": "準備（不定詞）",
+      "C": "準備（動名詞）",
+      "D": "準備（過去分詞）"
+    }
   },
   {
     "id": 9,
@@ -115,7 +171,14 @@
       "C": "long",
       "D": "thick"
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "別讓孩子在河裡游泳。我們不知道它有___深。可能很危險。",
+    "optionsZh": {
+      "A": "多深",
+      "B": "多遠",
+      "C": "多長",
+      "D": "多厚"
+    }
   },
   {
     "id": 10,
@@ -128,7 +191,14 @@
       "C": "the lazier",
       "D": "the laziest"
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "Bob是家裡男孩中___的。他從不做任何家事。他的兄弟們至少偶爾會倒垃圾。",
+    "optionsZh": {
+      "A": "更懶（比較級）",
+      "B": "那個懶的（語法錯誤）",
+      "C": "那個更懶的（語法錯誤）",
+      "D": "最懶的（最高級）"
+    }
   },
   {
     "id": 11,
@@ -141,7 +211,14 @@
       "C": "knows",
       "D": "was going to know"
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "Gina阿姨在這個小鎮住了超過六十年，所以她___非常了解這裡。",
+    "optionsZh": {
+      "A": "將會知道",
+      "B": "知道（過去式）",
+      "C": "知道（現在式）",
+      "D": "打算知道"
+    }
   },
   {
     "id": 12,
@@ -154,7 +231,14 @@
       "C": "move",
       "D": "stop"
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "Ed和Jill這個週末要去露營，所以他們必須在星期五前完成作業。",
+    "optionsZh": {
+      "A": "抓住",
+      "B": "跟隨",
+      "C": "移動",
+      "D": "停止"
+    }
   },
   {
     "id": 13,
@@ -167,7 +251,14 @@
       "C": "has gone out",
       "D": "was going out"
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "昨天我下班回到家時，我弟弟___出去吃晚餐，所以他邀請我一起去。",
+    "optionsZh": {
+      "A": "出去（現在式）",
+      "B": "出去了（過去式）",
+      "C": "已出去了",
+      "D": "正要出去"
+    }
   },
   {
     "id": 14,
@@ -180,7 +271,14 @@
       "C": "wise",
       "D": "wrong"
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "你不借Amy錢是___的。她從來不歸還借的東西。",
+    "optionsZh": {
+      "A": "瘋狂的",
+      "B": "樂於助人的",
+      "C": "明智的",
+      "D": "錯誤的"
+    }
   },
   {
     "id": 15,
@@ -193,7 +291,14 @@
       "C": "looks for",
       "D": "was looking for"
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "你找到暑期工作了嗎？Firth先生___一個人在假期照顧他的孩子。也許你可以和他談談。",
+    "optionsZh": {
+      "A": "已在尋找",
+      "B": "正在尋找",
+      "C": "在尋找（現在式）",
+      "D": "在尋找（過去進行式）"
+    }
   },
   {
     "id": 16,
@@ -206,7 +311,14 @@
       "C": "and drive",
       "D": "and drove"
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "David從陽台窗戶往外看，看見一名女子上了他的車___離開。",
+    "optionsZh": {
+      "A": "開走（原形）",
+      "B": "開走（過去式）",
+      "C": "並開走（原形）",
+      "D": "並開走（過去式）"
+    }
   },
   {
     "id": 17,
@@ -219,7 +331,14 @@
       "C": "has taken away",
       "D": "was taken away"
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "警方還未找到那名在超市___的小女孩。他們會繼續竭盡所能地尋找她。",
+    "optionsZh": {
+      "A": "帶走（主動過去式）",
+      "B": "被帶走（過去分詞）",
+      "C": "已被帶走（主動完成式）",
+      "D": "被帶走（被動過去式）"
+    }
   },
   {
     "id": 18,
@@ -232,7 +351,14 @@
       "C": "one",
       "D": "them"
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "前往機場的公車每小時只來一班，而我們剛好錯過了___。我們何不搭計程車？",
+    "optionsZh": {
+      "A": "另一班",
+      "B": "它",
+      "C": "一班",
+      "D": "它們"
+    }
   },
   {
     "id": 19,
@@ -245,7 +371,14 @@
       "C": "has studied",
       "D": "was going to study"
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "Ariel在中文考試前連續一週每晚___，並拿到了很好的成績。",
+    "optionsZh": {
+      "A": "讀了書（過去式）",
+      "B": "讀書（現在式）",
+      "C": "已讀了書",
+      "D": "打算讀書"
+    }
   },
   {
     "id": 20,
@@ -258,7 +391,14 @@
       "C": "To pull a fishing line through the water, often from a boat.",
       "D": "To write something on the Internet to hurt someone or make them angry."
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "Brad在閱讀這篇故事時，看到了「trolling」這個詞，不知道它的意思。他在字典中找到了這個詞的幾個釋義。Brad應該選哪一個？",
+    "optionsZh": {
+      "A": "以歌聲慶祝。",
+      "B": "讓某人或某物旋轉移動。",
+      "C": "通常從船上拖拉釣魚線穿越水中。",
+      "D": "在網路上發表傷害他人或讓人憤怒的內容。"
+    }
   },
   {
     "id": 21,
@@ -286,7 +426,10 @@
       "D": "Another picture of the tea cup."
     },
     "answer": "C",
-    "passageImage": ["data/images/111-q21.png", "data/images/111-q22.png"]
+    "passageImage": [
+      "data/images/111-q21.png",
+      "data/images/111-q22.png"
+    ]
   },
   {
     "id": 23,

@@ -11,7 +11,14 @@
       "C": "bowl",
       "D": "box"
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "看圖片。這個男人手裡捧著一___葡萄。",
+    "optionsZh": {
+      "A": "袋",
+      "B": "籃",
+      "C": "碗",
+      "D": "盒"
+    }
   },
   {
     "id": 2,
@@ -24,7 +31,14 @@
       "C": "shopping",
       "D": "singing"
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "Dennis喜歡在公眾場合___。他為自己美麗的聲音感到驕傲。",
+    "optionsZh": {
+      "A": "跳舞",
+      "B": "畫畫",
+      "C": "購物",
+      "D": "唱歌"
+    }
   },
   {
     "id": 3,
@@ -37,7 +51,14 @@
       "C": "listen",
       "D": "shout"
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "Johnson太太的聽力不太好。如果你需要和她說話，你必須___。",
+    "optionsZh": {
+      "A": "解釋",
+      "B": "趕快",
+      "C": "傾聽",
+      "D": "大喊"
+    }
   },
   {
     "id": 4,
@@ -50,7 +71,14 @@
       "C": "has danced",
       "D": "to dance"
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "人們看著Smith小姐在派對上___時都非常興奮。",
+    "optionsZh": {
+      "A": "跳舞（過去式）",
+      "B": "跳舞（動名詞）",
+      "C": "已跳舞",
+      "D": "跳舞（不定詞）"
+    }
   },
   {
     "id": 5,
@@ -63,7 +91,14 @@
       "C": "shapes",
       "D": "sizes"
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "我試穿了好幾種不同___的這雙鞋，我覺得白色那雙穿起來最好看。",
+    "optionsZh": {
+      "A": "顏色",
+      "B": "價格",
+      "C": "形狀",
+      "D": "尺寸"
+    }
   },
   {
     "id": 6,
@@ -76,7 +111,14 @@
       "C": "has jogged",
       "D": "would jog"
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "Rex今天早上沒感覺到地震。他當時___在公園裡。",
+    "optionsZh": {
+      "A": "慢跑了（過去式）",
+      "B": "正在慢跑",
+      "C": "已慢跑",
+      "D": "會慢跑"
+    }
   },
   {
     "id": 7,
@@ -89,7 +131,14 @@
       "C": "remembering",
       "D": "starting"
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "李先生在同一家店工作了十年；他從未想過要___他的工作。",
+    "optionsZh": {
+      "A": "換掉",
+      "B": "找到",
+      "C": "記住",
+      "D": "開始"
+    }
   },
   {
     "id": 8,
@@ -102,7 +151,14 @@
       "C": "full",
       "D": "wrong"
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "我今天沒有搭公車，因為公車太___了。所有座位都坐滿了，還有很多學生站著。",
+    "optionsZh": {
+      "A": "髒的",
+      "B": "快的",
+      "C": "擠的",
+      "D": "方向錯的"
+    }
   },
   {
     "id": 9,
@@ -115,7 +171,14 @@
       "C": "or",
       "D": "so"
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "烹飪時不要走開，___食物可能會燒焦。",
+    "optionsZh": {
+      "A": "但是",
+      "B": "如果",
+      "C": "否則",
+      "D": "所以"
+    }
   },
   {
     "id": 10,
@@ -128,7 +191,14 @@
       "C": "whether",
       "D": "why"
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "Jerry想知道他___被踢出足球隊，但沒有人給他一個好的理由。",
+    "optionsZh": {
+      "A": "在哪裡",
+      "B": "什麼時候",
+      "C": "是否",
+      "D": "為什麼"
+    }
   },
   {
     "id": 11,
@@ -141,7 +211,14 @@
       "C": "gift",
       "D": "headache"
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "Jenny已經四十歲了，沒有工作，還經常給父母添麻煩。對他們來說，她真的是個___。",
+    "optionsZh": {
+      "A": "女兒",
+      "B": "榜樣",
+      "C": "禮物",
+      "D": "頭疼的事"
+    }
   },
   {
     "id": 12,
@@ -154,7 +231,14 @@
       "C": "are going",
       "D": "have gone"
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "___參加校外教學的學生應該先詢問父母。",
+    "optionsZh": {
+      "A": "去了（過去式）",
+      "B": "打算去（過去進行式）",
+      "C": "打算去（現在進行式）",
+      "D": "已去了"
+    }
   },
   {
     "id": 13,
@@ -167,7 +251,14 @@
       "C": "were bitten",
       "D": "have bitten"
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "哆啦A夢，一隻藍色的日本機器貓，自從他的耳朵___一隻老鼠咬掉後就一直討厭老鼠。",
+    "optionsZh": {
+      "A": "咬了（主動過去式）",
+      "B": "咬（現在式）",
+      "C": "被咬掉（被動式）",
+      "D": "已咬了（主動完成式）"
+    }
   },
   {
     "id": 14,
@@ -180,7 +271,14 @@
       "C": "will be",
       "D": "will have"
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "如果我們在課堂上玩一些有趣的遊戲，學英文___更有樂趣。",
+    "optionsZh": {
+      "A": "有（現在式複數）",
+      "B": "有（第三人稱單數）",
+      "C": "將會有",
+      "D": "將會有（語法錯誤）"
+    }
   },
   {
     "id": 15,
@@ -193,7 +291,14 @@
       "C": "price",
       "D": "service"
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "這家店的___太差了；我發了電子郵件詢問問題後，從未得到任何回覆。",
+    "optionsZh": {
+      "A": "商品",
+      "B": "生意",
+      "C": "價格",
+      "D": "服務"
+    }
   },
   {
     "id": 16,
@@ -206,7 +311,14 @@
       "C": "possible",
       "D": "special"
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "在晴天從這裡要清楚地看到那些島嶼已不容易，在多雲的天氣下就更___了。",
+    "optionsZh": {
+      "A": "困難的",
+      "B": "幸運的",
+      "C": "可能的",
+      "D": "特別的"
+    }
   },
   {
     "id": 17,
@@ -219,7 +331,14 @@
       "C": "finally",
       "D": "still"
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "你還記得我找了好幾個月的那張CD嗎？我___在一家小店找到它了。看，就在這裡！",
+    "optionsZh": {
+      "A": "幾乎",
+      "B": "甚至",
+      "C": "終於",
+      "D": "仍然"
+    }
   },
   {
     "id": 18,
@@ -232,7 +351,14 @@
       "C": "more boring",
       "D": "more convenient"
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "Jane店裡的生意這幾天並不好。而對面街上新開的超市只會讓事情___。",
+    "optionsZh": {
+      "A": "更容易",
+      "B": "更糟",
+      "C": "更無聊",
+      "D": "更方便"
+    }
   },
   {
     "id": 19,
@@ -245,7 +371,14 @@
       "C": "the one she",
       "D": "the one who"
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "Scott不確定他面前的這位年輕女子是否就是___把他從著火的車裡救出來的人。",
+    "optionsZh": {
+      "A": "誰",
+      "B": "那個人",
+      "C": "她那個人（語法錯誤）",
+      "D": "那個把他救出的人"
+    }
   },
   {
     "id": 20,
@@ -258,7 +391,14 @@
       "C": "practiced",
       "D": "would practice"
     },
-    "answer": "C"
+    "answer": "C",
+    "questionZh": "在進入這所高中之前，我___游泳好幾年了。因為繁重的課業，我後來放棄了。",
+    "optionsZh": {
+      "A": "已練習（現在完成式）",
+      "B": "正在練習",
+      "C": "練習了（過去式）",
+      "D": "會練習"
+    }
   },
   {
     "id": 21,
@@ -271,7 +411,14 @@
       "C": "notice",
       "D": "plan"
     },
-    "answer": "A"
+    "answer": "A",
+    "questionZh": "Frank Kane在這部電影中表現太出色了，很多人___他將獲得最佳男主角獎。",
+    "optionsZh": {
+      "A": "預期",
+      "B": "忘記",
+      "C": "注意到",
+      "D": "計劃"
+    }
   },
   {
     "id": 22,
@@ -284,7 +431,14 @@
       "C": "saving",
       "D": "to save"
     },
-    "answer": "B"
+    "answer": "B",
+    "questionZh": "剛上市的新藥___拯救了數千條生命。",
+    "optionsZh": {
+      "A": "並救了（連接詞）",
+      "B": "已拯救了",
+      "C": "拯救著（分詞）",
+      "D": "去拯救（不定詞）"
+    }
   },
   {
     "id": 23,
@@ -297,7 +451,14 @@
       "C": "has come and sat",
       "D": "used to come and sit"
     },
-    "answer": "D"
+    "answer": "D",
+    "questionZh": "現在我常常想起和我的寵物狗Pip共度的那些日子。當我在房間裡讀書時，他___靜靜地坐在我身旁。",
+    "optionsZh": {
+      "A": "會來並坐下（未來習慣）",
+      "B": "來並坐下（現在式）",
+      "C": "已來並坐下",
+      "D": "以前常常來並坐下"
+    }
   },
   {
     "id": 24,
@@ -325,7 +486,10 @@
       "D": "2:00 pm, August 28."
     },
     "answer": "B",
-    "passageImage": ["data/images/112-q24.png", "data/images/112-q25.png"]
+    "passageImage": [
+      "data/images/112-q24.png",
+      "data/images/112-q25.png"
+    ]
   },
   {
     "id": 26,
