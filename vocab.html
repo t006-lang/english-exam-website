@@ -24,10 +24,11 @@
     <button class="vtab" onclick="switchTab('quiz')">測驗</button>
     <button class="vtab" onclick="switchTab('smart')">智慧複習 <span id="reviewBadge" class="badge"></span></button>
     <button class="vtab" onclick="switchTab('stats')">學習統計</button>
+    <a href="https://andyjunyi.github.io/voc-935/" target="_blank" class="vtab vtab-link">🌐 935字彙</a>
   </div>
 
   <!-- 主題分類列 -->
-  <div class="topic-scroll" id="topicFilter">
+  <div class="topic-wrap" id="topicFilter">
     <button class="topic-chip active" onclick="setTopic('')">📚 全部主題</button>
     <button class="topic-chip" onclick="setTopic('People')">👥 人物</button>
     <button class="topic-chip" onclick="setTopic('Personal characteristics')">💡 個人特質</button>
@@ -172,18 +173,6 @@
     </div>
   </div>
 
-  <!-- 推薦資源 -->
-  <div class="recommend-wrap">
-    <div class="recommend-title">🔗 推薦資源</div>
-    <a href="https://andyjunyi.github.io/voc-935/" target="_blank" class="recommend-link">
-      <span class="recommend-logo">🌐</span>
-      <div>
-        <div class="recommend-name">935字彙練習網站</div>
-        <div class="recommend-sub">鄭博仁老師製作 · 含打字練習、句子重組等多元模式</div>
-      </div>
-      <span class="recommend-arr">→</span>
-    </a>
-  </div>
 </main>
 
 <script src="js/storage.js"></script>
