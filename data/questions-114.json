@@ -460,7 +460,7 @@
   {
     "id": 35,
     "type": "passage",
-    "passage": "In the picture is a UK electricity worker in the 1970s.  Pictures like this appeared in\nmany newspapers at the time.  In 1972, electricity workers in the UK asked to be paid more,\nand they decided to stop working until their wish was answered.  The government worried\nthat there wouldn’t be enough electricity for the country if these workers didn’t go to work,\nso it agreed to give them the pay rise.  However, the story didn’t end there.\nA year later, the electricity workers asked for another pay rise.  To get what they\nwanted, they worked shorter hours and acted like they would walk away from their job\nanytime.  But this time, the government decided to fight.  To save electricity, it made new\nrules for people to follow.  For example, each family could turn on the heat in only one\nroom; TV stations had to stop their shows at 10:30 p.m.; businesses could open only three\ndays a week.\nPeople’s lives were greatly changed.  Without enough heat to keep the house warm,\npeople covered themselves in blankets all the time.  Hospitals had to use candles because\nthey couldn’t keep all the lights on.  Factories couldn’t keep their machines working.  Many\npeople lost their jobs.   For months, people were paying the price while the electricity\nworkers were fighting for their wish.  In the end, the government agreed to the second pay\nrise.  This picture shows what many people thought of the electricity workers during the\n“dark” time.\nelectricity 電力 government 政府",
+    "passage": null,
     "question": "What is the reading mainly about?",
     "options": {
       "A": "The tips on using a picture to tell a story.",
@@ -468,12 +468,13 @@
       "C": "The history behind the picture of a UK electricity worker.",
       "D": "The story of a famous UK electricity worker from the 1970s."
     },
-    "answer": "C"
+    "answer": "C",
+    "passageImage": "data/images/114-q35.jpg"
   },
   {
     "id": 36,
     "type": "passage",
-    "passage": "In the picture is a UK electricity worker in the 1970s.  Pictures like this appeared in\nmany newspapers at the time.  In 1972, electricity workers in the UK asked to be paid more,\nand they decided to stop working until their wish was answered.  The government worried\nthat there wouldn’t be enough electricity for the country if these workers didn’t go to work,\nso it agreed to give them the pay rise.  However, the story didn’t end there.\nA year later, the electricity workers asked for another pay rise.  To get what they\nwanted, they worked shorter hours and acted like they would walk away from their job\nanytime.  But this time, the government decided to fight.  To save electricity, it made new\nrules for people to follow.  For example, each family could turn on the heat in only one\nroom; TV stations had to stop their shows at 10:30 p.m.; businesses could open only three\ndays a week.\nPeople’s lives were greatly changed.  Without enough heat to keep the house warm,\npeople covered themselves in blankets all the time.  Hospitals had to use candles because\nthey couldn’t keep all the lights on.  Factories couldn’t keep their machines working.  Many\npeople lost their jobs.   For months, people were paying the price while the electricity\nworkers were fighting for their wish.  In the end, the government agreed to the second pay\nrise.  This picture shows what many people thought of the electricity workers during the\n“dark” time.\nelectricity 電力 government 政府",
+    "passage": null,
     "question": "In the UK in the 1970s, what did people most likely think of the UK electricity workers?",
     "options": {
       "A": "They were not brave enough to fix their problems.",
@@ -481,12 +482,13 @@
       "C": "They were asking too much and did not know when to stop.",
       "D": "They did not care whether their job might hurt people’s health."
     },
-    "answer": "C"
+    "answer": "C",
+    "passageImage": "data/images/114-q35.jpg"
   },
   {
     "id": 37,
     "type": "passage",
-    "passage": "In the picture is a UK electricity worker in the 1970s.  Pictures like this appeared in\nmany newspapers at the time.  In 1972, electricity workers in the UK asked to be paid more,\nand they decided to stop working until their wish was answered.  The government worried\nthat there wouldn’t be enough electricity for the country if these workers didn’t go to work,\nso it agreed to give them the pay rise.  However, the story didn’t end there.\nA year later, the electricity workers asked for another pay rise.  To get what they\nwanted, they worked shorter hours and acted like they would walk away from their job\nanytime.  But this time, the government decided to fight.  To save electricity, it made new\nrules for people to follow.  For example, each family could turn on the heat in only one\nroom; TV stations had to stop their shows at 10:30 p.m.; businesses could open only three\ndays a week.\nPeople’s lives were greatly changed.  Without enough heat to keep the house warm,\npeople covered themselves in blankets all the time.  Hospitals had to use candles because\nthey couldn’t keep all the lights on.  Factories couldn’t keep their machines working.  Many\npeople lost their jobs.   For months, people were paying the price while the electricity\nworkers were fighting for their wish.  In the end, the government agreed to the second pay\nrise.  This picture shows what many people thought of the electricity workers during the\n“dark” time.\nelectricity 電力 government 政府",
+    "passage": null,
     "question": "Why does the writer put the “ ” mark around the word dark in the last sentence?",
     "options": {
       "A": "To say that the “dark” time was actually not dark.",
@@ -494,7 +496,8 @@
       "C": "To mean both the days without lights and the difficult lives people lived.",
       "D": "To show that the government and the electricity workers both lost their fights."
     },
-    "answer": "C"
+    "answer": "C",
+    "passageImage": "data/images/114-q35.jpg"
   },
   {
     "id": 38,
