@@ -370,7 +370,7 @@
   {
     "id": 29,
     "type": "passage",
-    "passage": "Around the year 400, people came to Easter Island.\nSo many trees here!\nIn their free time, they loved\nThey used trees to make fire and ____ making statues with big rocks. With\nbuild houses. Because of the trees, ____ the trees they cut down, they could\npeople had a great life on the island. ____ move the statues around easily.\nTrees were needed and used in every part of their life.\nYears passed, and there were fewer and fewer trees on Easter Island.\nWithout enough trees to keep ____ And I’m hungry.\nwater under the ground, the land ____ I’m thirsty.\nbecame dry, and plants didn’t grow.\n(7) People began to fight for water and food. The statues were moved to fighting\ngrounds to show their power. The last trees were probably cut down at this time.\nThose who cut down ____ Let’s not make Earth, our only home,\nthe last trees surely ____ another Easter Island.\nunderstood how\nimportant trees were\nto them—but still,\nthey did it. When the\nlast trees fell to the\nground, people on the\nisland fell, too.",
+    "passage": null,
     "question": "What do the comics tell us?",
     "options": {
       "A": "Enjoy life while we can.",
@@ -378,12 +378,13 @@
       "C": "Save our planet before it’s too late.",
       "D": "Treat others the way we want to be treated."
     },
-    "answer": "C"
+    "answer": "C",
+    "passageImage": "data/images/114-q29.jpg"
   },
   {
     "id": 30,
     "type": "passage",
-    "passage": "Around the year 400, people came to Easter Island.\nSo many trees here!\nIn their free time, they loved\nThey used trees to make fire and ____ making statues with big rocks. With\nbuild houses. Because of the trees, ____ the trees they cut down, they could\npeople had a great life on the island. ____ move the statues around easily.\nTrees were needed and used in every part of their life.\nYears passed, and there were fewer and fewer trees on Easter Island.\nWithout enough trees to keep ____ And I’m hungry.\nwater under the ground, the land ____ I’m thirsty.\nbecame dry, and plants didn’t grow.\n(7) People began to fight for water and food. The statues were moved to fighting\ngrounds to show their power. The last trees were probably cut down at this time.\nThose who cut down ____ Let’s not make Earth, our only home,\nthe last trees surely ____ another Easter Island.\nunderstood how\nimportant trees were\nto them—but still,\nthey did it. When the\nlast trees fell to the\nground, people on the\nisland fell, too.",
+    "passage": null,
     "question": "What can we learn about the people in the comics?",
     "options": {
       "A": "They made fire before starting a fight.",
@@ -391,12 +392,13 @@
       "C": "They prayed to the statues beside a large fire.",
       "D": "They used statues to show how strong they were."
     },
-    "answer": "D"
+    "answer": "D",
+    "passageImage": "data/images/114-q29.jpg"
   },
   {
     "id": 31,
     "type": "passage",
-    "passage": "Around the year 400, people came to Easter Island.\nSo many trees here!\nIn their free time, they loved\nThey used trees to make fire and ____ making statues with big rocks. With\nbuild houses. Because of the trees, ____ the trees they cut down, they could\npeople had a great life on the island. ____ move the statues around easily.\nTrees were needed and used in every part of their life.\nYears passed, and there were fewer and fewer trees on Easter Island.\nWithout enough trees to keep ____ And I’m hungry.\nwater under the ground, the land ____ I’m thirsty.\nbecame dry, and plants didn’t grow.\n(7) People began to fight for water and food. The statues were moved to fighting\ngrounds to show their power. The last trees were probably cut down at this time.\nThose who cut down ____ Let’s not make Earth, our only home,\nthe last trees surely ____ another Easter Island.\nunderstood how\nimportant trees were\nto them—but still,\nthey did it. When the\nlast trees fell to the\nground, people on the\nisland fell, too.",
+    "passage": null,
     "question": "What does did it in Picture 7 mean?",
     "options": {
       "A": "Fall to the ground.",
@@ -404,7 +406,8 @@
       "C": "Move the statues to fighting grounds.",
       "D": "Understand how important trees were."
     },
-    "answer": "B"
+    "answer": "B",
+    "passageImage": "data/images/114-q29.jpg"
   },
   {
     "id": 32,
