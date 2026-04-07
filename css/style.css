@@ -289,8 +289,26 @@ img { max-width: 100%; }
   .exam-timer { font-size: 14px; }
 }
 
-.progress-track { background: var(--border); border-radius: 4px; height: 6px; margin-bottom: 16px; overflow: hidden; }
+.progress-track { background: var(--border); border-radius: 4px; height: 6px; margin-bottom: 12px; overflow: hidden; }
 .progress-fill  { background: linear-gradient(90deg, var(--primary), var(--accent)); height: 6px; border-radius: 4px; transition: width .4s; }
+
+/* ── Question nav bar ── */
+.q-nav-bar {
+  display: flex; flex-wrap: wrap; gap: 6px;
+  margin-bottom: 14px; padding: 10px 12px;
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+}
+.qnav-btn {
+  width: 32px; height: 32px; border-radius: 6px;
+  border: none; cursor: pointer; font-size: 12px; font-weight: 700;
+  transition: opacity .15s, transform .1s;
+}
+.qnav-btn:hover { opacity: .8; transform: scale(1.1); }
+.qnav-unanswered { background: #D1D5DB; color: #374151; }
+.qnav-correct    { background: #34D399; color: #fff; }
+.qnav-wrong      { background: #F87171; color: #fff; }
+.qnav-active     { outline: 3px solid var(--primary); outline-offset: 2px; }
 
 /* ── Two-column passage layout ── */
 .exam-body { display: flex; flex-direction: column; gap: 14px; }

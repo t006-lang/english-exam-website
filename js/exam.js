@@ -133,6 +133,29 @@ function startMockTimer() {
 
 // ── 渲染題目 ────────────────────────────────────────────────
 
+function renderQNav() {
+  const total = questions.length;
+  const bar = document.getElementById('qNavBar');
+  bar.innerHTML = questions.map((q, i) => {
+    const state = answers[i];
+    let cls = 'qnav-btn';
+    if (!state || state.tries.length === 0) {
+      cls += ' qnav-unanswered';
+    } else if (state.solved && state.tries.length === 1) {
+      cls += ' qnav-correct';
+    } else {
+      cls += ' qnav-wrong';
+    }
+    if (i === current) cls += ' qnav-active';
+    return `<button class="${cls}" onclick="jumpTo(${i})">${q.id}</button>`;
+  }).join('');
+}
+
+function jumpTo(index) {
+  current = index;
+  renderQ();
+}
+
 function renderQ() {
   const q = questions[current];
   if (!q) return;
@@ -145,6 +168,7 @@ function renderQ() {
   document.getElementById('progressBar').style.width = `${(current+1)/total*100}%`;
   document.getElementById('qNum').textContent = `第 ${q.id} 題`;
   document.getElementById('qText').textContent = q.question;
+  renderQNav();
 
   // 段落
   const pb = document.getElementById('passageBox');
