@@ -10,7 +10,8 @@
       "C": "kite",
       "D": "plane"
     },
-    "answer": "D"
+    "answer": "D",
+    "passageImage": "data/images/114-q01.jpg"
   },
   {
     "id": 2,
