@@ -446,17 +446,19 @@ img { max-width: 100%; }
 .vtab:hover:not(.active) { background: var(--bg); }
 .vtab-link { text-decoration: none; flex: 0 0 auto; border-left: 1px solid var(--border); margin-left: 4px; color: var(--primary) !important; font-weight: 700; }
 
-/* Topic wrap - 自動換行，無捲動 */
+/* Topic wrap - grid 等寬排列 */
 .topic-wrap {
-  display: flex; flex-wrap: wrap; gap: 8px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+  gap: 8px;
   padding: 2px 0 10px; margin-bottom: 8px;
 }
 .topic-chip {
   background: var(--surface);
   border: 1px solid var(--border); color: var(--text-2);
-  padding: 6px 16px; border-radius: var(--radius-pill);
+  padding: 8px 4px; border-radius: var(--radius-pill);
   font-size: 12px; font-weight: 700; cursor: pointer; transition: all .15s;
-  white-space: nowrap;
+  white-space: nowrap; text-align: center; width: 100%;
 }
 .topic-chip.active { background: var(--primary); color: #fff; border-color: var(--primary); }
 .topic-chip:hover:not(.active) { border-color: var(--primary-light); background: #EFE8E3; }
