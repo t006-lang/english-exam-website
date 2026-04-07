@@ -129,25 +129,27 @@ async function loadExample(word) {
 
   try {
     const res = await fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${encodeURIComponent(word)}`);
-    if (!res.ok) throw new Error();
+    if (!res.ok) {
+      exampleCache[word] = '';
+      el.innerHTML = '';
+      return;
+    }
     const data = await res.json();
-    // 找第一個有例句的定義
+    // 搜尋所有 meanings 的所有 definitions，取第一個有 example 的
     let example = '';
-    for (const entry of data) {
+    outer: for (const entry of data) {
       for (const meaning of entry.meanings || []) {
         for (const def of meaning.definitions || []) {
-          if (def.example) { example = def.example; break; }
+          if (def.example) { example = def.example; break outer; }
         }
-        if (example) break;
       }
-      if (example) break;
     }
     const html = example
       ? `<div class="fc-example-text">📖 ${example}</div>`
       : '';
     exampleCache[word] = html;
     el.innerHTML = html;
-  } catch {
+  } catch(e) {
     exampleCache[word] = '';
     el.innerHTML = '';
   }
