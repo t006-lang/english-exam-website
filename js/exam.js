@@ -427,13 +427,20 @@ function showResult() {
 
   // 弱點分析
   let sCorr = 0, sTotal = 0, pCorr = 0, pTotal = 0;
+  const skillStats = {};
   questions.forEach((q, i) => {
     const state = answers[i];
     const firstTry = state && state.solved && state.tries.length === 1;
     if (q.type === 'single') { sTotal++; if (firstTry) sCorr++; }
     else { pTotal++; if (firstTry) pCorr++; }
+    if (q.skill) {
+      if (!skillStats[q.skill]) skillStats[q.skill] = { corr: 0, total: 0 };
+      skillStats[q.skill].total++;
+      if (firstTry) skillStats[q.skill].corr++;
+    }
   });
-  document.getElementById('analysisGrid').innerHTML = `
+
+  const typeRows = `
     <div class="analysis-row">
       <div class="analysis-label">單題</div>
       <div class="analysis-track"><div class="analysis-fill" style="width:${sTotal ? Math.round(sCorr/sTotal*100) : 0}%"></div></div>
@@ -444,6 +451,24 @@ function showResult() {
       <div class="analysis-track"><div class="analysis-fill" style="width:${pTotal ? Math.round(pCorr/pTotal*100) : 0}%"></div></div>
       <div class="analysis-val">${pCorr}/${pTotal}</div>
     </div>`;
+
+  const skillOrder = ['字詞理解','語法結構','篇章細節','篇章結構','文意推論','篇章大意'];
+  const skillRows = skillOrder
+    .filter(s => skillStats[s])
+    .map(s => {
+      const { corr, total } = skillStats[s];
+      const pct = Math.round(corr / total * 100);
+      const fillClass = pct >= 70 ? 'analysis-fill-good' : pct >= 40 ? '' : 'analysis-fill-weak';
+      return `<div class="analysis-row">
+        <div class="analysis-label">${s}</div>
+        <div class="analysis-track"><div class="analysis-fill ${fillClass}" style="width:${pct}%"></div></div>
+        <div class="analysis-val">${corr}/${total}</div>
+      </div>`;
+    }).join('');
+
+  document.getElementById('analysisGrid').innerHTML = `
+    <div class="analysis-section-title">題型</div>${typeRows}
+    ${skillRows ? `<div class="analysis-section-title" style="margin-top:14px">分項能力</div>${skillRows}` : ''}`;
 
   // 錯題列表
   document.getElementById('wrongCount2').textContent = `(${wrongIds.length} 題)`;

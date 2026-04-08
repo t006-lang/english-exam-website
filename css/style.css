@@ -419,10 +419,13 @@ img { max-width: 100%; }
   box-shadow: var(--shadow-sm); margin-bottom: 16px;
 }
 .analysis-row { display: flex; align-items: center; gap: 12px; margin-bottom: 10px; }
-.analysis-label { min-width: 44px; font-size: 13px; font-weight: 700; color: var(--text-2); }
+.analysis-label { min-width: 60px; font-size: 13px; font-weight: 700; color: var(--text-2); }
 .analysis-track { flex: 1; background: var(--border); border-radius: 4px; height: 10px; }
-.analysis-fill  { background: linear-gradient(90deg, var(--primary), var(--accent)); height: 10px; border-radius: 4px; }
+.analysis-fill  { background: linear-gradient(90deg, var(--primary), var(--accent)); height: 10px; border-radius: 4px; transition: width .4s ease; }
+.analysis-fill-good { background: linear-gradient(90deg, #3aa76d, #5EC98B); }
+.analysis-fill-weak { background: linear-gradient(90deg, var(--error), #E07070); }
 .analysis-val   { font-size: 13px; color: var(--text-2); min-width: 44px; text-align: right; font-weight: 700; }
+.analysis-section-title { font-size: 12px; font-weight: 700; color: var(--text-3); text-transform: uppercase; letter-spacing: .5px; margin-bottom: 8px; }
 
 .wrong-item {
   display: flex; flex-wrap: wrap; align-items: baseline; gap: 8px;
