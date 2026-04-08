@@ -164,11 +164,21 @@ function markStatus(status) {
 
 // ── 測驗 ────────────────────────────────────────────────────
 
+function canBlank(w) {
+  if (!w.example) return false;
+  const escaped = w.word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const hasSpecialPunct = /[./]/.test(w.word);
+  const pattern = hasSpecialPunct
+    ? new RegExp(escaped, 'i')
+    : new RegExp(`\\b${escaped}\\b`, 'i');
+  return pattern.test(w.example);
+}
+
 function startQuiz() {
   const base = filteredWords.length >= 4 ? filteredWords : allWords;
-  // 優先有例句的單字
-  const pool = base.filter(w => w.example).length >= 4
-    ? base.filter(w => w.example)
+  // 只使用能正確插入空格的單字
+  const pool = base.filter(canBlank).length >= 4
+    ? base.filter(canBlank)
     : base;
   const shuffled = [...pool].sort(() => Math.random()-0.5);
   quizWords = shuffled.slice(0, QUIZ_SIZE);
@@ -185,10 +195,14 @@ function renderQuizQ() {
   const w = quizWords[quizIndex];
 
   // 例句中的目標單字換成空格
+  // 對含標點的特殊詞（a.m. / p.m. / Mr. / Mrs. / Ms. / a/an）用字面比對
   const blank = '______';
-  const sentence = w.example
-    ? w.example.replace(new RegExp(`\\b${w.word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'gi'), blank)
-    : blank;
+  const escaped = w.word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const hasSpecialPunct = /[./]/.test(w.word);
+  const pattern = hasSpecialPunct
+    ? new RegExp(escaped, 'gi')
+    : new RegExp(`\\b${escaped}\\b`, 'gi');
+  const sentence = w.example ? w.example.replace(pattern, blank) : blank;
   document.getElementById('quizWord').textContent = sentence;
 
   // 4個選項：1正確英文單字 + 3隨機英文單字
