@@ -27,7 +27,8 @@
     "word": "a.m.",
     "pos": "abbr.",
     "chinese": "上午",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "School starts at 7:30 a.m. every day."
   },
   {
     "word": "able",
@@ -51,7 +52,8 @@
     "word": "abroad",
     "pos": "adv.",
     "chinese": "在國外",
-    "topic": "Transportation & Travel"
+    "topic": "Transportation & Travel",
+    "example": "She studied abroad in the UK for a year."
   },
   {
     "word": "across",
@@ -107,7 +109,8 @@
     "word": "afternoon",
     "pos": "n.",
     "chinese": "下午",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "We played basketball in the afternoon."
   },
   {
     "word": "again",
@@ -119,13 +122,15 @@
     "word": "age",
     "pos": "n.",
     "chinese": "年齡；時代",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "She started learning English at the age of five."
   },
   {
     "word": "ago",
     "pos": "adv.",
     "chinese": "…以前",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "We moved to this city three years ago."
   },
   {
     "word": "agree",
@@ -150,7 +155,8 @@
     "word": "airplane",
     "pos": "n.",
     "chinese": "飛機",
-    "topic": "Transportation & Travel"
+    "topic": "Transportation & Travel",
+    "example": "We took an airplane to Japan for our vacation."
   },
   {
     "word": "airport",
@@ -278,7 +284,8 @@
     "word": "apartment",
     "pos": "n.",
     "chinese": "公寓",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "My family lives in a small apartment near the school."
   },
   {
     "word": "appear",
@@ -297,7 +304,8 @@
     "word": "April",
     "pos": "n.",
     "chinese": "四月",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "April is when the school year starts in Taiwan."
   },
   {
     "word": "area",
@@ -322,7 +330,8 @@
     "word": "arrive",
     "pos": "v.",
     "chinese": "到達",
-    "topic": "Transportation & Travel"
+    "topic": "Transportation & Travel",
+    "example": "The train will arrive at the station at noon."
   },
   {
     "word": "art",
@@ -359,7 +368,8 @@
     "word": "August",
     "pos": "n.",
     "chinese": "八月",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "It is very hot in August in Taiwan."
   },
   {
     "word": "aunt",
@@ -372,7 +382,8 @@
     "word": "autumn",
     "pos": "n.",
     "chinese": "秋天",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "The leaves turn red and yellow in autumn."
   },
   {
     "word": "away",
@@ -430,7 +441,8 @@
     "word": "balcony",
     "pos": "n.",
     "chinese": "陽台",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "She waters her plants on the balcony every morning."
   },
   {
     "word": "banana",
@@ -488,7 +500,8 @@
     "word": "bathroom",
     "pos": "n.",
     "chinese": "浴室",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "There is only one bathroom in our house."
   },
   {
     "word": "be",
@@ -539,13 +552,15 @@
     "word": "bed",
     "pos": "n.",
     "chinese": "床",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "He made his bed right after waking up."
   },
   {
     "word": "bedroom",
     "pos": "n.",
     "chinese": "臥室",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "She decorated her bedroom with posters of her favorite band."
   },
   {
     "word": "bee",
@@ -614,7 +629,8 @@
     "word": "bench",
     "pos": "n.",
     "chinese": "長椅",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "We sat on a bench and fed the ducks."
   },
   {
     "word": "beside",
@@ -632,7 +648,8 @@
     "word": "bicycle",
     "pos": "n.",
     "chinese": "腳踏車",
-    "topic": "Transportation & Travel"
+    "topic": "Transportation & Travel",
+    "example": "He rides his bicycle to school every day."
   },
   {
     "word": "big",
@@ -651,7 +668,8 @@
     "word": "birthday",
     "pos": "n.",
     "chinese": "生日",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "She got a new bike for her birthday."
   },
   {
     "word": "bite",
@@ -712,7 +730,8 @@
     "word": "boat",
     "pos": "n.",
     "chinese": "船",
-    "topic": "Transportation & Travel"
+    "topic": "Transportation & Travel",
+    "example": "We took a boat ride on the river."
   },
   {
     "word": "body",
@@ -799,7 +818,8 @@
     "word": "bowl",
     "pos": "n.",
     "chinese": "碗",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "She ate a bowl of noodles for lunch."
   },
   {
     "word": "box",
@@ -845,7 +865,8 @@
     "word": "bridge",
     "pos": "n.",
     "chinese": "橋",
-    "topic": "Transportation & Travel"
+    "topic": "Transportation & Travel",
+    "example": "They walked across the bridge to get to the other side."
   },
   {
     "word": "bright",
@@ -907,7 +928,8 @@
     "word": "bus",
     "pos": "n.",
     "chinese": "公車",
-    "topic": "Transportation & Travel"
+    "topic": "Transportation & Travel",
+    "example": "She takes the bus to school every morning."
   },
   {
     "word": "business",
@@ -984,7 +1006,8 @@
     "word": "camera",
     "pos": "n.",
     "chinese": "相機",
-    "topic": "Communication & Technology"
+    "topic": "Communication & Technology",
+    "example": "She bought a new camera to take photos on the trip."
   },
   {
     "word": "camp",
@@ -1023,7 +1046,8 @@
     "word": "car",
     "pos": "n.",
     "chinese": "汽車",
-    "topic": "Transportation & Travel"
+    "topic": "Transportation & Travel",
+    "example": "Dad drives us to school when it rains."
   },
   {
     "word": "card",
@@ -1085,13 +1109,15 @@
     "word": "cellphone",
     "pos": "n.",
     "chinese": "手機",
-    "topic": "Communication & Technology"
+    "topic": "Communication & Technology",
+    "example": "He uses his cellphone to listen to music on the bus."
   },
   {
     "word": "cent",
     "pos": "n.",
     "chinese": "分（貨幣）",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "The candy costs fifty cents each."
   },
   {
     "word": "center",
@@ -1103,13 +1129,15 @@
     "word": "centimeter",
     "pos": "n.",
     "chinese": "公分",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "The pencil is fifteen centimeters long."
   },
   {
     "word": "chair",
     "pos": "n.",
     "chinese": "椅子",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "He pulled up a chair and sat next to his friend."
   },
   {
     "word": "chalk",
@@ -1217,7 +1245,8 @@
     "word": "Christmas",
     "pos": "n.",
     "chinese": "聖誕節",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "We exchange gifts with family on Christmas morning."
   },
   {
     "word": "church",
@@ -1293,7 +1322,8 @@
     "word": "clock",
     "pos": "n.",
     "chinese": "時鐘",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "The clock on the wall says it's three o'clock."
   },
   {
     "word": "close",
@@ -1366,7 +1396,8 @@
     "word": "comb",
     "pos": "n./v.",
     "chinese": "梳子；梳頭",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "He combed his hair before the school photo."
   },
   {
     "word": "come",
@@ -1396,7 +1427,8 @@
     "word": "computer",
     "pos": "n.",
     "chinese": "電腦",
-    "topic": "Communication & Technology"
+    "topic": "Communication & Technology",
+    "example": "She uses the computer to do research for her project."
   },
   {
     "word": "convenient",
@@ -1453,7 +1485,8 @@
     "word": "couch",
     "pos": "n.",
     "chinese": "沙發",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "The family sat on the couch and watched a movie together."
   },
   {
     "word": "count",
@@ -1516,7 +1549,8 @@
     "word": "cup",
     "pos": "n.",
     "chinese": "杯子",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "She poured hot tea into her favorite cup."
   },
   {
     "word": "cut",
@@ -1553,7 +1587,8 @@
     "word": "date",
     "pos": "n.",
     "chinese": "日期；約會",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "What is the date of the school sports day?"
   },
   {
     "word": "daughter",
@@ -1566,7 +1601,8 @@
     "word": "day",
     "pos": "n.",
     "chinese": "天；白天",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "She practices piano for an hour every day."
   },
   {
     "word": "dead",
@@ -1596,7 +1632,8 @@
     "word": "December",
     "pos": "n.",
     "chinese": "十二月",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "December is the last month of the year."
   },
   {
     "word": "decide",
@@ -1640,7 +1677,8 @@
     "word": "desk",
     "pos": "n.",
     "chinese": "書桌",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "He does his homework at his desk every evening."
   },
   {
     "word": "dictionary",
@@ -1677,7 +1715,8 @@
     "word": "dining room",
     "pos": "n.",
     "chinese": "餐廳",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "Our family eats dinner together in the dining room."
   },
   {
     "word": "dinner",
@@ -1735,7 +1774,8 @@
     "word": "door",
     "pos": "n.",
     "chinese": "門",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "Please knock on the door before entering."
   },
   {
     "word": "dot",
@@ -1753,13 +1793,15 @@
     "word": "download",
     "pos": "v./n.",
     "chinese": "下載",
-    "topic": "Communication & Technology"
+    "topic": "Communication & Technology",
+    "example": "He downloaded the app on his phone for free."
   },
   {
     "word": "dozen",
     "pos": "n.",
     "chinese": "一打（十二個）",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "Mom bought a dozen eggs at the market."
   },
   {
     "word": "draw",
@@ -1771,7 +1813,8 @@
     "word": "drawer",
     "pos": "n.",
     "chinese": "抽屜",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "She kept her socks in the bottom drawer."
   },
   {
     "word": "dream",
@@ -1878,7 +1921,8 @@
     "word": "Easter",
     "pos": "n.",
     "chinese": "復活節",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "They hunt for Easter eggs in the garden every year."
   },
   {
     "word": "easy",
@@ -1903,19 +1947,22 @@
     "word": "eight",
     "pos": "num.",
     "chinese": "八",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "A spider has eight legs."
   },
   {
     "word": "eighteen",
     "pos": "num.",
     "chinese": "十八",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "In Taiwan, you can vote when you are eighteen years old."
   },
   {
     "word": "eighty",
     "pos": "num.",
     "chinese": "八十",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "My great-grandmother is eighty years old."
   },
   {
     "word": "either",
@@ -1941,7 +1988,8 @@
     "word": "eleven",
     "pos": "num.",
     "chinese": "十一",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "There are eleven players on a soccer team."
   },
   {
     "word": "else",
@@ -1953,7 +2001,8 @@
     "word": "e-mail",
     "pos": "n./v.",
     "chinese": "電子郵件",
-    "topic": "Communication & Technology"
+    "topic": "Communication & Technology",
+    "example": "Please send me an e-mail with the details."
   },
   {
     "word": "end",
@@ -2016,7 +2065,8 @@
     "word": "eve",
     "pos": "n.",
     "chinese": "前夕",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "We stay up late on New Year's Eve to watch the fireworks."
   },
   {
     "word": "even",
@@ -2028,7 +2078,8 @@
     "word": "evening",
     "pos": "n.",
     "chinese": "傍晚；晚上",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "She reads a book every evening before bed."
   },
   {
     "word": "ever",
@@ -2228,7 +2279,8 @@
     "word": "February",
     "pos": "n.",
     "chinese": "二月",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "February is the shortest month of the year."
   },
   {
     "word": "feed",
@@ -2265,13 +2317,15 @@
     "word": "fifteen",
     "pos": "num.",
     "chinese": "十五",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "She walks fifteen minutes to school every day."
   },
   {
     "word": "fifty",
     "pos": "num.",
     "chinese": "五十",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "There are fifty students in our grade."
   },
   {
     "word": "fight",
@@ -2352,7 +2406,8 @@
     "word": "five",
     "pos": "num.",
     "chinese": "五",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "I have five close friends in my class."
   },
   {
     "word": "fix",
@@ -2364,7 +2419,8 @@
     "word": "floor",
     "pos": "n.",
     "chinese": "地板；樓層",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "He dropped his phone and it fell on the floor."
   },
   {
     "word": "flower",
@@ -2434,25 +2490,29 @@
     "word": "fork",
     "pos": "n.",
     "chinese": "叉子",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "She used a fork and knife to eat the steak."
   },
   {
     "word": "forty",
     "pos": "num.",
     "chinese": "四十",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "He can hold his breath for forty seconds."
   },
   {
     "word": "four",
     "pos": "num.",
     "chinese": "四",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "A table usually has four legs."
   },
   {
     "word": "fourteen",
     "pos": "num.",
     "chinese": "十四",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "She started learning guitar when she was fourteen."
   },
   {
     "word": "fox",
@@ -2478,7 +2538,8 @@
     "word": "Friday",
     "pos": "n.",
     "chinese": "星期五",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "Everyone is happy on Friday because the weekend is coming."
   },
   {
     "word": "friend",
@@ -2553,7 +2614,8 @@
     "word": "future",
     "pos": "n./adj.",
     "chinese": "未來",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "She wants to be a doctor in the future."
   },
   {
     "word": "game",
@@ -2635,7 +2697,8 @@
     "word": "glass",
     "pos": "n.",
     "chinese": "玻璃；玻璃杯",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "He poured juice into a glass for his sister."
   },
   {
     "word": "glasses",
@@ -2705,7 +2768,8 @@
     "word": "gram",
     "pos": "n.",
     "chinese": "公克",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "Add two hundred grams of flour to the bowl."
   },
   {
     "word": "grandfather",
@@ -2829,7 +2893,8 @@
     "word": "Halloween",
     "pos": "n.",
     "chinese": "萬聖節",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "Kids dress up in costumes for Halloween."
   },
   {
     "word": "ham",
@@ -3078,7 +3143,8 @@
     "word": "home",
     "pos": "n./adv.",
     "chinese": "家；回家",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "There is no place like home."
   },
   {
     "word": "homework",
@@ -3141,13 +3207,15 @@
     "word": "hour",
     "pos": "n.",
     "chinese": "小時",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "The movie is about two hours long."
   },
   {
     "word": "house",
     "pos": "n.",
     "chinese": "房子",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "Their house has a big garden full of flowers."
   },
   {
     "word": "housewife",
@@ -3172,7 +3240,8 @@
     "word": "hundred",
     "pos": "num.",
     "chinese": "百",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "There are over a hundred books in our classroom library."
   },
   {
     "word": "hungry",
@@ -3252,7 +3321,8 @@
     "word": "inch",
     "pos": "n.",
     "chinese": "英寸",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "The screen is twelve inches wide."
   },
   {
     "word": "insect",
@@ -3289,13 +3359,15 @@
     "word": "Internet",
     "pos": "n.",
     "chinese": "網際網路",
-    "topic": "Communication & Technology"
+    "topic": "Communication & Technology",
+    "example": "We use the Internet to search for information."
   },
   {
     "word": "interview",
     "pos": "n./v.",
     "chinese": "採訪；面試",
-    "topic": "Communication & Technology"
+    "topic": "Communication & Technology",
+    "example": "She prepared well and did great in the job interview."
   },
   {
     "word": "into",
@@ -3339,7 +3411,8 @@
     "word": "January",
     "pos": "n.",
     "chinese": "一月",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "January is the first month of the year."
   },
   {
     "word": "jeans",
@@ -3391,7 +3464,8 @@
     "word": "July",
     "pos": "n.",
     "chinese": "七月",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "We go to the beach every July."
   },
   {
     "word": "jump",
@@ -3403,7 +3477,8 @@
     "word": "June",
     "pos": "n.",
     "chinese": "六月",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "School ends in June and summer vacation begins."
   },
   {
     "word": "junior high school",
@@ -3453,7 +3528,8 @@
     "word": "kilogram",
     "pos": "n.",
     "chinese": "公斤",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "He carries a school bag that weighs three kilograms."
   },
   {
     "word": "kind",
@@ -3478,7 +3554,8 @@
     "word": "kitchen",
     "pos": "n.",
     "chinese": "廚房",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "Mom is cooking something delicious in the kitchen."
   },
   {
     "word": "kite",
@@ -3498,7 +3575,8 @@
     "word": "knife",
     "pos": "n.",
     "chinese": "刀子",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "Be careful when using a knife to cut vegetables."
   },
   {
     "word": "knock",
@@ -3529,7 +3607,8 @@
     "word": "lamp",
     "pos": "n.",
     "chinese": "燈",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "She turned on the lamp to read before sleeping."
   },
   {
     "word": "land",
@@ -3667,7 +3746,8 @@
     "word": "letter",
     "pos": "n.",
     "chinese": "字母；信",
-    "topic": "Communication & Technology"
+    "topic": "Communication & Technology",
+    "example": "She wrote a letter to her pen pal in Australia."
   },
   {
     "word": "level",
@@ -3753,7 +3833,8 @@
     "word": "living room",
     "pos": "n.",
     "chinese": "客廳",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "The whole family gathered in the living room on holidays."
   },
   {
     "word": "lonely",
@@ -3838,7 +3919,8 @@
     "word": "mail",
     "pos": "n./v.",
     "chinese": "郵件；郵寄",
-    "topic": "Communication & Technology"
+    "topic": "Communication & Technology",
+    "example": "He mailed the package to his grandparents."
   },
   {
     "word": "mailman",
@@ -3876,13 +3958,15 @@
     "word": "map",
     "pos": "n.",
     "chinese": "地圖",
-    "topic": "Transportation & Travel"
+    "topic": "Transportation & Travel",
+    "example": "She used a map to find the museum."
   },
   {
     "word": "March",
     "pos": "n.",
     "chinese": "三月",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "The weather gets warmer in March."
   },
   {
     "word": "mark",
@@ -3934,13 +4018,15 @@
     "word": "may",
     "pos": "modal v.",
     "chinese": "可能；可以",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "You may leave the classroom after the bell rings."
   },
   {
     "word": "May",
     "pos": "n.",
     "chinese": "五月",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "There are many holidays in May."
   },
   {
     "word": "maybe",
@@ -4011,7 +4097,8 @@
     "word": "metro",
     "pos": "n.",
     "chinese": "捷運",
-    "topic": "Transportation & Travel"
+    "topic": "Transportation & Travel",
+    "example": "The metro is the fastest way to get around the city."
   },
   {
     "word": "middle",
@@ -4023,7 +4110,8 @@
     "word": "mile",
     "pos": "n.",
     "chinese": "英里",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "She runs one mile every morning before breakfast."
   },
   {
     "word": "milk",
@@ -4036,7 +4124,8 @@
     "word": "million",
     "pos": "num.",
     "chinese": "百萬",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "Over a million people watched the video online."
   },
   {
     "word": "mind",
@@ -4048,7 +4137,8 @@
     "word": "minute",
     "pos": "n.",
     "chinese": "分鐘",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "The bus will arrive in five minutes."
   },
   {
     "word": "Miss",
@@ -4078,13 +4168,15 @@
     "word": "moment",
     "pos": "n.",
     "chinese": "時刻；片刻",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "Wait a moment—I'll be right back."
   },
   {
     "word": "Monday",
     "pos": "n.",
     "chinese": "星期一",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "We have PE class on Monday and Thursday."
   },
   {
     "word": "money",
@@ -4104,7 +4196,8 @@
     "word": "month",
     "pos": "n.",
     "chinese": "月份",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "She visits her grandparents once a month."
   },
   {
     "word": "moon",
@@ -4123,13 +4216,15 @@
     "word": "morning",
     "pos": "n.",
     "chinese": "早上",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "He feels most awake and focused in the morning."
   },
   {
     "word": "mop",
     "pos": "n./v.",
     "chinese": "拖把；拖地",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "He mopped the floor after spilling the juice."
   },
   {
     "word": "most",
@@ -4148,7 +4243,8 @@
     "word": "motorcycle",
     "pos": "n.",
     "chinese": "機車",
-    "topic": "Transportation & Travel"
+    "topic": "Transportation & Travel",
+    "example": "His older brother rides a motorcycle to work."
   },
   {
     "word": "mountain",
@@ -4303,13 +4399,15 @@
     "word": "news",
     "pos": "n.",
     "chinese": "新聞",
-    "topic": "Communication & Technology"
+    "topic": "Communication & Technology",
+    "example": "Dad watches the news every evening after dinner."
   },
   {
     "word": "newspaper",
     "pos": "n.",
     "chinese": "報紙",
-    "topic": "Communication & Technology"
+    "topic": "Communication & Technology",
+    "example": "Grandpa reads the newspaper every morning."
   },
   {
     "word": "next",
@@ -4327,25 +4425,29 @@
     "word": "night",
     "pos": "n.",
     "chinese": "夜晚",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "She always studies at night when the house is quiet."
   },
   {
     "word": "nine",
     "pos": "num.",
     "chinese": "九",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "A cat is said to have nine lives."
   },
   {
     "word": "nineteen",
     "pos": "num.",
     "chinese": "十九",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "She won the competition when she was only nineteen."
   },
   {
     "word": "ninety",
     "pos": "num.",
     "chinese": "九十",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "She got ninety points on the English test."
   },
   {
     "word": "no",
@@ -4382,7 +4484,8 @@
     "word": "noon",
     "pos": "n.",
     "chinese": "中午",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "We eat lunch at noon every day."
   },
   {
     "word": "north",
@@ -4407,13 +4510,15 @@
     "word": "note",
     "pos": "n./v.",
     "chinese": "筆記；注意",
-    "topic": "Communication & Technology"
+    "topic": "Communication & Technology",
+    "example": "She took notes during the class so she wouldn't forget."
   },
   {
     "word": "notebook",
     "pos": "n.",
     "chinese": "筆記本",
-    "topic": "Communication & Technology"
+    "topic": "Communication & Technology",
+    "example": "He filled three notebooks with his drawings."
   },
   {
     "word": "nothing",
@@ -4431,19 +4536,22 @@
     "word": "November",
     "pos": "n.",
     "chinese": "十一月",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "November is usually cool and dry in Taipei."
   },
   {
     "word": "now",
     "pos": "adv.",
     "chinese": "現在",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "If not now, when?"
   },
   {
     "word": "number",
     "pos": "n.",
     "chinese": "數字；號碼",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "What is your phone number?"
   },
   {
     "word": "nurse",
@@ -4462,7 +4570,8 @@
     "word": "October",
     "pos": "n.",
     "chinese": "十月",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "October has one of the most comfortable weather in Taiwan."
   },
   {
     "word": "of",
@@ -4530,7 +4639,8 @@
     "word": "one",
     "pos": "num./pron.",
     "chinese": "一；某人",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "She is the one who always helps others."
   },
   {
     "word": "only",
@@ -4598,7 +4708,8 @@
     "word": "p.m.",
     "pos": "abbr.",
     "chinese": "下午",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "School is over at 5:00 p.m."
   },
   {
     "word": "pack",
@@ -4686,7 +4797,8 @@
     "word": "past",
     "pos": "n./prep./adj.",
     "chinese": "過去",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "In the past, people didn't have smartphones."
   },
   {
     "word": "paste",
@@ -4725,7 +4837,8 @@
     "word": "pen",
     "pos": "n.",
     "chinese": "原子筆",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "Can I borrow a pen to sign this form?"
   },
   {
     "word": "pencil",
@@ -4765,7 +4878,8 @@
     "word": "photo",
     "pos": "n.",
     "chinese": "照片",
-    "topic": "Communication & Technology"
+    "topic": "Communication & Technology",
+    "example": "We took a group photo at the end of the trip."
   },
   {
     "word": "piano",
@@ -4791,7 +4905,8 @@
     "word": "picture",
     "pos": "n.",
     "chinese": "圖片；照片",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "She hung a picture of her family on the wall."
   },
   {
     "word": "pie",
@@ -4868,7 +4983,8 @@
     "word": "plate",
     "pos": "n.",
     "chinese": "盤子",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "He washed all the plates after dinner."
   },
   {
     "word": "play",
@@ -4986,19 +5102,22 @@
     "word": "postcard",
     "pos": "n.",
     "chinese": "明信片",
-    "topic": "Communication & Technology"
+    "topic": "Communication & Technology",
+    "example": "She sent her friend a postcard from Paris."
   },
   {
     "word": "pot",
     "pos": "n.",
     "chinese": "鍋子",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "Mom cooked soup in a big pot."
   },
   {
     "word": "pound",
     "pos": "n.",
     "chinese": "磅",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "He bought two pounds of apples at the market."
   },
   {
     "word": "power",
@@ -5066,7 +5185,8 @@
     "word": "program",
     "pos": "n.",
     "chinese": "節目；程式",
-    "topic": "Communication & Technology"
+    "topic": "Communication & Technology",
+    "example": "He watched a nature program about animals last night."
   },
   {
     "word": "proud",
@@ -5120,7 +5240,8 @@
     "word": "quarter",
     "pos": "n.",
     "chinese": "四分之一",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "She saved a quarter of her allowance every week."
   },
   {
     "word": "queen",
@@ -5178,7 +5299,8 @@
     "word": "radio",
     "pos": "n.",
     "chinese": "收音機",
-    "topic": "Communication & Technology"
+    "topic": "Communication & Technology",
+    "example": "Grandma listens to the radio while cooking."
   },
   {
     "word": "rain",
@@ -5261,7 +5383,8 @@
     "word": "refrigerator",
     "pos": "n.",
     "chinese": "冰箱",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "Put the leftovers in the refrigerator so they stay fresh."
   },
   {
     "word": "relative",
@@ -5286,7 +5409,8 @@
     "word": "report",
     "pos": "n./v.",
     "chinese": "報告",
-    "topic": "Communication & Technology"
+    "topic": "Communication & Technology",
+    "example": "She gave an excellent report about climate change."
   },
   {
     "word": "reporter",
@@ -5361,13 +5485,15 @@
     "word": "road",
     "pos": "n.",
     "chinese": "道路",
-    "topic": "Transportation & Travel"
+    "topic": "Transportation & Travel",
+    "example": "The road was blocked because of the accident."
   },
   {
     "word": "robot",
     "pos": "n.",
     "chinese": "機器人",
-    "topic": "Communication & Technology"
+    "topic": "Communication & Technology",
+    "example": "The robot in the movie could talk and think like a human."
   },
   {
     "word": "rock",
@@ -5386,7 +5512,8 @@
     "word": "room",
     "pos": "n.",
     "chinese": "房間",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "Each child has their own room in their house."
   },
   {
     "word": "root",
@@ -5429,7 +5556,8 @@
     "word": "ruler",
     "pos": "n.",
     "chinese": "尺；統治者",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "Use a ruler to draw a straight line."
   },
   {
     "word": "run",
@@ -5453,7 +5581,8 @@
     "word": "sail",
     "pos": "v./n.",
     "chinese": "航行；帆",
-    "topic": "Transportation & Travel"
+    "topic": "Transportation & Travel",
+    "example": "They sailed around the island for three days."
   },
   {
     "word": "salad",
@@ -5500,7 +5629,8 @@
     "word": "Saturday",
     "pos": "n.",
     "chinese": "星期六",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "She has dance class every Saturday morning."
   },
   {
     "word": "save",
@@ -5537,13 +5667,15 @@
     "word": "scooter",
     "pos": "n.",
     "chinese": "機車；滑板車",
-    "topic": "Transportation & Travel"
+    "topic": "Transportation & Travel",
+    "example": "Many people in Taiwan ride scooters to work."
   },
   {
     "word": "screen",
     "pos": "n.",
     "chinese": "螢幕",
-    "topic": "Communication & Technology"
+    "topic": "Communication & Technology",
+    "example": "Don't look at your screen for too long—rest your eyes."
   },
   {
     "word": "sea",
@@ -5556,7 +5688,8 @@
     "word": "season",
     "pos": "n.",
     "chinese": "季節",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "Autumn is my favorite season because of the cool weather."
   },
   {
     "word": "seat",
@@ -5568,7 +5701,8 @@
     "word": "second",
     "pos": "n./adj.",
     "chinese": "秒；第二",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "She finished the test in record time—under sixty seconds."
   },
   {
     "word": "secretary",
@@ -5631,7 +5765,8 @@
     "word": "September",
     "pos": "n.",
     "chinese": "九月",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "September is the start of the new school year."
   },
   {
     "word": "serious",
@@ -5656,19 +5791,22 @@
     "word": "seven",
     "pos": "num.",
     "chinese": "七",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "There are seven days in a week."
   },
   {
     "word": "seventeen",
     "pos": "num.",
     "chinese": "十七",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "He became a school sports champion at seventeen."
   },
   {
     "word": "seventy",
     "pos": "num.",
     "chinese": "七十",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "Seventy percent of the earth is covered in water."
   },
   {
     "word": "several",
@@ -5723,7 +5861,8 @@
     "word": "ship",
     "pos": "n.",
     "chinese": "船",
-    "topic": "Transportation & Travel"
+    "topic": "Transportation & Travel",
+    "example": "They took a ship from the port to the island."
   },
   {
     "word": "shirt",
@@ -5884,19 +6023,22 @@
     "word": "six",
     "pos": "num.",
     "chinese": "六",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "She practices piano for six hours a week."
   },
   {
     "word": "sixteen",
     "pos": "num.",
     "chinese": "十六",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "She learned to cook when she was sixteen."
   },
   {
     "word": "sixty",
     "pos": "num.",
     "chinese": "六十",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "There are sixty minutes in an hour."
   },
   {
     "word": "size",
@@ -6025,7 +6167,8 @@
     "word": "sofa",
     "pos": "n.",
     "chinese": "沙發",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "The cat always sleeps on the sofa."
   },
   {
     "word": "soldier",
@@ -6158,7 +6301,8 @@
     "word": "spoon",
     "pos": "n.",
     "chinese": "湯匙",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "She used a spoon to stir her coffee."
   },
   {
     "word": "sports",
@@ -6171,7 +6315,8 @@
     "word": "spring",
     "pos": "n.",
     "chinese": "春天；彈簧",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "Flowers bloom everywhere in spring."
   },
   {
     "word": "square",
@@ -6183,7 +6328,8 @@
     "word": "stairs",
     "pos": "n.",
     "chinese": "樓梯",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "He ran up the stairs to answer the phone."
   },
   {
     "word": "stamp",
@@ -6214,7 +6360,8 @@
     "word": "station",
     "pos": "n.",
     "chinese": "車站",
-    "topic": "Transportation & Travel"
+    "topic": "Transportation & Travel",
+    "example": "We met at the train station at eight o'clock."
   },
   {
     "word": "stay",
@@ -6291,7 +6438,8 @@
     "word": "street",
     "pos": "n.",
     "chinese": "街道",
-    "topic": "Transportation & Travel"
+    "topic": "Transportation & Travel",
+    "example": "The main street was full of people during the festival."
   },
   {
     "word": "string",
@@ -6348,7 +6496,8 @@
     "word": "summer",
     "pos": "n.",
     "chinese": "夏天",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "We look forward to summer vacation every year."
   },
   {
     "word": "sun",
@@ -6361,7 +6510,8 @@
     "word": "Sunday",
     "pos": "n.",
     "chinese": "星期日",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "Our family goes hiking together on Sunday."
   },
   {
     "word": "sunny",
@@ -6431,7 +6581,8 @@
     "word": "table",
     "pos": "n.",
     "chinese": "桌子；表格",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "We set the table before dinner."
   },
   {
     "word": "tail",
@@ -6467,7 +6618,8 @@
     "word": "tape",
     "pos": "n.",
     "chinese": "膠帶；錄音帶",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "She used tape to wrap the birthday present."
   },
   {
     "word": "taste",
@@ -6479,7 +6631,8 @@
     "word": "taxi",
     "pos": "n.",
     "chinese": "計程車",
-    "topic": "Transportation & Travel"
+    "topic": "Transportation & Travel",
+    "example": "She took a taxi to the airport because she was late."
   },
   {
     "word": "tea",
@@ -6518,13 +6671,15 @@
     "word": "telephone",
     "pos": "n.",
     "chinese": "電話",
-    "topic": "Communication & Technology"
+    "topic": "Communication & Technology",
+    "example": "She called her mom on the telephone to say goodnight."
   },
   {
     "word": "television",
     "pos": "n.",
     "chinese": "電視",
-    "topic": "Communication & Technology"
+    "topic": "Communication & Technology",
+    "example": "They watched a documentary on television last night."
   },
   {
     "word": "tell",
@@ -6542,7 +6697,8 @@
     "word": "ten",
     "pos": "num.",
     "chinese": "十",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "She scored ten out of ten on the spelling test."
   },
   {
     "word": "tennis",
@@ -6658,13 +6814,15 @@
     "word": "thirteen",
     "pos": "num.",
     "chinese": "十三",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "There are thirteen students in the English club."
   },
   {
     "word": "thirty",
     "pos": "num.",
     "chinese": "三十",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "The bus comes every thirty minutes."
   },
   {
     "word": "this",
@@ -6688,13 +6846,15 @@
     "word": "thousand",
     "pos": "num.",
     "chinese": "千",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "Over two thousand students go to our school."
   },
   {
     "word": "three",
     "pos": "num.",
     "chinese": "三",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "She has three younger brothers."
   },
   {
     "word": "throat",
@@ -6719,13 +6879,15 @@
     "word": "Thursday",
     "pos": "n.",
     "chinese": "星期四",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "The school concert is on Thursday evening."
   },
   {
     "word": "ticket",
     "pos": "n.",
     "chinese": "票",
-    "topic": "Transportation & Travel"
+    "topic": "Transportation & Travel",
+    "example": "He bought two tickets for the concert online."
   },
   {
     "word": "tidy",
@@ -6751,7 +6913,8 @@
     "word": "time",
     "pos": "n.",
     "chinese": "時間；次數",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "She didn't have enough time to finish the test."
   },
   {
     "word": "tip",
@@ -6782,7 +6945,8 @@
     "word": "today",
     "pos": "n./adv.",
     "chinese": "今天",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "What are we having for lunch today?"
   },
   {
     "word": "toe",
@@ -6808,7 +6972,8 @@
     "word": "tomorrow",
     "pos": "n./adv.",
     "chinese": "明天",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "Don't put off until tomorrow what you can do today."
   },
   {
     "word": "tonight",
@@ -6864,7 +7029,8 @@
     "word": "towel",
     "pos": "n.",
     "chinese": "毛巾",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "He dried his hands with a clean towel."
   },
   {
     "word": "town",
@@ -6882,13 +7048,15 @@
     "word": "traffic",
     "pos": "n.",
     "chinese": "交通",
-    "topic": "Transportation & Travel"
+    "topic": "Transportation & Travel",
+    "example": "There was heavy traffic on the highway this morning."
   },
   {
     "word": "train",
     "pos": "n./v.",
     "chinese": "火車；訓練",
-    "topic": "Transportation & Travel"
+    "topic": "Transportation & Travel",
+    "example": "We took a high-speed train from Taipei to Kaohsiung."
   },
   {
     "word": "trash",
@@ -6919,7 +7087,8 @@
     "word": "trip",
     "pos": "n.",
     "chinese": "旅行",
-    "topic": "Transportation & Travel"
+    "topic": "Transportation & Travel",
+    "example": "Our school trip to the science museum was very fun."
   },
   {
     "word": "trouble",
@@ -6931,7 +7100,8 @@
     "word": "truck",
     "pos": "n.",
     "chinese": "卡車",
-    "topic": "Transportation & Travel"
+    "topic": "Transportation & Travel",
+    "example": "A big truck blocked the road for an hour."
   },
   {
     "word": "true",
@@ -6956,7 +7126,8 @@
     "word": "Tuesday",
     "pos": "n.",
     "chinese": "星期二",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "We have an English quiz every Tuesday."
   },
   {
     "word": "turn",
@@ -6975,13 +7146,15 @@
     "word": "twelve",
     "pos": "num.",
     "chinese": "十二",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "There are twelve months in a year."
   },
   {
     "word": "twenty",
     "pos": "num.",
     "chinese": "二十",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "She turned twenty this year and started college."
   },
   {
     "word": "twice",
@@ -6993,7 +7166,8 @@
     "word": "two",
     "pos": "num.",
     "chinese": "二",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "It takes two to tango."
   },
   {
     "word": "type",
@@ -7068,7 +7242,8 @@
     "word": "upload",
     "pos": "v.",
     "chinese": "上傳",
-    "topic": "Communication & Technology"
+    "topic": "Communication & Technology",
+    "example": "He uploaded his project to the school website."
   },
   {
     "word": "USA",
@@ -7118,7 +7293,8 @@
     "word": "video",
     "pos": "n.",
     "chinese": "影片",
-    "topic": "Communication & Technology"
+    "topic": "Communication & Technology",
+    "example": "She made a video about her trip and shared it online."
   },
   {
     "word": "violin",
@@ -7144,7 +7320,8 @@
     "word": "voice",
     "pos": "n.",
     "chinese": "聲音",
-    "topic": "Communication & Technology"
+    "topic": "Communication & Technology",
+    "example": "She has a beautiful voice and loves to sing."
   },
   {
     "word": "wait",
@@ -7182,7 +7359,8 @@
     "word": "wall",
     "pos": "n.",
     "chinese": "牆",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "She painted a mural on the wall of her bedroom."
   },
   {
     "word": "wallet",
@@ -7270,19 +7448,22 @@
     "word": "Wednesday",
     "pos": "n.",
     "chinese": "星期三",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "Wednesday is the middle of the school week."
   },
   {
     "word": "week",
     "pos": "n.",
     "chinese": "週",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "She reads one book every week."
   },
   {
     "word": "weekend",
     "pos": "n.",
     "chinese": "週末",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "He loves spending time with his family on weekends."
   },
   {
     "word": "welcome",
@@ -7404,7 +7585,8 @@
     "word": "window",
     "pos": "n.",
     "chinese": "窗戶",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "She opened the window to let in the fresh air."
   },
   {
     "word": "windy",
@@ -7417,7 +7599,8 @@
     "word": "winter",
     "pos": "n.",
     "chinese": "冬天",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "We drink hot chocolate to stay warm in winter."
   },
   {
     "word": "wise",
@@ -7517,13 +7700,15 @@
     "word": "yard",
     "pos": "n.",
     "chinese": "院子；碼",
-    "topic": "Housing"
+    "topic": "Housing",
+    "example": "The children played in the yard after school."
   },
   {
     "word": "year",
     "pos": "n.",
     "chinese": "年",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "She has studied English for three years."
   },
   {
     "word": "yellow",
@@ -7541,7 +7726,8 @@
     "word": "yesterday",
     "pos": "n./adv.",
     "chinese": "昨天",
-    "topic": "Time & Calendar"
+    "topic": "Time & Calendar",
+    "example": "I forgot my homework yesterday, so I stayed after school."
   },
   {
     "word": "yet",
@@ -7578,7 +7764,8 @@
     "word": "zero",
     "pos": "num./n.",
     "chinese": "零",
-    "topic": "Numbers & Quantities"
+    "topic": "Numbers & Quantities",
+    "example": "The temperature dropped to zero degrees last night."
   },
   {
     "word": "zoo",
