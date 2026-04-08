@@ -169,7 +169,14 @@ function renderQ() {
 
   document.getElementById('examCounter').textContent = `第 ${current+1} / ${total} 題`;
   document.getElementById('progressBar').style.width = `${(current+1)/total*100}%`;
-  document.getElementById('qNum').textContent = `第 ${q.id} 題`;
+
+  // 難易度 + 分項能力
+  const diffMap = { easy: '🟢 易', medium: '🟡 中', hard: '🔴 難' };
+  const diffLabel = q.difficulty ? `<span class="q-diff q-diff-${q.difficulty}">${diffMap[q.difficulty]}</span>` : '';
+  const skillLabel = q.skill ? `<span class="q-skill">${q.skill}</span>` : '';
+  const rateLabel = q.passRate != null ? `<span class="q-rate">全國通過率 ${Math.round(q.passRate * 100)}%</span>` : '';
+  document.getElementById('qNum').innerHTML = `第 ${q.id} 題 ${diffLabel}${skillLabel}${rateLabel}`;
+
   document.getElementById('qText').textContent = q.question;
   renderQNav();
 

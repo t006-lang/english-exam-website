@@ -352,6 +352,14 @@ img { max-width: 100%; }
 .q-label { font-size: 12px; color: var(--text-3); font-weight: 700; text-transform: uppercase; letter-spacing: .5px; margin-bottom: 8px; }
 .q-text  { font-size: 16px; font-weight: 700; color: var(--text-1); margin-bottom: 18px; line-height: 1.7; }
 
+/* 難易度 / 分項能力 標籤 */
+.q-diff  { display: inline-block; font-size: 12px; font-weight: 700; padding: 2px 8px; border-radius: var(--radius-pill); margin-left: 8px; vertical-align: middle; }
+.q-diff-easy   { background: #DFFCE8; color: #2D7A4F; }
+.q-diff-medium { background: #FFF8DC; color: #9A7000; }
+.q-diff-hard   { background: #FCEEED; color: var(--error); }
+.q-skill { display: inline-block; font-size: 12px; color: var(--text-2); background: var(--surface-2); border: 1px solid var(--border); padding: 2px 8px; border-radius: var(--radius-pill); margin-left: 6px; vertical-align: middle; }
+.q-rate  { display: inline-block; font-size: 11px; color: var(--text-3); margin-left: 6px; vertical-align: middle; }
+
 .options-list { display: grid; gap: 10px; }
 .option-btn {
   display: flex; align-items: center; gap: 14px;
