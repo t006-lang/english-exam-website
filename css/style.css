@@ -555,6 +555,24 @@ img { max-width: 100%; }
 .quiz-opt:hover:not(:disabled) { border-color: var(--primary-light); background: #EFE8E3; }
 .quiz-opt.opt-correct { background: var(--success-bg); border-color: var(--success); color: #2D6B47; }
 .quiz-opt.opt-wrong   { background: var(--error-bg);   border-color: var(--error);   color: #8B2020; }
+/* Quiz feedback */
+.quiz-feedback {
+  border-radius: var(--radius-md); padding: 14px 18px;
+  margin-bottom: 14px; border: 1px solid var(--border);
+}
+.quiz-fb-correct { background: var(--success-bg); border-color: var(--success); }
+.quiz-fb-wrong   { background: var(--error-bg);   border-color: var(--error); }
+.quiz-fb-title {
+  font-size: 14px; font-weight: 700; margin-bottom: 6px;
+}
+.quiz-fb-correct .quiz-fb-title { color: #2D6B47; }
+.quiz-fb-wrong   .quiz-fb-title { color: var(--error); }
+.quiz-fb-word { font-weight: 400; color: var(--text-2); }
+.quiz-fb-sentence {
+  font-size: 14px; font-style: italic; color: var(--text-2);
+  line-height: 1.7;
+}
+
 .quiz-result {
   background: var(--surface); border-radius: var(--radius-lg);
   padding: 36px 24px; text-align: center;

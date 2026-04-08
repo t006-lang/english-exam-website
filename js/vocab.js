@@ -210,6 +210,7 @@ function renderQuizQ() {
   const opts = [w, ...others].sort(() => Math.random()-0.5);
 
   document.getElementById('btnNextQuiz').style.display = 'none';
+  document.getElementById('quizFeedback').style.display = 'none';
   document.getElementById('quizOptions').innerHTML = opts.map(o => `
     <button class="quiz-opt" onclick="selectQuizOpt(this,'${o.word}','${w.word}')">${o.word}</button>
   `).join('');
@@ -217,7 +218,8 @@ function renderQuizQ() {
 
 function selectQuizOpt(el, chosen, correct) {
   document.querySelectorAll('.quiz-opt').forEach(b => b.disabled = true);
-  if (chosen === correct) {
+  const isCorrect = chosen === correct;
+  if (isCorrect) {
     el.classList.add('opt-correct');
     quizCorrect++;
     Storage.markCorrect(0, chosen);
@@ -228,6 +230,26 @@ function selectQuizOpt(el, chosen, correct) {
     });
     Storage.markWrong(0, chosen);
   }
+
+  // 顯示回饋
+  const cw = allWords.find(w => w.word === correct);
+  if (cw) {
+    const escaped = cw.word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const hasSpecialPunct = /[./]/.test(cw.word);
+    const pat = hasSpecialPunct ? new RegExp(escaped, 'gi') : new RegExp(`\\b${escaped}\\b`, 'gi');
+    const fullSentence = cw.example
+      ? cw.example.replace(pat, `<strong>${cw.word}</strong>`)
+      : '';
+    const fb = document.getElementById('quizFeedback');
+    fb.className = `quiz-feedback ${isCorrect ? 'quiz-fb-correct' : 'quiz-fb-wrong'}`;
+    fb.innerHTML = `
+      <div class="quiz-fb-title">${isCorrect ? '✓ 答對了！' : '✗ 答錯了！'}
+        <span class="quiz-fb-word"> — <strong>${cw.word}</strong>: (${cw.pos}) ${cw.chinese}</span>
+      </div>
+      ${fullSentence ? `<div class="quiz-fb-sentence">${fullSentence}</div>` : ''}`;
+    fb.style.display = '';
+  }
+
   quizIndex++;
   document.getElementById('quizScore').textContent = quizCorrect;
   document.getElementById('quizTotal').textContent = quizIndex;
@@ -236,6 +258,7 @@ function selectQuizOpt(el, chosen, correct) {
 
 function nextQuizQ() {
   document.getElementById('btnNextQuiz').style.display = 'none';
+  document.getElementById('quizFeedback').style.display = 'none';
   renderQuizQ();
 }
 
