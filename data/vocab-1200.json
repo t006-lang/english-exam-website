@@ -3,25 +3,29 @@
     "word": "a/an",
     "pos": "art.",
     "chinese": "冠詞",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "I have a dog and an umbrella."
   },
   {
     "word": "a few",
     "pos": "phrase",
     "chinese": "幾個",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "I have a few good friends at school."
   },
   {
     "word": "a little",
     "pos": "phrase",
     "chinese": "一點",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Can I have a little more rice, please?"
   },
   {
     "word": "a lot",
     "pos": "phrase",
     "chinese": "很多",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She reads a lot of books every month."
   },
   {
     "word": "a.m.",
@@ -34,13 +38,15 @@
     "word": "able",
     "pos": "adj.",
     "chinese": "能夠的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He was able to solve the problem on his own."
   },
   {
     "word": "about",
     "pos": "prep./adv.",
     "chinese": "關於；大約",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "We talked about our plans for the weekend."
   },
   {
     "word": "above",
@@ -67,13 +73,15 @@
     "word": "act",
     "pos": "v./n.",
     "chinese": "行動；表演",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She acts in the school play every year."
   },
   {
     "word": "action",
     "pos": "n.",
     "chinese": "行動",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The action in the movie was very exciting."
   },
   {
     "word": "actor",
@@ -93,19 +101,22 @@
     "word": "actually",
     "pos": "adv.",
     "chinese": "實際上",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "I actually like vegetables more than meat."
   },
   {
     "word": "afraid",
     "pos": "adj.",
     "chinese": "害怕的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He was afraid of the dark when he was young."
   },
   {
     "word": "after",
     "pos": "prep./conj.",
     "chinese": "在…之後",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "We went to the park after school."
   },
   {
     "word": "afternoon",
@@ -118,7 +129,8 @@
     "word": "again",
     "pos": "adv.",
     "chinese": "再次",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Please say that again—I didn't hear you."
   },
   {
     "word": "age",
@@ -138,7 +150,8 @@
     "word": "agree",
     "pos": "v.",
     "chinese": "同意",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "I agree that we should help each other more."
   },
   {
     "word": "ahead",
@@ -172,43 +185,50 @@
     "word": "all",
     "pos": "adj./pron./adv.",
     "chinese": "全部的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "All students must wear their uniforms to school."
   },
   {
     "word": "allow",
     "pos": "v.",
     "chinese": "允許",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The teacher does not allow phones in class."
   },
   {
     "word": "almost",
     "pos": "adv.",
     "chinese": "幾乎",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "I almost missed the school bus this morning."
   },
   {
     "word": "along",
     "pos": "prep./adv.",
     "chinese": "沿著",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "We walked along the river and enjoyed the view."
   },
   {
     "word": "already",
     "pos": "adv.",
     "chinese": "已經",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She has already finished her homework."
   },
   {
     "word": "also",
     "pos": "adv.",
     "chinese": "也；此外",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He likes basketball and also enjoys swimming."
   },
   {
     "word": "always",
     "pos": "adv.",
     "chinese": "總是",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She always arrives early to class."
   },
   {
     "word": "America",
@@ -221,19 +241,22 @@
     "word": "American",
     "pos": "adj./n.",
     "chinese": "美國的；美國人",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "American movies are popular all over the world."
   },
   {
     "word": "and",
     "pos": "conj.",
     "chinese": "和；而且",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "I like apples and oranges."
   },
   {
     "word": "angle",
     "pos": "n.",
     "chinese": "角度",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The teacher showed us how to measure the angle."
   },
   {
     "word": "angry",
@@ -246,13 +269,15 @@
     "word": "animal",
     "pos": "n.",
     "chinese": "動物",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The dog is the most popular pet animal."
   },
   {
     "word": "another",
     "pos": "adj./pron.",
     "chinese": "另一個",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Can I have another piece of cake?"
   },
   {
     "word": "answer",
@@ -272,19 +297,22 @@
     "word": "any",
     "pos": "adj./pron.",
     "chinese": "任何",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Is there any milk left in the fridge?"
   },
   {
     "word": "anyone",
     "pos": "pron.",
     "chinese": "任何人",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Did anyone see where I put my pencil?"
   },
   {
     "word": "anything",
     "pos": "pron.",
     "chinese": "任何事",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Is there anything I can help you with?"
   },
   {
     "word": "apartment",
@@ -297,7 +325,8 @@
     "word": "appear",
     "pos": "v.",
     "chinese": "出現",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "A rainbow appeared after the rain stopped."
   },
   {
     "word": "apple",
@@ -352,25 +381,29 @@
     "word": "as",
     "pos": "conj./prep.",
     "chinese": "當…時；像…一樣",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She sang as she walked home from school."
   },
   {
     "word": "ask",
     "pos": "v.",
     "chinese": "詢問；要求",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She asked the teacher for help with the problem."
   },
   {
     "word": "at",
     "pos": "prep.",
     "chinese": "在（地點/時間）",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "I will meet you at the school gate at noon."
   },
   {
     "word": "attack",
     "pos": "v./n.",
     "chinese": "攻擊",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "The dog attacked the mailman when he entered the yard."
   },
   {
     "word": "August",
@@ -397,7 +430,8 @@
     "word": "away",
     "pos": "adv.",
     "chinese": "離開；遠離",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Please put your phone away during class."
   },
   {
     "word": "baby",
@@ -438,7 +472,8 @@
     "word": "bake",
     "pos": "v.",
     "chinese": "烤",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She loves to bake cookies on rainy days."
   },
   {
     "word": "bakery",
@@ -465,7 +500,8 @@
     "word": "band",
     "pos": "n.",
     "chinese": "樂團；帶子",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He plays guitar in a school band."
   },
   {
     "word": "bank",
@@ -485,7 +521,8 @@
     "word": "basket",
     "pos": "n.",
     "chinese": "籃子",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She put the fruit in a basket on the table."
   },
   {
     "word": "basketball",
@@ -505,7 +542,8 @@
     "word": "bath",
     "pos": "n.",
     "chinese": "洗澡",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "He takes a bath every night before bed."
   },
   {
     "word": "bathroom",
@@ -518,7 +556,8 @@
     "word": "be",
     "pos": "v.",
     "chinese": "是；在",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She wants to be a doctor when she grows up."
   },
   {
     "word": "beach",
@@ -552,13 +591,15 @@
     "word": "because",
     "pos": "conj.",
     "chinese": "因為",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "I stayed home because I had a cold."
   },
   {
     "word": "become",
     "pos": "v.",
     "chinese": "成為",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She worked hard to become a good student."
   },
   {
     "word": "bed",
@@ -592,13 +633,15 @@
     "word": "before",
     "pos": "prep./conj./adv.",
     "chinese": "在…之前",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Wash your hands before eating."
   },
   {
     "word": "begin",
     "pos": "v.",
     "chinese": "開始",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The concert will begin at seven o'clock."
   },
   {
     "word": "behind",
@@ -611,19 +654,22 @@
     "word": "believe",
     "pos": "v.",
     "chinese": "相信",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "I believe you can do it if you try hard."
   },
   {
     "word": "bell",
     "pos": "n.",
     "chinese": "鈴；鐘",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The bell rang and everyone ran out to the playground."
   },
   {
     "word": "belong",
     "pos": "v.",
     "chinese": "屬於",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "This pencil belongs to me."
   },
   {
     "word": "below",
@@ -671,7 +717,8 @@
     "word": "big",
     "pos": "adj.",
     "chinese": "大的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "They live in a big house near the school."
   },
   {
     "word": "bird",
@@ -691,13 +738,15 @@
     "word": "bite",
     "pos": "v./n.",
     "chinese": "咬",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "He bit into the apple and it was very sweet."
   },
   {
     "word": "black",
     "pos": "adj./n.",
     "chinese": "黑色的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She wore a black jacket to school today."
   },
   {
     "word": "blackboard",
@@ -710,13 +759,15 @@
     "word": "blank",
     "pos": "adj./n.",
     "chinese": "空白的；空格",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Fill in the blank with the correct word."
   },
   {
     "word": "blanket",
     "pos": "n.",
     "chinese": "毯子",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She covered herself with a blanket and fell asleep."
   },
   {
     "word": "blind",
@@ -729,19 +780,22 @@
     "word": "block",
     "pos": "n./v.",
     "chinese": "街區；阻擋",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The school is three blocks from our house."
   },
   {
     "word": "blow",
     "pos": "v.",
     "chinese": "吹",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She blew out all the candles on her birthday cake."
   },
   {
     "word": "blue",
     "pos": "adj./n.",
     "chinese": "藍色的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The sky was bright blue all day."
   },
   {
     "word": "boat",
@@ -761,13 +815,15 @@
     "word": "boil",
     "pos": "v.",
     "chinese": "煮沸",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Mom boiled the water to make soup."
   },
   {
     "word": "book",
     "pos": "n./v.",
     "chinese": "書；預訂",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She reads a book every week."
   },
   {
     "word": "bookstore",
@@ -794,13 +850,15 @@
     "word": "born",
     "pos": "adj.",
     "chinese": "出生的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She was born in Taipei in January."
   },
   {
     "word": "borrow",
     "pos": "v.",
     "chinese": "借（入）",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Can I borrow your eraser for a moment?"
   },
   {
     "word": "boss",
@@ -813,7 +871,8 @@
     "word": "both",
     "pos": "adj./pron.",
     "chinese": "兩者都",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Both of them passed the test with high scores."
   },
   {
     "word": "bottle",
@@ -833,7 +892,8 @@
     "word": "bow",
     "pos": "v./n.",
     "chinese": "鞠躬；弓",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The students bow to greet their teachers."
   },
   {
     "word": "bowl",
@@ -874,7 +934,8 @@
     "word": "break",
     "pos": "v./n.",
     "chinese": "打破；休息",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "He broke his arm during the basketball game."
   },
   {
     "word": "breakfast",
@@ -901,7 +962,8 @@
     "word": "bring",
     "pos": "v.",
     "chinese": "帶來",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Please bring your workbook to class tomorrow."
   },
   {
     "word": "brother",
@@ -914,25 +976,29 @@
     "word": "brown",
     "pos": "adj./n.",
     "chinese": "棕色的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He has brown eyes and short hair."
   },
   {
     "word": "brush",
     "pos": "n./v.",
     "chinese": "刷子；刷",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She brushes her teeth twice a day."
   },
   {
     "word": "bug",
     "pos": "n.",
     "chinese": "蟲子",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "There was a bug crawling on the wall."
   },
   {
     "word": "build",
     "pos": "v.",
     "chinese": "建造",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "The students built a model bridge for the science fair."
   },
   {
     "word": "bun",
@@ -945,7 +1011,8 @@
     "word": "burn",
     "pos": "v.",
     "chinese": "燃燒",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "He burned his hand while cooking."
   },
   {
     "word": "bus",
@@ -979,7 +1046,8 @@
     "word": "but",
     "pos": "conj.",
     "chinese": "但是",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "I wanted to go, but it was raining."
   },
   {
     "word": "butter",
@@ -999,19 +1067,22 @@
     "word": "button",
     "pos": "n.",
     "chinese": "按鈕；鈕扣",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She sewed the button back onto her coat."
   },
   {
     "word": "buy",
     "pos": "v.",
     "chinese": "買",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She saved money for a month to buy a new book."
   },
   {
     "word": "by",
     "pos": "prep.",
     "chinese": "被；靠近；藉由",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The painting was made by a famous artist."
   },
   {
     "word": "cake",
@@ -1024,7 +1095,8 @@
     "word": "call",
     "pos": "v./n.",
     "chinese": "打電話；稱呼",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "He called his mom to say he would be late."
   },
   {
     "word": "camera",
@@ -1044,13 +1116,15 @@
     "word": "can",
     "pos": "modal v./n.",
     "chinese": "能夠；罐頭",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Can you help me with this math problem?"
   },
   {
     "word": "candle",
     "pos": "n.",
     "chinese": "蠟燭",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She lit a candle when the power went out."
   },
   {
     "word": "candy",
@@ -1084,7 +1158,8 @@
     "word": "care",
     "pos": "v./n.",
     "chinese": "在意；照顧",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She cares a lot about her friends."
   },
   {
     "word": "careful",
@@ -1097,19 +1172,22 @@
     "word": "carry",
     "pos": "v.",
     "chinese": "攜帶",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "He carried his younger sister on his back."
   },
   {
     "word": "case",
     "pos": "n.",
     "chinese": "情況；案例",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "In that case, we should leave early."
   },
   {
     "word": "castle",
     "pos": "n.",
     "chinese": "城堡",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "We read a story about a princess living in a castle."
   },
   {
     "word": "cat",
@@ -1122,13 +1200,15 @@
     "word": "catch",
     "pos": "v.",
     "chinese": "抓住",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She caught the ball just before it hit the ground."
   },
   {
     "word": "celebrate",
     "pos": "v.",
     "chinese": "慶祝",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "We celebrated the New Year with fireworks."
   },
   {
     "word": "cellphone",
@@ -1176,13 +1256,15 @@
     "word": "chance",
     "pos": "n.",
     "chinese": "機會",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Everyone gets a chance to answer the question."
   },
   {
     "word": "change",
     "pos": "v./n.",
     "chinese": "改變",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She changed her school bag to a bigger one."
   },
   {
     "word": "cheap",
@@ -1195,19 +1277,22 @@
     "word": "cheat",
     "pos": "v.",
     "chinese": "作弊",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He didn't cheat on the test because he studied hard."
   },
   {
     "word": "check",
     "pos": "v./n.",
     "chinese": "檢查",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Please check your answers before handing in the test."
   },
   {
     "word": "cheer",
     "pos": "v./n.",
     "chinese": "歡呼；加油",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The crowd cheered when the team scored."
   },
   {
     "word": "cheese",
@@ -1241,7 +1326,8 @@
     "word": "Chinese",
     "pos": "adj./n.",
     "chinese": "中文；中國人",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She speaks Chinese and English very well."
   },
   {
     "word": "chocolate",
@@ -1254,19 +1340,22 @@
     "word": "choice",
     "pos": "n.",
     "chinese": "選擇",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She made the right choice by staying to study."
   },
   {
     "word": "choose",
     "pos": "v.",
     "chinese": "選擇",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "It was hard to choose just one book from the library."
   },
   {
     "word": "chopsticks",
     "pos": "n.",
     "chinese": "筷子",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He learned to eat with chopsticks in a month."
   },
   {
     "word": "Christmas",
@@ -1286,7 +1375,8 @@
     "word": "circle",
     "pos": "n.",
     "chinese": "圓形",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Draw a circle around the correct answer."
   },
   {
     "word": "city",
@@ -1299,7 +1389,8 @@
     "word": "clap",
     "pos": "v.",
     "chinese": "拍手",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "The audience clapped loudly after the performance."
   },
   {
     "word": "class",
@@ -1326,7 +1417,8 @@
     "word": "clean",
     "pos": "adj./v.",
     "chinese": "乾淨的；清潔",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "We clean the classroom every Friday afternoon."
   },
   {
     "word": "clear",
@@ -1346,7 +1438,8 @@
     "word": "climb",
     "pos": "v.",
     "chinese": "爬；攀登",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "They climbed to the top of the hill and enjoyed the view."
   },
   {
     "word": "clock",
@@ -1359,7 +1452,8 @@
     "word": "close",
     "pos": "v./adj.",
     "chinese": "關閉；靠近的",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Please close the window—it's getting cold."
   },
   {
     "word": "clothes",
@@ -1414,13 +1508,15 @@
     "word": "collect",
     "pos": "v.",
     "chinese": "收集",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "He collects stamps from different countries."
   },
   {
     "word": "color",
     "pos": "n./v.",
     "chinese": "顏色；著色",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "What is your favorite color?"
   },
   {
     "word": "comb",
@@ -1433,7 +1529,8 @@
     "word": "come",
     "pos": "v.",
     "chinese": "來",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Can you come to my house after school?"
   },
   {
     "word": "comfortable",
@@ -1446,7 +1543,8 @@
     "word": "comic",
     "pos": "n./adj.",
     "chinese": "漫畫；滑稽的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He reads comic books on the weekend."
   },
   {
     "word": "common",
@@ -1473,7 +1571,8 @@
     "word": "cook",
     "pos": "v./n.",
     "chinese": "烹飪；廚師",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She learned to cook by watching her grandmother."
   },
   {
     "word": "cookie",
@@ -1486,7 +1585,8 @@
     "word": "cool",
     "pos": "adj.",
     "chinese": "涼爽的；酷的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The weather was cool and perfect for a walk."
   },
   {
     "word": "copy",
@@ -1527,7 +1627,8 @@
     "word": "count",
     "pos": "v.",
     "chinese": "計數",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "The teacher asked us to count from one to one hundred."
   },
   {
     "word": "country",
@@ -1554,7 +1655,8 @@
     "word": "cover",
     "pos": "v./n.",
     "chinese": "覆蓋；封面",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She covered her face when she saw the scary part."
   },
   {
     "word": "cow",
@@ -1574,13 +1676,15 @@
     "word": "cross",
     "pos": "v./adj.",
     "chinese": "越過；生氣的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Look both ways before you cross the street."
   },
   {
     "word": "cry",
     "pos": "v.",
     "chinese": "哭泣",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "The little boy cried when he lost his toy."
   },
   {
     "word": "cup",
@@ -1593,7 +1697,8 @@
     "word": "cut",
     "pos": "v./n.",
     "chinese": "切",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "He cut the paper into small pieces for the art project."
   },
   {
     "word": "cute",
@@ -1655,19 +1760,22 @@
     "word": "deal",
     "pos": "n./v.",
     "chinese": "交易；處理",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "It's a deal—I'll help you if you help me."
   },
   {
     "word": "dear",
     "pos": "adj.",
     "chinese": "親愛的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Dear Mom, I miss you very much."
   },
   {
     "word": "death",
     "pos": "n.",
     "chinese": "死亡",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The story ended sadly with the hero's death."
   },
   {
     "word": "December",
@@ -1680,7 +1788,8 @@
     "word": "decide",
     "pos": "v.",
     "chinese": "決定",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She decided to join the swimming club."
   },
   {
     "word": "deep",
@@ -1700,7 +1809,8 @@
     "word": "delicious",
     "pos": "adj.",
     "chinese": "美味的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The soup my grandma makes is really delicious."
   },
   {
     "word": "dentist",
@@ -1734,7 +1844,8 @@
     "word": "die",
     "pos": "v.",
     "chinese": "死亡",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The flower died because no one watered it."
   },
   {
     "word": "different",
@@ -1754,7 +1865,8 @@
     "word": "dig",
     "pos": "v.",
     "chinese": "挖掘",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "The dog dug a hole in the garden."
   },
   {
     "word": "dining room",
@@ -1781,13 +1893,15 @@
     "word": "dish",
     "pos": "n.",
     "chinese": "菜餚；盤子",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Mom made three dishes for dinner."
   },
   {
     "word": "do",
     "pos": "v.",
     "chinese": "做",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Do your best on every test."
   },
   {
     "word": "doctor",
@@ -1807,7 +1921,8 @@
     "word": "doll",
     "pos": "n.",
     "chinese": "洋娃娃",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She still has the doll she got when she was five."
   },
   {
     "word": "dollar",
@@ -1827,13 +1942,15 @@
     "word": "dot",
     "pos": "n.",
     "chinese": "點",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Put a dot at the end of the sentence."
   },
   {
     "word": "down",
     "pos": "adv./prep.",
     "chinese": "向下",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The cat jumped down from the table."
   },
   {
     "word": "download",
@@ -1853,7 +1970,8 @@
     "word": "draw",
     "pos": "v.",
     "chinese": "畫",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She draws pictures of animals in her free time."
   },
   {
     "word": "drawer",
@@ -1866,25 +1984,29 @@
     "word": "dream",
     "pos": "n./v.",
     "chinese": "夢；夢想",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She dreams of becoming a singer one day."
   },
   {
     "word": "dress",
     "pos": "n./v.",
     "chinese": "洋裝；穿衣",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She dressed up as a witch for Halloween."
   },
   {
     "word": "drink",
     "pos": "v./n.",
     "chinese": "喝；飲料",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Remember to drink plenty of water every day."
   },
   {
     "word": "drive",
     "pos": "v.",
     "chinese": "開車",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "His dad drives him to soccer practice every weekend."
   },
   {
     "word": "driver",
@@ -1897,19 +2019,22 @@
     "word": "drop",
     "pos": "v./n.",
     "chinese": "掉落；滴",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She dropped her phone and the screen cracked."
   },
   {
     "word": "drum",
     "pos": "n.",
     "chinese": "鼓",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He plays the drum in the school band."
   },
   {
     "word": "dry",
     "pos": "adj./v.",
     "chinese": "乾的",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She dried her hair with a towel after the shower."
   },
   {
     "word": "duck",
@@ -1922,13 +2047,15 @@
     "word": "during",
     "pos": "prep.",
     "chinese": "在…期間",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Please don't talk during the test."
   },
   {
     "word": "each",
     "pos": "adj./pron.",
     "chinese": "每個",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Each student must bring their own pencil."
   },
   {
     "word": "ear",
@@ -1983,7 +2110,8 @@
     "word": "eat",
     "pos": "v.",
     "chinese": "吃",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "We should eat breakfast before going to school."
   },
   {
     "word": "egg",
@@ -2017,7 +2145,8 @@
     "word": "either",
     "pos": "adj./pron./conj.",
     "chinese": "任一；也（不）",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "You can use either a pen or a pencil."
   },
   {
     "word": "elementary school",
@@ -2044,7 +2173,8 @@
     "word": "else",
     "pos": "adj./adv.",
     "chinese": "其他的；否則",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Is there anything else you need?"
   },
   {
     "word": "e-mail",
@@ -2057,7 +2187,8 @@
     "word": "end",
     "pos": "n./v.",
     "chinese": "結束；末端",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The story has a happy ending."
   },
   {
     "word": "engineer",
@@ -2077,25 +2208,29 @@
     "word": "enjoy",
     "pos": "v.",
     "chinese": "享受",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "I enjoy reading books in the evening."
   },
   {
     "word": "enough",
     "pos": "adj./adv.",
     "chinese": "足夠的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Have you had enough to eat?"
   },
   {
     "word": "enter",
     "pos": "v.",
     "chinese": "進入",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Please knock before you enter the room."
   },
   {
     "word": "envelope",
     "pos": "n.",
     "chinese": "信封",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She put the letter in an envelope and mailed it."
   },
   {
     "word": "eraser",
@@ -2108,7 +2243,8 @@
     "word": "error",
     "pos": "n.",
     "chinese": "錯誤",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He found an error in his homework and fixed it."
   },
   {
     "word": "eve",
@@ -2121,7 +2257,8 @@
     "word": "even",
     "pos": "adv./adj.",
     "chinese": "甚至；平的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Even the teacher didn't know the answer."
   },
   {
     "word": "evening",
@@ -2134,25 +2271,29 @@
     "word": "ever",
     "pos": "adv.",
     "chinese": "曾經；永遠",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Have you ever tried making your own food?"
   },
   {
     "word": "every",
     "pos": "adj.",
     "chinese": "每個",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She exercises every day to stay healthy."
   },
   {
     "word": "everyone",
     "pos": "pron.",
     "chinese": "每個人",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Everyone in the class passed the test."
   },
   {
     "word": "everything",
     "pos": "pron.",
     "chinese": "每件事",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She checked everything before leaving the house."
   },
   {
     "word": "example",
@@ -2172,25 +2313,29 @@
     "word": "except",
     "pos": "prep./conj.",
     "chinese": "除了",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Everyone came to the party except Tom."
   },
   {
     "word": "excited",
     "pos": "adj.",
     "chinese": "感到興奮的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He was excited about his first day at new school."
   },
   {
     "word": "exciting",
     "pos": "adj.",
     "chinese": "令人興奮的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The basketball final was really exciting."
   },
   {
     "word": "excuse",
     "pos": "n./v.",
     "chinese": "藉口；原諒",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Excuse me, could you tell me the time?"
   },
   {
     "word": "exercise",
@@ -2203,7 +2348,8 @@
     "word": "expect",
     "pos": "v.",
     "chinese": "期待",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "I expect the test will be quite difficult."
   },
   {
     "word": "expensive",
@@ -2216,13 +2362,15 @@
     "word": "experience",
     "pos": "n./v.",
     "chinese": "經驗；體驗",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Traveling abroad was a great experience for me."
   },
   {
     "word": "explain",
     "pos": "v.",
     "chinese": "解釋",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "The teacher explained the rule twice so everyone understood."
   },
   {
     "word": "eye",
@@ -2242,7 +2390,8 @@
     "word": "fact",
     "pos": "n.",
     "chinese": "事實",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "In fact, she is the best student in our class."
   },
   {
     "word": "factory",
@@ -2255,13 +2404,15 @@
     "word": "fail",
     "pos": "v.",
     "chinese": "失敗",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He didn't want to fail the test, so he studied hard."
   },
   {
     "word": "fall",
     "pos": "v./n.",
     "chinese": "落下；秋天",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Be careful not to fall on the wet floor."
   },
   {
     "word": "family",
@@ -2281,7 +2432,8 @@
     "word": "fan",
     "pos": "n.",
     "chinese": "風扇；粉絲",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She is a big fan of that singer."
   },
   {
     "word": "far",
@@ -2329,7 +2481,8 @@
     "word": "favorite",
     "pos": "adj./n.",
     "chinese": "最喜歡的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "My favorite subject is art."
   },
   {
     "word": "February",
@@ -2342,19 +2495,22 @@
     "word": "feed",
     "pos": "v.",
     "chinese": "餵食",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She feeds her cat every morning and evening."
   },
   {
     "word": "feel",
     "pos": "v.",
     "chinese": "感覺",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "He felt nervous before walking on stage."
   },
   {
     "word": "festival",
     "pos": "n.",
     "chinese": "節日",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The Lantern Festival is my favorite festival."
   },
   {
     "word": "fever",
@@ -2367,7 +2523,8 @@
     "word": "few",
     "pos": "adj./pron.",
     "chinese": "少數的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Only a few students got perfect scores."
   },
   {
     "word": "fifteen",
@@ -2387,31 +2544,36 @@
     "word": "fight",
     "pos": "v./n.",
     "chinese": "打架；戰鬥",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "The two brothers sometimes fight but always make up."
   },
   {
     "word": "file",
     "pos": "n./v.",
     "chinese": "檔案；歸檔",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She saved the file on her computer."
   },
   {
     "word": "fill",
     "pos": "v.",
     "chinese": "填滿",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She filled her water bottle before the hike."
   },
   {
     "word": "finally",
     "pos": "adv.",
     "chinese": "最後；終於",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "After hours of practice, she finally got it right."
   },
   {
     "word": "find",
     "pos": "v.",
     "chinese": "找到；發現",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "I can't find my keys—have you seen them?"
   },
   {
     "word": "fine",
@@ -2431,19 +2593,22 @@
     "word": "finish",
     "pos": "v./n.",
     "chinese": "完成；結束",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "He finished all his homework before dinner."
   },
   {
     "word": "fire",
     "pos": "n./v.",
     "chinese": "火",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The fire in the fireplace kept us warm."
   },
   {
     "word": "first",
     "pos": "adj./adv.",
     "chinese": "第一；首先",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She finished first in the race."
   },
   {
     "word": "fish",
@@ -2470,7 +2635,8 @@
     "word": "fix",
     "pos": "v.",
     "chinese": "修理；固定",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Dad fixed the broken chair in the living room."
   },
   {
     "word": "floor",
@@ -2490,13 +2656,15 @@
     "word": "fly",
     "pos": "v./n.",
     "chinese": "飛；蒼蠅",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "The paper plane flew across the classroom."
   },
   {
     "word": "follow",
     "pos": "v.",
     "chinese": "跟隨；遵循",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Follow the instructions carefully to complete the task."
   },
   {
     "word": "food",
@@ -2523,7 +2691,8 @@
     "word": "for",
     "pos": "prep.",
     "chinese": "為了；對於",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She bought a gift for her teacher."
   },
   {
     "word": "foreign",
@@ -2536,13 +2705,15 @@
     "word": "foreigner",
     "pos": "n.",
     "chinese": "外國人",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "A foreigner asked me for directions in English."
   },
   {
     "word": "forget",
     "pos": "v.",
     "chinese": "忘記",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Don't forget to bring your permission slip tomorrow."
   },
   {
     "word": "fork",
@@ -2604,7 +2775,8 @@
     "word": "friend",
     "pos": "n.",
     "chinese": "朋友",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She is my best friend since first grade."
   },
   {
     "word": "friendly",
@@ -2631,7 +2803,8 @@
     "word": "from",
     "pos": "prep.",
     "chinese": "從；來自",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He comes from a small town in the south."
   },
   {
     "word": "front",
@@ -2651,7 +2824,8 @@
     "word": "fry",
     "pos": "v.",
     "chinese": "油炸",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She fried an egg for breakfast."
   },
   {
     "word": "full",
@@ -2664,7 +2838,8 @@
     "word": "fun",
     "pos": "n./adj.",
     "chinese": "樂趣；有趣的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Learning English can be a lot of fun."
   },
   {
     "word": "funny",
@@ -2691,19 +2866,22 @@
     "word": "garden",
     "pos": "n.",
     "chinese": "花園",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She grows tomatoes in her garden."
   },
   {
     "word": "garbage",
     "pos": "n.",
     "chinese": "垃圾",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Please throw your garbage in the bin."
   },
   {
     "word": "gas",
     "pos": "n.",
     "chinese": "瓦斯；氣體",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Dad stopped to put gas in the car."
   },
   {
     "word": "gate",
@@ -2716,7 +2894,8 @@
     "word": "get",
     "pos": "v.",
     "chinese": "得到；到達",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She gets up at six o'clock every morning."
   },
   {
     "word": "ghost",
@@ -2736,7 +2915,8 @@
     "word": "gift",
     "pos": "n.",
     "chinese": "禮物",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She received a gift from her classmates."
   },
   {
     "word": "girl",
@@ -2749,7 +2929,8 @@
     "word": "give",
     "pos": "v.",
     "chinese": "給",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "He gave his friend a card on her birthday."
   },
   {
     "word": "glad",
@@ -2769,7 +2950,8 @@
     "word": "glasses",
     "pos": "n.",
     "chinese": "眼鏡",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He wears glasses to see the board clearly."
   },
   {
     "word": "glove",
@@ -2782,13 +2964,15 @@
     "word": "glue",
     "pos": "n./v.",
     "chinese": "膠水；黏合",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She used glue to put the pieces together."
   },
   {
     "word": "go",
     "pos": "v.",
     "chinese": "去",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Let's go to the park after school."
   },
   {
     "word": "goat",
@@ -2801,7 +2985,8 @@
     "word": "god",
     "pos": "n.",
     "chinese": "神；上帝",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He thanked god after passing the difficult test."
   },
   {
     "word": "good",
@@ -2814,7 +2999,8 @@
     "word": "good-bye",
     "pos": "interj.",
     "chinese": "再見",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She waved good-bye as the bus drove away."
   },
   {
     "word": "goose",
@@ -2869,7 +3055,8 @@
     "word": "gray",
     "pos": "adj./n.",
     "chinese": "灰色的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The sky was gray and it looked like rain."
   },
   {
     "word": "great",
@@ -2882,7 +3069,8 @@
     "word": "green",
     "pos": "adj./n.",
     "chinese": "綠色的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Green is the color of the school uniform."
   },
   {
     "word": "ground",
@@ -2895,13 +3083,15 @@
     "word": "group",
     "pos": "n.",
     "chinese": "群組；團體",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She worked in a group of four for the project."
   },
   {
     "word": "grow",
     "pos": "v.",
     "chinese": "生長；成長",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She wants to grow up to be a teacher."
   },
   {
     "word": "guava",
@@ -2914,7 +3104,8 @@
     "word": "guess",
     "pos": "v./n.",
     "chinese": "猜測",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Can you guess how old my grandmother is?"
   },
   {
     "word": "guitar",
@@ -2941,7 +3132,8 @@
     "word": "habit",
     "pos": "n.",
     "chinese": "習慣",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Brushing your teeth is a good habit to have."
   },
   {
     "word": "hair",
@@ -2954,7 +3146,8 @@
     "word": "half",
     "pos": "n./adj.",
     "chinese": "一半",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She ate half of the sandwich and saved the rest."
   },
   {
     "word": "Halloween",
@@ -2995,13 +3188,15 @@
     "word": "hang",
     "pos": "v.",
     "chinese": "掛；懸掛",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She hung her jacket on the hook by the door."
   },
   {
     "word": "happen",
     "pos": "v.",
     "chinese": "發生",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "What happened? You look upset."
   },
   {
     "word": "happy",
@@ -3035,19 +3230,22 @@
     "word": "hate",
     "pos": "v.",
     "chinese": "討厭",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "I hate being late for school."
   },
   {
     "word": "have",
     "pos": "v.",
     "chinese": "有；吃",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "We have English class three times a week."
   },
   {
     "word": "he",
     "pos": "pron.",
     "chinese": "他",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He is my older brother."
   },
   {
     "word": "head",
@@ -3081,7 +3279,8 @@
     "word": "hear",
     "pos": "v.",
     "chinese": "聽到",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "I heard a strange noise outside my window."
   },
   {
     "word": "heart",
@@ -3094,7 +3293,8 @@
     "word": "heat",
     "pos": "n./v.",
     "chinese": "熱；加熱",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The heat in summer can reach over thirty degrees."
   },
   {
     "word": "heavy",
@@ -3114,19 +3314,22 @@
     "word": "hello",
     "pos": "interj.",
     "chinese": "你好",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She said hello to her teacher at the door."
   },
   {
     "word": "help",
     "pos": "v./n.",
     "chinese": "幫助",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She always helps her classmates when they are confused."
   },
   {
     "word": "helpful",
     "pos": "adj.",
     "chinese": "有幫助的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "It is helpful to review your notes before a test."
   },
   {
     "word": "hen",
@@ -3139,25 +3342,29 @@
     "word": "here",
     "pos": "adv.",
     "chinese": "這裡",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Please come here and look at this."
   },
   {
     "word": "hey",
     "pos": "interj.",
     "chinese": "嘿",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Hey, wait for me!"
   },
   {
     "word": "hi",
     "pos": "interj.",
     "chinese": "嗨",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Hi! My name is Amy. What's yours?"
   },
   {
     "word": "hide",
     "pos": "v.",
     "chinese": "躲藏；隱藏",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "The cat hid under the bed during the thunderstorm."
   },
   {
     "word": "high",
@@ -3191,7 +3398,8 @@
     "word": "hit",
     "pos": "v./n.",
     "chinese": "打；擊中",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "He hit the ball over the fence."
   },
   {
     "word": "hobby",
@@ -3204,13 +3412,15 @@
     "word": "hold",
     "pos": "v.",
     "chinese": "握住；舉辦",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She held her little brother's hand crossing the street."
   },
   {
     "word": "holiday",
     "pos": "n.",
     "chinese": "假日",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "We went to the seaside during the holiday."
   },
   {
     "word": "home",
@@ -3237,13 +3447,15 @@
     "word": "honey",
     "pos": "n.",
     "chinese": "蜂蜜；親愛的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She put honey in her tea to make it sweet."
   },
   {
     "word": "hope",
     "pos": "v./n.",
     "chinese": "希望",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "I hope you feel better soon."
   },
   {
     "word": "horse",
@@ -3305,13 +3517,15 @@
     "word": "how",
     "pos": "adv.",
     "chinese": "如何；多麼",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "How do you say this word in English?"
   },
   {
     "word": "however",
     "pos": "adv./conj.",
     "chinese": "然而",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The test was hard; however, she passed it."
   },
   {
     "word": "hundred",
@@ -3331,19 +3545,22 @@
     "word": "hunt",
     "pos": "v.",
     "chinese": "打獵；搜尋",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "The fox hunted for food in the early morning."
   },
   {
     "word": "hurry",
     "pos": "v./n.",
     "chinese": "趕快；匆忙",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Hurry up or we'll miss the school bus!"
   },
   {
     "word": "hurt",
     "pos": "v.",
     "chinese": "傷害；疼痛",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "His knee hurt after he fell off the bicycle."
   },
   {
     "word": "husband",
@@ -3356,13 +3573,15 @@
     "word": "I",
     "pos": "pron.",
     "chinese": "我",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "I love learning new things every day."
   },
   {
     "word": "ice",
     "pos": "n.",
     "chinese": "冰",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She put ice in her drink on the hot day."
   },
   {
     "word": "ice cream",
@@ -3375,13 +3594,15 @@
     "word": "idea",
     "pos": "n.",
     "chinese": "想法；點子",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She had a great idea for the class project."
   },
   {
     "word": "if",
     "pos": "conj.",
     "chinese": "如果",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "If it rains, we will stay inside and play games."
   },
   {
     "word": "important",
@@ -3394,7 +3615,8 @@
     "word": "in",
     "pos": "prep.",
     "chinese": "在…裡面",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The books are in the bag on the desk."
   },
   {
     "word": "inch",
@@ -3421,7 +3643,8 @@
     "word": "interest",
     "pos": "n./v.",
     "chinese": "興趣；使感興趣",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She has a strong interest in science."
   },
   {
     "word": "interested",
@@ -3455,13 +3678,15 @@
     "word": "into",
     "pos": "prep.",
     "chinese": "進入",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He put the letter into the envelope."
   },
   {
     "word": "invite",
     "pos": "v.",
     "chinese": "邀請",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She invited all her classmates to her birthday party."
   },
   {
     "word": "island",
@@ -3474,13 +3699,15 @@
     "word": "it",
     "pos": "pron.",
     "chinese": "它",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "It is raining outside, so bring your umbrella."
   },
   {
     "word": "item",
     "pos": "n.",
     "chinese": "項目；物品",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She checked each item on the shopping list."
   },
   {
     "word": "jacket",
@@ -3521,19 +3748,22 @@
     "word": "join",
     "pos": "v.",
     "chinese": "加入",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He joined the basketball club last month."
   },
   {
     "word": "joke",
     "pos": "n./v.",
     "chinese": "笑話；開玩笑",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She told a joke and the whole class laughed."
   },
   {
     "word": "joy",
     "pos": "n.",
     "chinese": "喜悅",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She felt great joy when she won the prize."
   },
   {
     "word": "juice",
@@ -3553,7 +3783,8 @@
     "word": "jump",
     "pos": "v./n.",
     "chinese": "跳",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "The children jumped with joy when school was cancelled."
   },
   {
     "word": "June",
@@ -3573,25 +3804,29 @@
     "word": "just",
     "pos": "adv.",
     "chinese": "剛好；只是",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "I just finished my homework a minute ago."
   },
   {
     "word": "keep",
     "pos": "v.",
     "chinese": "保持；保留",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Keep practicing and you will get better."
   },
   {
     "word": "key",
     "pos": "n.",
     "chinese": "鑰匙；關鍵",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The key to learning is practice every day."
   },
   {
     "word": "kick",
     "pos": "v./n.",
     "chinese": "踢",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "He kicked the ball into the goal and the team cheered."
   },
   {
     "word": "kid",
@@ -3604,7 +3839,8 @@
     "word": "kill",
     "pos": "v.",
     "chinese": "殺死",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "The cold weather killed the plants in the garden."
   },
   {
     "word": "kilogram",
@@ -3631,7 +3867,8 @@
     "word": "kiss",
     "pos": "v./n.",
     "chinese": "親吻",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She kissed her mom on the cheek before leaving for school."
   },
   {
     "word": "kitchen",
@@ -3665,19 +3902,22 @@
     "word": "knock",
     "pos": "v.",
     "chinese": "敲打",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She knocked on the door and waited."
   },
   {
     "word": "know",
     "pos": "v.",
     "chinese": "知道；認識",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Do you know the answer to this question?"
   },
   {
     "word": "knowledge",
     "pos": "n.",
     "chinese": "知識",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Reading helps you gain knowledge about many things."
   },
   {
     "word": "lake",
@@ -3704,7 +3944,8 @@
     "word": "language",
     "pos": "n.",
     "chinese": "語言",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "English is a very useful language to know."
   },
   {
     "word": "large",
@@ -3717,7 +3958,8 @@
     "word": "last",
     "pos": "adj./v.",
     "chinese": "最後的；持續",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She was the last one to arrive at the party."
   },
   {
     "word": "late",
@@ -3730,13 +3972,15 @@
     "word": "later",
     "pos": "adv.",
     "chinese": "後來；稍後",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Let's talk about it later after class."
   },
   {
     "word": "laugh",
     "pos": "v./n.",
     "chinese": "笑",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "We all laughed when he told a funny joke."
   },
   {
     "word": "lawyer",
@@ -3756,7 +4000,8 @@
     "word": "lead",
     "pos": "v./n.",
     "chinese": "帶領；鉛",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She led the group during the school project."
   },
   {
     "word": "leader",
@@ -3769,19 +4014,22 @@
     "word": "learn",
     "pos": "v.",
     "chinese": "學習",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "He learns something new every day."
   },
   {
     "word": "least",
     "pos": "adj./adv.",
     "chinese": "最少的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "At least try your best even if it is hard."
   },
   {
     "word": "leave",
     "pos": "v.",
     "chinese": "離開；留下",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Don't leave your bag on the bus."
   },
   {
     "word": "left",
@@ -3808,13 +4056,15 @@
     "word": "lend",
     "pos": "v.",
     "chinese": "借（出）",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Can you lend me your ruler for a minute?"
   },
   {
     "word": "less",
     "pos": "adj./adv.",
     "chinese": "較少的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Try to spend less time on your phone."
   },
   {
     "word": "lesson",
@@ -3827,7 +4077,8 @@
     "word": "let",
     "pos": "v.",
     "chinese": "讓",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Let me help you carry those books."
   },
   {
     "word": "letter",
@@ -3840,7 +4091,8 @@
     "word": "level",
     "pos": "n.",
     "chinese": "水平；等級",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She moved to a higher level English class."
   },
   {
     "word": "library",
@@ -3853,13 +4105,15 @@
     "word": "lie",
     "pos": "v./n.",
     "chinese": "說謊；躺下",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "He lied about finishing his homework."
   },
   {
     "word": "life",
     "pos": "n.",
     "chinese": "生活；生命",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "School life is full of great memories."
   },
   {
     "word": "light",
@@ -3872,13 +4126,15 @@
     "word": "like",
     "pos": "v./prep.",
     "chinese": "喜歡；像",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "I like swimming, and I also like running."
   },
   {
     "word": "line",
     "pos": "n.",
     "chinese": "線；排隊",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Please stand in line and wait for your turn."
   },
   {
     "word": "lion",
@@ -3898,13 +4154,15 @@
     "word": "list",
     "pos": "n./v.",
     "chinese": "清單；列出",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She made a list of things to buy at the market."
   },
   {
     "word": "listen",
     "pos": "v.",
     "chinese": "聽",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Please listen carefully to the instructions."
   },
   {
     "word": "little",
@@ -3917,7 +4175,8 @@
     "word": "live",
     "pos": "v./adj.",
     "chinese": "居住；活的",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She lives five minutes away from school."
   },
   {
     "word": "living room",
@@ -3944,13 +4203,15 @@
     "word": "look",
     "pos": "v.",
     "chinese": "看；看起來",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Look both ways before crossing the street."
   },
   {
     "word": "lose",
     "pos": "v.",
     "chinese": "失去；輸",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She lost her pencil and asked to borrow one."
   },
   {
     "word": "loud",
@@ -3963,7 +4224,8 @@
     "word": "love",
     "pos": "v./n.",
     "chinese": "愛",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She loves reading mystery novels."
   },
   {
     "word": "lovely",
@@ -3997,7 +4259,8 @@
     "word": "machine",
     "pos": "n.",
     "chinese": "機器",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The washing machine can wash clothes quickly."
   },
   {
     "word": "mad",
@@ -4010,7 +4273,8 @@
     "word": "magic",
     "pos": "n./adj.",
     "chinese": "魔法；魔法的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The magician did a magic trick with a card."
   },
   {
     "word": "mail",
@@ -4037,7 +4301,8 @@
     "word": "make",
     "pos": "v.",
     "chinese": "製作；使",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "He made a card for his teacher's birthday."
   },
   {
     "word": "man",
@@ -4050,7 +4315,8 @@
     "word": "many",
     "pos": "adj./pron.",
     "chinese": "許多",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "There are many books in our school library."
   },
   {
     "word": "map",
@@ -4070,7 +4336,8 @@
     "word": "mark",
     "pos": "n./v.",
     "chinese": "記號；標記",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He put a mark next to the important sentences."
   },
   {
     "word": "marker",
@@ -4090,7 +4357,8 @@
     "word": "married",
     "pos": "adj.",
     "chinese": "已婚的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "They have been married for twenty years."
   },
   {
     "word": "mask",
@@ -4110,7 +4378,8 @@
     "word": "matter",
     "pos": "n./v.",
     "chinese": "事情；重要",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "It doesn't matter if you make mistakes—just learn."
   },
   {
     "word": "may",
@@ -4130,7 +4399,8 @@
     "word": "maybe",
     "pos": "adv.",
     "chinese": "也許",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Maybe we can go hiking this weekend."
   },
   {
     "word": "meal",
@@ -4143,7 +4413,8 @@
     "word": "mean",
     "pos": "v./adj.",
     "chinese": "意思；刻薄的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "What does this word mean?"
   },
   {
     "word": "meat",
@@ -4170,7 +4441,8 @@
     "word": "meet",
     "pos": "v.",
     "chinese": "見面",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "We met at the library to study together."
   },
   {
     "word": "meeting",
@@ -4190,7 +4462,8 @@
     "word": "menu",
     "pos": "n.",
     "chinese": "菜單",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She looked at the menu and ordered noodles."
   },
   {
     "word": "metro",
@@ -4203,7 +4476,8 @@
     "word": "middle",
     "pos": "n./adj.",
     "chinese": "中間",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She sat in the middle of the classroom."
   },
   {
     "word": "mile",
@@ -4230,7 +4504,8 @@
     "word": "mind",
     "pos": "n./v.",
     "chinese": "心思；介意",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Do you mind if I sit here?"
   },
   {
     "word": "minute",
@@ -4243,19 +4518,22 @@
     "word": "Miss",
     "pos": "n.",
     "chinese": "小姐",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Miss Chen is our new English teacher."
   },
   {
     "word": "miss",
     "pos": "v.",
     "chinese": "想念；錯過",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She missed her old school after moving."
   },
   {
     "word": "mistake",
     "pos": "n./v.",
     "chinese": "錯誤",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Everyone makes mistakes—what matters is learning."
   },
   {
     "word": "modern",
@@ -4310,7 +4588,8 @@
     "word": "more",
     "pos": "adj./adv.",
     "chinese": "更多的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She wants to learn more about animals."
   },
   {
     "word": "morning",
@@ -4330,7 +4609,8 @@
     "word": "most",
     "pos": "adj./adv.",
     "chinese": "最多的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Most students like gym class."
   },
   {
     "word": "mother",
@@ -4371,13 +4651,15 @@
     "word": "move",
     "pos": "v.",
     "chinese": "移動；搬家",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "They moved to a new house near the beach."
   },
   {
     "word": "movie",
     "pos": "n.",
     "chinese": "電影",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "We watched a movie together on Friday night."
   },
   {
     "word": "Mr.",
@@ -4404,13 +4686,15 @@
     "word": "much",
     "pos": "adj./adv.",
     "chinese": "許多；非常",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Thank you so much for your help."
   },
   {
     "word": "mud",
     "pos": "n.",
     "chinese": "泥巴",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "His shoes were covered in mud after the game."
   },
   {
     "word": "museum",
@@ -4430,7 +4714,8 @@
     "word": "must",
     "pos": "modal v.",
     "chinese": "必須",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "You must be home before dinner."
   },
   {
     "word": "nail",
@@ -4443,7 +4728,8 @@
     "word": "name",
     "pos": "n./v.",
     "chinese": "名字；命名",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "My name is Leo. What's your name?"
   },
   {
     "word": "national",
@@ -4477,7 +4763,8 @@
     "word": "need",
     "pos": "v./n.",
     "chinese": "需要",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "You need to study harder for the next test."
   },
   {
     "word": "neighbor",
@@ -4490,7 +4777,8 @@
     "word": "never",
     "pos": "adv.",
     "chinese": "從不",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She never gives up even when things are hard."
   },
   {
     "word": "new",
@@ -4517,7 +4805,8 @@
     "word": "next",
     "pos": "adj./adv.",
     "chinese": "下一個",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The next stop is our school—get ready to get off."
   },
   {
     "word": "nice",
@@ -4558,19 +4847,22 @@
     "word": "no",
     "pos": "adj./adv./interj.",
     "chinese": "沒有；不",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "There is no time to waste—start studying now."
   },
   {
     "word": "nobody",
     "pos": "pron.",
     "chinese": "沒有人",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Nobody knew the answer, so the teacher explained."
   },
   {
     "word": "noise",
     "pos": "n.",
     "chinese": "噪音",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The noise from outside made it hard to sleep."
   },
   {
     "word": "noisy",
@@ -4611,7 +4903,8 @@
     "word": "not",
     "pos": "adv.",
     "chinese": "不",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She is not afraid of speaking in front of the class."
   },
   {
     "word": "note",
@@ -4631,13 +4924,15 @@
     "word": "nothing",
     "pos": "pron.",
     "chinese": "沒有什麼",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "There was nothing to eat, so they ordered pizza."
   },
   {
     "word": "notice",
     "pos": "v./n.",
     "chinese": "注意；通知",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Did you notice the new painting on the wall?"
   },
   {
     "word": "November",
@@ -4671,7 +4966,8 @@
     "word": "o'clock",
     "pos": "adv.",
     "chinese": "…點鐘",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The school starts at eight o'clock sharp."
   },
   {
     "word": "October",
@@ -4684,13 +4980,15 @@
     "word": "of",
     "pos": "prep.",
     "chinese": "的；關於",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She is a member of the school soccer team."
   },
   {
     "word": "off",
     "pos": "adv./prep.",
     "chinese": "關掉；離開",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Please turn off the lights when you leave."
   },
   {
     "word": "office",
@@ -4710,7 +5008,8 @@
     "word": "often",
     "pos": "adv.",
     "chinese": "經常",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He often reads before going to sleep."
   },
   {
     "word": "oil",
@@ -4723,7 +5022,8 @@
     "word": "OK",
     "pos": "adj./adv./interj.",
     "chinese": "好的；可以",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Are you OK? You look a little tired."
   },
   {
     "word": "old",
@@ -4736,13 +5036,15 @@
     "word": "on",
     "pos": "prep./adv.",
     "chinese": "在…上面；開著",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The book is on the desk near the window."
   },
   {
     "word": "once",
     "pos": "adv./conj.",
     "chinese": "一次；一旦",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She visits her grandma once a week."
   },
   {
     "word": "one",
@@ -4755,19 +5057,22 @@
     "word": "only",
     "pos": "adj./adv.",
     "chinese": "唯一的；只",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She is the only student who finished the test early."
   },
   {
     "word": "open",
     "pos": "v./adj.",
     "chinese": "打開；開著的",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Please open your books to page fifty."
   },
   {
     "word": "or",
     "pos": "conj.",
     "chinese": "或者",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Would you like tea or juice?"
   },
   {
     "word": "orange",
@@ -4787,13 +5092,15 @@
     "word": "other",
     "pos": "adj./pron.",
     "chinese": "其他的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Some students like math; others prefer English."
   },
   {
     "word": "out",
     "pos": "adv./prep.",
     "chinese": "出去；外面",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He ran out of the classroom when the bell rang."
   },
   {
     "word": "outside",
@@ -4806,13 +5113,15 @@
     "word": "over",
     "pos": "prep./adv.",
     "chinese": "超過；結束",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The game was over before we knew it."
   },
   {
     "word": "own",
     "pos": "adj./v.",
     "chinese": "自己的；擁有",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She has her own room for the first time."
   },
   {
     "word": "p.m.",
@@ -4825,7 +5134,8 @@
     "word": "pack",
     "pos": "v./n.",
     "chinese": "打包",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "He packed his bag the night before the trip."
   },
   {
     "word": "package",
@@ -4838,19 +5148,22 @@
     "word": "page",
     "pos": "n.",
     "chinese": "頁",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Please open your books to page twenty."
   },
   {
     "word": "paint",
     "pos": "v./n.",
     "chinese": "塗漆；畫",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She painted a picture of the sea for the art competition."
   },
   {
     "word": "pair",
     "pos": "n.",
     "chinese": "一對",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She bought a new pair of shoes for sports day."
   },
   {
     "word": "pants",
@@ -4870,7 +5183,8 @@
     "word": "paper",
     "pos": "n.",
     "chinese": "紙；報告",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She wrote her essay on a clean sheet of paper."
   },
   {
     "word": "parent",
@@ -4890,19 +5204,22 @@
     "word": "part",
     "pos": "n.",
     "chinese": "部分",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The best part of school is being with friends."
   },
   {
     "word": "party",
     "pos": "n.",
     "chinese": "派對；政黨",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "We had a party to celebrate the end of exams."
   },
   {
     "word": "pass",
     "pos": "v.",
     "chinese": "經過；通過",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She passed the test with a perfect score."
   },
   {
     "word": "past",
@@ -4915,13 +5232,15 @@
     "word": "paste",
     "pos": "v./n.",
     "chinese": "黏貼；糊",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He used paste to stick the pictures on the poster."
   },
   {
     "word": "pay",
     "pos": "v./n.",
     "chinese": "付錢",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "He paid for the books with his allowance."
   },
   {
     "word": "PE",
@@ -4969,7 +5288,8 @@
     "word": "perhaps",
     "pos": "adv.",
     "chinese": "也許",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Perhaps we should ask the teacher for help."
   },
   {
     "word": "person",
@@ -5003,7 +5323,8 @@
     "word": "pick",
     "pos": "v.",
     "chinese": "挑選；採摘",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Pick up your trash and put it in the bin."
   },
   {
     "word": "picnic",
@@ -5030,7 +5351,8 @@
     "word": "piece",
     "pos": "n.",
     "chinese": "一片；一件",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She ate one piece of cake at the party."
   },
   {
     "word": "pig",
@@ -5050,13 +5372,15 @@
     "word": "pink",
     "pos": "adj./n.",
     "chinese": "粉紅色",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She painted her room pink because it's her favorite color."
   },
   {
     "word": "pipe",
     "pos": "n.",
     "chinese": "管子",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Water flows through the pipe to our home."
   },
   {
     "word": "pizza",
@@ -5076,13 +5400,15 @@
     "word": "plan",
     "pos": "n./v.",
     "chinese": "計畫",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "They planned a surprise party for their teacher."
   },
   {
     "word": "planet",
     "pos": "n.",
     "chinese": "星球；行星",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Earth is the only planet we know has life."
   },
   {
     "word": "plant",
@@ -5102,7 +5428,8 @@
     "word": "play",
     "pos": "v./n.",
     "chinese": "玩；演奏",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She plays violin in the school orchestra."
   },
   {
     "word": "player",
@@ -5122,31 +5449,36 @@
     "word": "please",
     "pos": "v./adv.",
     "chinese": "請；使高興",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Please be quiet during the exam."
   },
   {
     "word": "pleasure",
     "pos": "n.",
     "chinese": "樂趣；高興",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "It's my pleasure to help you."
   },
   {
     "word": "pocket",
     "pos": "n.",
     "chinese": "口袋",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He put his bus pass in his jacket pocket."
   },
   {
     "word": "point",
     "pos": "n./v.",
     "chinese": "點；指向",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The teacher pointed to the answer on the board."
   },
   {
     "word": "police",
     "pos": "n.",
     "chinese": "警察",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The police officer helped us find the lost child."
   },
   {
     "word": "polite",
@@ -5166,7 +5498,8 @@
     "word": "pool",
     "pos": "n.",
     "chinese": "游泳池",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She swims in the pool every Tuesday afternoon."
   },
   {
     "word": "poor",
@@ -5179,7 +5512,8 @@
     "word": "pop",
     "pos": "adj./v./n.",
     "chinese": "流行的；彈出",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She likes to listen to pop music on the bus."
   },
   {
     "word": "popcorn",
@@ -5241,37 +5575,43 @@
     "word": "power",
     "pos": "n.",
     "chinese": "力量；電力",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The power went out during the storm."
   },
   {
     "word": "probably",
     "pos": "adv.",
     "chinese": "可能；大概",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "It will probably rain this afternoon."
   },
   {
     "word": "practice",
     "pos": "v./n.",
     "chinese": "練習",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "He practices basketball every day after school."
   },
   {
     "word": "pray",
     "pos": "v.",
     "chinese": "祈禱",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She prays for her family every night."
   },
   {
     "word": "prepare",
     "pos": "v.",
     "chinese": "準備",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She prepared for the test by reviewing her notes."
   },
   {
     "word": "present",
     "pos": "n./adj./v.",
     "chinese": "禮物；現在的；呈現",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She gave a present to her teacher on Teacher's Day."
   },
   {
     "word": "pretty",
@@ -5298,7 +5638,8 @@
     "word": "problem",
     "pos": "n.",
     "chinese": "問題",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He solved the math problem in two minutes."
   },
   {
     "word": "program",
@@ -5325,37 +5666,43 @@
     "word": "pull",
     "pos": "v.",
     "chinese": "拉",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "He pulled the door but it was a push door."
   },
   {
     "word": "pumpkin",
     "pos": "n.",
     "chinese": "南瓜",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "We carved a pumpkin for Halloween."
   },
   {
     "word": "puppy",
     "pos": "n.",
     "chinese": "小狗",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The puppy followed her all around the yard."
   },
   {
     "word": "purple",
     "pos": "adj./n.",
     "chinese": "紫色",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She chose a purple pen to write in her journal."
   },
   {
     "word": "push",
     "pos": "v.",
     "chinese": "推",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She pushed the cart through the supermarket."
   },
   {
     "word": "put",
     "pos": "v.",
     "chinese": "放置",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Please put your name on the top of your paper."
   },
   {
     "word": "quarter",
@@ -5396,13 +5743,15 @@
     "word": "quite",
     "pos": "adv.",
     "chinese": "相當；完全",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The test was quite difficult, but she managed."
   },
   {
     "word": "quiz",
     "pos": "n.",
     "chinese": "測驗",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "We have a vocabulary quiz every Friday."
   },
   {
     "word": "rabbit",
@@ -5450,7 +5799,8 @@
     "word": "raise",
     "pos": "v.",
     "chinese": "舉起；養育",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Raise your hand if you know the answer."
   },
   {
     "word": "rat",
@@ -5463,7 +5813,8 @@
     "word": "reach",
     "pos": "v.",
     "chinese": "到達；伸手",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She couldn't reach the book on the top shelf."
   },
   {
     "word": "read",
@@ -5490,19 +5841,22 @@
     "word": "really",
     "pos": "adv.",
     "chinese": "真的；非常",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "I really enjoyed the class trip to the museum."
   },
   {
     "word": "reason",
     "pos": "n.",
     "chinese": "理由；原因",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The reason she works hard is that she loves learning."
   },
   {
     "word": "red",
     "pos": "adj./n.",
     "chinese": "紅色的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He stopped at the red light on his bicycle."
   },
   {
     "word": "refrigerator",
@@ -5522,13 +5876,15 @@
     "word": "remember",
     "pos": "v.",
     "chinese": "記得",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Remember to say please and thank you."
   },
   {
     "word": "repeat",
     "pos": "v.",
     "chinese": "重複",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Could you repeat that? I didn't catch it."
   },
   {
     "word": "report",
@@ -5548,7 +5904,8 @@
     "word": "rest",
     "pos": "n./v.",
     "chinese": "休息；其餘",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She rested for an hour before studying again."
   },
   {
     "word": "restaurant",
@@ -5582,7 +5939,8 @@
     "word": "ride",
     "pos": "v./n.",
     "chinese": "騎；乘車",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "He rides his bicycle to the library on weekends."
   },
   {
     "word": "right",
@@ -5595,13 +5953,15 @@
     "word": "ring",
     "pos": "n./v.",
     "chinese": "戒指；鈴響",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The ring on her finger was a gift from her mom."
   },
   {
     "word": "rise",
     "pos": "v.",
     "chinese": "升起",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "The sun rises at about six o'clock in summer."
   },
   {
     "word": "river",
@@ -5635,7 +5995,8 @@
     "word": "roll",
     "pos": "v./n.",
     "chinese": "滾動；卷",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The ball rolled under the desk."
   },
   {
     "word": "room",
@@ -5648,13 +6009,15 @@
     "word": "root",
     "pos": "n.",
     "chinese": "根",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The root of the tree is very deep."
   },
   {
     "word": "rope",
     "pos": "n.",
     "chinese": "繩子",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "They used a rope to pull the box up the hill."
   },
   {
     "word": "rose",
@@ -5667,19 +6030,22 @@
     "word": "round",
     "pos": "adj./adv.",
     "chinese": "圓的；周圍",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "We sat in a round circle for the class discussion."
   },
   {
     "word": "row",
     "pos": "n./v.",
     "chinese": "行；划船",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She sat in the front row so she could see the board."
   },
   {
     "word": "rule",
     "pos": "n./v.",
     "chinese": "規則；統治",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The rule is simple—be kind to everyone."
   },
   {
     "word": "ruler",
@@ -5692,7 +6058,8 @@
     "word": "run",
     "pos": "v.",
     "chinese": "跑；運作",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She ran as fast as she could to catch the bus."
   },
   {
     "word": "sad",
@@ -5768,13 +6135,15 @@
     "word": "save",
     "pos": "v.",
     "chinese": "拯救；儲蓄",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "He saved money every week to buy a new game."
   },
   {
     "word": "say",
     "pos": "v.",
     "chinese": "說",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She said goodbye to her friends at the end of school."
   },
   {
     "word": "scared",
@@ -5829,7 +6198,8 @@
     "word": "seat",
     "pos": "n.",
     "chinese": "座位",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She saved a seat for her friend."
   },
   {
     "word": "second",
@@ -5849,37 +6219,43 @@
     "word": "see",
     "pos": "v.",
     "chinese": "看見",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "I can see the mountains from my bedroom window."
   },
   {
     "word": "seed",
     "pos": "n.",
     "chinese": "種子",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "They planted seeds and watered them every day."
   },
   {
     "word": "seesaw",
     "pos": "n.",
     "chinese": "蹺蹺板",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The children took turns on the seesaw at recess."
   },
   {
     "word": "seldom",
     "pos": "adv.",
     "chinese": "很少",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She seldom watches TV because she prefers reading."
   },
   {
     "word": "sell",
     "pos": "v.",
     "chinese": "賣",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "The store sells fresh fruit and vegetables every day."
   },
   {
     "word": "send",
     "pos": "v.",
     "chinese": "送；寄",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She sent a birthday card to her best friend."
   },
   {
     "word": "senior high school",
@@ -5920,7 +6296,8 @@
     "word": "set",
     "pos": "v./n.",
     "chinese": "設定；一套",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He set up the chairs for the class meeting."
   },
   {
     "word": "seven",
@@ -5947,25 +6324,29 @@
     "word": "several",
     "pos": "adj.",
     "chinese": "幾個",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She visited the museum several times."
   },
   {
     "word": "shake",
     "pos": "v./n.",
     "chinese": "搖動",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Please shake the bottle before you drink the juice."
   },
   {
     "word": "shape",
     "pos": "n./v.",
     "chinese": "形狀；塑造",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "What shape is this—a circle or a square?"
   },
   {
     "word": "share",
     "pos": "v./n.",
     "chinese": "分享",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "We like to share our snacks with each other."
   },
   {
     "word": "sharp",
@@ -5978,7 +6359,8 @@
     "word": "she",
     "pos": "pron.",
     "chinese": "她",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She is my English teacher and I like her very much."
   },
   {
     "word": "sheep",
@@ -5991,7 +6373,8 @@
     "word": "shine",
     "pos": "v.",
     "chinese": "照耀",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "The sun shone brightly on the day of the picnic."
   },
   {
     "word": "ship",
@@ -6046,7 +6429,8 @@
     "word": "should",
     "pos": "modal v.",
     "chinese": "應該",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "You should drink more water every day."
   },
   {
     "word": "shoulder",
@@ -6059,19 +6443,22 @@
     "word": "shout",
     "pos": "v./n.",
     "chinese": "大喊",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Please don't shout in the library."
   },
   {
     "word": "show",
     "pos": "v./n.",
     "chinese": "展示；節目",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She showed her drawing to the class."
   },
   {
     "word": "shower",
     "pos": "n./v.",
     "chinese": "淋浴；陣雨",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She takes a shower every morning before school."
   },
   {
     "word": "shy",
@@ -6105,13 +6492,15 @@
     "word": "sight",
     "pos": "n.",
     "chinese": "視力；景象",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The view from the hilltop was a beautiful sight."
   },
   {
     "word": "sign",
     "pos": "n./v.",
     "chinese": "標誌；簽名",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Follow the signs to find the exit."
   },
   {
     "word": "simple",
@@ -6124,13 +6513,15 @@
     "word": "since",
     "pos": "prep./conj.",
     "chinese": "自從；因為",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She has been learning English since she was eight."
   },
   {
     "word": "sing",
     "pos": "v.",
     "chinese": "唱歌",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "He sings in the school choir every Tuesday."
   },
   {
     "word": "singer",
@@ -6157,7 +6548,8 @@
     "word": "sit",
     "pos": "v.",
     "chinese": "坐",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Please sit down and open your books."
   },
   {
     "word": "six",
@@ -6205,13 +6597,15 @@
     "word": "sleep",
     "pos": "v./n.",
     "chinese": "睡覺",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She sleeps for eight hours every night."
   },
   {
     "word": "slide",
     "pos": "v./n.",
     "chinese": "滑；溜滑梯",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "The children took turns on the slide at the playground."
   },
   {
     "word": "slim",
@@ -6245,19 +6639,22 @@
     "word": "smell",
     "pos": "v./n.",
     "chinese": "聞；氣味",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "The flowers in the garden smell wonderful."
   },
   {
     "word": "smile",
     "pos": "v./n.",
     "chinese": "微笑",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She smiled when she saw the puppy."
   },
   {
     "word": "smoke",
     "pos": "v./n.",
     "chinese": "抽菸；煙",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Smoking is not allowed on school grounds."
   },
   {
     "word": "snack",
@@ -6291,7 +6688,8 @@
     "word": "so",
     "pos": "adv./conj.",
     "chinese": "如此；所以",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "I was tired, so I went to bed early."
   },
   {
     "word": "soccer",
@@ -6325,31 +6723,36 @@
     "word": "some",
     "pos": "adj./pron.",
     "chinese": "一些",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She brought some cookies to share with the class."
   },
   {
     "word": "someone",
     "pos": "pron.",
     "chinese": "某人",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Someone left their bag in the classroom."
   },
   {
     "word": "something",
     "pos": "pron.",
     "chinese": "某事",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "I want to tell you something important."
   },
   {
     "word": "sometimes",
     "pos": "adv.",
     "chinese": "有時",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Sometimes she rides her bike to school."
   },
   {
     "word": "somewhere",
     "pos": "adv.",
     "chinese": "某處",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He left his book somewhere in the library."
   },
   {
     "word": "son",
@@ -6362,13 +6765,15 @@
     "word": "song",
     "pos": "n.",
     "chinese": "歌曲",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She learned the song in two days."
   },
   {
     "word": "soon",
     "pos": "adv.",
     "chinese": "很快；不久",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The summer vacation will be here soon."
   },
   {
     "word": "sore",
@@ -6381,13 +6786,15 @@
     "word": "sorry",
     "pos": "adj.",
     "chinese": "抱歉的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "I'm sorry I was late—the bus was slow."
   },
   {
     "word": "sound",
     "pos": "n./v.",
     "chinese": "聲音；聽起來",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The music sounds very peaceful and relaxing."
   },
   {
     "word": "soup",
@@ -6414,7 +6821,8 @@
     "word": "speak",
     "pos": "v.",
     "chinese": "說話",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She can speak three languages."
   },
   {
     "word": "special",
@@ -6434,7 +6842,8 @@
     "word": "spend",
     "pos": "v.",
     "chinese": "花費；度過",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He spends an hour reading every evening."
   },
   {
     "word": "spider",
@@ -6468,7 +6877,8 @@
     "word": "square",
     "pos": "n./adj.",
     "chinese": "廣場；正方形",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "We sat in a square formation during the class game."
   },
   {
     "word": "stairs",
@@ -6481,13 +6891,15 @@
     "word": "stamp",
     "pos": "n./v.",
     "chinese": "郵票；蓋章",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She collects stamps from different countries."
   },
   {
     "word": "stand",
     "pos": "v.",
     "chinese": "站立；忍受",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "He stood up to give his presentation to the class."
   },
   {
     "word": "star",
@@ -6500,7 +6912,8 @@
     "word": "start",
     "pos": "v./n.",
     "chinese": "開始",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Class starts at eight o'clock sharp."
   },
   {
     "word": "station",
@@ -6513,7 +6926,8 @@
     "word": "stay",
     "pos": "v.",
     "chinese": "停留；待",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She stayed after class to ask the teacher questions."
   },
   {
     "word": "steak",
@@ -6526,7 +6940,8 @@
     "word": "still",
     "pos": "adv./adj.",
     "chinese": "仍然；靜止的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "It's ten o'clock and she is still studying."
   },
   {
     "word": "stomach",
@@ -6539,7 +6954,8 @@
     "word": "stop",
     "pos": "v./n.",
     "chinese": "停止",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Please stop talking and listen to the teacher."
   },
   {
     "word": "store",
@@ -6552,7 +6968,8 @@
     "word": "story",
     "pos": "n.",
     "chinese": "故事；樓層",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The teacher told us a story about a brave girl."
   },
   {
     "word": "straight",
@@ -6593,7 +7010,8 @@
     "word": "string",
     "pos": "n.",
     "chinese": "繩子；弦",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She tied the balloon with a piece of string."
   },
   {
     "word": "strong",
@@ -6613,7 +7031,8 @@
     "word": "study",
     "pos": "v./n.",
     "chinese": "學習；書房",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She studies for at least one hour every evening."
   },
   {
     "word": "stupid",
@@ -6682,25 +7101,29 @@
     "word": "sure",
     "pos": "adj./adv.",
     "chinese": "確定的；當然",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Are you sure you want to try that?"
   },
   {
     "word": "surf",
     "pos": "v.",
     "chinese": "衝浪；上網",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "He loves to surf the waves at the beach in summer."
   },
   {
     "word": "surprise",
     "pos": "n./v.",
     "chinese": "驚喜；使驚訝",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Her parents planned a surprise birthday party for her."
   },
   {
     "word": "surprised",
     "pos": "adj.",
     "chinese": "感到驚訝的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She was surprised to see her old friend at school."
   },
   {
     "word": "sweater",
@@ -6720,7 +7143,8 @@
     "word": "swim",
     "pos": "v.",
     "chinese": "游泳",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "They swam in the school pool every Wednesday."
   },
   {
     "word": "swing",
@@ -6740,7 +7164,8 @@
     "word": "tail",
     "pos": "n.",
     "chinese": "尾巴",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The dog wagged its tail when it saw me."
   },
   {
     "word": "Taiwan",
@@ -6753,13 +7178,15 @@
     "word": "take",
     "pos": "v.",
     "chinese": "拿；帶；花費",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "It takes twenty minutes to walk to school."
   },
   {
     "word": "talk",
     "pos": "v./n.",
     "chinese": "談話",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She talked to her friend about the book they read."
   },
   {
     "word": "tall",
@@ -6779,7 +7206,8 @@
     "word": "taste",
     "pos": "v./n.",
     "chinese": "嚐；味道",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "The soup tasted a little salty."
   },
   {
     "word": "taxi",
@@ -6799,7 +7227,8 @@
     "word": "teach",
     "pos": "v.",
     "chinese": "教",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She taught her younger sister how to tie her shoes."
   },
   {
     "word": "teacher",
@@ -6812,7 +7241,8 @@
     "word": "team",
     "pos": "n.",
     "chinese": "隊伍",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Our school team won the basketball championship."
   },
   {
     "word": "teenager",
@@ -6839,7 +7269,8 @@
     "word": "tell",
     "pos": "v.",
     "chinese": "告訴",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Please tell me what happened."
   },
   {
     "word": "temple",
@@ -6880,25 +7311,29 @@
     "word": "than",
     "pos": "conj./prep.",
     "chinese": "比",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She is taller than most of her classmates."
   },
   {
     "word": "thank",
     "pos": "v.",
     "chinese": "感謝",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She thanked the teacher for the helpful advice."
   },
   {
     "word": "that",
     "pos": "pron./adj./conj.",
     "chinese": "那；那個",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "I think that we should study more carefully."
   },
   {
     "word": "the",
     "pos": "art.",
     "chinese": "定冠詞",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The book on the desk belongs to me."
   },
   {
     "word": "theater",
@@ -6911,25 +7346,29 @@
     "word": "then",
     "pos": "adv./conj.",
     "chinese": "那時；然後",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "We ate dinner, and then we watched a movie."
   },
   {
     "word": "there",
     "pos": "adv.",
     "chinese": "那裡",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "There is a new student in our class today."
   },
   {
     "word": "these",
     "pos": "pron./adj.",
     "chinese": "這些",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "These are my favorite books."
   },
   {
     "word": "they",
     "pos": "pron.",
     "chinese": "他們",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "They finished the group project together."
   },
   {
     "word": "thick",
@@ -6949,19 +7388,22 @@
     "word": "thing",
     "pos": "n.",
     "chinese": "事情；東西",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The most important thing is to never give up."
   },
   {
     "word": "think",
     "pos": "v.",
     "chinese": "思考；認為",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Think carefully before you answer."
   },
   {
     "word": "third",
     "pos": "adj./n.",
     "chinese": "第三",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She came in third place in the spelling contest."
   },
   {
     "word": "thirsty",
@@ -6988,19 +7430,22 @@
     "word": "this",
     "pos": "pron./adj.",
     "chinese": "這；這個",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "This is the best pizza I have ever eaten."
   },
   {
     "word": "those",
     "pos": "pron./adj.",
     "chinese": "那些",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Those students worked very hard to win."
   },
   {
     "word": "though",
     "pos": "conj./adv.",
     "chinese": "雖然；不過",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Though it was raining, they still played outside."
   },
   {
     "word": "thousand",
@@ -7027,13 +7472,15 @@
     "word": "through",
     "pos": "prep./adv.",
     "chinese": "通過；穿越",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She walked through the park to get to school."
   },
   {
     "word": "throw",
     "pos": "v.",
     "chinese": "丟擲",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "He threw the ball to his teammate across the field."
   },
   {
     "word": "Thursday",
@@ -7081,7 +7528,8 @@
     "word": "tip",
     "pos": "n./v.",
     "chinese": "小費；提示",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The teacher gave us useful tips for the test."
   },
   {
     "word": "tired",
@@ -7094,7 +7542,8 @@
     "word": "to",
     "pos": "prep.",
     "chinese": "到；給",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She goes to school by bus every morning."
   },
   {
     "word": "toast",
@@ -7121,7 +7570,8 @@
     "word": "together",
     "pos": "adv.",
     "chinese": "一起",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "We solved the problem together as a team."
   },
   {
     "word": "tomato",
@@ -7141,19 +7591,22 @@
     "word": "tonight",
     "pos": "n./adv.",
     "chinese": "今晚",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "We are having a family dinner tonight."
   },
   {
     "word": "too",
     "pos": "adv.",
     "chinese": "也；太",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "I want to go to the park too."
   },
   {
     "word": "tool",
     "pos": "n.",
     "chinese": "工具",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "A dictionary is a very useful tool for learning."
   },
   {
     "word": "tooth",
@@ -7180,13 +7633,15 @@
     "word": "total",
     "pos": "n./adj.",
     "chinese": "總計",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The total score for both tests is one hundred."
   },
   {
     "word": "touch",
     "pos": "v./n.",
     "chinese": "觸碰",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Don't touch the exhibits in the museum."
   },
   {
     "word": "towel",
@@ -7206,7 +7661,8 @@
     "word": "toy",
     "pos": "n.",
     "chinese": "玩具",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She donated her old toys to younger children."
   },
   {
     "word": "traffic",
@@ -7226,13 +7682,15 @@
     "word": "trash",
     "pos": "n.",
     "chinese": "垃圾",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He threw the trash in the recycling bin."
   },
   {
     "word": "treat",
     "pos": "v./n.",
     "chinese": "對待；招待",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She treated her friends to ice cream after the exam."
   },
   {
     "word": "tree",
@@ -7245,7 +7703,8 @@
     "word": "trick",
     "pos": "n./v.",
     "chinese": "把戲；欺騙",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The magician showed us a trick with coins."
   },
   {
     "word": "trip",
@@ -7258,7 +7717,8 @@
     "word": "trouble",
     "pos": "n./v.",
     "chinese": "麻煩",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "He got into trouble for not doing his homework."
   },
   {
     "word": "truck",
@@ -7278,7 +7738,8 @@
     "word": "try",
     "pos": "v.",
     "chinese": "嘗試",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Try your best even if the task seems hard."
   },
   {
     "word": "T-shirt",
@@ -7298,7 +7759,8 @@
     "word": "turn",
     "pos": "v./n.",
     "chinese": "轉；輪流",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Turn left at the corner and you'll see the school."
   },
   {
     "word": "turtle",
@@ -7325,7 +7787,8 @@
     "word": "twice",
     "pos": "adv.",
     "chinese": "兩次",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She practices the piano twice a week."
   },
   {
     "word": "two",
@@ -7338,7 +7801,8 @@
     "word": "type",
     "pos": "n./v.",
     "chinese": "類型；打字",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "What type of music do you like?"
   },
   {
     "word": "typhoon",
@@ -7358,7 +7822,8 @@
     "word": "umbrella",
     "pos": "n.",
     "chinese": "雨傘",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Don't forget your umbrella—it might rain today."
   },
   {
     "word": "uncle",
@@ -7371,13 +7836,15 @@
     "word": "under",
     "pos": "prep.",
     "chinese": "在…下面",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The cat is sleeping under the table."
   },
   {
     "word": "understand",
     "pos": "v.",
     "chinese": "了解",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Do you understand the homework instructions?"
   },
   {
     "word": "unhappy",
@@ -7397,13 +7864,15 @@
     "word": "until",
     "pos": "prep./conj.",
     "chinese": "直到",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She practiced until she got the answer right."
   },
   {
     "word": "up",
     "pos": "adv./prep.",
     "chinese": "向上",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She woke up early to review her notes."
   },
   {
     "word": "upload",
@@ -7423,7 +7892,8 @@
     "word": "use",
     "pos": "v./n.",
     "chinese": "使用",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She used a ruler to draw a straight line."
   },
   {
     "word": "useful",
@@ -7436,7 +7906,8 @@
     "word": "usually",
     "pos": "adv.",
     "chinese": "通常",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She usually eats breakfast before seven."
   },
   {
     "word": "vacation",
@@ -7456,7 +7927,8 @@
     "word": "very",
     "pos": "adv.",
     "chinese": "非常",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "The teacher was very kind and patient."
   },
   {
     "word": "video",
@@ -7476,7 +7948,8 @@
     "word": "visit",
     "pos": "v./n.",
     "chinese": "拜訪",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "We visited our grandparents during the winter break."
   },
   {
     "word": "visitor",
@@ -7496,7 +7969,8 @@
     "word": "wait",
     "pos": "v.",
     "chinese": "等待",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She waited for her friend outside the school gate."
   },
   {
     "word": "waiter",
@@ -7516,13 +7990,15 @@
     "word": "wake",
     "pos": "v.",
     "chinese": "醒來；叫醒",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "He woke up early to study before the exam."
   },
   {
     "word": "walk",
     "pos": "v./n.",
     "chinese": "走路",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She walks to school with her neighbor every day."
   },
   {
     "word": "wall",
@@ -7542,7 +8018,8 @@
     "word": "want",
     "pos": "v.",
     "chinese": "想要",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "He wants to join the basketball team."
   },
   {
     "word": "warm",
@@ -7555,13 +8032,15 @@
     "word": "wash",
     "pos": "v.",
     "chinese": "洗",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Wash your hands before every meal."
   },
   {
     "word": "watch",
     "pos": "v./n.",
     "chinese": "觀看；手錶",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "They watched the fireworks together on New Year's Eve."
   },
   {
     "word": "water",
@@ -7581,19 +8060,22 @@
     "word": "wave",
     "pos": "v./n.",
     "chinese": "揮手；波浪",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She waved goodbye as the train left the station."
   },
   {
     "word": "way",
     "pos": "n.",
     "chinese": "方法；路途",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She found a better way to remember vocabulary."
   },
   {
     "word": "we",
     "pos": "pron.",
     "chinese": "我們",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "We work together well as a team."
   },
   {
     "word": "weak",
@@ -7606,7 +8088,8 @@
     "word": "wear",
     "pos": "v.",
     "chinese": "穿戴",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Students must wear their uniform on school days."
   },
   {
     "word": "weather",
@@ -7640,13 +8123,15 @@
     "word": "welcome",
     "pos": "v./adj./interj.",
     "chinese": "歡迎",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Welcome to our school! We hope you enjoy it here."
   },
   {
     "word": "well",
     "pos": "adv./adj./interj.",
     "chinese": "好；井",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She plays the piano very well."
   },
   {
     "word": "west",
@@ -7666,37 +8151,43 @@
     "word": "what",
     "pos": "pron./adj.",
     "chinese": "什麼",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "What is the best way to learn new words?"
   },
   {
     "word": "when",
     "pos": "adv./conj.",
     "chinese": "什麼時候；當",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "When did you first start learning English?"
   },
   {
     "word": "where",
     "pos": "adv./conj.",
     "chinese": "哪裡",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Where did you put my notebook?"
   },
   {
     "word": "whether",
     "pos": "conj.",
     "chinese": "是否",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "I don't know whether to take the bus or walk."
   },
   {
     "word": "which",
     "pos": "pron./adj.",
     "chinese": "哪一個",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Which book do you want to borrow first?"
   },
   {
     "word": "while",
     "pos": "conj./n.",
     "chinese": "當…時候；一會兒",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She listened to music while doing her homework."
   },
   {
     "word": "white",
@@ -7709,19 +8200,22 @@
     "word": "who",
     "pos": "pron.",
     "chinese": "誰",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Who is the best student in your class?"
   },
   {
     "word": "whose",
     "pos": "pron.",
     "chinese": "誰的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Whose bag is on my chair?"
   },
   {
     "word": "why",
     "pos": "adv.",
     "chinese": "為什麼",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Why are you so happy today?"
   },
   {
     "word": "wide",
@@ -7741,13 +8235,15 @@
     "word": "will",
     "pos": "modal v.",
     "chinese": "將要；願意",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "I will study hard for the final exam."
   },
   {
     "word": "win",
     "pos": "v.",
     "chinese": "贏",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Their team won the championship after months of practice."
   },
   {
     "word": "wind",
@@ -7788,19 +8284,22 @@
     "word": "wish",
     "pos": "v./n.",
     "chinese": "希望；願望",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She wished her friend good luck before the test."
   },
   {
     "word": "with",
     "pos": "prep.",
     "chinese": "和；用",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She worked with her classmates on the project."
   },
   {
     "word": "without",
     "pos": "prep.",
     "chinese": "沒有",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She never goes to school without breakfast."
   },
   {
     "word": "woman",
@@ -7820,13 +8319,15 @@
     "word": "word",
     "pos": "n.",
     "chinese": "字；話",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She tries to learn five new words every day."
   },
   {
     "word": "work",
     "pos": "v./n.",
     "chinese": "工作；運作",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "He works hard to keep his grades up."
   },
   {
     "word": "workbook",
@@ -7846,19 +8347,22 @@
     "word": "world",
     "pos": "n.",
     "chinese": "世界",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She hopes to travel around the world someday."
   },
   {
     "word": "worry",
     "pos": "v./n.",
     "chinese": "擔心",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "Don't worry—you'll do great on the test."
   },
   {
     "word": "write",
     "pos": "v.",
     "chinese": "寫",
-    "topic": "Daily Activities"
+    "topic": "Daily Activities",
+    "example": "She writes in her diary every night before sleeping."
   },
   {
     "word": "writer",
@@ -7892,13 +8396,15 @@
     "word": "yellow",
     "pos": "adj./n.",
     "chinese": "黃色的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She wore a yellow dress to the school festival."
   },
   {
     "word": "yes",
     "pos": "adv./interj.",
     "chinese": "是的",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "Yes, I have finished all my homework."
   },
   {
     "word": "yesterday",
@@ -7911,13 +8417,15 @@
     "word": "yet",
     "pos": "adv./conj.",
     "chinese": "還沒；但是",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "She hasn't finished her lunch yet."
   },
   {
     "word": "you",
     "pos": "pron.",
     "chinese": "你；你們",
-    "topic": "Grammar & Function Words"
+    "topic": "Grammar & Function Words",
+    "example": "You did a great job on the test today."
   },
   {
     "word": "young",
