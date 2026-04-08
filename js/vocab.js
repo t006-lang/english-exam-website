@@ -115,7 +115,11 @@ function loadExample(word) {
   if (!el) return;
   const w = filteredWords[fcIndex];
   if (w && w.example) {
-    el.innerHTML = `<div class="fc-example-text">📖 ${w.example}</div>`;
+    const highlighted = w.example.replace(
+      new RegExp(`\\b(${w.word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})\\b`, 'gi'),
+      '<u>$1</u>'
+    );
+    el.innerHTML = `<div class="fc-example-text">📖 ${highlighted}</div>`;
   } else {
     el.innerHTML = '';
   }
