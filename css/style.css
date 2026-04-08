@@ -54,6 +54,17 @@ a { text-decoration: none; color: inherit; }
 button { cursor: pointer; border: none; font-family: inherit; transition: all .2s; }
 img { max-width: 100%; }
 
+/* ── Feedback FAB ── */
+.feedback-fab {
+  position: fixed; bottom: 24px; right: 24px; z-index: 999;
+  width: 48px; height: 48px; border-radius: 50%;
+  background: var(--primary); color: #fff;
+  font-size: 20px; display: flex; align-items: center; justify-content: center;
+  box-shadow: var(--shadow-md); text-decoration: none;
+  transition: background .2s, transform .2s;
+}
+.feedback-fab:hover { background: var(--primary-dark); transform: scale(1.1); }
+
 /* ══════════════════════════════════════
    HEADER
    ══════════════════════════════════════ */
