@@ -90,6 +90,7 @@ async function startCustomExam() {
   const checked = [...document.querySelectorAll('input[name="cy"]:checked')].map(el => parseInt(el.value));
   if (checked.length === 0) { alert('請至少選擇一個年份'); return; }
   const count = parseInt(document.getElementById('customCount').value) || 20;
+  const qtype = document.querySelector('input[name="qtype"]:checked')?.value || 'all';
 
   mode = 'custom';
   let pool = [];
@@ -97,6 +98,8 @@ async function startCustomExam() {
     const data = await loadYear(year);
     if (data) pool.push(...data.map(q => ({ ...q, _year: year })));
   }
+  if (qtype !== 'all') pool = pool.filter(q => q.type === qtype);
+  if (pool.length === 0) { alert('所選條件下沒有題目，請調整設定'); return; }
   shuffle(pool);
   questions = pool.slice(0, count);
   answers = {}; current = 0;
