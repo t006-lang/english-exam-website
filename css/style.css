@@ -271,6 +271,8 @@ img { max-width: 100%; }
 .year-check-grid label { font-size: 13px; display: flex; align-items: center; gap: 6px; color: var(--text-2); }
 .type-check-grid { display: flex; gap: 20px; margin-bottom: 16px; }
 .type-check-grid label { font-size: 13px; display: flex; align-items: center; gap: 6px; color: var(--text-2); cursor: pointer; }
+.skill-check-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-bottom: 16px; }
+.skill-check-grid label { font-size: 13px; display: flex; align-items: center; gap: 6px; color: var(--text-2); cursor: pointer; }
 .form-row { display: flex; align-items: center; gap: 12px; margin-bottom: 16px; }
 .form-input { border: 1px solid var(--border); border-radius: var(--radius-sm); padding: 9px 12px; font-size: 14px; background: var(--bg); color: var(--text-1); width: 90px; }
 .form-input:focus { outline: none; border-color: var(--primary); }

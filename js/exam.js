@@ -99,6 +99,8 @@ async function startCustomExam() {
     if (data) pool.push(...data.map(q => ({ ...q, _year: year })));
   }
   if (qtype !== 'all') pool = pool.filter(q => q.type === qtype);
+  const checkedSkills = [...document.querySelectorAll('input[name="cskill"]:checked')].map(el => el.value);
+  if (checkedSkills.length > 0) pool = pool.filter(q => checkedSkills.includes(q.skill));
   if (pool.length === 0) { alert('所選條件下沒有題目，請調整設定'); return; }
   shuffle(pool);
   questions = pool.slice(0, count);
