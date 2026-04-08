@@ -46,7 +46,8 @@
     "word": "above",
     "pos": "prep./adv.",
     "chinese": "在…上方",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "The bird flew above the trees."
   },
   {
     "word": "abroad",
@@ -59,7 +60,8 @@
     "word": "across",
     "pos": "prep./adv.",
     "chinese": "穿越；橫過",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "She walked across the street at the crosswalk."
   },
   {
     "word": "act",
@@ -142,7 +144,8 @@
     "word": "ahead",
     "pos": "adv.",
     "chinese": "在前方",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "Keep going straight ahead and you'll see the park."
   },
   {
     "word": "air",
@@ -162,7 +165,8 @@
     "word": "airport",
     "pos": "n.",
     "chinese": "機場",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "We arrived at the airport two hours before the flight."
   },
   {
     "word": "all",
@@ -210,7 +214,8 @@
     "word": "America",
     "pos": "n.",
     "chinese": "美國",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "She dreams of visiting America one day."
   },
   {
     "word": "American",
@@ -234,7 +239,8 @@
     "word": "angry",
     "pos": "adj.",
     "chinese": "憤怒的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She was angry when someone took her seat."
   },
   {
     "word": "animal",
@@ -311,7 +317,8 @@
     "word": "area",
     "pos": "n.",
     "chinese": "區域；面積",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "This area is known for its fresh seafood."
   },
   {
     "word": "arm",
@@ -324,7 +331,8 @@
     "word": "around",
     "pos": "prep./adv.",
     "chinese": "在…周圍；大約",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "There are many good restaurants around our school."
   },
   {
     "word": "arrive",
@@ -409,7 +417,8 @@
     "word": "bad",
     "pos": "adj.",
     "chinese": "壞的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "It's bad to lie to your friends."
   },
   {
     "word": "badminton",
@@ -435,7 +444,8 @@
     "word": "bakery",
     "pos": "n.",
     "chinese": "麵包店",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "The bakery near our house smells amazing every morning."
   },
   {
     "word": "balcony",
@@ -461,7 +471,8 @@
     "word": "bank",
     "pos": "n.",
     "chinese": "銀行",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "Dad went to the bank to get some money."
   },
   {
     "word": "baseball",
@@ -534,7 +545,8 @@
     "word": "beautiful",
     "pos": "adj.",
     "chinese": "美麗的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "The view from the mountain was beautiful."
   },
   {
     "word": "because",
@@ -592,7 +604,8 @@
     "word": "behind",
     "pos": "prep./adv.",
     "chinese": "在…後面",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "The teacher stood behind the students for the photo."
   },
   {
     "word": "believe",
@@ -616,7 +629,8 @@
     "word": "below",
     "pos": "prep./adv.",
     "chinese": "在…下方",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "The temperature dropped below ten degrees last night."
   },
   {
     "word": "belt",
@@ -636,13 +650,15 @@
     "word": "beside",
     "pos": "prep.",
     "chinese": "在…旁邊",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "She sat beside her best friend during the concert."
   },
   {
     "word": "between",
     "pos": "prep.",
     "chinese": "在…之間",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "The library is between the park and the post office."
   },
   {
     "word": "bicycle",
@@ -706,7 +722,8 @@
     "word": "blind",
     "pos": "adj.",
     "chinese": "盲的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "He is blind but plays the piano brilliantly."
   },
   {
     "word": "block",
@@ -756,19 +773,22 @@
     "word": "bookstore",
     "pos": "n.",
     "chinese": "書店",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "He spent the whole afternoon in the bookstore."
   },
   {
     "word": "bored",
     "pos": "adj.",
     "chinese": "感到無聊的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She felt bored because there was nothing to do."
   },
   {
     "word": "boring",
     "pos": "adj.",
     "chinese": "無聊的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "The lecture was so boring that he fell asleep."
   },
   {
     "word": "born",
@@ -806,7 +826,8 @@
     "word": "bottom",
     "pos": "n./adj.",
     "chinese": "底部",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "Her name was at the bottom of the list."
   },
   {
     "word": "bow",
@@ -839,7 +860,8 @@
     "word": "brave",
     "pos": "adj.",
     "chinese": "勇敢的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "The brave girl helped the injured dog."
   },
   {
     "word": "bread",
@@ -872,7 +894,8 @@
     "word": "bright",
     "pos": "adj.",
     "chinese": "明亮的；聰明的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She is one of the brightest students in school."
   },
   {
     "word": "bring",
@@ -949,7 +972,8 @@
     "word": "busy",
     "pos": "adj.",
     "chinese": "忙碌的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "Mom is always busy on weekday mornings."
   },
   {
     "word": "but",
@@ -1066,7 +1090,8 @@
     "word": "careful",
     "pos": "adj.",
     "chinese": "小心的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "Be careful when you cross the road."
   },
   {
     "word": "carry",
@@ -1123,7 +1148,8 @@
     "word": "center",
     "pos": "n.",
     "chinese": "中心",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "The shopping center is open until ten o'clock."
   },
   {
     "word": "centimeter",
@@ -1208,7 +1234,8 @@
     "word": "China",
     "pos": "n.",
     "chinese": "中國",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "China is the largest country in Asia."
   },
   {
     "word": "Chinese",
@@ -1252,7 +1279,8 @@
     "word": "church",
     "pos": "n.",
     "chinese": "教堂",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "The old church in the town is over two hundred years old."
   },
   {
     "word": "circle",
@@ -1264,7 +1292,8 @@
     "word": "city",
     "pos": "n.",
     "chinese": "城市",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "Taipei is one of the most exciting cities in Asia."
   },
   {
     "word": "clap",
@@ -1303,7 +1332,8 @@
     "word": "clear",
     "pos": "adj./v.",
     "chinese": "清楚的；清除",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "The teacher gave a clear explanation."
   },
   {
     "word": "clerk",
@@ -1409,7 +1439,8 @@
     "word": "comfortable",
     "pos": "adj.",
     "chinese": "舒適的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "This sofa is very comfortable to sit on."
   },
   {
     "word": "comic",
@@ -1421,7 +1452,8 @@
     "word": "common",
     "pos": "adj.",
     "chinese": "普通的；常見的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "Colds are very common in winter."
   },
   {
     "word": "computer",
@@ -1434,7 +1466,8 @@
     "word": "convenient",
     "pos": "adj.",
     "chinese": "方便的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "Living near school is very convenient."
   },
   {
     "word": "cook",
@@ -1466,13 +1499,15 @@
     "word": "corner",
     "pos": "n.",
     "chinese": "角落；轉角",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "Let's meet at the corner of Main Street and Park Road."
   },
   {
     "word": "correct",
     "pos": "adj./v.",
     "chinese": "正確的；更正",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She got all the answers correct."
   },
   {
     "word": "cost",
@@ -1498,7 +1533,8 @@
     "word": "country",
     "pos": "n.",
     "chinese": "國家；鄉村",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "Taiwan is a small but beautiful country."
   },
   {
     "word": "course",
@@ -1531,7 +1567,8 @@
     "word": "crazy",
     "pos": "adj.",
     "chinese": "瘋狂的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "He went a little crazy when his team won the game."
   },
   {
     "word": "cross",
@@ -1562,7 +1599,8 @@
     "word": "cute",
     "pos": "adj.",
     "chinese": "可愛的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "The puppy was so cute that everyone wanted to hold it."
   },
   {
     "word": "dance",
@@ -1575,13 +1613,15 @@
     "word": "dangerous",
     "pos": "adj.",
     "chinese": "危險的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "It is dangerous to text while walking."
   },
   {
     "word": "dark",
     "pos": "adj./n.",
     "chinese": "黑暗的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "It was so dark that she couldn't see anything."
   },
   {
     "word": "date",
@@ -1608,7 +1648,8 @@
     "word": "dead",
     "pos": "adj.",
     "chinese": "死的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "The plant died because he forgot to water it."
   },
   {
     "word": "deal",
@@ -1645,7 +1686,8 @@
     "word": "deep",
     "pos": "adj./adv.",
     "chinese": "深的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "The lake is very deep in the middle."
   },
   {
     "word": "define",
@@ -1671,7 +1713,8 @@
     "word": "department store",
     "pos": "n.",
     "chinese": "百貨公司",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "She bought a gift at the department store."
   },
   {
     "word": "desk",
@@ -1697,13 +1740,15 @@
     "word": "different",
     "pos": "adj.",
     "chinese": "不同的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "Everyone has a different opinion."
   },
   {
     "word": "difficult",
     "pos": "adj.",
     "chinese": "困難的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "The final exam was very difficult."
   },
   {
     "word": "dig",
@@ -1729,7 +1774,8 @@
     "word": "dirty",
     "pos": "adj.",
     "chinese": "髒的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "His shoes were dirty after playing in the mud."
   },
   {
     "word": "dish",
@@ -1895,7 +1941,8 @@
     "word": "early",
     "pos": "adj./adv.",
     "chinese": "早的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She arrived early to get a good seat."
   },
   {
     "word": "earth",
@@ -1915,7 +1962,8 @@
     "word": "east",
     "pos": "n./adj.",
     "chinese": "東方",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "The sun rises in the east every morning."
   },
   {
     "word": "Easter",
@@ -1928,7 +1976,8 @@
     "word": "easy",
     "pos": "adj.",
     "chinese": "容易的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "The first question was easy, but the last one was hard."
   },
   {
     "word": "eat",
@@ -2116,7 +2165,8 @@
     "word": "excellent",
     "pos": "adj.",
     "chinese": "優秀的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "Her drawing was excellent and won first place."
   },
   {
     "word": "except",
@@ -2198,7 +2248,8 @@
     "word": "factory",
     "pos": "n.",
     "chinese": "工廠",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "His father works at a factory that makes shoes."
   },
   {
     "word": "fail",
@@ -2223,7 +2274,8 @@
     "word": "famous",
     "pos": "adj.",
     "chinese": "著名的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "The night market is famous for its oyster omelets."
   },
   {
     "word": "fan",
@@ -2235,13 +2287,15 @@
     "word": "far",
     "pos": "adj./adv.",
     "chinese": "遠的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "The store is far from here—let's take the bus."
   },
   {
     "word": "farm",
     "pos": "n.",
     "chinese": "農場",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "They visited a strawberry farm and picked their own fruit."
   },
   {
     "word": "farmer",
@@ -2254,13 +2308,15 @@
     "word": "fast",
     "pos": "adj./adv.",
     "chinese": "快的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "He is the fastest runner in the school."
   },
   {
     "word": "fat",
     "pos": "adj./n.",
     "chinese": "胖的；脂肪",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "Too much junk food can make you fat and unhealthy."
   },
   {
     "word": "father",
@@ -2361,7 +2417,8 @@
     "word": "fine",
     "pos": "adj.",
     "chinese": "好的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "I'm fine, thank you for asking."
   },
   {
     "word": "finger",
@@ -2472,7 +2529,8 @@
     "word": "foreign",
     "pos": "adj.",
     "chinese": "外國的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She enjoys learning foreign languages."
   },
   {
     "word": "foreigner",
@@ -2532,7 +2590,8 @@
     "word": "fresh",
     "pos": "adj.",
     "chinese": "新鮮的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "We buy fresh fruit at the market every morning."
   },
   {
     "word": "Friday",
@@ -2551,7 +2610,8 @@
     "word": "friendly",
     "pos": "adj.",
     "chinese": "友善的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "Our new teacher is very friendly and patient."
   },
   {
     "word": "fries",
@@ -2577,7 +2637,8 @@
     "word": "front",
     "pos": "n./adj.",
     "chinese": "前面",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "She sat in the front row to see the stage clearly."
   },
   {
     "word": "fruit",
@@ -2596,7 +2657,8 @@
     "word": "full",
     "pos": "adj.",
     "chinese": "滿的；飽的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "I'm full—I can't eat another bite."
   },
   {
     "word": "fun",
@@ -2608,7 +2670,8 @@
     "word": "funny",
     "pos": "adj.",
     "chinese": "好笑的；奇怪的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "He told a funny joke and everyone laughed."
   },
   {
     "word": "future",
@@ -2646,7 +2709,8 @@
     "word": "gate",
     "pos": "n.",
     "chinese": "大門",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "We waited at the school gate for our parents."
   },
   {
     "word": "get",
@@ -2691,7 +2755,8 @@
     "word": "glad",
     "pos": "adj.",
     "chinese": "高興的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "I'm glad you could come to my birthday party."
   },
   {
     "word": "glass",
@@ -2742,7 +2807,8 @@
     "word": "good",
     "pos": "adj.",
     "chinese": "好的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She is good at math and science."
   },
   {
     "word": "good-bye",
@@ -2809,7 +2875,8 @@
     "word": "great",
     "pos": "adj.",
     "chinese": "很棒的；偉大的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "It was a great day to be outside."
   },
   {
     "word": "green",
@@ -2921,7 +2988,8 @@
     "word": "handsome",
     "pos": "adj.",
     "chinese": "英俊的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She thought the new student was very handsome."
   },
   {
     "word": "hang",
@@ -2939,19 +3007,22 @@
     "word": "happy",
     "pos": "adj.",
     "chinese": "快樂的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She was happy to hear that she passed the test."
   },
   {
     "word": "hard",
     "pos": "adj./adv.",
     "chinese": "困難的；努力地",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "He worked hard all night to finish the project."
   },
   {
     "word": "hard-working",
     "pos": "adj.",
     "chinese": "勤勞的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She is hard-working and never gives up."
   },
   {
     "word": "hat",
@@ -3029,7 +3100,8 @@
     "word": "heavy",
     "pos": "adj.",
     "chinese": "重的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "The bag was too heavy for her to carry alone."
   },
   {
     "word": "height",
@@ -3091,7 +3163,8 @@
     "word": "high",
     "pos": "adj./adv.",
     "chinese": "高的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "The kite flew very high in the sky."
   },
   {
     "word": "hike",
@@ -3157,7 +3230,8 @@
     "word": "honest",
     "pos": "adj.",
     "chinese": "誠實的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "An honest person always tells the truth."
   },
   {
     "word": "honey",
@@ -3182,13 +3256,15 @@
     "word": "hospital",
     "pos": "n.",
     "chinese": "醫院",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "He stayed in the hospital for three days after the accident."
   },
   {
     "word": "hot",
     "pos": "adj.",
     "chinese": "熱的；辣的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "It was so hot today that we stayed inside all day."
   },
   {
     "word": "hot dog",
@@ -3201,7 +3277,8 @@
     "word": "hotel",
     "pos": "n.",
     "chinese": "飯店",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "We stayed at a small hotel near the beach."
   },
   {
     "word": "hour",
@@ -3247,7 +3324,8 @@
     "word": "hungry",
     "pos": "adj.",
     "chinese": "饑餓的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "He was hungry after practice and ate two bowls of rice."
   },
   {
     "word": "hunt",
@@ -3309,7 +3387,8 @@
     "word": "important",
     "pos": "adj.",
     "chinese": "重要的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "Sleep is important for your health."
   },
   {
     "word": "in",
@@ -3335,7 +3414,8 @@
     "word": "inside",
     "pos": "prep./adv.",
     "chinese": "在裡面",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "It was too hot outside, so we stayed inside."
   },
   {
     "word": "interest",
@@ -3347,13 +3427,15 @@
     "word": "interested",
     "pos": "adj.",
     "chinese": "感興趣的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She is interested in learning how to cook."
   },
   {
     "word": "interesting",
     "pos": "adj.",
     "chinese": "有趣的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "The documentary about space was very interesting."
   },
   {
     "word": "Internet",
@@ -3535,7 +3617,8 @@
     "word": "kind",
     "pos": "adj./n.",
     "chinese": "親切的；種類",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "It was kind of you to help me carry my bags."
   },
   {
     "word": "king",
@@ -3627,7 +3710,8 @@
     "word": "large",
     "pos": "adj.",
     "chinese": "大的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "They moved to a larger apartment for their growing family."
   },
   {
     "word": "last",
@@ -3639,7 +3723,8 @@
     "word": "late",
     "pos": "adj./adv.",
     "chinese": "晚的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "He was late for school because he missed the bus."
   },
   {
     "word": "later",
@@ -3664,7 +3749,8 @@
     "word": "lazy",
     "pos": "adj.",
     "chinese": "懶惰的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "Don't be lazy—finish your homework before playing."
   },
   {
     "word": "lead",
@@ -3701,7 +3787,8 @@
     "word": "left",
     "pos": "adj./adv./n.",
     "chinese": "左邊；剩下的",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "Turn left at the traffic light to find the school."
   },
   {
     "word": "leg",
@@ -3759,7 +3846,8 @@
     "word": "library",
     "pos": "n.",
     "chinese": "圖書館",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "She borrows two books from the library every week."
   },
   {
     "word": "lie",
@@ -3777,7 +3865,8 @@
     "word": "light",
     "pos": "n./adj./v.",
     "chinese": "光；輕的；點燃",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "The room was bright and filled with natural light."
   },
   {
     "word": "like",
@@ -3821,7 +3910,8 @@
     "word": "little",
     "pos": "adj./adv.",
     "chinese": "小的；少量",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She was a little nervous before her speech."
   },
   {
     "word": "live",
@@ -3840,13 +3930,15 @@
     "word": "lonely",
     "pos": "adj.",
     "chinese": "孤獨的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "He felt lonely when his best friend moved away."
   },
   {
     "word": "long",
     "pos": "adj./adv.",
     "chinese": "長的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She has long hair that reaches her waist."
   },
   {
     "word": "look",
@@ -3864,7 +3956,8 @@
     "word": "loud",
     "pos": "adj./adv.",
     "chinese": "大聲的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "The music was too loud at the concert."
   },
   {
     "word": "love",
@@ -3876,19 +3969,22 @@
     "word": "lovely",
     "pos": "adj.",
     "chinese": "可愛的；美好的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "What a lovely day for a picnic!"
   },
   {
     "word": "low",
     "pos": "adj./adv.",
     "chinese": "低的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "Her voice was so low that I could barely hear her."
   },
   {
     "word": "lucky",
     "pos": "adj.",
     "chinese": "幸運的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She felt lucky to have such good friends."
   },
   {
     "word": "lunch",
@@ -3907,7 +4003,8 @@
     "word": "mad",
     "pos": "adj.",
     "chinese": "生氣的；瘋狂的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "He was mad at himself for forgetting his homework."
   },
   {
     "word": "magic",
@@ -3933,7 +4030,8 @@
     "word": "main",
     "pos": "adj.",
     "chinese": "主要的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "The main idea of the story is about friendship."
   },
   {
     "word": "make",
@@ -4065,7 +4163,8 @@
     "word": "medium",
     "pos": "adj./n.",
     "chinese": "中等的；媒介",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She ordered a medium-sized coffee."
   },
   {
     "word": "meet",
@@ -4162,7 +4261,8 @@
     "word": "modern",
     "pos": "adj.",
     "chinese": "現代的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "The school has a modern library with lots of computers."
   },
   {
     "word": "moment",
@@ -4316,7 +4416,8 @@
     "word": "museum",
     "pos": "n.",
     "chinese": "博物館",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "We visited the science museum for our school trip."
   },
   {
     "word": "music",
@@ -4348,7 +4449,8 @@
     "word": "national",
     "pos": "adj.",
     "chinese": "國家的；全國的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "We sing the national anthem every morning at school."
   },
   {
     "word": "nature",
@@ -4361,7 +4463,8 @@
     "word": "near",
     "pos": "prep./adj./adv.",
     "chinese": "靠近",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "There is a convenience store near our school."
   },
   {
     "word": "neck",
@@ -4393,7 +4496,8 @@
     "word": "new",
     "pos": "adj.",
     "chinese": "新的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She showed off her new shoes to her classmates."
   },
   {
     "word": "news",
@@ -4419,7 +4523,8 @@
     "word": "nice",
     "pos": "adj.",
     "chinese": "好的；友善的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "It was nice of him to help the old woman."
   },
   {
     "word": "night",
@@ -4471,7 +4576,8 @@
     "word": "noisy",
     "pos": "adj.",
     "chinese": "吵鬧的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "The classroom was noisy until the teacher walked in."
   },
   {
     "word": "noodle",
@@ -4491,7 +4597,8 @@
     "word": "north",
     "pos": "n./adj.",
     "chinese": "北方",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "It gets colder as you travel north."
   },
   {
     "word": "nose",
@@ -4589,7 +4696,8 @@
     "word": "office",
     "pos": "n.",
     "chinese": "辦公室",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "His mom works in an office downtown."
   },
   {
     "word": "officer",
@@ -4621,7 +4729,8 @@
     "word": "old",
     "pos": "adj.",
     "chinese": "老的；舊的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "My grandfather told us old stories about his childhood."
   },
   {
     "word": "on",
@@ -4690,7 +4799,8 @@
     "word": "outside",
     "pos": "adv./prep.",
     "chinese": "在外面",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "The students lined up outside the classroom."
   },
   {
     "word": "over",
@@ -4773,7 +4883,8 @@
     "word": "park",
     "pos": "n./v.",
     "chinese": "公園；停車",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "The children played on the swings in the park."
   },
   {
     "word": "part",
@@ -4958,7 +5069,8 @@
     "word": "place",
     "pos": "n./v.",
     "chinese": "地方；放置",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "This is my favorite place to read."
   },
   {
     "word": "plan",
@@ -5003,7 +5115,8 @@
     "word": "playground",
     "pos": "n.",
     "chinese": "操場",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "The kids ran to the playground after school."
   },
   {
     "word": "please",
@@ -5039,7 +5152,8 @@
     "word": "polite",
     "pos": "adj.",
     "chinese": "有禮貌的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "It is polite to say thank you when someone helps you."
   },
   {
     "word": "pond",
@@ -5058,7 +5172,8 @@
     "word": "poor",
     "pos": "adj.",
     "chinese": "貧窮的；可憐的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "The poor puppy was left out in the rain."
   },
   {
     "word": "pop",
@@ -5077,7 +5192,8 @@
     "word": "popular",
     "pos": "adj.",
     "chinese": "受歡迎的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "Bubble tea is very popular with teenagers."
   },
   {
     "word": "pork",
@@ -5090,13 +5206,15 @@
     "word": "possible",
     "pos": "adj.",
     "chinese": "可能的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "It is possible to learn a language if you practice daily."
   },
   {
     "word": "post office",
     "pos": "n.",
     "chinese": "郵局",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "She went to the post office to mail a package."
   },
   {
     "word": "postcard",
@@ -5159,7 +5277,8 @@
     "word": "pretty",
     "pos": "adj./adv.",
     "chinese": "漂亮的；相當",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "The flowers in the garden are very pretty."
   },
   {
     "word": "price",
@@ -5192,13 +5311,15 @@
     "word": "proud",
     "pos": "adj.",
     "chinese": "驕傲的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "Her parents were proud of her when she won the award."
   },
   {
     "word": "public",
     "pos": "adj./n.",
     "chinese": "公共的；大眾",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "Please be quiet in public places like libraries."
   },
   {
     "word": "pull",
@@ -5261,13 +5382,15 @@
     "word": "quick",
     "pos": "adj./adv.",
     "chinese": "快的；迅速",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She gave a quick answer and surprised the teacher."
   },
   {
     "word": "quiet",
     "pos": "adj.",
     "chinese": "安靜的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "The library should be quiet so everyone can focus."
   },
   {
     "word": "quite",
@@ -5353,13 +5476,15 @@
     "word": "ready",
     "pos": "adj.",
     "chinese": "準備好的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "Are you ready? The bus is leaving in five minutes."
   },
   {
     "word": "real",
     "pos": "adj.",
     "chinese": "真實的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "Is that a real diamond or a fake one?"
   },
   {
     "word": "really",
@@ -5429,13 +5554,15 @@
     "word": "restaurant",
     "pos": "n.",
     "chinese": "餐廳",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "We tried a new restaurant for Mom's birthday dinner."
   },
   {
     "word": "restroom",
     "pos": "n.",
     "chinese": "洗手間",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "He asked where the restroom was at the museum."
   },
   {
     "word": "rice",
@@ -5448,7 +5575,8 @@
     "word": "rich",
     "pos": "adj.",
     "chinese": "富有的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "He is not rich in money, but rich in good friends."
   },
   {
     "word": "ride",
@@ -5460,7 +5588,8 @@
     "word": "right",
     "pos": "adj./adv./n.",
     "chinese": "對的；右邊",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "Turn right after the bridge and the school is on your left."
   },
   {
     "word": "ring",
@@ -5569,13 +5698,15 @@
     "word": "sad",
     "pos": "adj.",
     "chinese": "悲傷的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She felt sad when she said goodbye to her friends."
   },
   {
     "word": "safe",
     "pos": "adj.",
     "chinese": "安全的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "Always wear a helmet to stay safe while riding."
   },
   {
     "word": "sail",
@@ -5616,7 +5747,8 @@
     "word": "same",
     "pos": "adj./pron.",
     "chinese": "相同的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "We have the same favorite book."
   },
   {
     "word": "sandwich",
@@ -5648,13 +5780,15 @@
     "word": "scared",
     "pos": "adj.",
     "chinese": "害怕的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "He was scared of the dark when he was little."
   },
   {
     "word": "school",
     "pos": "n.",
     "chinese": "學校",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "She loves going to school and learning new things."
   },
   {
     "word": "science",
@@ -5772,7 +5906,8 @@
     "word": "serious",
     "pos": "adj.",
     "chinese": "嚴重的；認真的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She has a serious look on her face during tests."
   },
   {
     "word": "service",
@@ -5836,7 +5971,8 @@
     "word": "sharp",
     "pos": "adj.",
     "chinese": "鋒利的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "Be careful—this knife is very sharp."
   },
   {
     "word": "she",
@@ -5896,7 +6032,8 @@
     "word": "short",
     "pos": "adj.",
     "chinese": "矮的；短的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She is a little short but very fast."
   },
   {
     "word": "shorts",
@@ -5940,7 +6077,8 @@
     "word": "shy",
     "pos": "adj.",
     "chinese": "害羞的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "He was shy at first but soon made many friends."
   },
   {
     "word": "sick",
@@ -5960,7 +6098,8 @@
     "word": "sidewalk",
     "pos": "n.",
     "chinese": "人行道",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "Always walk on the sidewalk, not on the road."
   },
   {
     "word": "sight",
@@ -5978,7 +6117,8 @@
     "word": "simple",
     "pos": "adj.",
     "chinese": "簡單的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "The recipe is simple and easy to follow."
   },
   {
     "word": "since",
@@ -6077,25 +6217,29 @@
     "word": "slim",
     "pos": "adj.",
     "chinese": "苗條的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She stays slim by exercising and eating well."
   },
   {
     "word": "slow",
     "pos": "adj./adv.",
     "chinese": "慢的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "The turtle walked slowly but never gave up."
   },
   {
     "word": "small",
     "pos": "adj.",
     "chinese": "小的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "Our classroom is small but very cozy."
   },
   {
     "word": "smart",
     "pos": "adj.",
     "chinese": "聰明的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She is smart and always gets good grades."
   },
   {
     "word": "smell",
@@ -6256,7 +6400,8 @@
     "word": "south",
     "pos": "n./adj.",
     "chinese": "南方",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "Many birds fly south for the winter."
   },
   {
     "word": "space",
@@ -6275,7 +6420,8 @@
     "word": "special",
     "pos": "adj.",
     "chinese": "特別的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "Today is special because it's my best friend's birthday."
   },
   {
     "word": "spell",
@@ -6412,13 +6558,15 @@
     "word": "straight",
     "pos": "adj./adv.",
     "chinese": "直的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "Stand straight and look ahead during the ceremony."
   },
   {
     "word": "strange",
     "pos": "adj.",
     "chinese": "奇怪的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "A strange sound came from behind the wall."
   },
   {
     "word": "stranger",
@@ -6451,7 +6599,8 @@
     "word": "strong",
     "pos": "adj.",
     "chinese": "強壯的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "He is strong and helps carry heavy things for others."
   },
   {
     "word": "student",
@@ -6470,7 +6619,8 @@
     "word": "stupid",
     "pos": "adj.",
     "chinese": "愚蠢的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "It was stupid of me to leave my umbrella at home."
   },
   {
     "word": "subject",
@@ -6483,7 +6633,8 @@
     "word": "successful",
     "pos": "adj.",
     "chinese": "成功的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She became a successful writer after years of hard work."
   },
   {
     "word": "sugar",
@@ -6562,7 +6713,8 @@
     "word": "sweet",
     "pos": "adj.",
     "chinese": "甜的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "The mango is very sweet and juicy."
   },
   {
     "word": "swim",
@@ -6594,7 +6746,8 @@
     "word": "Taiwan",
     "pos": "n.",
     "chinese": "台灣",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "Taiwan is famous for its night markets and bubble tea."
   },
   {
     "word": "take",
@@ -6612,7 +6765,8 @@
     "word": "tall",
     "pos": "adj.",
     "chinese": "高的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "He is the tallest student in the class."
   },
   {
     "word": "tape",
@@ -6691,7 +6845,8 @@
     "word": "temple",
     "pos": "n.",
     "chinese": "廟宇",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "We visited a beautiful temple on the mountain."
   },
   {
     "word": "ten",
@@ -6711,7 +6866,8 @@
     "word": "terrible",
     "pos": "adj.",
     "chinese": "糟糕的；可怕的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "I had a terrible headache all day."
   },
   {
     "word": "test",
@@ -6748,7 +6904,8 @@
     "word": "theater",
     "pos": "n.",
     "chinese": "劇院；電影院",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "We saw a musical at the theater last weekend."
   },
   {
     "word": "then",
@@ -6778,13 +6935,15 @@
     "word": "thick",
     "pos": "adj.",
     "chinese": "厚的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She wore a thick coat because it was freezing outside."
   },
   {
     "word": "thin",
     "pos": "adj.",
     "chinese": "薄的；瘦的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "The wall is so thin that we can hear everything next door."
   },
   {
     "word": "thing",
@@ -6808,7 +6967,8 @@
     "word": "thirsty",
     "pos": "adj.",
     "chinese": "口渴的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "After running, she was very thirsty."
   },
   {
     "word": "thirteen",
@@ -6893,7 +7053,8 @@
     "word": "tidy",
     "pos": "adj./v.",
     "chinese": "整齊的；整理",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "Keep your desk tidy so you can find things easily."
   },
   {
     "word": "tie",
@@ -6926,7 +7087,8 @@
     "word": "tired",
     "pos": "adj.",
     "chinese": "疲倦的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She was tired after the long hike up the mountain."
   },
   {
     "word": "to",
@@ -7004,7 +7166,8 @@
     "word": "top",
     "pos": "n./adj.",
     "chinese": "頂部；最高的",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "She worked hard to get to the top of her class."
   },
   {
     "word": "topic",
@@ -7036,7 +7199,8 @@
     "word": "town",
     "pos": "n.",
     "chinese": "城鎮",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "He grew up in a small town near the mountains."
   },
   {
     "word": "toy",
@@ -7107,7 +7271,8 @@
     "word": "true",
     "pos": "adj.",
     "chinese": "真實的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "Is it true that you won the spelling bee?"
   },
   {
     "word": "try",
@@ -7186,7 +7351,8 @@
     "word": "ugly",
     "pos": "adj.",
     "chinese": "醜的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "He thought the old building was ugly but interesting."
   },
   {
     "word": "umbrella",
@@ -7217,7 +7383,8 @@
     "word": "unhappy",
     "pos": "adj.",
     "chinese": "不快樂的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She was unhappy when her project wasn't chosen."
   },
   {
     "word": "uniform",
@@ -7249,7 +7416,8 @@
     "word": "USA",
     "pos": "n.",
     "chinese": "美國",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "The USA has fifty states."
   },
   {
     "word": "use",
@@ -7261,7 +7429,8 @@
     "word": "useful",
     "pos": "adj.",
     "chinese": "有用的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "A dictionary is a very useful tool for learning English."
   },
   {
     "word": "usually",
@@ -7379,7 +7548,8 @@
     "word": "warm",
     "pos": "adj.",
     "chinese": "溫暖的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She felt warm and happy sitting by the fireplace."
   },
   {
     "word": "wash",
@@ -7429,7 +7599,8 @@
     "word": "weak",
     "pos": "adj.",
     "chinese": "虛弱的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "He was weak after being sick for a week."
   },
   {
     "word": "wear",
@@ -7481,13 +7652,15 @@
     "word": "west",
     "pos": "n./adj.",
     "chinese": "西方",
-    "topic": "Places & Directions"
+    "topic": "Places & Directions",
+    "example": "The sun sets in the west every evening."
   },
   {
     "word": "wet",
     "pos": "adj.",
     "chinese": "濕的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "His clothes were wet after walking in the rain."
   },
   {
     "word": "what",
@@ -7529,7 +7702,8 @@
     "word": "white",
     "pos": "adj./n.",
     "chinese": "白色的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She wore a white dress to the graduation ceremony."
   },
   {
     "word": "who",
@@ -7553,7 +7727,8 @@
     "word": "wide",
     "pos": "adj.",
     "chinese": "寬的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "The road is wide enough for three cars."
   },
   {
     "word": "wife",
@@ -7606,7 +7781,8 @@
     "word": "wise",
     "pos": "adj.",
     "chinese": "聰明的；有智慧的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "A wise person learns from their mistakes."
   },
   {
     "word": "wish",
@@ -7637,7 +7813,8 @@
     "word": "wonderful",
     "pos": "adj.",
     "chinese": "很棒的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "We had a wonderful time at the school fair."
   },
   {
     "word": "word",
@@ -7694,7 +7871,8 @@
     "word": "wrong",
     "pos": "adj./adv.",
     "chinese": "錯的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She gave the wrong answer but learned from the mistake."
   },
   {
     "word": "yard",
@@ -7745,13 +7923,15 @@
     "word": "young",
     "pos": "adj.",
     "chinese": "年輕的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "She is young but already very talented."
   },
   {
     "word": "yummy",
     "pos": "adj.",
     "chinese": "好吃的",
-    "topic": "Personal characteristics"
+    "topic": "Personal characteristics",
+    "example": "The pizza smelled yummy as soon as it came out of the oven."
   },
   {
     "word": "zebra",
