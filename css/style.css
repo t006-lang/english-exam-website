@@ -343,6 +343,12 @@ img { max-width: 100%; }
   color: var(--text-3); font-size: 13px;
   background: var(--bg); border-radius: var(--radius-sm);
 }
+.passage-blank {
+  display: inline-block;
+  font-weight: 700; color: var(--primary-dark);
+  border-bottom: 2px solid var(--primary);
+  padding: 0 3px; min-width: 20px; text-align: center;
+}
 .passage-text {
   margin-top: 12px; font-size: 15px; line-height: 1.7;
   color: var(--text-1);

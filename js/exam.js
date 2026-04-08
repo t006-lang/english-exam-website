@@ -203,14 +203,14 @@ function renderQ() {
       `<img src="${src}" alt="題組圖表" class="passage-img" onerror="this.outerHTML='<div class=\\'passage-img-missing\\'>⚠️ 圖片尚未上傳（${src}）</div>'">`
     ).join('');
     if (q.passage) {
-      html += `<div class="passage-text">${q.passage.replace(/\n/g, '<br>')}</div>`;
+      html += `<div class="passage-text">${highlightBlanks(q.passage)}</div>`;
     }
     pb.innerHTML = html;
     pb.classList.remove('text-only');
     passageCol.style.display = '';
     examBody.classList.add('two-col');
   } else if (q.passage) {
-    pb.textContent = q.passage;
+    pb.innerHTML = highlightBlanks(q.passage);
     pb.classList.add('text-only');
     passageCol.style.display = '';
     examBody.classList.add('two-col');
@@ -513,6 +513,30 @@ function exitExam() {
 }
 
 // ── 工具 ────────────────────────────────────────────────────
+
+// 將克漏字篇章中的空格題號加底線
+function highlightBlanks(passage) {
+  // 找出共用同一篇章的所有題目 id（即空格位置）
+  const blankIds = questions
+    .filter(q => q.passage === passage && q.type === 'passage')
+    .map(q => q.id);
+
+  // 先 HTML 跳脫
+  let html = passage
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;');
+
+  // 把每個空格題號換成底線樣式（\b 確保不誤傷數字內的子字串）
+  blankIds.forEach(id => {
+    html = html.replace(
+      new RegExp(`\\b${id}\\b`, 'g'),
+      `<span class="passage-blank">${id}</span>`
+    );
+  });
+
+  return html.replace(/\n/g, '<br>');
+}
 
 function show(id) { document.getElementById(id).style.display = ''; }
 function hide(id) { document.getElementById(id).style.display = 'none'; }
