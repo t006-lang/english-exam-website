@@ -570,7 +570,10 @@ img { max-width: 100%; }
 .quiz-fb-word { font-weight: 400; color: var(--text-2); }
 .quiz-fb-sentence {
   font-size: 14px; font-style: italic; color: var(--text-2);
-  line-height: 1.7;
+  line-height: 1.7; margin-bottom: 2px;
+}
+.quiz-fb-sentence-zh {
+  font-size: 13px; color: var(--text-3); line-height: 1.6;
 }
 
 .quiz-result {

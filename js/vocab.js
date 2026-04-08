@@ -246,7 +246,8 @@ function selectQuizOpt(el, chosen, correct) {
       <div class="quiz-fb-title">${isCorrect ? '✓ 答對了！' : '✗ 答錯了！'}
         <span class="quiz-fb-word"> — <strong>${cw.word}</strong>: (${cw.pos}) ${cw.chinese}</span>
       </div>
-      ${fullSentence ? `<div class="quiz-fb-sentence">${fullSentence}</div>` : ''}`;
+      ${fullSentence ? `<div class="quiz-fb-sentence">${fullSentence}</div>` : ''}
+      ${cw.exampleZh ? `<div class="quiz-fb-sentence-zh">${cw.exampleZh}</div>` : ''}`;
     fb.style.display = '';
   }
 
