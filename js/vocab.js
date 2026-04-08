@@ -165,7 +165,11 @@ function markStatus(status) {
 // ── 測驗 ────────────────────────────────────────────────────
 
 function startQuiz() {
-  const pool = filteredWords.length >= 4 ? filteredWords : allWords;
+  const base = filteredWords.length >= 4 ? filteredWords : allWords;
+  // 優先有例句的單字
+  const pool = base.filter(w => w.example).length >= 4
+    ? base.filter(w => w.example)
+    : base;
   const shuffled = [...pool].sort(() => Math.random()-0.5);
   quizWords = shuffled.slice(0, QUIZ_SIZE);
   quizIndex = 0; quizCorrect = 0;
@@ -179,16 +183,21 @@ function startQuiz() {
 function renderQuizQ() {
   if (quizIndex >= quizWords.length) { showQuizEnd(); return; }
   const w = quizWords[quizIndex];
-  document.getElementById('quizWord').textContent = w.word + '  ' + w.pos;
 
-  // 4個選項：1正確+3隨機
-  const correct = w;
-  const others = allWords.filter(x => x.word !== w.word).sort(() => Math.random()-0.5).slice(0,3);
-  const opts = [correct, ...others].sort(() => Math.random()-0.5);
+  // 例句中的目標單字換成空格
+  const blank = '______';
+  const sentence = w.example
+    ? w.example.replace(new RegExp(`\\b${w.word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'gi'), blank)
+    : blank;
+  document.getElementById('quizWord').textContent = sentence;
+
+  // 4個選項：1正確英文單字 + 3隨機英文單字
+  const others = allWords.filter(x => x.word !== w.word).sort(() => Math.random()-0.5).slice(0, 3);
+  const opts = [w, ...others].sort(() => Math.random()-0.5);
 
   document.getElementById('btnNextQuiz').style.display = 'none';
   document.getElementById('quizOptions').innerHTML = opts.map(o => `
-    <button class="quiz-opt" onclick="selectQuizOpt(this,'${o.word}','${w.word}')">${o.chinese}</button>
+    <button class="quiz-opt" onclick="selectQuizOpt(this,'${o.word}','${w.word}')">${o.word}</button>
   `).join('');
 }
 
@@ -200,7 +209,9 @@ function selectQuizOpt(el, chosen, correct) {
     Storage.markCorrect(0, chosen);
   } else {
     el.classList.add('opt-wrong');
-    document.querySelectorAll('.quiz-opt').forEach(b => { if(b.textContent === allWords.find(w=>w.word===correct)?.chinese) b.classList.add('opt-correct'); });
+    document.querySelectorAll('.quiz-opt').forEach(b => {
+      if (b.textContent.trim() === correct) b.classList.add('opt-correct');
+    });
     Storage.markWrong(0, chosen);
   }
   quizIndex++;
