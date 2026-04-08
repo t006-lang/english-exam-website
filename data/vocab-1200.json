@@ -75,13 +75,15 @@
     "word": "actor",
     "pos": "n.",
     "chinese": "男演員",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "The actor practiced his lines every day."
   },
   {
     "word": "actress",
     "pos": "n.",
     "chinese": "女演員",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "She became a famous actress after her first movie."
   },
   {
     "word": "actually",
@@ -141,7 +143,8 @@
     "word": "air",
     "pos": "n.",
     "chinese": "空氣",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "The air in the mountains is clean and fresh."
   },
   {
     "word": "airplane",
@@ -401,13 +404,15 @@
     "word": "badminton",
     "pos": "n.",
     "chinese": "羽毛球",
-    "topic": "Sports & Recreation"
+    "topic": "Sports & Recreation",
+    "example": "We played badminton in the park after school."
   },
   {
     "word": "bag",
     "pos": "n.",
     "chinese": "袋子",
-    "topic": "Shopping & Money"
+    "topic": "Shopping & Money",
+    "example": "She bought a new bag for her trip."
   },
   {
     "word": "bake",
@@ -450,7 +455,8 @@
     "word": "baseball",
     "pos": "n.",
     "chinese": "棒球",
-    "topic": "Sports & Recreation"
+    "topic": "Sports & Recreation",
+    "example": "He practices baseball every weekend with his team."
   },
   {
     "word": "basket",
@@ -462,7 +468,8 @@
     "word": "basketball",
     "pos": "n.",
     "chinese": "籃球",
-    "topic": "Sports & Recreation"
+    "topic": "Sports & Recreation",
+    "example": "She made the winning shot in the basketball game."
   },
   {
     "word": "bat",
@@ -493,7 +500,8 @@
     "word": "beach",
     "pos": "n.",
     "chinese": "海灘",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "We spent the whole day at the beach last summer."
   },
   {
     "word": "bean",
@@ -759,7 +767,8 @@
     "word": "boss",
     "pos": "n.",
     "chinese": "老闆",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "His boss gave him a day off for his birthday."
   },
   {
     "word": "both",
@@ -771,7 +780,8 @@
     "word": "bottle",
     "pos": "n.",
     "chinese": "瓶子",
-    "topic": "Shopping & Money"
+    "topic": "Shopping & Money",
+    "example": "He always brings a bottle of water to school."
   },
   {
     "word": "bottom",
@@ -795,13 +805,15 @@
     "word": "box",
     "pos": "n.",
     "chinese": "箱子",
-    "topic": "Shopping & Money"
+    "topic": "Shopping & Money",
+    "example": "Mom kept the old photos in a wooden box."
   },
   {
     "word": "boy",
     "pos": "n.",
     "chinese": "男孩",
-    "topic": "People"
+    "topic": "People",
+    "example": "The boy kicked the ball into the goal."
   },
   {
     "word": "brave",
@@ -901,13 +913,15 @@
     "word": "business",
     "pos": "n.",
     "chinese": "生意；事務",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "Her family runs a small food business."
   },
   {
     "word": "businessman",
     "pos": "n.",
     "chinese": "商人",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "The businessman flew to Japan for a meeting."
   },
   {
     "word": "busy",
@@ -976,7 +990,8 @@
     "word": "camp",
     "pos": "n./v.",
     "chinese": "營地；露營",
-    "topic": "Sports & Recreation"
+    "topic": "Sports & Recreation",
+    "example": "We went to a summer camp in the mountains."
   },
   {
     "word": "can",
@@ -1014,7 +1029,8 @@
     "word": "card",
     "pos": "n.",
     "chinese": "卡片",
-    "topic": "Shopping & Money"
+    "topic": "Shopping & Money",
+    "example": "I sent her a birthday card with a gift."
   },
   {
     "word": "care",
@@ -1118,7 +1134,8 @@
     "word": "cheap",
     "pos": "adj.",
     "chinese": "便宜的",
-    "topic": "Shopping & Money"
+    "topic": "Shopping & Money",
+    "example": "This store sells cheap but good-quality food."
   },
   {
     "word": "cheat",
@@ -1263,7 +1280,8 @@
     "word": "clerk",
     "pos": "n.",
     "chinese": "店員；職員",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "The clerk helped me find the right size."
   },
   {
     "word": "climb",
@@ -1294,13 +1312,15 @@
     "word": "cloud",
     "pos": "n.",
     "chinese": "雲",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "Dark clouds appeared before the storm."
   },
   {
     "word": "cloudy",
     "pos": "adj.",
     "chinese": "多雲的",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "It was cloudy all day, but it didn't rain."
   },
   {
     "word": "club",
@@ -1426,7 +1446,8 @@
     "word": "cost",
     "pos": "v./n.",
     "chinese": "花費；費用",
-    "topic": "Shopping & Money"
+    "topic": "Shopping & Money",
+    "example": "How much does this jacket cost?"
   },
   {
     "word": "couch",
@@ -1513,7 +1534,8 @@
     "word": "dance",
     "pos": "v./n.",
     "chinese": "跳舞",
-    "topic": "Sports & Recreation"
+    "topic": "Sports & Recreation",
+    "example": "She dances every Friday at the community center."
   },
   {
     "word": "dangerous",
@@ -1605,7 +1627,8 @@
     "word": "dentist",
     "pos": "n.",
     "chinese": "牙醫",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "I go to the dentist twice a year."
   },
   {
     "word": "department store",
@@ -1685,7 +1708,8 @@
     "word": "doctor",
     "pos": "n.",
     "chinese": "醫生",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "The doctor told me to drink more water."
   },
   {
     "word": "dog",
@@ -1704,7 +1728,8 @@
     "word": "dollar",
     "pos": "n.",
     "chinese": "元",
-    "topic": "Shopping & Money"
+    "topic": "Shopping & Money",
+    "example": "He saved fifty dollars to buy a new game."
   },
   {
     "word": "door",
@@ -1776,7 +1801,8 @@
     "word": "driver",
     "pos": "n.",
     "chinese": "駕駛",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "The bus driver waited for everyone to sit down."
   },
   {
     "word": "drop",
@@ -1832,13 +1858,15 @@
     "word": "earth",
     "pos": "n.",
     "chinese": "地球；土地",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "We should protect the earth by recycling."
   },
   {
     "word": "earthquake",
     "pos": "n.",
     "chinese": "地震",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "The earthquake shook the buildings for ten seconds."
   },
   {
     "word": "east",
@@ -1937,7 +1965,8 @@
     "word": "engineer",
     "pos": "n.",
     "chinese": "工程師",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "He became an engineer and designed bridges."
   },
   {
     "word": "English",
@@ -2079,7 +2108,8 @@
     "word": "expensive",
     "pos": "adj.",
     "chinese": "昂貴的",
-    "topic": "Shopping & Money"
+    "topic": "Shopping & Money",
+    "example": "The shoes were too expensive, so she didn't buy them."
   },
   {
     "word": "experience",
@@ -2166,7 +2196,8 @@
     "word": "farmer",
     "pos": "n.",
     "chinese": "農夫",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "The farmer woke up early to water the plants."
   },
   {
     "word": "fast",
@@ -2314,7 +2345,8 @@
     "word": "fisherman",
     "pos": "n.",
     "chinese": "漁夫",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "The fisherman caught ten fish this morning."
   },
   {
     "word": "five",
@@ -2338,7 +2370,8 @@
     "word": "flower",
     "pos": "n.",
     "chinese": "花",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "She planted flowers in the garden every spring."
   },
   {
     "word": "fly",
@@ -2363,7 +2396,8 @@
     "word": "fool",
     "pos": "n./v.",
     "chinese": "傻瓜；愚弄",
-    "topic": "People"
+    "topic": "People",
+    "example": "Don't be a fool—always look before crossing the street."
   },
   {
     "word": "foot",
@@ -2431,7 +2465,8 @@
     "word": "free",
     "pos": "adj.",
     "chinese": "自由的；免費的",
-    "topic": "Shopping & Money"
+    "topic": "Shopping & Money",
+    "example": "The museum is free for students on Sundays."
   },
   {
     "word": "fresh",
@@ -2524,7 +2559,8 @@
     "word": "game",
     "pos": "n.",
     "chinese": "遊戲；比賽",
-    "topic": "Sports & Recreation"
+    "topic": "Sports & Recreation",
+    "example": "We played a board game together on a rainy day."
   },
   {
     "word": "garden",
@@ -2567,7 +2603,8 @@
     "word": "giant",
     "pos": "n./adj.",
     "chinese": "巨人；巨大的",
-    "topic": "People"
+    "topic": "People",
+    "example": "The giant in the story was scary but kind."
   },
   {
     "word": "gift",
@@ -2579,7 +2616,8 @@
     "word": "girl",
     "pos": "n.",
     "chinese": "女孩",
-    "topic": "People"
+    "topic": "People",
+    "example": "The girl sang a beautiful song at the concert."
   },
   {
     "word": "give",
@@ -2694,7 +2732,8 @@
     "word": "grass",
     "pos": "n.",
     "chinese": "草",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "The children sat on the grass and had a picnic."
   },
   {
     "word": "gray",
@@ -2718,7 +2757,8 @@
     "word": "ground",
     "pos": "n.",
     "chinese": "地面",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "The ground was wet after the heavy rain."
   },
   {
     "word": "group",
@@ -2749,13 +2789,15 @@
     "word": "guitar",
     "pos": "n.",
     "chinese": "吉他",
-    "topic": "Sports & Recreation"
+    "topic": "Sports & Recreation",
+    "example": "He learned to play the guitar by watching videos."
   },
   {
     "word": "guy",
     "pos": "n.",
     "chinese": "傢伙；男生",
-    "topic": "People"
+    "topic": "People",
+    "example": "He's a really nice guy who always helps others."
   },
   {
     "word": "gym",
@@ -2990,13 +3032,15 @@
     "word": "hike",
     "pos": "v./n.",
     "chinese": "健行",
-    "topic": "Sports & Recreation"
+    "topic": "Sports & Recreation",
+    "example": "We hiked up the mountain and enjoyed the view."
   },
   {
     "word": "hill",
     "pos": "n.",
     "chinese": "小山",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "We climbed the hill and watched the sunset."
   },
   {
     "word": "history",
@@ -3015,7 +3059,8 @@
     "word": "hobby",
     "pos": "n.",
     "chinese": "嗜好",
-    "topic": "Sports & Recreation"
+    "topic": "Sports & Recreation",
+    "example": "My hobby is drawing pictures of animals."
   },
   {
     "word": "hold",
@@ -3108,7 +3153,8 @@
     "word": "housewife",
     "pos": "n.",
     "chinese": "家庭主婦",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "She is a housewife who takes care of three children."
   },
   {
     "word": "how",
@@ -3267,7 +3313,8 @@
     "word": "island",
     "pos": "n.",
     "chinese": "島嶼",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "Taiwan is a beautiful island in Asia."
   },
   {
     "word": "it",
@@ -3305,13 +3352,15 @@
     "word": "job",
     "pos": "n.",
     "chinese": "工作",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "She got a part-time job at a coffee shop."
   },
   {
     "word": "jog",
     "pos": "v.",
     "chinese": "慢跑",
-    "topic": "Sports & Recreation"
+    "topic": "Sports & Recreation",
+    "example": "She jogs for thirty minutes every morning."
   },
   {
     "word": "join",
@@ -3391,7 +3440,8 @@
     "word": "kid",
     "pos": "n.",
     "chinese": "小孩",
-    "topic": "People"
+    "topic": "People",
+    "example": "Every kid in the class got a sticker."
   },
   {
     "word": "kill",
@@ -3415,7 +3465,8 @@
     "word": "king",
     "pos": "n.",
     "chinese": "國王",
-    "topic": "People"
+    "topic": "People",
+    "example": "The king ruled the land with kindness."
   },
   {
     "word": "kiss",
@@ -3433,7 +3484,8 @@
     "word": "kite",
     "pos": "n.",
     "chinese": "風箏",
-    "topic": "Sports & Recreation"
+    "topic": "Sports & Recreation",
+    "example": "We flew a kite at the beach on a windy day."
   },
   {
     "word": "knee",
@@ -3470,7 +3522,8 @@
     "word": "lake",
     "pos": "n.",
     "chinese": "湖",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "We went boating on the lake in the afternoon."
   },
   {
     "word": "lamp",
@@ -3482,7 +3535,8 @@
     "word": "land",
     "pos": "n./v.",
     "chinese": "土地；降落",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "The plane landed safely at the airport."
   },
   {
     "word": "language",
@@ -3524,7 +3578,8 @@
     "word": "lawyer",
     "pos": "n.",
     "chinese": "律師",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "He hired a lawyer to help solve the problem."
   },
   {
     "word": "lazy",
@@ -3542,7 +3597,8 @@
     "word": "leader",
     "pos": "n.",
     "chinese": "領袖；隊長",
-    "topic": "People"
+    "topic": "People",
+    "example": "She was chosen as the leader of our group project."
   },
   {
     "word": "learn",
@@ -3788,7 +3844,8 @@
     "word": "mailman",
     "pos": "n.",
     "chinese": "郵差",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "The mailman delivered a package to our door."
   },
   {
     "word": "main",
@@ -3806,7 +3863,8 @@
     "word": "man",
     "pos": "n.",
     "chinese": "男人",
-    "topic": "People"
+    "topic": "People",
+    "example": "An old man was feeding the ducks by the pond."
   },
   {
     "word": "many",
@@ -3843,7 +3901,8 @@
     "word": "market",
     "pos": "n.",
     "chinese": "市場",
-    "topic": "Shopping & Money"
+    "topic": "Shopping & Money",
+    "example": "We buy fresh vegetables at the market every Saturday."
   },
   {
     "word": "married",
@@ -3932,13 +3991,15 @@
     "word": "meeting",
     "pos": "n.",
     "chinese": "會議",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "We have a class meeting every Monday morning."
   },
   {
     "word": "member",
     "pos": "n.",
     "chinese": "成員",
-    "topic": "People"
+    "topic": "People",
+    "example": "She is a member of the school swimming team."
   },
   {
     "word": "menu",
@@ -4029,7 +4090,8 @@
     "word": "money",
     "pos": "n.",
     "chinese": "錢",
-    "topic": "Shopping & Money"
+    "topic": "Shopping & Money",
+    "example": "She saved her money for three months to buy a phone."
   },
   {
     "word": "monkey",
@@ -4048,7 +4110,8 @@
     "word": "moon",
     "pos": "n.",
     "chinese": "月亮",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "The moon was so bright that we could see our shadows."
   },
   {
     "word": "more",
@@ -4091,7 +4154,8 @@
     "word": "mountain",
     "pos": "n.",
     "chinese": "山",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "He loves to climb mountains on weekends."
   },
   {
     "word": "mouse",
@@ -4123,19 +4187,22 @@
     "word": "Mr.",
     "pos": "n.",
     "chinese": "先生",
-    "topic": "People"
+    "topic": "People",
+    "example": "Mr. Chen is our math teacher."
   },
   {
     "word": "Mrs.",
     "pos": "n.",
     "chinese": "太太",
-    "topic": "People"
+    "topic": "People",
+    "example": "Mrs. Lin brought cookies to share with the class."
   },
   {
     "word": "Ms.",
     "pos": "n.",
     "chinese": "女士",
-    "topic": "People"
+    "topic": "People",
+    "example": "Ms. Wang helped me with my English homework."
   },
   {
     "word": "much",
@@ -4159,7 +4226,8 @@
     "word": "music",
     "pos": "n.",
     "chinese": "音樂",
-    "topic": "Sports & Recreation"
+    "topic": "Sports & Recreation",
+    "example": "Music makes me feel happy when I am sad."
   },
   {
     "word": "must",
@@ -4190,7 +4258,8 @@
     "word": "nature",
     "pos": "n.",
     "chinese": "自然",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "She loves spending time in nature."
   },
   {
     "word": "near",
@@ -4215,7 +4284,8 @@
     "word": "neighbor",
     "pos": "n.",
     "chinese": "鄰居",
-    "topic": "People"
+    "topic": "People",
+    "example": "Our neighbor always says hello when we meet."
   },
   {
     "word": "never",
@@ -4379,7 +4449,8 @@
     "word": "nurse",
     "pos": "n.",
     "chinese": "護士",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "The nurse checked my temperature and blood pressure."
   },
   {
     "word": "o'clock",
@@ -4415,7 +4486,8 @@
     "word": "officer",
     "pos": "n.",
     "chinese": "官員；警察",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "The police officer helped the lost child get home."
   },
   {
     "word": "often",
@@ -4489,7 +4561,8 @@
     "word": "order",
     "pos": "n./v.",
     "chinese": "順序；點餐；命令",
-    "topic": "Shopping & Money"
+    "topic": "Shopping & Money",
+    "example": "He ordered a sandwich and a juice for lunch."
   },
   {
     "word": "other",
@@ -4537,7 +4610,8 @@
     "word": "package",
     "pos": "n.",
     "chinese": "包裹",
-    "topic": "Shopping & Money"
+    "topic": "Shopping & Money",
+    "example": "A package arrived for me in the mail today."
   },
   {
     "word": "page",
@@ -4664,7 +4738,8 @@
     "word": "people",
     "pos": "n.",
     "chinese": "人們",
-    "topic": "People"
+    "topic": "People",
+    "example": "Many people go to the night market on weekends."
   },
   {
     "word": "perhaps",
@@ -4676,7 +4751,8 @@
     "word": "person",
     "pos": "n.",
     "chinese": "人",
-    "topic": "People"
+    "topic": "People",
+    "example": "She is the kindest person I have ever met."
   },
   {
     "word": "pet",
@@ -4695,7 +4771,8 @@
     "word": "piano",
     "pos": "n.",
     "chinese": "鋼琴",
-    "topic": "Sports & Recreation"
+    "topic": "Sports & Recreation",
+    "example": "She has been playing the piano since she was five."
   },
   {
     "word": "pick",
@@ -4707,7 +4784,8 @@
     "word": "picnic",
     "pos": "n.",
     "chinese": "野餐",
-    "topic": "Sports & Recreation"
+    "topic": "Sports & Recreation",
+    "example": "Our family had a picnic in the park on Sunday."
   },
   {
     "word": "picture",
@@ -4783,7 +4861,8 @@
     "word": "plant",
     "pos": "n./v.",
     "chinese": "植物；種植",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "He waters his plants every morning."
   },
   {
     "word": "plate",
@@ -4801,7 +4880,8 @@
     "word": "player",
     "pos": "n.",
     "chinese": "玩家；球員",
-    "topic": "People"
+    "topic": "People",
+    "example": "He is the best player on the basketball team."
   },
   {
     "word": "playground",
@@ -4849,7 +4929,8 @@
     "word": "pond",
     "pos": "n.",
     "chinese": "池塘",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "There are colorful fish in the pond near our school."
   },
   {
     "word": "pool",
@@ -4965,13 +5046,15 @@
     "word": "price",
     "pos": "n.",
     "chinese": "價格",
-    "topic": "Shopping & Money"
+    "topic": "Shopping & Money",
+    "example": "The price of this phone is too high for me."
   },
   {
     "word": "prize",
     "pos": "n.",
     "chinese": "獎品",
-    "topic": "Shopping & Money"
+    "topic": "Shopping & Money",
+    "example": "She won first prize in the writing contest."
   },
   {
     "word": "problem",
@@ -5043,7 +5126,8 @@
     "word": "queen",
     "pos": "n.",
     "chinese": "女王",
-    "topic": "People"
+    "topic": "People",
+    "example": "The queen waved to the crowd from the window."
   },
   {
     "word": "question",
@@ -5087,7 +5171,8 @@
     "word": "race",
     "pos": "n./v.",
     "chinese": "比賽；賽跑",
-    "topic": "Sports & Recreation"
+    "topic": "Sports & Recreation",
+    "example": "He won first place in the school running race."
   },
   {
     "word": "radio",
@@ -5099,19 +5184,22 @@
     "word": "rain",
     "pos": "n./v.",
     "chinese": "雨；下雨",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "We got caught in the rain without an umbrella."
   },
   {
     "word": "rainbow",
     "pos": "n.",
     "chinese": "彩虹",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "A beautiful rainbow appeared after the shower."
   },
   {
     "word": "rainy",
     "pos": "adj.",
     "chinese": "多雨的",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "It has been rainy all week in Taipei."
   },
   {
     "word": "raise",
@@ -5204,7 +5292,8 @@
     "word": "reporter",
     "pos": "n.",
     "chinese": "記者",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "The reporter asked questions at the press conference."
   },
   {
     "word": "rest",
@@ -5265,7 +5354,8 @@
     "word": "river",
     "pos": "n.",
     "chinese": "河流",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "The children swam in the river near the village."
   },
   {
     "word": "road",
@@ -5283,7 +5373,8 @@
     "word": "rock",
     "pos": "n./v.",
     "chinese": "岩石；搖動",
-    "topic": "Sports & Recreation"
+    "topic": "Sports & Recreation",
+    "example": "She likes rock music and plays guitar in a band."
   },
   {
     "word": "roll",
@@ -5313,7 +5404,8 @@
     "word": "rose",
     "pos": "n.",
     "chinese": "玫瑰",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "He gave her a red rose on Valentine's Day."
   },
   {
     "word": "round",
@@ -5374,13 +5466,15 @@
     "word": "sale",
     "pos": "n.",
     "chinese": "出售；特賣",
-    "topic": "Shopping & Money"
+    "topic": "Shopping & Money",
+    "example": "The store had a big sale before the New Year."
   },
   {
     "word": "salesman",
     "pos": "n.",
     "chinese": "銷售員",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "The salesman showed us three different models."
   },
   {
     "word": "salt",
@@ -5455,7 +5549,8 @@
     "word": "sea",
     "pos": "n.",
     "chinese": "海",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "They watched the sunset over the sea."
   },
   {
     "word": "season",
@@ -5479,7 +5574,8 @@
     "word": "secretary",
     "pos": "n.",
     "chinese": "秘書",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "The secretary answered all the phone calls."
   },
   {
     "word": "see",
@@ -5547,7 +5643,8 @@
     "word": "service",
     "pos": "n.",
     "chinese": "服務",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "The service at that restaurant was very friendly."
   },
   {
     "word": "set",
@@ -5646,13 +5743,15 @@
     "word": "shop",
     "pos": "n./v.",
     "chinese": "商店；購物",
-    "topic": "Shopping & Money"
+    "topic": "Shopping & Money",
+    "example": "We stopped to shop for souvenirs before leaving."
   },
   {
     "word": "shopkeeper",
     "pos": "n.",
     "chinese": "店主",
-    "topic": "Shopping & Money"
+    "topic": "Shopping & Money",
+    "example": "The shopkeeper gave us a discount for buying more."
   },
   {
     "word": "short",
@@ -5758,13 +5857,15 @@
     "word": "singer",
     "pos": "n.",
     "chinese": "歌手",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "She is my favorite singer because of her voice."
   },
   {
     "word": "sir",
     "pos": "n.",
     "chinese": "先生",
-    "topic": "People"
+    "topic": "People",
+    "example": "Excuse me, sir, you dropped your wallet."
   },
   {
     "word": "sister",
@@ -5801,7 +5902,8 @@
     "word": "size",
     "pos": "n.",
     "chinese": "大小；尺碼",
-    "topic": "Shopping & Money"
+    "topic": "Shopping & Money",
+    "example": "Do you have this shirt in a smaller size?"
   },
   {
     "word": "skirt",
@@ -5814,7 +5916,8 @@
     "word": "sky",
     "pos": "n.",
     "chinese": "天空",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "The sky turned orange and red at sunset."
   },
   {
     "word": "sleep",
@@ -5888,13 +5991,15 @@
     "word": "snow",
     "pos": "n./v.",
     "chinese": "雪；下雪",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "It rarely snows in Taiwan."
   },
   {
     "word": "snowy",
     "pos": "adj.",
     "chinese": "下雪的",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "It was a snowy day and school was closed."
   },
   {
     "word": "so",
@@ -5906,7 +6011,8 @@
     "word": "soccer",
     "pos": "n.",
     "chinese": "足球",
-    "topic": "Sports & Recreation"
+    "topic": "Sports & Recreation",
+    "example": "The boys played soccer during lunch break."
   },
   {
     "word": "socks",
@@ -5925,7 +6031,8 @@
     "word": "soldier",
     "pos": "n.",
     "chinese": "士兵",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "The soldier stood guard at the entrance."
   },
   {
     "word": "some",
@@ -6012,7 +6119,8 @@
     "word": "space",
     "pos": "n.",
     "chinese": "空間；太空",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "Astronauts travel to space to explore the universe."
   },
   {
     "word": "speak",
@@ -6056,7 +6164,8 @@
     "word": "sports",
     "pos": "n.",
     "chinese": "運動",
-    "topic": "Sports & Recreation"
+    "topic": "Sports & Recreation",
+    "example": "He loves sports and plays three different ones."
   },
   {
     "word": "spring",
@@ -6092,7 +6201,8 @@
     "word": "star",
     "pos": "n.",
     "chinese": "星星；明星",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "We lay on the grass and counted the stars."
   },
   {
     "word": "start",
@@ -6142,7 +6252,8 @@
     "word": "store",
     "pos": "n./v.",
     "chinese": "商店；儲存",
-    "topic": "Shopping & Money"
+    "topic": "Shopping & Money",
+    "example": "The store closes at nine o'clock every night."
   },
   {
     "word": "story",
@@ -6166,7 +6277,8 @@
     "word": "stranger",
     "pos": "n.",
     "chinese": "陌生人",
-    "topic": "People"
+    "topic": "People",
+    "example": "Don't talk to strangers when you are alone."
   },
   {
     "word": "strawberry",
@@ -6242,7 +6354,8 @@
     "word": "sun",
     "pos": "n.",
     "chinese": "太陽",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "The sun was very strong at noon today."
   },
   {
     "word": "Sunday",
@@ -6254,13 +6367,15 @@
     "word": "sunny",
     "pos": "adj.",
     "chinese": "晴天的",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "It was sunny and warm, perfect for a picnic."
   },
   {
     "word": "supermarket",
     "pos": "n.",
     "chinese": "超市",
-    "topic": "Shopping & Money"
+    "topic": "Shopping & Money",
+    "example": "Mom goes to the supermarket every Friday."
   },
   {
     "word": "sure",
@@ -6309,7 +6424,8 @@
     "word": "swing",
     "pos": "v./n.",
     "chinese": "盪鞦韆；鞦韆",
-    "topic": "Sports & Recreation"
+    "topic": "Sports & Recreation",
+    "example": "The children took turns on the swing in the park."
   },
   {
     "word": "table",
@@ -6382,7 +6498,8 @@
     "word": "teacher",
     "pos": "n.",
     "chinese": "老師",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "Our teacher made the lesson fun with games."
   },
   {
     "word": "team",
@@ -6394,7 +6511,8 @@
     "word": "teenager",
     "pos": "n.",
     "chinese": "青少年",
-    "topic": "People"
+    "topic": "People",
+    "example": "Many teenagers spend a lot of time on their phones."
   },
   {
     "word": "telephone",
@@ -6430,7 +6548,8 @@
     "word": "tennis",
     "pos": "n.",
     "chinese": "網球",
-    "topic": "Sports & Recreation"
+    "topic": "Sports & Recreation",
+    "example": "She takes tennis lessons every Saturday."
   },
   {
     "word": "terrible",
@@ -6787,7 +6906,8 @@
     "word": "tree",
     "pos": "n.",
     "chinese": "樹",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "The old tree in the park has been there for a hundred years."
   },
   {
     "word": "trick",
@@ -6885,7 +7005,8 @@
     "word": "typhoon",
     "pos": "n.",
     "chinese": "颱風",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "School was cancelled because of the typhoon."
   },
   {
     "word": "ugly",
@@ -6977,7 +7098,8 @@
     "word": "vacation",
     "pos": "n.",
     "chinese": "假期",
-    "topic": "Sports & Recreation"
+    "topic": "Sports & Recreation",
+    "example": "We went to Japan for our summer vacation."
   },
   {
     "word": "vegetable",
@@ -7002,7 +7124,8 @@
     "word": "violin",
     "pos": "n.",
     "chinese": "小提琴",
-    "topic": "Sports & Recreation"
+    "topic": "Sports & Recreation",
+    "example": "She plays the violin in the school orchestra."
   },
   {
     "word": "visit",
@@ -7014,7 +7137,8 @@
     "word": "visitor",
     "pos": "n.",
     "chinese": "訪客",
-    "topic": "People"
+    "topic": "People",
+    "example": "The museum had many visitors on the holiday."
   },
   {
     "word": "voice",
@@ -7032,13 +7156,15 @@
     "word": "waiter",
     "pos": "n.",
     "chinese": "男服務生",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "The waiter brought our food in ten minutes."
   },
   {
     "word": "waitress",
     "pos": "n.",
     "chinese": "女服務生",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "The waitress was very helpful and friendly."
   },
   {
     "word": "wake",
@@ -7062,7 +7188,8 @@
     "word": "wallet",
     "pos": "n.",
     "chinese": "皮夾",
-    "topic": "Shopping & Money"
+    "topic": "Shopping & Money",
+    "example": "He lost his wallet on the bus."
   },
   {
     "word": "want",
@@ -7092,7 +7219,8 @@
     "word": "water",
     "pos": "n.",
     "chinese": "水",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "Remember to drink enough water every day."
   },
   {
     "word": "watermelon",
@@ -7135,7 +7263,8 @@
     "word": "weather",
     "pos": "n.",
     "chinese": "天氣",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "The weather in spring is warm and pleasant."
   },
   {
     "word": "Wednesday",
@@ -7268,7 +7397,8 @@
     "word": "wind",
     "pos": "n.",
     "chinese": "風",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "The strong wind blew my hat off."
   },
   {
     "word": "window",
@@ -7280,7 +7410,8 @@
     "word": "windy",
     "pos": "adj.",
     "chinese": "有風的",
-    "topic": "Nature & Weather"
+    "topic": "Nature & Weather",
+    "example": "It was so windy that we couldn't fly our kite."
   },
   {
     "word": "winter",
@@ -7316,7 +7447,8 @@
     "word": "woman",
     "pos": "n.",
     "chinese": "女人",
-    "topic": "People"
+    "topic": "People",
+    "example": "The woman helped the little girl find her mom."
   },
   {
     "word": "wonderful",
@@ -7347,7 +7479,8 @@
     "word": "worker",
     "pos": "n.",
     "chinese": "工人",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "The workers built the new school in six months."
   },
   {
     "word": "world",
@@ -7371,7 +7504,8 @@
     "word": "writer",
     "pos": "n.",
     "chinese": "作家",
-    "topic": "Work & Occupations"
+    "topic": "Work & Occupations",
+    "example": "She became a famous writer after her first book."
   },
   {
     "word": "wrong",
