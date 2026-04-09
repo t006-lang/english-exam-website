@@ -385,10 +385,10 @@
     "answer": "B",
     "questionZh": "Lynn在Tom的派對上拍了一些照片。下列哪一張最有可能是其中一張？",
     "optionsZh": {
-      "A": "選項A",
-      "B": "選項B",
-      "C": "選項C",
-      "D": "選項D"
+      "A": "一群人在戶外烤肉派對（有人撐傘）",
+      "B": "兩人在室內餐廳用餐（桌上有大餐）",
+      "C": "幾個人在壁爐旁圍坐，桌上有食物",
+      "D": "幾個人在室內餐廳用餐（有吊燈）"
     },
     "skill": "篇章細節",
     "passRate": 0.73,
@@ -455,10 +455,10 @@
     "answer": "C",
     "questionZh": "Katie在日記中談到了哪張Woollie和Clark女士的照片？",
     "optionsZh": {
-      "A": "選項A",
-      "B": "選項B",
-      "C": "選項C",
-      "D": "選項D"
+      "A": "Woollie 趴在 Clark 女士身旁（她坐著）",
+      "B": "Clark 女士站在 Woollie 旁邊",
+      "C": "Clark 女士和 Woollie 在餐桌旁用餐",
+      "D": "Clark 女士抱著 Woollie 坐著"
     },
     "skill": "篇章細節",
     "passRate": 0.52,
