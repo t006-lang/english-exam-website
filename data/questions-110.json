@@ -211,7 +211,7 @@
     "id": 10,
     "type": "single",
     "passage": null,
-    "question": "Jimmy would not get up for breakfast, his dad had already tried to pull him from his bed several times.",
+    "question": "____ Jimmy would not get up for breakfast, his dad had already tried to pull him from his bed several times.",
     "options": {
       "A": "although",
       "B": "because",
