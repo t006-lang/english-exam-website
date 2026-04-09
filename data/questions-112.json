@@ -349,7 +349,7 @@
     "id": 16,
     "type": "single",
     "passage": null,
-    "question": "It’s not easy to see those islands clearly from here on sunny days, and it’s even less to see them on cloudy days.",
+    "question": "It's not easy to see those islands clearly from here on sunny days, and it's even less ____ to see them on cloudy days.",
     "options": {
       "A": "difficult",
       "B": "lucky",
