@@ -510,7 +510,7 @@
     "id": 23,
     "type": "single",
     "passage": null,
-    "question": "Now I often think of those days with Pip, my pet dog. When I read in my room, he quietly beside me.",
+    "question": "Now I often think of those days with Pip, my pet dog. When I read in my room, he ____ quietly beside me.",
     "options": {
       "A": "will come and sit",
       "B": "comes and sits",
