@@ -326,7 +326,7 @@
     "id": 15,
     "type": "single",
     "passage": null,
-    "question": "machines have been used to pick fruits for a long time, they were not used on strawberry farms until several years ago.",
+    "question": "____ machines have been used to pick fruits for a long time, they were not used on strawberry farms until several years ago.",
     "options": {
       "A": "Although",
       "B": "Because",
@@ -418,7 +418,7 @@
     "id": 19,
     "type": "single",
     "passage": null,
-    "question": "It was very windy this morning.   Some of the shirts on the balcony were blown away in the pond.",
+    "question": "It was very windy this morning.   Some of the shirts on the balcony were blown away ____ in the pond.",
     "options": {
       "A": "fell",
       "B": "and fell",

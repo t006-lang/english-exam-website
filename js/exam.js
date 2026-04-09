@@ -179,7 +179,9 @@ function renderQ() {
   const rateLabel = q.passRate != null ? `<span class="q-rate">全國通過率 ${Math.round(q.passRate * 100)}%</span>` : '';
   document.getElementById('qNum').innerHTML = `第 ${q.id} 題 ${diffLabel}${skillLabel}${rateLabel}`;
 
-  document.getElementById('qText').textContent = q.question;
+  document.getElementById('qText').innerHTML = q.question
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+    .replace(/_{2,}/g, '<span class="q-blank">______</span>');
   renderQNav();
 
   // 題目圖片（選項本身是圖片時）
