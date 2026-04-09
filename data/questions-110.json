@@ -443,7 +443,12 @@
     "questionImage": "data/images/110-q20.png",
     "passage": "Below is a page from Katie’s diary.\nDear Diary, ____ June 7, 2011\nI was very sad to hear what happened to Woollie yesterday.\nWoollie was my favorite sheep. I have a storybook about Woollie.\nIt says when Woollie was four, he ran away from Mr. Armstrong’s\nfarm, and it took Mr. Armstrong six years to find Woollie. But\nWoollie had grown so much fleece that he didn’t even look like a\nsheep. Mr. Armstrong decided to cut his fleece on TV so everyone\ncould see. Daddy said this happened on the day I was born.\nWoollie’s fleece weighed 27 kg, and could make clothes for 20 large\nmen. I asked Daddy if his favorite vest was made from Woollie’s\nfleece. Daddy said no, because Woollie’s fleece was sold to collect\nmoney for sick kids. In the storybook, Woollie was taken to see\nMs. Stella Clark, the leader of our city then. They even had tea\ntogether. Daddy said Woollie did meet Ms. Clark, but he wasn’t\nsure if they had tea. Daddy said Woollie was put down because he\nwas too sick and there was no way to help him. I cried. I hope\nWoollie will be happy up there in the sky.\nfleece 羊毛 weigh 重達",
     "question": "Which picture of Woollie and Ms. Clark did Katie talk about in her diary?",
-    "options": {},
+    "options": {
+      "A": "(A)",
+      "B": "(B)",
+      "C": "(C)",
+      "D": "(D)"
+    },
     "answer": "C",
     "questionZh": "Katie在日記中談到了哪張Woollie和Clark女士的照片？",
     "optionsZh": {
