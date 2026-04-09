@@ -684,18 +684,18 @@
     "passage": "The problem of long working hours is a real headache in our country. It\nkills many people every year (see Figure 1), and many companies are trying\nto change that. They have at least one “No Overtime Day” in a week, and it\nis often Wednesday. On “No Overtime Day,” workers are asked to leave their\noffices before 8 p.m. At 8 p.m., companies play the song “There’s Always\nTomorrow” and turn off all the lights.\nHowever, after the workers walk out of their offices, they don’t go home.\nSome go back later, turn on their table lamps, and keep working, and others\nfind somewhere else to work until very late at night. Restaurants and coffee\nshops are busier on Wednesday evenings, and they have started selling drinks\nand meals for these workers.\nBut why do these people keep working? A study shows that workers who\nwork more hours often have a bigger chance to get paid more and rise higher\nin their companies. This is true for both men and women (see Figure 2).\nWorking long hours has become a way to show that people are hard-working.\nClearly, this must be changed before the problem gets any worse.\nFigure 1\nFigure 2\naverage 平均\n8",
     "question": "There are four important points in the report: a. What “No Overtime Day” is b. Why “No Overtime Day” fails c. Why there is “No Overtime Day” in the country d. How workers deal with “No Overtime Day” How are they ordered in the report?  order 排序",
     "options": {
-      "A": "acdb.",
-      "B": "adcb.",
-      "C": "cabd.",
-      "D": "cadb."
+      "A": "a → c → d → b",
+      "B": "a → d → c → b",
+      "C": "c → a → b → d",
+      "D": "c → a → d → b"
     },
     "answer": "D",
     "questionZh": "報告中有四個重點，它們在報告中的順序是什麼？",
     "optionsZh": {
-      "A": "acdb",
-      "B": "adcb",
-      "C": "cabd",
-      "D": "cadb"
+      "A": "a → c → d → b",
+      "B": "a → d → c → b",
+      "C": "c → a → b → d",
+      "D": "c → a → d → b"
     },
     "skill": "篇章結構",
     "passRate": 0.44,
