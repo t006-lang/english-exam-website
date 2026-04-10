@@ -660,8 +660,8 @@
     "options": {
       "A": "For each area, the highest percentage of food waste happens at Stage 5.",
       "B": "Europe has a lower percentage of food waste at Stage 3 than the other two areas.",
-      "C": "North America & Oceania has a higher percentage of food waste at Stage 1 than",
-      "D": "South & Southeast Asia has a higher percentage of food waste at Stage 4 than the"
+      "C": "North America & Oceania has a higher percentage of food waste at Stage 1 than Europe.",
+      "D": "South & Southeast Asia has a higher percentage of food waste at Stage 4 than the other two areas."
     },
     "answer": "D",
     "passageImage": "data/images/112-q28.png",
@@ -669,8 +669,8 @@
     "optionsZh": {
       "A": "每個地區最高比例的食物浪費發生在第5階段。",
       "B": "歐洲在第3階段的食物浪費比例低於其他兩個地區。",
-      "C": "北美和大洋洲在第1階段的食物浪費比例高於其他兩個地區。",
-      "D": "南亞和東南亞在第4階段的食物浪費比例高於其他兩個地區。"
+      "C": "北美及大洋洲在第一階段的食物浪費百分比高於歐洲。",
+      "D": "南亞及東南亞在第四階段的食物浪費百分比高於其他兩個地區。"
     },
     "skill": "篇章細節",
     "passRate": 0.63,
@@ -867,17 +867,17 @@
     "question": "In the reading, after Jesse Cohen talks about an idea, he often gives an example to make it clear. Below are four of the sentences in the third paragraph. Which is used as an example?",
     "options": {
       "A": "“However, this rule can be bad for children.”",
-      "B": "“Dolls help with their early language use, and building toys are good for learning math and",
-      "C": "“Some doctors worry that children may use the same kind of thinking when they look for",
-      "D": "“If they do, they may miss something more important than just getting a chance to play"
+      "B": "\"Dolls help with their early language use, and building toys are good for learning math and science.\"",
+      "C": "\"Some doctors worry that children may use the same kind of thinking when they look for jobs in the future.\"",
+      "D": "\"If they do, they may miss something more important than just getting a chance to play with different toys.\""
     },
     "answer": "B",
     "questionZh": "在文章中，Jesse Cohen談完一個觀點後，常常舉例說明。下列第三段的哪一句是作為例子使用的？",
     "optionsZh": {
       "A": "「然而，這條規則對孩子不好。」",
-      "B": "「玩偶有助於早期語言發展，積木玩具有助於學習數學...」",
-      "C": "「一些醫生擔心孩子在尋找...時可能會用同樣的思維。」",
-      "D": "「如果他們這樣做，他們可能會錯過比獲得玩耍機會更重要的東西。」"
+      "B": "「玩偶有助於幼兒語言發展，積木玩具則有益於數學和科學學習。」",
+      "C": "「有些醫生擔心孩子在未來找工作時，可能會用同樣的思維方式。」",
+      "D": "「如果這樣，他們可能會錯過比只是玩不同玩具更重要的事情。」"
     },
     "skill": "篇章結構",
     "passRate": 0.44,
