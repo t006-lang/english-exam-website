@@ -257,7 +257,7 @@
     "id": 12,
     "type": "single",
     "passage": null,
-    "question": "Ed and Jill ____ camping this weekend, so they have to finish their homework by Friday.",
+    "question": "We won't see the sun even after the typhoon leaves, because the news said that heavier rain will soon ____.",
     "options": {
       "A": "catch",
       "B": "follow",
@@ -265,10 +265,10 @@
       "D": "stop"
     },
     "answer": "B",
-    "questionZh": "Ed和Jill這個週末要去露營，所以他們必須在星期五前完成作業。",
+    "questionZh": "颱風過後我們還是看不到太陽，因為新聞說更大的雨很快就會___。",
     "optionsZh": {
       "A": "抓住",
-      "B": "跟隨",
+      "B": "跟隨（接踵而來）",
       "C": "移動",
       "D": "停止"
     },

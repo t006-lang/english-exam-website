@@ -257,7 +257,7 @@
     "id": 12,
     "type": "single",
     "passage": null,
-    "question": "Students ____ to go on the school trip should ask their parents first.",
+    "question": "Ed and Jill ____ camping this weekend, so they have to finish their homework by Friday.",
     "options": {
       "A": "went",
       "B": "were going",
@@ -265,7 +265,7 @@
       "D": "have gone"
     },
     "answer": "C",
-    "questionZh": "___參加校外教學的學生應該先詢問父母。",
+    "questionZh": "Ed和Jill這個週末___去露營，所以他們必須在星期五前完成作業。",
     "optionsZh": {
       "A": "去了（過去式）",
       "B": "打算去（過去進行式）",
