@@ -734,16 +734,16 @@
     "options": {
       "A": "Long working hours killed more women than men in 2014.",
       "B": "Long working hours kills more and more workers every year.",
-      "C": "\u0007Men usually have a bigger chance to get paid more and rise higher when they",
-      "D": "\u0007Men and women have almost the same chance to get paid more and rise higher"
+      "C": "Men usually have a bigger chance to get paid more and rise higher when they work the same hours as women.",
+      "D": "Men and women have almost the same chance to get paid more and rise higher when they work 2,200 hours."
     },
     "answer": "D",
     "questionZh": "從圖一和圖二中，我們可以學到什麼？",
     "optionsZh": {
       "A": "2014年長時間工作殺死的女性比男性多。",
       "B": "長時間工作每年殺死越來越多的工人。",
-      "C": "男性通常比女性更有機會加薪和升職。",
-      "D": "男性和女性加薪和升職的機會幾乎相同。"
+      "C": "當工作時數相同時，男性通常比女性有更大機會加薪升職。",
+      "D": "當工作2200小時時，男女獲得加薪升職的機會幾乎相同。"
     },
     "skill": "篇章細節",
     "passRate": 0.52,
