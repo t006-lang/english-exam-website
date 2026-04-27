@@ -7,86 +7,152 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+
 <header class="site-header">
   <div class="header-inner">
-    <a href="index.html" class="site-title">📚 國中英語會考衝刺站</a>
+    <a href="index.html" class="site-title">
+      <span class="site-title-dot">英</span>
+      <span class="zh">國中英語會考衝刺站</span>
+    </a>
     <nav class="nav-links">
-      <a href="index.html" class="nav-link active">首頁</a>
-      <a href="exam.html" class="nav-link">歷屆試題</a>
-      <a href="vocab.html" class="nav-link">1200單字</a>
+      <a href="index.html" class="nav-link active zh">首頁</a>
+      <a href="exam.html"  class="nav-link zh">歷屆試題</a>
+      <a href="vocab.html" class="nav-link zh">1200 單字</a>
     </nav>
   </div>
 </header>
 
 <main class="page">
+
+  <!-- ── Hero ── -->
   <section class="hero-section">
-    <span class="hero-label">國中教育會考</span>
-    <h1 class="hero-title">國中英語<span>會考衝刺站</span></h1>
-    <p class="hero-subtitle">110–114 年歷屆試題 · 1200 核心單字 · 智慧間隔複習</p>
+    <!-- Left: headline + CTA -->
+    <div class="hero-card">
+      <div class="shape-circle"></div>
+      <div class="shape-dot"></div>
+      <span class="hero-label">國中教育會考 · 英語科</span>
+      <h1 class="hero-title zh">從錯題出發，<br>把握最後衝刺。</h1>
+      <p class="hero-subtitle zh">
+        110–114 年歷屆試題逐題練習、1200 核心單字智慧間隔複習，<br>
+        錯題自動回到今日練習清單。
+      </p>
+      <div class="hero-cta">
+        <a href="exam.html" class="btn btn-ink zh">開始練習試題 →</a>
+        <a href="vocab.html" class="btn btn-ghost zh">單字學習</a>
+      </div>
+    </div>
+
+    <!-- Right: stat cards -->
+    <div class="hero-stats">
+      <div class="stat-card">
+        <div>
+          <div class="stat-label zh">累計練習</div>
+          <div class="stat-num" id="statExams">0<span class="stat-unit zh">次</span></div>
+        </div>
+        <svg width="72" height="32" id="sparkExam" viewBox="0 0 72 32"></svg>
+      </div>
+      <div class="stat-card">
+        <div>
+          <div class="stat-label zh">平均正確率</div>
+          <div class="stat-num" id="statAvg">—</div>
+        </div>
+        <svg width="72" height="32" id="sparkAcc" viewBox="0 0 72 32"></svg>
+      </div>
+    </div>
   </section>
 
-  <div class="stats-row" id="statsBar">
-    <div class="stat-card"><span class="stat-num" id="statExams">0</span><span class="stat-label">次練習</span></div>
-    <div class="stat-card"><span class="stat-num" id="statAvg">-</span><span class="stat-label">平均正確率</span></div>
-    <div class="stat-card"><span class="stat-num" id="statWrong">0</span><span class="stat-label">錯題待複習</span></div>
-    <div class="stat-card"><span class="stat-num" id="statWords">0</span><span class="stat-label">單字已學會</span></div>
-  </div>
-
+  <!-- ── Module cards ── -->
   <div class="feature-grid">
     <a href="exam.html" class="feature-card feature-card-exam">
-      <span class="feature-icon">📝</span>
-      <div class="feature-title">歷屆試題</div>
-      <div class="feature-desc">110–114 年逐題作答，即時解析，自動收集錯題，支援模擬考計時模式。</div>
+      <div class="feature-card-shape"></div>
+      <span class="feature-tag">模組 01 · 歷屆試題</span>
+      <h3 class="feature-title zh">110–114 年<br>真題練習</h3>
+      <p class="feature-desc zh">逐題作答，即時解析，自動收集錯題並支援模擬考計時模式。</p>
       <div class="feature-tags">
-        <span class="chip chip-primary">年份練習</span>
-        <span class="chip chip-primary">模擬考</span>
-        <span class="chip chip-primary">錯題練習</span>
-        <span class="chip chip-primary">自訂練習</span>
+        <span class="chip chip-primary zh">年份練習</span>
+        <span class="chip chip-primary zh">模擬考</span>
+        <span class="chip chip-primary zh">錯題練習</span>
+        <span class="chip chip-primary zh">自訂練習</span>
       </div>
     </a>
     <a href="vocab.html" class="feature-card feature-card-vocab">
-      <span class="feature-icon">🔤</span>
-      <div class="feature-title">1200 單字</div>
-      <div class="feature-desc">依教育部主題分類，翻牌記憶、四選一測驗，SM-2 智慧間隔複習。</div>
+      <div class="feature-card-shape"></div>
+      <span class="feature-tag">模組 02 · 核心單字</span>
+      <h3 class="feature-title zh">1200 單字<br>智慧背誦</h3>
+      <p class="feature-desc zh">依教育部主題分類，翻牌記憶、四選一測驗，搭配 SM-2 智慧間隔複習。</p>
       <div class="feature-tags">
-        <span class="chip chip-warning">單字卡</span>
-        <span class="chip chip-warning">測驗</span>
-        <span class="chip chip-warning">智慧複習</span>
-        <span class="chip chip-warning">學習統計</span>
+        <span class="chip chip-warning zh">單字卡</span>
+        <span class="chip chip-warning zh">四選一測驗</span>
+        <span class="chip chip-warning zh">智慧複習</span>
+        <span class="chip chip-warning zh">主題瀏覽</span>
       </div>
     </a>
   </div>
 
-  <section id="recentSection" style="display:none">
-    <div class="section-header">
-      <span class="section-title">📋 最近練習</span>
+  <!-- ── Recent activity ── -->
+  <div id="recentSection" style="display:none">
+    <div class="recent-section-header">
+      <span class="recent-section-title zh">最近練習 <span class="pill" id="recentPill">過去 7 日</span></span>
     </div>
     <div class="recent-list" id="recentList"></div>
-  </section>
+  </div>
+
 </main>
 
 <a href="https://forms.gle/dDDjegTohgZJcJoW8" target="_blank" class="feedback-fab" title="回報問題 / 提供建議">💬 問題回報</a>
+
 <script src="js/storage.js"></script>
 <script>
+  // Stats
   const stats = Storage.getStats();
-  document.getElementById('statExams').textContent = stats.totalAttempted;
-  document.getElementById('statAvg').textContent = stats.totalAttempted ? stats.avgScore + '%' : '-';
-  document.getElementById('statWrong').textContent = stats.wrongCount;
-  document.getElementById('statWords').textContent = stats.learnedWords;
+  document.getElementById('statExams').innerHTML =
+    stats.totalAttempted + '<span class="stat-unit zh">次</span>';
+  document.getElementById('statAvg').textContent =
+    stats.totalAttempted ? stats.avgScore + '%' : '—';
 
-  const history = Storage.getExamHistory().slice(0, 5);
-  if (history.length > 0) {
+  // Mini sparkline helper
+  function drawSparkline(svgId, data, color) {
+    const svg = document.getElementById(svgId);
+    if (!svg || !data || data.length < 2) return;
+    const w = 72, h = 32, pad = 4;
+    const max = Math.max(...data), min = Math.min(...data);
+    const rng = max - min || 1;
+    const step = (w - pad * 2) / (data.length - 1);
+    const pts = data.map((v, i) => [
+      pad + i * step,
+      h - pad - ((v - min) / rng) * (h - pad * 2)
+    ]);
+    const d = pts.map((p, i) => (i === 0 ? `M${p[0]},${p[1]}` : `L${p[0]},${p[1]}`)).join(' ');
+    const area = `${d} L${w - pad},${h - pad} L${pad},${h - pad} Z`;
+    svg.innerHTML = `
+      <path d="${area}" fill="${color}" opacity="0.2"/>
+      <path d="${d}" stroke="${color}" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>`;
+  }
+
+  // Build sparklines from exam history
+  const history = Storage.getExamHistory();
+  const last12 = history.slice(-12).map(h => h.total || 10);
+  const last12acc = history.slice(-12).map(h => Math.round(h.score / h.total * 100));
+  if (last12.length >= 2) {
+    drawSparkline('sparkExam', last12,   'var(--peach)');
+    drawSparkline('sparkAcc',  last12acc, 'var(--mint-ink)');
+  }
+
+  // Recent list
+  const recent = history.slice(0, 6);
+  if (recent.length > 0) {
     document.getElementById('recentSection').style.display = '';
-    const list = document.getElementById('recentList');
-    list.innerHTML = history.map(h => {
+    const modeLabel = m => ({ mock:'模擬考', wrong:'錯題練習', custom:'自訂練習' }[m] || '年份練習');
+    document.getElementById('recentList').innerHTML = recent.map(h => {
       const pct = Math.round(h.score / h.total * 100);
-      const gradeClass = pct >= 80 ? 'grade-a' : pct >= 60 ? 'grade-b' : 'grade-c';
-      const modeLabel = h.mode === 'mock' ? '模擬考' : h.mode === 'wrong' ? '錯題練習' : h.mode === 'custom' ? '自訂練習' : '年份練習';
+      const cls = pct >= 80 ? 'a' : pct >= 60 ? 'b' : 'c';
       return `<div class="recent-card">
-        <span class="recent-year">${h.year}年</span>
-        <span class="recent-mode">${modeLabel}</span>
-        <span class="recent-score ${gradeClass}">${h.score}/${h.total} (${pct}%)</span>
-        <span class="recent-date">${h.date}</span>
+        <span class="recent-date mono">${h.date}</span>
+        <span class="recent-year zh">${h.year} 年 · ${modeLabel(h.mode)}</span>
+        <span class="recent-score mono grade-${cls}">
+          <span class="score-dot score-dot-${cls}"></span>${h.score}/${h.total} (${pct}%)
+        </span>
+        <span class="recent-arr mono">→</span>
       </div>`;
     }).join('');
   }
