@@ -746,6 +746,49 @@ h1, h2, h3, h4 { font-family: var(--serif); font-weight: 600; letter-spacing: .0
 .recommend-sub  { font-family: var(--serif); font-size: 12px; color: var(--ink-2); margin-top: 2px; }
 .recommend-arr  { margin-left: auto; color: var(--peach-ink); font-size: 18px; }
 
+/* ── Image option questions ── */
+.img-opt-guide {
+  font-family: var(--serif); font-size: 13px; color: var(--ink-3);
+  text-align: center; margin-top: 8px; padding: 6px 10px;
+  background: var(--butter-soft); border-radius: var(--r-sm);
+}
+
+/* 2×2 grid for image-choice buttons */
+.options-img-grid {
+  display: grid !important;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.option-img-btn {
+  display: flex; align-items: center; justify-content: center;
+  height: 72px;
+  border: 2px solid var(--rule);
+  border-radius: var(--r-md);
+  background: var(--cream);
+  cursor: pointer;
+  transition: all .15s;
+}
+.option-img-btn:hover:not(:disabled) {
+  border-color: var(--peach-ink);
+  background: var(--peach-soft);
+}
+.option-img-btn:disabled { cursor: not-allowed; }
+.option-img-btn.opt-correct {
+  background: var(--mint-soft); border-color: var(--mint-ink);
+}
+.option-img-btn.opt-wrong {
+  background: var(--rose-soft); border-color: var(--rose-ink);
+}
+
+.img-opt-letter {
+  font-family: var(--mono); font-size: 32px; font-weight: 700;
+  color: var(--ink-2); line-height: 1;
+}
+.option-img-btn:hover:not(:disabled) .img-opt-letter { color: var(--peach-ink); }
+.option-img-btn.opt-correct .img-opt-letter { color: var(--mint-ink); }
+.option-img-btn.opt-wrong   .img-opt-letter { color: var(--rose-ink); }
+
 /* ── Responsive ── */
 @media(max-width: 720px) {
   .hero-section { grid-template-columns: 1fr; }

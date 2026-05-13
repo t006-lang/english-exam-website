@@ -184,10 +184,15 @@ function renderQ() {
     .replace(/_{2,}/g, '<span class="q-blank">______</span>');
   renderQNav();
 
+  // 判斷是否為「圖片選項題」：選項文字全是 (A)(B)(C)(D) 佔位符
+  const isImgOpt = ['A','B','C','D'].every(l => !q.options[l] || q.options[l] === `(${l})`);
+
   // 題目圖片（選項本身是圖片時）
   const qImgBox = document.getElementById('questionImageBox');
   if (q.questionImage) {
-    qImgBox.innerHTML = `<img src="${q.questionImage}" alt="題目圖片" class="passage-img" onerror="this.outerHTML='<div class=\\'passage-img-missing\\'>⚠️ 圖片尚未上傳（${q.questionImage}）</div>'">`;
+    qImgBox.innerHTML = `<img src="${q.questionImage}" alt="題目圖片" class="passage-img"
+      onerror="this.outerHTML='<div class=\\'passage-img-missing\\'>⚠️ 圖片尚未上傳（${q.questionImage}）</div>'">
+      ${isImgOpt ? '<p class="img-opt-guide">👆 請觀察上方圖片，再點選下方字母按鈕選擇答案</p>' : ''}`;
     qImgBox.style.display = '';
   } else {
     qImgBox.innerHTML = '';
@@ -223,22 +228,30 @@ function renderQ() {
 
   // 選項
   const grid = document.getElementById('optionsGrid');
+  if (isImgOpt) grid.className = 'options-list options-img-grid';
+  else grid.className = 'options-list';
+
   grid.innerHTML = ['A','B','C','D'].map(letter => {
     if (!q.options[letter]) return '';
-    let cls = 'option-btn';
+    let cls = isImgOpt ? 'option-img-btn' : 'option-btn';
     let disabled = false;
 
     if (done) {
-      // 題目結束：顯示正確答案與所有錯誤嘗試
       disabled = true;
       if (letter === q.answer) cls += ' opt-correct';
       else if (state.tries.includes(letter)) cls += ' opt-wrong';
     } else {
-      // 作答中：已嘗試且錯誤的選項鎖定變紅
       if (state.tries.includes(letter)) {
         cls += ' opt-wrong';
         disabled = true;
       }
+    }
+
+    if (isImgOpt) {
+      // 圖片選項：只顯示大字母，不顯示 "(A)" 文字
+      return `<button class="${cls}" onclick="selectAnswer('${letter}')" ${disabled ? 'disabled' : ''}>
+        <span class="img-opt-letter">${letter}</span>
+      </button>`;
     }
 
     return `<button class="${cls}" onclick="selectAnswer('${letter}')" ${disabled ? 'disabled' : ''}>
@@ -340,13 +353,21 @@ function getHint(q, attemptNum) {
   }
 
   // ── 題組：同單題三層邏輯 ──
+  const isImgOptHint = ['A','B','C','D'].every(l => !q.options[l] || q.options[l] === `(${l})`);
+
   if (attemptNum === 1) {
-    // 第一次答錯：題目中文翻譯
     return q.questionZh
       ? `💡 題目翻譯：${q.questionZh}`
       : '再試一次！仔細重讀題目與文章';
   }
-  // 第二次答錯：正確答案選項中文翻譯
+  // 第二次答錯：圖片題顯示全部選項說明；一般題顯示正解說明
+  if (isImgOptHint && q.optionsZh) {
+    const rows = ['A','B','C','D']
+      .filter(l => q.options[l] && q.optionsZh[l])
+      .map(l => `<span class="hint-opt"><strong>${l}</strong>　${q.optionsZh[l]}</span>`)
+      .join('');
+    return `💡 各選項說明：<div class="hint-opts-grid">${rows}</div>`;
+  }
   const ansZh = q.optionsZh?.[q.answer];
   return ansZh
     ? `💡 正確答案的意思是：${ansZh}`
