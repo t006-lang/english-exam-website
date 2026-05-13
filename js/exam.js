@@ -265,17 +265,12 @@ function renderQ() {
   if (state.solved) {
     fb.className = 'feedback-card feedback-correct';
     const tries = state.tries.length;
-    fb.innerHTML = tries === 1
-      ? '✓ 一次答對！繼續保持！'
-      : `✓ 答對了！共嘗試 ${tries} 次`;
+    const tryMsg = tries === 1 ? '✓ 一次答對！繼續保持！' : `✓ 答對了！共嘗試 ${tries} 次`;
+    fb.innerHTML = tryMsg + buildExplanation(q);
     show('feedbackBox');
   } else if (gaveUp) {
     fb.className = 'feedback-card feedback-wrong';
-    if (q.type === 'single' && q.optionsZh?.[q.answer]) {
-      fb.innerHTML = `💡 正確答案 <strong>${q.answer}</strong> 的意思是：<strong>${q.optionsZh[q.answer]}</strong>`;
-    } else {
-      fb.innerHTML = `💡 答案揭曉：正確答案是 <strong>${q.answer}</strong>　${q.options[q.answer]}`;
-    }
+    fb.innerHTML = '💡 答案揭曉' + buildExplanation(q);
     show('feedbackBox');
   } else if (state.tries.length > 0) {
     fb.className = 'feedback-card feedback-wrong';
@@ -296,6 +291,22 @@ function renderQ() {
 
   // 上一題按鈕
   document.getElementById('btnPrev').style.visibility = current > 0 ? 'visible' : 'hidden';
+
+  // 返回上一題解析提示條
+  const prevBar = document.getElementById('prevReviewBar');
+  if (current > 0) {
+    const prevState = answers[current - 1];
+    const prevDone = prevState && (prevState.solved || prevState.tries.length >= 3);
+    if (prevDone) {
+      const prevQ = questions[current - 1];
+      prevBar.innerHTML = `<button class="prev-review-btn" onclick="prevQ()">← 返回第 ${prevQ.id} 題解析</button>`;
+      prevBar.style.display = '';
+    } else {
+      prevBar.style.display = 'none';
+    }
+  } else {
+    prevBar.style.display = 'none';
+  }
 }
 
 // ── 作答 ────────────────────────────────────────────────────
@@ -328,6 +339,48 @@ function prevQ() {
   if (current <= 0) return;
   current--;
   renderQ();
+}
+
+// ── 解析產生（答對 / 揭曉時皆使用）────────────────────────
+
+function buildExplanation(q) {
+  const isImgOpt = ['A','B','C','D'].every(l => !q.options[l] || q.options[l] === `(${l})`);
+
+  // 正確答案字母 + 選項說明
+  const ansLetter = `<strong>${q.answer}</strong>`;
+
+  if (isImgOpt && q.optionsZh) {
+    // 圖片選項：顯示全部選項中文描述（方便對照圖片記憶）
+    const rows = ['A','B','C','D']
+      .filter(l => q.options[l] && q.optionsZh[l])
+      .map(l => {
+        const mark = l === q.answer ? ' ✓' : '';
+        return `<span class="hint-opt"><strong>${l}${mark}</strong>　${q.optionsZh[l]}</span>`;
+      }).join('');
+    return `<div class="feedback-explanation">
+      正確答案：${ansLetter}
+      <div class="hint-opts-grid" style="margin-top:6px">${rows}</div>
+    </div>`;
+  }
+
+  if (q.type === 'single') {
+    // 單題：顯示正確選項中文
+    const zh = q.optionsZh?.[q.answer];
+    const optText = q.options[q.answer];
+    const desc = zh ? `${ansLetter}　<em>${zh}</em>` : `${ansLetter}　${optText}`;
+    return `<div class="feedback-explanation">正確答案：${desc}</div>`;
+  }
+
+  // 題組：顯示正確選項（有中文優先）
+  const zh = q.optionsZh?.[q.answer];
+  const optText = q.options[q.answer];
+  if (zh) {
+    return `<div class="feedback-explanation">正確答案：${ansLetter}　<em>${zh}</em></div>`;
+  }
+  if (optText && !isImgOpt) {
+    return `<div class="feedback-explanation">正確答案：${ansLetter}　${optText}</div>`;
+  }
+  return `<div class="feedback-explanation">正確答案：${ansLetter}</div>`;
 }
 
 // ── 提示產生 ────────────────────────────────────────────────

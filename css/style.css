@@ -746,6 +746,33 @@ h1, h2, h3, h4 { font-family: var(--serif); font-weight: 600; letter-spacing: .0
 .recommend-sub  { font-family: var(--serif); font-size: 12px; color: var(--ink-2); margin-top: 2px; }
 .recommend-arr  { margin-left: auto; color: var(--peach-ink); font-size: 18px; }
 
+/* ── Feedback explanation block ── */
+.feedback-explanation {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid rgba(0,0,0,.08);
+  font-family: var(--serif);
+  font-size: 14px;
+  line-height: 1.65;
+}
+.feedback-explanation em { font-style: normal; font-weight: 500; }
+
+/* ── Return-to-review bar ── */
+.prev-review-btn {
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 7px 14px;
+  border-radius: 999px;
+  border: 1px solid var(--rule);
+  background: var(--paper);
+  font-family: var(--serif); font-size: 13px; color: var(--ink-2);
+  transition: all .15s;
+}
+.prev-review-btn:hover {
+  border-color: var(--peach-ink);
+  color: var(--peach-ink);
+  background: var(--peach-soft);
+}
+
 /* ── Image option questions ── */
 .img-opt-guide {
   font-family: var(--serif); font-size: 13px; color: var(--ink-3);
