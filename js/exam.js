@@ -60,11 +60,14 @@ async function startWrongPractice() {
   const keys = Object.keys(w);
   if (keys.length === 0) { alert('目前沒有錯題！繼續加油！'); return; }
 
+  const validYears = new Set([110, 111, 112, 113, 114, 115]);
   const byYear = {};
   keys.forEach(k => {
     const [y, id] = k.split('-');
-    if (!byYear[y]) byYear[y] = [];
-    byYear[y].push(parseInt(id));
+    const yi = parseInt(y);
+    if (!validYears.has(yi)) return; // 過濾無效年份
+    if (!byYear[yi]) byYear[yi] = [];
+    byYear[yi].push(parseInt(id));
   });
 
   questions = [];
@@ -480,11 +483,15 @@ function showResult() {
     const year = q._year || currentYear;
     const firstTryCorrect = state && state.solved && state.tries.length === 1;
     if (firstTryCorrect) correct++;
-    if (state && state.solved) {
-      Storage.markCorrect(year, q.id);
+    if (year && year >= 110) {
+      if (state && state.solved) {
+        Storage.markCorrect(year, q.id);
+      } else {
+        wrongIds.push(i);
+        Storage.markWrong(year, q.id);
+      }
     } else {
-      wrongIds.push(i);
-      Storage.markWrong(year, q.id);
+      if (!(state && state.solved)) wrongIds.push(i);
     }
   });
 

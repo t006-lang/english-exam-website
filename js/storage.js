@@ -26,7 +26,17 @@ const Storage = {
   },
 
   // 錯題本
-  getWrongQuestions() { return this.get(this.KEYS.WRONG_QUESTIONS) || {}; },
+  getWrongQuestions() {
+    const w = this.get(this.KEYS.WRONG_QUESTIONS) || {};
+    const valid = {};
+    let cleaned = false;
+    Object.entries(w).forEach(([k, v]) => {
+      const y = parseInt(k.split('-')[0]);
+      if (y >= 110 && y <= 200) { valid[k] = v; } else { cleaned = true; }
+    });
+    if (cleaned) this.set(this.KEYS.WRONG_QUESTIONS, valid);
+    return valid;
+  },
   markWrong(year, qId) {
     const w = this.getWrongQuestions();
     const key = `${year}-${qId}`;
