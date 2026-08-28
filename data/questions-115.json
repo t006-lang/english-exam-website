@@ -1,0 +1,1034 @@
+[
+  {
+    "id": 1,
+    "type": "single",
+    "passage": null,
+    "passageImage": "data/images/115-q01.png",
+    "question": "Look at the picture.  All of the students who are exercising are wearing _____.",
+    "options": {
+      "A": "caps",
+      "B": "glasses",
+      "C": "jackets",
+      "D": "pants"
+    },
+    "answer": "B",
+    "questionZh": "看圖片。所有正在運動的學生都戴著_____。",
+    "optionsZh": {
+      "A": "帽子",
+      "B": "眼鏡",
+      "C": "夾克",
+      "D": "褲子"
+    },
+    "skill": "字詞理解",
+    "passRate": 0.78,
+    "difficulty": "easy"
+  },
+  {
+    "id": 2,
+    "type": "single",
+    "passage": null,
+    "passageImage": null,
+    "question": "Rita _____ her dogs many times a day.  That's why they're too fat.",
+    "options": {
+      "A": "feeds",
+      "B": "kisses",
+      "C": "walks",
+      "D": "washes"
+    },
+    "answer": "A",
+    "questionZh": "Rita一天_____她的狗很多次。這就是為什麼牠們太胖了。",
+    "optionsZh": {
+      "A": "餵食",
+      "B": "親吻",
+      "C": "遛",
+      "D": "洗"
+    },
+    "skill": "字詞理解",
+    "passRate": 0.82,
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "type": "single",
+    "passage": null,
+    "passageImage": null,
+    "question": "You can ask Sophia anything about butterflies and bees.  She has great _____ of insects.",
+    "options": {
+      "A": "chances",
+      "B": "knowledge",
+      "C": "news",
+      "D": "power"
+    },
+    "answer": "B",
+    "questionZh": "你可以問Sophia任何關於蝴蝶和蜜蜂的事。她對昆蟲有很深的_____。",
+    "optionsZh": {
+      "A": "機會",
+      "B": "知識",
+      "C": "新聞",
+      "D": "力量"
+    },
+    "skill": "字詞理解",
+    "passRate": 0.75,
+    "difficulty": "easy"
+  },
+  {
+    "id": 4,
+    "type": "single",
+    "passage": null,
+    "passageImage": null,
+    "question": "Adam slept _____ last night because he kept waking up from bad dreams.",
+    "options": {
+      "A": "deeply",
+      "B": "early",
+      "C": "terribly",
+      "D": "quickly"
+    },
+    "answer": "C",
+    "questionZh": "Adam昨晚睡得_____，因為他一直從惡夢中醒來。",
+    "optionsZh": {
+      "A": "深沉地",
+      "B": "早",
+      "C": "很差地",
+      "D": "快速地"
+    },
+    "skill": "字詞理解",
+    "passRate": 0.68,
+    "difficulty": "medium"
+  },
+  {
+    "id": 5,
+    "type": "single",
+    "passage": null,
+    "passageImage": null,
+    "question": "Tara enjoys being with all kinds of animals; she even _____ a snake as a pet.",
+    "options": {
+      "A": "drops",
+      "B": "gives",
+      "C": "keeps",
+      "D": "makes"
+    },
+    "answer": "C",
+    "questionZh": "Tara喜歡與各種動物在一起；她甚至_____一隻蛇當寵物。",
+    "optionsZh": {
+      "A": "丟棄",
+      "B": "給予",
+      "C": "飼養",
+      "D": "製作"
+    },
+    "skill": "字詞理解",
+    "passRate": 0.76,
+    "difficulty": "easy"
+  },
+  {
+    "id": 6,
+    "type": "single",
+    "passage": null,
+    "passageImage": null,
+    "question": "Little Eric chose the doll _____ big brown eyes because it was the cutest in the store.",
+    "options": {
+      "A": "at",
+      "B": "in",
+      "C": "on",
+      "D": "with"
+    },
+    "answer": "D",
+    "questionZh": "小Eric選了那隻_____大棕色眼睛的娃娃，因為它是店裡最可愛的。",
+    "optionsZh": {
+      "A": "在...旁",
+      "B": "在...裡",
+      "C": "在...上",
+      "D": "有/具有"
+    },
+    "skill": "語法結構",
+    "passRate": 0.72,
+    "difficulty": "easy"
+  },
+  {
+    "id": 7,
+    "type": "single",
+    "passage": null,
+    "passageImage": null,
+    "question": "After four hours of mountain climbing, Rosa's legs got _____, so she took a rest on the top of the mountain.",
+    "options": {
+      "A": "dirty",
+      "B": "sick",
+      "C": "sore",
+      "D": "strong"
+    },
+    "answer": "C",
+    "questionZh": "爬山四個小時後，Rosa的腿感到_____，所以她在山頂休息了一下。",
+    "optionsZh": {
+      "A": "髒的",
+      "B": "生病的",
+      "C": "酸痛的",
+      "D": "強壯的"
+    },
+    "skill": "字詞理解",
+    "passRate": 0.7,
+    "difficulty": "medium"
+  },
+  {
+    "id": 8,
+    "type": "single",
+    "passage": null,
+    "passageImage": null,
+    "question": "Having three cups of coffee a day can't be bad for our health, _____?",
+    "options": {
+      "A": "can it",
+      "B": "can they",
+      "C": "is it",
+      "D": "are they"
+    },
+    "answer": "A",
+    "questionZh": "一天喝三杯咖啡對我們的健康不會有害，_____？",
+    "optionsZh": {
+      "A": "can it（附加問句）",
+      "B": "can they",
+      "C": "is it",
+      "D": "are they"
+    },
+    "skill": "語法結構",
+    "passRate": 0.65,
+    "difficulty": "medium"
+  },
+  {
+    "id": 9,
+    "type": "single",
+    "passage": null,
+    "passageImage": null,
+    "question": "You can't push that door open with only one hand.  It's too heavy.  You have to use _____!",
+    "options": {
+      "A": "all",
+      "B": "another",
+      "C": "both",
+      "D": "one"
+    },
+    "answer": "C",
+    "questionZh": "你不能用一隻手推開那扇門。太重了。你必須用_____！",
+    "optionsZh": {
+      "A": "全部",
+      "B": "另一個",
+      "C": "兩者",
+      "D": "一個"
+    },
+    "skill": "語法結構",
+    "passRate": 0.68,
+    "difficulty": "medium"
+  },
+  {
+    "id": 10,
+    "type": "single",
+    "passage": null,
+    "passageImage": null,
+    "question": "Alan works hard in his new job, and he wants to know _____ his boss feels about him.",
+    "options": {
+      "A": "how",
+      "B": "that",
+      "C": "whether",
+      "D": "why"
+    },
+    "answer": "A",
+    "questionZh": "Alan在新工作中很努力，他想知道他的老闆_____對他有什麼感受。",
+    "optionsZh": {
+      "A": "如何/怎樣",
+      "B": "那",
+      "C": "是否",
+      "D": "為何"
+    },
+    "skill": "語法結構",
+    "passRate": 0.7,
+    "difficulty": "medium"
+  },
+  {
+    "id": 11,
+    "type": "single",
+    "passage": null,
+    "passageImage": null,
+    "question": "I thought the girl _____ was Kate, but it was her sister, Candy.  They sounded almost the same.",
+    "options": {
+      "A": "answered the phone",
+      "B": "she answered the phone",
+      "C": "who answered the phone",
+      "D": "and answered the phone"
+    },
+    "answer": "C",
+    "questionZh": "我以為那個_____的女孩是Kate，但其實是她的姐妹Candy。她們聽起來幾乎一樣。",
+    "optionsZh": {
+      "A": "接了電話（誤）",
+      "B": "她接了電話",
+      "C": "接電話的（關係子句）",
+      "D": "並且接了電話"
+    },
+    "skill": "語法結構",
+    "passRate": 0.62,
+    "difficulty": "medium"
+  },
+  {
+    "id": 12,
+    "type": "single",
+    "passage": null,
+    "passageImage": null,
+    "question": "Ken is going abroad with a woman he met online, though he doesn't know _____ well.",
+    "options": {
+      "A": "her",
+      "B": "each other",
+      "C": "any",
+      "D": "another"
+    },
+    "answer": "A",
+    "questionZh": "Ken要和一個在網路上認識的女性出國，儘管他對_____不太了解。",
+    "optionsZh": {
+      "A": "她",
+      "B": "彼此",
+      "C": "任何",
+      "D": "另一個"
+    },
+    "skill": "語法結構",
+    "passRate": 0.65,
+    "difficulty": "medium"
+  },
+  {
+    "id": 13,
+    "type": "single",
+    "passage": null,
+    "passageImage": null,
+    "question": "Joe is happy he is not at the _____ of the class now.  His grades are better than half of his classmates' this school year.",
+    "options": {
+      "A": "side",
+      "B": "front",
+      "C": "center",
+      "D": "bottom"
+    },
+    "answer": "D",
+    "questionZh": "Joe很高興他現在不是班上_____了。這學年他的成績比一半同學好。",
+    "optionsZh": {
+      "A": "旁邊",
+      "B": "前面",
+      "C": "中間",
+      "D": "底部（後段班）"
+    },
+    "skill": "字詞理解",
+    "passRate": 0.68,
+    "difficulty": "medium"
+  },
+  {
+    "id": 14,
+    "type": "single",
+    "passage": null,
+    "passageImage": null,
+    "question": "Look!  There is not a cloud in the sky.  I think the chances of getting some rain today are really _____.",
+    "options": {
+      "A": "far",
+      "B": "good",
+      "C": "possible",
+      "D": "small"
+    },
+    "answer": "D",
+    "questionZh": "看！天空中沒有一片雲。我認為今天下雨的機率真的很_____。",
+    "optionsZh": {
+      "A": "遠的",
+      "B": "好的",
+      "C": "可能的",
+      "D": "小的"
+    },
+    "skill": "文意推論",
+    "passRate": 0.72,
+    "difficulty": "easy"
+  },
+  {
+    "id": 15,
+    "type": "single",
+    "passage": null,
+    "passageImage": null,
+    "question": "On windy days, the flowers in my garden _____ like shy children with their heads down.",
+    "options": {
+      "A": "bow",
+      "B": "fall",
+      "C": "rise",
+      "D": "smell"
+    },
+    "answer": "A",
+    "questionZh": "在有風的日子，我花園裡的花_____，像低著頭的害羞孩子。",
+    "optionsZh": {
+      "A": "低頭/鞠躬",
+      "B": "落下",
+      "C": "上升",
+      "D": "有香味"
+    },
+    "skill": "字詞理解",
+    "passRate": 0.66,
+    "difficulty": "medium"
+  },
+  {
+    "id": 16,
+    "type": "single",
+    "passage": null,
+    "passageImage": null,
+    "question": "Mr. Olson went to the doctor when he found he _____ his hair.  He hoped he would be able to keep his thick hair.",
+    "options": {
+      "A": "was losing",
+      "B": "is losing",
+      "C": "will lose",
+      "D": "has lost"
+    },
+    "answer": "A",
+    "questionZh": "Olson先生發現自己_____頭髮時去看了醫生。他希望能保留他濃密的頭髮。",
+    "optionsZh": {
+      "A": "正在掉（過去進行）",
+      "B": "正在掉（現在）",
+      "C": "將會掉",
+      "D": "已經掉了"
+    },
+    "skill": "語法結構",
+    "passRate": 0.6,
+    "difficulty": "medium"
+  },
+  {
+    "id": 17,
+    "type": "single",
+    "passage": null,
+    "passageImage": null,
+    "question": "Do you know what Lindsey's first job was?  Before becoming a movie star, she _____ the floors at the supermarket.",
+    "options": {
+      "A": "mops",
+      "B": "is mopping",
+      "C": "has mopped",
+      "D": "mopped"
+    },
+    "answer": "D",
+    "questionZh": "你知道Lindsey的第一份工作是什麼嗎？在成為電影明星之前，她在超市_____地板。",
+    "optionsZh": {
+      "A": "拖（現在習慣）",
+      "B": "正在拖（現在）",
+      "C": "已經拖過",
+      "D": "拖過（過去式）"
+    },
+    "skill": "語法結構",
+    "passRate": 0.72,
+    "difficulty": "easy"
+  },
+  {
+    "id": 18,
+    "type": "single",
+    "passage": null,
+    "passageImage": null,
+    "question": "Our dog Lassie hides under the bed every time the moon comes out.  She has been _____ for years, but we don't know why.",
+    "options": {
+      "A": "it",
+      "B": "like this",
+      "C": "like us",
+      "D": "that"
+    },
+    "answer": "B",
+    "questionZh": "我們的狗Lassie每次月亮出來都躲在床下。她_____好幾年了，但我們不知道為什麼。",
+    "optionsZh": {
+      "A": "它",
+      "B": "像這樣",
+      "C": "像我們",
+      "D": "那"
+    },
+    "skill": "語法結構",
+    "passRate": 0.58,
+    "difficulty": "medium"
+  },
+  {
+    "id": 19,
+    "type": "single",
+    "passage": null,
+    "passageImage": null,
+    "question": "Tom: Sam, could you help me in the kitchen now?\nSam: No, I _____ TV.  It's the most important game of the season.",
+    "options": {
+      "A": "watch",
+      "B": "watched",
+      "C": "have watched",
+      "D": "am watching"
+    },
+    "answer": "D",
+    "questionZh": "Tom：Sam，你現在能幫我在廚房嗎？\nSam：不行，我_____電視。這是本賽季最重要的比賽。",
+    "optionsZh": {
+      "A": "看（習慣）",
+      "B": "看了（過去）",
+      "C": "看過了（完成）",
+      "D": "正在看（進行）"
+    },
+    "skill": "語法結構",
+    "passRate": 0.74,
+    "difficulty": "easy"
+  },
+  {
+    "id": 20,
+    "type": "passage",
+    "passageImage": "data/images/115-q20.png",
+    "passage": "The Best Fruit Tea You Can Make at Home\n\nThings to get ready:\n3-4 teabags (green or black tea), half an apple, half a peach, half a pear, 20 mL lemon juice, 1,200 mL water, 30 g sugar\n\nNote: Most fruits are good for making fruit tea, but not papayas or bananas.\n\nHow to make fruit tea:\n1. Boil a pot of water.\n2. Put the teabags into the pot of hot water for 2 to 3 minutes and take them out.\n3. Cut the fruit into small pieces.\n4. Put the pieces into the hot tea and wait for another 5 to 6 minutes. (Leave the fruit in the pot to make the tea taste better.)\n5. Put in sugar and lemon juice and stir（攪拌）for at least 10 seconds.\n\nNow enjoy the tea!",
+    "question": "Amanda wants to make fruit tea by following The Best Fruit Tea You Can Make at Home.  She has several kinds of fruit in the kitchen: apples, bananas, oranges, papayas, pears, and strawberries.  Which are some of the fruits she can use to make the fruit tea?",
+    "options": {
+      "A": "Oranges, papayas and pears.",
+      "B": "Apples, bananas and oranges.",
+      "C": "Apples, oranges and strawberries.",
+      "D": "Bananas, papayas and strawberries."
+    },
+    "answer": "C",
+    "questionZh": "Amanda想依照「在家做最棒的果茶」來製作果茶。她廚房裡有幾種水果：蘋果、香蕉、柳橙、木瓜、梨子和草莓。她可以用哪些水果來製作果茶？",
+    "optionsZh": {
+      "A": "柳橙、木瓜和梨子。",
+      "B": "蘋果、香蕉和柳橙。",
+      "C": "蘋果、柳橙和草莓。",
+      "D": "香蕉、木瓜和草莓。"
+    },
+    "skill": "篇章細節",
+    "passRate": 0.7,
+    "difficulty": "medium"
+  },
+  {
+    "id": 21,
+    "type": "passage",
+    "passageImage": "data/images/115-q20.png",
+    "passage": "The Best Fruit Tea You Can Make at Home\n\nThings to get ready:\n3-4 teabags (green or black tea), half an apple, half a peach, half a pear, 20 mL lemon juice, 1,200 mL water, 30 g sugar\n\nNote: Most fruits are good for making fruit tea, but not papayas or bananas.\n\nHow to make fruit tea:\n1. Boil a pot of water.\n2. Put the teabags into the pot of hot water for 2 to 3 minutes and take them out.\n3. Cut the fruit into small pieces.\n4. Put the pieces into the hot tea and wait for another 5 to 6 minutes. (Leave the fruit in the pot to make the tea taste better.)\n5. Put in sugar and lemon juice and stir（攪拌）for at least 10 seconds.\n\nNow enjoy the tea!",
+    "question": "According to the reading, which is correct when we make the fruit tea?",
+    "options": {
+      "A": "Boiling water with sugar in it.",
+      "B": "Making sure to take out the fruit.",
+      "C": "Putting in the fruit and the lemon juice at the same time.",
+      "D": "Leaving the teabags in the pot of hot water for 2 to 3 minutes."
+    },
+    "answer": "D",
+    "questionZh": "根據文章，製作果茶時哪一項是正確的？",
+    "optionsZh": {
+      "A": "水裡加糖一起煮沸。",
+      "B": "確保取出水果。",
+      "C": "同時放入水果和檸檬汁。",
+      "D": "將茶包放入熱水中2到3分鐘。"
+    },
+    "skill": "篇章細節",
+    "passRate": 0.65,
+    "difficulty": "medium"
+  },
+  {
+    "id": 22,
+    "type": "passage",
+    "passageImage": "data/images/115-q22.png",
+    "passage": null,
+    "question": "According to the comics, what kind of person is Hawkins?",
+    "options": {
+      "A": "He sees good things in people.",
+      "B": "He never goes to work on time.",
+      "C": "He blindly follows other people.",
+      "D": "He talks about things he can't do."
+    },
+    "answer": "D",
+    "questionZh": "根據漫畫，Hawkins是什麼樣的人？",
+    "optionsZh": {
+      "A": "他看到別人的優點。",
+      "B": "他從不準時上班。",
+      "C": "他盲目地跟隨別人。",
+      "D": "他說一些自己做不到的事。"
+    },
+    "skill": "文意推論",
+    "passRate": 0.68,
+    "difficulty": "medium"
+  },
+  {
+    "id": 23,
+    "type": "passage",
+    "passageImage": "data/images/115-q22.png",
+    "passage": null,
+    "question": "What does it mean when we say someone bombed something?",
+    "options": {
+      "A": "They gave it up.",
+      "B": "They failed at it.",
+      "C": "They were fine with it.",
+      "D": "They were careful about it."
+    },
+    "answer": "B",
+    "questionZh": "當我們說某人「bombed」某件事，這是什麼意思？",
+    "optionsZh": {
+      "A": "他們放棄了。",
+      "B": "他們失敗了。",
+      "C": "他們對此沒問題。",
+      "D": "他們很謹慎。"
+    },
+    "skill": "字詞理解",
+    "passRate": 0.62,
+    "difficulty": "medium"
+  },
+  {
+    "id": 24,
+    "type": "passage",
+    "passageImage": "data/images/115-q24.png",
+    "passage": null,
+    "question": "Which question can the brochure answer?",
+    "options": {
+      "A": "Can I order tickets online?",
+      "B": "How much are the tickets?",
+      "C": "How can I get to the Marigolds' Home?",
+      "D": "When can I visit the Marigolds' Home?"
+    },
+    "answer": "D",
+    "questionZh": "這份宣傳手冊能回答哪個問題？",
+    "optionsZh": {
+      "A": "我可以在網路上訂票嗎？",
+      "B": "票價是多少？",
+      "C": "我怎麼去Marigolds' Home？",
+      "D": "我什麼時候可以參觀Marigolds' Home？"
+    },
+    "skill": "篇章細節",
+    "passRate": 0.72,
+    "difficulty": "easy"
+  },
+  {
+    "id": 25,
+    "type": "passage",
+    "passageImage": "data/images/115-q24.png",
+    "passage": null,
+    "question": "What breaks the rules for visitors to the Marigolds' Home?",
+    "options": {
+      "A": "Eating burgers in the Rose Garden.",
+      "B": "Taking pictures in the Main House.",
+      "C": "Entering the Rabbit's Temple without shoes.",
+      "D": "Taking pet dogs for a walk on the playground."
+    },
+    "answer": "D",
+    "questionZh": "哪項行為違反了Marigolds' Home的訪客規定？",
+    "optionsZh": {
+      "A": "在玫瑰園吃漢堡。",
+      "B": "在主屋拍照。",
+      "C": "未脫鞋進入兔子廟。",
+      "D": "帶寵物狗在遊樂場散步。"
+    },
+    "skill": "篇章細節",
+    "passRate": 0.65,
+    "difficulty": "medium"
+  },
+  {
+    "id": 26,
+    "type": "passage",
+    "passageImage": "data/images/115-q24.png",
+    "passage": null,
+    "question": "After shopping at the gift shop of the Main House, Lizzy walks out and sees the Family Library in front of her.  She wants to visit the Rose Garden.  How can she get there?",
+    "options": {
+      "A": "Turn left and walk past the Main House, then go straight and turn right at the corner.",
+      "B": "Turn left and walk past Sir Archie's House, then turn right and walk past the Main House.",
+      "C": "Turn right and go straight to the Farmyard, then turn right and go straight, then turn left at the corner.",
+      "D": "Turn right and walk through the Butterfly Garden, then walk past the Rabbit's Temple and the café."
+    },
+    "answer": "C",
+    "questionZh": "Lizzy在主屋禮品店購物後走出來，看到正前方是家庭圖書館。她想去玫瑰園。她怎麼去？",
+    "optionsZh": {
+      "A": "左轉走過主屋，然後直走，在轉角右轉。",
+      "B": "左轉走過Archie爵士的房子，然後右轉走過主屋。",
+      "C": "右轉直走到農場，再右轉直走，然後在轉角左轉。",
+      "D": "右轉穿過蝴蝶園，然後走過兔子廟和咖啡廳。"
+    },
+    "skill": "篇章細節",
+    "passRate": 0.55,
+    "difficulty": "hard"
+  },
+  {
+    "id": 27,
+    "type": "passage",
+    "passageImage": "data/images/115-q27.png",
+    "passage": "One summer evening when English cello player Beatrice Harrison was practicing in her garden, she was joined by a visitor she did not expect.\n\nThe visitor was a nightingale. The small brown bird sang together with Harrison's cello music, and the birdsong sounded like the piece she was playing. For the next few evenings, her visitor kept coming back, sometimes with several of its friends. Harrison decided that more people should hear the little singers.\n\nSo, on May 19, 1924, Harrison worked with the BBC, the UK's national TV and radio station, and played in her garden. At first, the artist was playing alone. Fifteen minutes before the end of her playing, the nightingales began to sing with the cello.\n\nThe nightingale show was popular with radio listeners. It was repeated the next week, and for the next twelve years Harrison played on the radio with her garden friends. During this time, she got 50,000 fan letters. People called her \"the Nightingale Lady.\"",
+    "question": "Why was Beatrice Harrison called the Nightingale Lady?",
+    "options": {
+      "A": "She wrote songs about nightingales.",
+      "B": "She sang as beautifully as a nightingale did.",
+      "C": "She taught nightingales to sing in a radio show.",
+      "D": "She was famous for playing music with nightingales."
+    },
+    "answer": "D",
+    "questionZh": "為什麼Beatrice Harrison被稱為「夜鶯女士」？",
+    "optionsZh": {
+      "A": "她寫了關於夜鶯的歌曲。",
+      "B": "她唱歌像夜鶯一樣美。",
+      "C": "她教夜鶯在廣播節目中唱歌。",
+      "D": "她因與夜鶯一起演奏音樂而聞名。"
+    },
+    "skill": "篇章大意",
+    "passRate": 0.7,
+    "difficulty": "medium"
+  },
+  {
+    "id": 28,
+    "type": "passage",
+    "passageImage": "data/images/115-q27.png",
+    "passage": "One summer evening when English cello player Beatrice Harrison was practicing in her garden, she was joined by a visitor she did not expect.\n\nThe visitor was a nightingale. The small brown bird sang together with Harrison's cello music, and the birdsong sounded like the piece she was playing. For the next few evenings, her visitor kept coming back, sometimes with several of its friends. Harrison decided that more people should hear the little singers.\n\nSo, on May 19, 1924, Harrison worked with the BBC, the UK's national TV and radio station, and played in her garden. At first, the artist was playing alone. Fifteen minutes before the end of her playing, the nightingales began to sing with the cello.\n\nThe nightingale show was popular with radio listeners. It was repeated the next week, and for the next twelve years Harrison played on the radio with her garden friends. During this time, she got 50,000 fan letters. People called her \"the Nightingale Lady.\"",
+    "question": "Which is NOT used in the reading to mean the nightingale(s)?",
+    "options": {
+      "A": "Her visitor.",
+      "B": "The little singers.",
+      "C": "The artist.",
+      "D": "Her garden friends."
+    },
+    "answer": "C",
+    "questionZh": "下列哪一項在文中不是用來指夜鶯的說法？",
+    "optionsZh": {
+      "A": "她的訪客。",
+      "B": "小歌手們。",
+      "C": "這位藝術家。",
+      "D": "她的花園朋友們。"
+    },
+    "skill": "篇章細節",
+    "passRate": 0.62,
+    "difficulty": "medium"
+  },
+  {
+    "id": 29,
+    "type": "passage",
+    "passageImage": "data/images/115-q29.png",
+    "passage": "With heavy hearts, we are here to say goodbye to Rose Lacey, a wonderful writer who will be sadly missed.\n\nRose and I first met in 2010. I was at a party to pick up my wife when I heard Rose explaining to her and her friends why Get Across was a great movie. Her ideas were so interesting that I invited her to write some articles about movies for Action! US. Rose was very excited and agreed right away.\n\nOver the next ten years, Rose wrote more than 150 articles. Rose could always bring out something new from movies that we thought we knew so well. People often told me that Rose never failed to surprise them. Her articles often made them think whether they actually saw the same movie, but if they went to see it again, they experienced the movie in a whole new way.\n\nIn her short life of 40 years, Rose has made her mark on the world of movies with her articles for Action! US. We are lucky to have had her in our lives. She was a very special person.\n\nAlex Jackson\nHead of Action! US",
+    "question": "Why does Alex Jackson write about Rose Lacey?",
+    "options": {
+      "A": "Because she died.",
+      "B": "Because she is very sick.",
+      "C": "Because she is moving away.",
+      "D": "Because she is leaving for another job."
+    },
+    "answer": "A",
+    "questionZh": "Alex Jackson為什麼寫關於Rose Lacey的文章？",
+    "optionsZh": {
+      "A": "因為她去世了。",
+      "B": "因為她病得很重。",
+      "C": "因為她要搬走了。",
+      "D": "因為她要去做另一份工作。"
+    },
+    "skill": "篇章大意",
+    "passRate": 0.68,
+    "difficulty": "medium"
+  },
+  {
+    "id": 30,
+    "type": "passage",
+    "passageImage": "data/images/115-q29.png",
+    "passage": "With heavy hearts, we are here to say goodbye to Rose Lacey, a wonderful writer who will be sadly missed.\n\nRose and I first met in 2010. I was at a party to pick up my wife when I heard Rose explaining to her and her friends why Get Across was a great movie. Her ideas were so interesting that I invited her to write some articles about movies for Action! US. Rose was very excited and agreed right away.\n\nOver the next ten years, Rose wrote more than 150 articles. Rose could always bring out something new from movies that we thought we knew so well. People often told me that Rose never failed to surprise them. Her articles often made them think whether they actually saw the same movie, but if they went to see it again, they experienced the movie in a whole new way.\n\nIn her short life of 40 years, Rose has made her mark on the world of movies with her articles for Action! US. We are lucky to have had her in our lives. She was a very special person.\n\nAlex Jackson\nHead of Action! US",
+    "question": "How did Rose Lacey and Alex Jackson get to know each other?",
+    "options": {
+      "A": "They met at a party.",
+      "B": "They were relatives.",
+      "C": "They worked in the same office.",
+      "D": "They took a course on movies together."
+    },
+    "answer": "A",
+    "questionZh": "Rose Lacey和Alex Jackson是怎麼認識的？",
+    "optionsZh": {
+      "A": "他們在一場派對上相遇。",
+      "B": "他們是親戚。",
+      "C": "他們在同一個辦公室工作。",
+      "D": "他們一起上了電影課程。"
+    },
+    "skill": "篇章細節",
+    "passRate": 0.75,
+    "difficulty": "easy"
+  },
+  {
+    "id": 31,
+    "type": "passage",
+    "passageImage": "data/images/115-q29.png",
+    "passage": "With heavy hearts, we are here to say goodbye to Rose Lacey, a wonderful writer who will be sadly missed.\n\nRose and I first met in 2010. I was at a party to pick up my wife when I heard Rose explaining to her and her friends why Get Across was a great movie. Her ideas were so interesting that I invited her to write some articles about movies for Action! US. Rose was very excited and agreed right away.\n\nOver the next ten years, Rose wrote more than 150 articles. Rose could always bring out something new from movies that we thought we knew so well. People often told me that Rose never failed to surprise them. Her articles often made them think whether they actually saw the same movie, but if they went to see it again, they experienced the movie in a whole new way.\n\nIn her short life of 40 years, Rose has made her mark on the world of movies with her articles for Action! US. We are lucky to have had her in our lives. She was a very special person.\n\nAlex Jackson\nHead of Action! US",
+    "question": "What is special about Rose Lacey's articles?",
+    "options": {
+      "A": "They are important to movie makers.",
+      "B": "They talk about movies from a fresh angle.",
+      "C": "They give interesting information about actors.",
+      "D": "They are good examples of how to write stories."
+    },
+    "answer": "B",
+    "questionZh": "Rose Lacey的文章有什麼特別之處？",
+    "optionsZh": {
+      "A": "它們對電影製作人很重要。",
+      "B": "它們從新鮮的角度談論電影。",
+      "C": "它們提供關於演員的有趣資訊。",
+      "D": "它們是如何寫故事的好例子。"
+    },
+    "skill": "篇章大意",
+    "passRate": 0.65,
+    "difficulty": "medium"
+  },
+  {
+    "id": 32,
+    "type": "passage",
+    "passageImage": "data/images/115-q32.png",
+    "passage": "SEA GLASS: GLASS BOTTLES' SECOND LIFE\n\nSea glass is made from the magic of the sea. It usually comes from glass bottles that are thrown into the water. Each piece of sea glass looks different, and sea glass is often seen on art pieces. The pictures below explain how sea glass is born.\n\n1. Glass bottles are thrown as garbage into the sea.\n2. When these bottles ride the waves of the sea, they hit each other or other garbage in the sea and break into small pieces of glass.\n3. Pieces of glass are pushed by sea water and move along the sea floor. The sharp pieces slowly become rounder and rounder.\n4. After tens or hundreds of years in the sea, the pieces of glass grow an ice-like white color on the outside and become sea glass.\n5. Sea glass is finally pushed up to the beach.\n6. Artists collect pieces of sea glass and put them into their works.\n\nHowever, people now seldom use glass to make bottles and bowls—paper bowls and cups have become more popular these days. This means there are fewer glass items in the sea, so less and less sea glass will be found in the future.",
+    "question": "Why does the title say \"Glass Bottles' Second Life\"?",
+    "options": {
+      "A": "People collect sea glass and use it to make new glass bottles.",
+      "B": "People collect sea glass at the beach and use it to make wishes.",
+      "C": "Glass bottles that are thrown into the sea become the homes of sea animals.",
+      "D": "Glass bottles that are thrown into the sea become sea glass which is used in art pieces."
+    },
+    "answer": "D",
+    "questionZh": "為什麼標題說「玻璃瓶的第二次生命」？",
+    "optionsZh": {
+      "A": "人們收集海玻璃並用它來製作新的玻璃瓶。",
+      "B": "人們在海灘收集海玻璃並用它來許願。",
+      "C": "被扔進海裡的玻璃瓶成為海洋動物的家。",
+      "D": "被扔進海裡的玻璃瓶變成海玻璃，被用於藝術品中。"
+    },
+    "skill": "篇章大意",
+    "passRate": 0.72,
+    "difficulty": "easy"
+  },
+  {
+    "id": 33,
+    "type": "passage",
+    "passageImage": "data/images/115-q32.png",
+    "passage": "SEA GLASS: GLASS BOTTLES' SECOND LIFE\n\nSea glass is made from the magic of the sea. It usually comes from glass bottles that are thrown into the water. Each piece of sea glass looks different, and sea glass is often seen on art pieces. The pictures below explain how sea glass is born.\n\n1. Glass bottles are thrown as garbage into the sea.\n2. When these bottles ride the waves of the sea, they hit each other or other garbage in the sea and break into small pieces of glass.\n3. Pieces of glass are pushed by sea water and move along the sea floor. The sharp pieces slowly become rounder and rounder.\n4. After tens or hundreds of years in the sea, the pieces of glass grow an ice-like white color on the outside and become sea glass.\n5. Sea glass is finally pushed up to the beach.\n6. Artists collect pieces of sea glass and put them into their works.\n\nHowever, people now seldom use glass to make bottles and bowls—paper bowls and cups have become more popular these days. This means there are fewer glass items in the sea, so less and less sea glass will be found in the future.",
+    "question": "According to the reading, how is sea glass made?",
+    "options": {
+      "A": "Sea glass becomes rounder after it is pushed up to the beach.",
+      "B": "Colder sea water helps pieces of glass become sea glass faster.",
+      "C": "Pieces of glass become white on the outside after many years in the sea.",
+      "D": "Glass bottles break into pieces when they are dug out from the sea floor."
+    },
+    "answer": "C",
+    "questionZh": "根據文章，海玻璃是如何形成的？",
+    "optionsZh": {
+      "A": "海玻璃被推上海灘後變得更圓。",
+      "B": "較冷的海水幫助玻璃碎片更快變成海玻璃。",
+      "C": "玻璃碎片在海裡多年後外表變白。",
+      "D": "玻璃瓶在從海底挖出時碎成碎片。"
+    },
+    "skill": "篇章細節",
+    "passRate": 0.65,
+    "difficulty": "medium"
+  },
+  {
+    "id": 34,
+    "type": "passage",
+    "passageImage": "data/images/115-q32.png",
+    "passage": "SEA GLASS: GLASS BOTTLES' SECOND LIFE\n\nSea glass is made from the magic of the sea. It usually comes from glass bottles that are thrown into the water. Each piece of sea glass looks different, and sea glass is often seen on art pieces. The pictures below explain how sea glass is born.\n\n1. Glass bottles are thrown as garbage into the sea.\n2. When these bottles ride the waves of the sea, they hit each other or other garbage in the sea and break into small pieces of glass.\n3. Pieces of glass are pushed by sea water and move along the sea floor. The sharp pieces slowly become rounder and rounder.\n4. After tens or hundreds of years in the sea, the pieces of glass grow an ice-like white color on the outside and become sea glass.\n5. Sea glass is finally pushed up to the beach.\n6. Artists collect pieces of sea glass and put them into their works.\n\nHowever, people now seldom use glass to make bottles and bowls—paper bowls and cups have become more popular these days. This means there are fewer glass items in the sea, so less and less sea glass will be found in the future.",
+    "question": "According to the reading, why will less sea glass be found in the future?",
+    "options": {
+      "A": "People do not make as many glass items as before.",
+      "B": "People have learned not to throw garbage into the sea.",
+      "C": "Artists are using too much sea glass in their art pieces.",
+      "D": "Waves are not big enough to push sea glass up to the beach."
+    },
+    "answer": "A",
+    "questionZh": "根據文章，為什麼未來會發現越來越少的海玻璃？",
+    "optionsZh": {
+      "A": "人們製作的玻璃物品比以前少。",
+      "B": "人們學會了不要把垃圾扔進海裡。",
+      "C": "藝術家在藝術品中使用了太多海玻璃。",
+      "D": "海浪不夠大，無法把海玻璃推上海灘。"
+    },
+    "skill": "文意推論",
+    "passRate": 0.68,
+    "difficulty": "medium"
+  },
+  {
+    "id": 35,
+    "type": "passage",
+    "passageImage": "data/images/115-q35.png",
+    "passage": "【The Future of Icelandic】by Anna Adams（Scandinavian News）\n\nIcelandic is a language that is spoken only in Iceland. It has a long history. But many Icelanders are worried that they're losing Icelandic.\n\nThe reason for their worry is the prevalence of English in Iceland. \"I use English when I talk to my housework robot, use my phone, and watch movies,\" said Helgi Atlason, an engineer. There is a reason for that. Most of these products use English, and few companies care to change the language into Icelandic because there are only a small number of Icelandic speakers (314,000 people). Actually, you see English everywhere in Iceland.\n\nIcelanders also speak and hear more English than Icelandic these days because many foreigners who come to live and work in Iceland speak only English. \"We can't use Icelandic abroad, and we're not using it much in Iceland, either. How do you expect our kids will want to learn it?\" said Eirikur Wilson, a teacher.\n\nWill Iceland one day give up Icelandic for English? It may happen soon.\n\n---\n\n【Our Future with Icelandic】by Gunnar Eggertsson（Scandinavian News）\n\nMany people think Icelandic is a language in its sickbed and that it needs to be saved. I understand their worries, but does the future of our language really look that bad?\n\nAccording to Dr. David Clingingsmith, a language needs at least 35,000 speakers to be \"safe\" from becoming a dying language. There are now 314,000 Icelandic speakers. Also, every year Iceland spends 51.3 million Icelandic crowns (3.7 million US dollars) teaching Icelandic to machines: phones, computers, and robots. Icelandic is appearing more often in products. Most importantly, schools still teach Icelandic to children. Clearly, we are not giving up our first language.\n\nHowever, I'm not saying that Iceland has done enough for Icelandic. Our country can do a better job at getting more people to speak this beautiful language. One way to do so is to give more language courses to foreigners. With much more work, I'm sure Icelandic can grow and even reach farther into the world.",
+    "question": "What does the prevalence of English mean?",
+    "options": {
+      "A": "That English is very common.",
+      "B": "That English is not welcomed.",
+      "C": "That English is easy and simple.",
+      "D": "That English is not a national language."
+    },
+    "answer": "A",
+    "questionZh": "「英語的盛行」是什麼意思？",
+    "optionsZh": {
+      "A": "英語非常普遍。",
+      "B": "英語不受歡迎。",
+      "C": "英語簡單易懂。",
+      "D": "英語不是國家語言。"
+    },
+    "skill": "字詞理解",
+    "passRate": 0.68,
+    "difficulty": "medium"
+  },
+  {
+    "id": 36,
+    "type": "passage",
+    "passageImage": "data/images/115-q35.png",
+    "passage": "【The Future of Icelandic】by Anna Adams（Scandinavian News）\n\nIcelandic is a language that is spoken only in Iceland. It has a long history. But many Icelanders are worried that they're losing Icelandic.\n\nThe reason for their worry is the prevalence of English in Iceland. \"I use English when I talk to my housework robot, use my phone, and watch movies,\" said Helgi Atlason, an engineer. There is a reason for that. Most of these products use English, and few companies care to change the language into Icelandic because there are only a small number of Icelandic speakers (314,000 people). Actually, you see English everywhere in Iceland.\n\nIcelanders also speak and hear more English than Icelandic these days because many foreigners who come to live and work in Iceland speak only English. \"We can't use Icelandic abroad, and we're not using it much in Iceland, either. How do you expect our kids will want to learn it?\" said Eirikur Wilson, a teacher.\n\nWill Iceland one day give up Icelandic for English? It may happen soon.\n\n---\n\n【Our Future with Icelandic】by Gunnar Eggertsson（Scandinavian News）\n\nMany people think Icelandic is a language in its sickbed and that it needs to be saved. I understand their worries, but does the future of our language really look that bad?\n\nAccording to Dr. David Clingingsmith, a language needs at least 35,000 speakers to be \"safe\" from becoming a dying language. There are now 314,000 Icelandic speakers. Also, every year Iceland spends 51.3 million Icelandic crowns (3.7 million US dollars) teaching Icelandic to machines: phones, computers, and robots. Icelandic is appearing more often in products. Most importantly, schools still teach Icelandic to children. Clearly, we are not giving up our first language.\n\nHowever, I'm not saying that Iceland has done enough for Icelandic. Our country can do a better job at getting more people to speak this beautiful language. One way to do so is to give more language courses to foreigners. With much more work, I'm sure Icelandic can grow and even reach farther into the world.",
+    "question": "In the first reading, which is one of the ways that Anna Adams uses to make readers believe in her ideas?",
+    "options": {
+      "A": "Sharing her own life stories.",
+      "B": "Borrowing from people's experience.",
+      "C": "Using examples from another language.",
+      "D": "Showing information from news reports."
+    },
+    "answer": "B",
+    "questionZh": "在第一篇文章中，Anna Adams用哪種方式讓讀者相信她的觀點？",
+    "optionsZh": {
+      "A": "分享她自己的生活故事。",
+      "B": "借用他人的親身經歷。",
+      "C": "使用其他語言的例子。",
+      "D": "展示新聞報導的資訊。"
+    },
+    "skill": "文意推論",
+    "passRate": 0.58,
+    "difficulty": "hard"
+  },
+  {
+    "id": 37,
+    "type": "passage",
+    "passageImage": "data/images/115-q35.png",
+    "passage": "【The Future of Icelandic】by Anna Adams（Scandinavian News）\n\nIcelandic is a language that is spoken only in Iceland. It has a long history. But many Icelanders are worried that they're losing Icelandic.\n\nThe reason for their worry is the prevalence of English in Iceland. \"I use English when I talk to my housework robot, use my phone, and watch movies,\" said Helgi Atlason, an engineer. There is a reason for that. Most of these products use English, and few companies care to change the language into Icelandic because there are only a small number of Icelandic speakers (314,000 people). Actually, you see English everywhere in Iceland.\n\nIcelanders also speak and hear more English than Icelandic these days because many foreigners who come to live and work in Iceland speak only English. \"We can't use Icelandic abroad, and we're not using it much in Iceland, either. How do you expect our kids will want to learn it?\" said Eirikur Wilson, a teacher.\n\nWill Iceland one day give up Icelandic for English? It may happen soon.\n\n---\n\n【Our Future with Icelandic】by Gunnar Eggertsson（Scandinavian News）\n\nMany people think Icelandic is a language in its sickbed and that it needs to be saved. I understand their worries, but does the future of our language really look that bad?\n\nAccording to Dr. David Clingingsmith, a language needs at least 35,000 speakers to be \"safe\" from becoming a dying language. There are now 314,000 Icelandic speakers. Also, every year Iceland spends 51.3 million Icelandic crowns (3.7 million US dollars) teaching Icelandic to machines: phones, computers, and robots. Icelandic is appearing more often in products. Most importantly, schools still teach Icelandic to children. Clearly, we are not giving up our first language.\n\nHowever, I'm not saying that Iceland has done enough for Icelandic. Our country can do a better job at getting more people to speak this beautiful language. One way to do so is to give more language courses to foreigners. With much more work, I'm sure Icelandic can grow and even reach farther into the world.",
+    "question": "Which words in the second reading are NOT used to describe Icelandic?",
+    "options": {
+      "A": "A language in its sickbed.",
+      "B": "A dying language.",
+      "C": "Our first language.",
+      "D": "This beautiful language."
+    },
+    "answer": "B",
+    "questionZh": "第二篇文章中，哪一個說法不是用來形容冰島語的？",
+    "optionsZh": {
+      "A": "一個病床上的語言。",
+      "B": "一個瀕死的語言。",
+      "C": "我們的母語。",
+      "D": "這個美麗的語言。"
+    },
+    "skill": "篇章細節",
+    "passRate": 0.6,
+    "difficulty": "medium"
+  },
+  {
+    "id": 38,
+    "type": "passage",
+    "passageImage": "data/images/115-q35.png",
+    "passage": "【The Future of Icelandic】by Anna Adams（Scandinavian News）\n\nIcelandic is a language that is spoken only in Iceland. It has a long history. But many Icelanders are worried that they're losing Icelandic.\n\nThe reason for their worry is the prevalence of English in Iceland. \"I use English when I talk to my housework robot, use my phone, and watch movies,\" said Helgi Atlason, an engineer. There is a reason for that. Most of these products use English, and few companies care to change the language into Icelandic because there are only a small number of Icelandic speakers (314,000 people). Actually, you see English everywhere in Iceland.\n\nIcelanders also speak and hear more English than Icelandic these days because many foreigners who come to live and work in Iceland speak only English. \"We can't use Icelandic abroad, and we're not using it much in Iceland, either. How do you expect our kids will want to learn it?\" said Eirikur Wilson, a teacher.\n\nWill Iceland one day give up Icelandic for English? It may happen soon.\n\n---\n\n【Our Future with Icelandic】by Gunnar Eggertsson（Scandinavian News）\n\nMany people think Icelandic is a language in its sickbed and that it needs to be saved. I understand their worries, but does the future of our language really look that bad?\n\nAccording to Dr. David Clingingsmith, a language needs at least 35,000 speakers to be \"safe\" from becoming a dying language. There are now 314,000 Icelandic speakers. Also, every year Iceland spends 51.3 million Icelandic crowns (3.7 million US dollars) teaching Icelandic to machines: phones, computers, and robots. Icelandic is appearing more often in products. Most importantly, schools still teach Icelandic to children. Clearly, we are not giving up our first language.\n\nHowever, I'm not saying that Iceland has done enough for Icelandic. Our country can do a better job at getting more people to speak this beautiful language. One way to do so is to give more language courses to foreigners. With much more work, I'm sure Icelandic can grow and even reach farther into the world.",
+    "question": "Are Anna Adams and Gunnar Eggertsson worried about the future of Icelandic?",
+    "options": {
+      "A": "No, they are not.",
+      "B": "Yes, they both are.",
+      "C": "Adams is, but Eggertsson is not.",
+      "D": "Adams is not, but Eggertsson is."
+    },
+    "answer": "C",
+    "questionZh": "Anna Adams和Gunnar Eggertsson對冰島語的未來感到擔憂嗎？",
+    "optionsZh": {
+      "A": "不，他們都不擔憂。",
+      "B": "是的，他們都擔憂。",
+      "C": "Adams擔憂，但Eggertsson不擔憂。",
+      "D": "Adams不擔憂，但Eggertsson擔憂。"
+    },
+    "skill": "篇章大意",
+    "passRate": 0.65,
+    "difficulty": "medium"
+  },
+  {
+    "id": 39,
+    "type": "passage",
+    "passageImage": "data/images/115-q35.png",
+    "passage": "【The Future of Icelandic】by Anna Adams（Scandinavian News）\n\nIcelandic is a language that is spoken only in Iceland. It has a long history. But many Icelanders are worried that they're losing Icelandic.\n\nThe reason for their worry is the prevalence of English in Iceland. \"I use English when I talk to my housework robot, use my phone, and watch movies,\" said Helgi Atlason, an engineer. There is a reason for that. Most of these products use English, and few companies care to change the language into Icelandic because there are only a small number of Icelandic speakers (314,000 people). Actually, you see English everywhere in Iceland.\n\nIcelanders also speak and hear more English than Icelandic these days because many foreigners who come to live and work in Iceland speak only English. \"We can't use Icelandic abroad, and we're not using it much in Iceland, either. How do you expect our kids will want to learn it?\" said Eirikur Wilson, a teacher.\n\nWill Iceland one day give up Icelandic for English? It may happen soon.\n\n---\n\n【Our Future with Icelandic】by Gunnar Eggertsson（Scandinavian News）\n\nMany people think Icelandic is a language in its sickbed and that it needs to be saved. I understand their worries, but does the future of our language really look that bad?\n\nAccording to Dr. David Clingingsmith, a language needs at least 35,000 speakers to be \"safe\" from becoming a dying language. There are now 314,000 Icelandic speakers. Also, every year Iceland spends 51.3 million Icelandic crowns (3.7 million US dollars) teaching Icelandic to machines: phones, computers, and robots. Icelandic is appearing more often in products. Most importantly, schools still teach Icelandic to children. Clearly, we are not giving up our first language.\n\nHowever, I'm not saying that Iceland has done enough for Icelandic. Our country can do a better job at getting more people to speak this beautiful language. One way to do so is to give more language courses to foreigners. With much more work, I'm sure Icelandic can grow and even reach farther into the world.",
+    "question": "Which idea do Anna Adams and Gunnar Eggertsson both talk about in the readings?",
+    "options": {
+      "A": "Whether Icelanders speak better English than Icelandic.",
+      "B": "Whether the number of Icelandic speakers is big enough.",
+      "C": "Whether school subjects should be taught only in Icelandic.",
+      "D": "Whether Iceland should allow more foreigners to work in Iceland."
+    },
+    "answer": "B",
+    "questionZh": "Anna Adams和Gunnar Eggertsson在文章中都談到了哪個觀點？",
+    "optionsZh": {
+      "A": "冰島人是否說英語比冰島語更好。",
+      "B": "說冰島語的人數是否足夠多。",
+      "C": "學校科目是否應該只用冰島語教授。",
+      "D": "冰島是否應該允許更多外國人在冰島工作。"
+    },
+    "skill": "篇章結構",
+    "passRate": 0.55,
+    "difficulty": "hard"
+  },
+  {
+    "id": 40,
+    "type": "passage",
+    "passageImage": "data/images/115-q40.png",
+    "passage": "A long time ago, there was an old king who had no child of his own. The king was worried that his land would fall into the wrong hands after his death, so he decided to pick a child in his land to take the high seat. One day, he called all the children to his castle and gave each of them a seed. \"Come back on New Year's Day and show me what you have grown,\" he said to them, \"and I will ___40___.\"\n\nEvery child brought their seeds home carefully. One of the children, Wong, planted his seed in a pot. He gave it water every day and made sure there was sun to help it grow. ___41___.\n\nThen, Sung, the child of the richest family in the land, told people that a small plant was growing from his seed. He was ___42___. Everyone excitedly said that he would be king. Soon, one after another, more and more children were also saying that they had something in their pots. But Wong still didn't find anything in his.\n\nOn the big day, when Wong brought his pot to the castle, he saw all the other children carrying interesting plants. Some had flowers in the shape of a bird, and some had grasses of different colors. Everyone proudly showed their plants to the king, but the king looked unhappy until he saw Wong's pot. \"I boiled the seeds before I gave them out, so no plants could grow from them.\" The king looked seriously at the children. \"There is only one child who is ___43___ enough to be king.\"\n\nTen years later, the king died. On his deathbed, he was not worried because he knew Wong would be a good king.",
+    "question": "40. The king said, \"and I will _____.\"",
+    "options": {
+      "A": "give you a piece of good land",
+      "B": "choose a person to be the next king",
+      "C": "put the beautiful ones in my castle",
+      "D": "decide who will work in my garden"
+    },
+    "answer": "B",
+    "questionZh": "40. 國王說：「我將_____。」",
+    "optionsZh": {
+      "A": "給你一塊好地",
+      "B": "選一個人成為下一任國王",
+      "C": "把美麗的植物放進我的城堡",
+      "D": "決定誰在我的花園工作"
+    },
+    "skill": "篇章結構",
+    "passRate": 0.7,
+    "difficulty": "medium"
+  },
+  {
+    "id": 41,
+    "type": "passage",
+    "passageImage": "data/images/115-q40.png",
+    "passage": "A long time ago, there was an old king who had no child of his own. The king was worried that his land would fall into the wrong hands after his death, so he decided to pick a child in his land to take the high seat. One day, he called all the children to his castle and gave each of them a seed. \"Come back on New Year's Day and show me what you have grown,\" he said to them, \"and I will ___40___.\"\n\nEvery child brought their seeds home carefully. One of the children, Wong, planted his seed in a pot. He gave it water every day and made sure there was sun to help it grow. ___41___.\n\nThen, Sung, the child of the richest family in the land, told people that a small plant was growing from his seed. He was ___42___. Everyone excitedly said that he would be king. Soon, one after another, more and more children were also saying that they had something in their pots. But Wong still didn't find anything in his.\n\nOn the big day, when Wong brought his pot to the castle, he saw all the other children carrying interesting plants. Some had flowers in the shape of a bird, and some had grasses of different colors. Everyone proudly showed their plants to the king, but the king looked unhappy until he saw Wong's pot. \"I boiled the seeds before I gave them out, so no plants could grow from them.\" The king looked seriously at the children. \"There is only one child who is ___43___ enough to be king.\"\n\nTen years later, the king died. On his deathbed, he was not worried because he knew Wong would be a good king.",
+    "question": "41. Wong planted his seed and cared for it every day. _____.",
+    "options": {
+      "A": "But he lost his pot a few weeks later",
+      "B": "Months passed but nothing grew from it",
+      "C": "But soon the plant that grew from it died",
+      "D": "The seed grew into a big tree in a short time"
+    },
+    "answer": "B",
+    "questionZh": "41. Wong種下種子並每天悉心照料。_____。",
+    "optionsZh": {
+      "A": "但他幾週後弄丟了花盆",
+      "B": "幾個月過去了，但什麼都沒長出來",
+      "C": "但長出來的植物很快就死了",
+      "D": "種子在短時間內長成了一棵大樹"
+    },
+    "skill": "篇章結構",
+    "passRate": 0.72,
+    "difficulty": "easy"
+  },
+  {
+    "id": 42,
+    "type": "passage",
+    "passageImage": "data/images/115-q40.png",
+    "passage": "A long time ago, there was an old king who had no child of his own. The king was worried that his land would fall into the wrong hands after his death, so he decided to pick a child in his land to take the high seat. One day, he called all the children to his castle and gave each of them a seed. \"Come back on New Year's Day and show me what you have grown,\" he said to them, \"and I will ___40___.\"\n\nEvery child brought their seeds home carefully. One of the children, Wong, planted his seed in a pot. He gave it water every day and made sure there was sun to help it grow. ___41___.\n\nThen, Sung, the child of the richest family in the land, told people that a small plant was growing from his seed. He was ___42___. Everyone excitedly said that he would be king. Soon, one after another, more and more children were also saying that they had something in their pots. But Wong still didn't find anything in his.\n\nOn the big day, when Wong brought his pot to the castle, he saw all the other children carrying interesting plants. Some had flowers in the shape of a bird, and some had grasses of different colors. Everyone proudly showed their plants to the king, but the king looked unhappy until he saw Wong's pot. \"I boiled the seeds before I gave them out, so no plants could grow from them.\" The king looked seriously at the children. \"There is only one child who is ___43___ enough to be king.\"\n\nTen years later, the king died. On his deathbed, he was not worried because he knew Wong would be a good king.",
+    "question": "42. Sung told people his seed grew a plant. He was _____.",
+    "options": {
+      "A": "the last one to give up",
+      "B": "the first one to share good news",
+      "C": "the first one to bring his pot to the king",
+      "D": "the only one to take good care of his plant"
+    },
+    "answer": "B",
+    "questionZh": "42. Sung告訴大家他的種子長出了植物。他是_____。",
+    "optionsZh": {
+      "A": "最後一個放棄的",
+      "B": "第一個分享好消息的",
+      "C": "第一個把花盆帶給國王的",
+      "D": "唯一好好照料植物的"
+    },
+    "skill": "篇章結構",
+    "passRate": 0.68,
+    "difficulty": "medium"
+  },
+  {
+    "id": 43,
+    "type": "passage",
+    "passageImage": "data/images/115-q40.png",
+    "passage": "A long time ago, there was an old king who had no child of his own. The king was worried that his land would fall into the wrong hands after his death, so he decided to pick a child in his land to take the high seat. One day, he called all the children to his castle and gave each of them a seed. \"Come back on New Year's Day and show me what you have grown,\" he said to them, \"and I will ___40___.\"\n\nEvery child brought their seeds home carefully. One of the children, Wong, planted his seed in a pot. He gave it water every day and made sure there was sun to help it grow. ___41___.\n\nThen, Sung, the child of the richest family in the land, told people that a small plant was growing from his seed. He was ___42___. Everyone excitedly said that he would be king. Soon, one after another, more and more children were also saying that they had something in their pots. But Wong still didn't find anything in his.\n\nOn the big day, when Wong brought his pot to the castle, he saw all the other children carrying interesting plants. Some had flowers in the shape of a bird, and some had grasses of different colors. Everyone proudly showed their plants to the king, but the king looked unhappy until he saw Wong's pot. \"I boiled the seeds before I gave them out, so no plants could grow from them.\" The king looked seriously at the children. \"There is only one child who is ___43___ enough to be king.\"\n\nTen years later, the king died. On his deathbed, he was not worried because he knew Wong would be a good king.",
+    "question": "43. The king said there is only one child who is _____ enough to be king.",
+    "options": {
+      "A": "wise",
+      "B": "strong",
+      "C": "honest",
+      "D": "popular"
+    },
+    "answer": "C",
+    "questionZh": "43. 國王說只有一個孩子_____到足以成為國王。",
+    "optionsZh": {
+      "A": "聰明",
+      "B": "強壯",
+      "C": "誠實",
+      "D": "受歡迎"
+    },
+    "skill": "文意推論",
+    "passRate": 0.72,
+    "difficulty": "easy"
+  }
+]
